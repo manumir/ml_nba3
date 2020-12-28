@@ -1,0 +1,1166 @@
+date,team,player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+December 22 2020,GSW,Andrew Wiggins,31:14,4,16,.250,2,6,.333,3,4,.750,0,2,2,1,0,1,4,4,13,-28
+December 22 2020,GSW,Stephen Curry,30:19,7,21,.333,2,10,.200,4,4,1.000,3,1,4,10,2,0,3,1,20,-23
+December 22 2020,GSW,Kelly Oubre,25:39,3,14,.214,0,6,.000,0,0,,4,3,7,2,1,2,3,1,6,-28
+December 22 2020,GSW,James Wiseman,24:17,7,13,.538,1,1,1.000,4,8,.500,1,5,6,0,2,0,1,2,19,-10
+December 22 2020,GSW,Eric Paschall,21:33,2,6,.333,1,1,1.000,1,2,.500,1,0,1,0,0,1,0,1,6,-28
+December 22 2020,GSW,Brad Wanamaker,21:40,0,2,.000,0,1,.000,3,4,.750,0,1,1,3,0,0,1,2,3,+1
+December 22 2020,GSW,Jordan Poole,17:55,1,4,.250,0,1,.000,0,0,,0,2,2,3,0,0,2,2,2,-3
+December 22 2020,GSW,Juan Toscano-Anderson,13:15,2,2,1.000,0,0,,0,0,,0,4,4,2,0,2,0,3,4,-9
+December 22 2020,GSW,Marquese Chriss,12:26,4,10,.400,1,3,.333,0,0,,3,5,8,1,0,0,0,2,9,-6
+December 22 2020,GSW,Damion Lee,12:14,1,2,.500,1,1,1.000,0,0,,1,6,7,2,0,0,0,0,3,+8
+December 22 2020,GSW,Kent Bazemore,11:35,1,2,.500,0,1,.000,0,0,,0,2,2,2,1,0,2,3,2,-3
+December 22 2020,GSW,Kevon Looney,11:17,2,4,.500,0,0,,0,1,.000,0,2,2,0,0,0,2,3,4,-10
+December 22 2020,GSW,Mychal Mulder,6:36,3,3,1.000,2,2,1.000,0,0,,0,1,1,0,0,0,0,0,8,+9
+December 22 2020,GSW,Team Totals,240,37,99,.374,10,33,.303,15,23,.652,13,34,47,26,6,6,18,24,99
+December 22 2020,BRK,Kyrie Irving,25:18,10,16,.625,4,7,.571,2,2,1.000,1,3,4,4,0,0,1,3,26,+32
+December 22 2020,BRK,Kevin Durant,24:56,7,16,.438,1,2,.500,7,7,1.000,1,4,5,3,3,1,1,3,22,+26
+December 22 2020,BRK,Joe Harris,20:46,4,8,.500,2,5,.400,0,0,,2,5,7,2,0,1,2,2,10,+21
+December 22 2020,BRK,Spencer Dinwiddie,19:57,2,6,.333,1,3,.333,4,4,1.000,0,5,5,4,0,0,3,1,9,+24
+December 22 2020,BRK,DeAndre Jordan,17:03,2,3,.667,0,0,,0,2,.000,2,9,11,1,1,1,3,2,4,+21
+December 22 2020,BRK,Caris LeVert,24:49,6,17,.353,3,5,.600,5,6,.833,1,8,9,5,2,1,2,1,20,+18
+December 22 2020,BRK,Landry Shamet,19:43,1,4,.250,1,4,.250,3,4,.750,0,1,1,0,1,0,2,3,6,+12
+December 22 2020,BRK,Jarrett Allen,19:37,2,3,.667,0,0,,4,5,.800,3,4,7,2,1,2,2,0,8,+12
+December 22 2020,BRK,Jeff Green,17:17,3,4,.750,1,2,.500,0,0,,0,0,0,1,1,0,1,3,7,+6
+December 22 2020,BRK,Taurean Prince,16:06,0,1,.000,0,1,.000,1,2,.500,0,1,1,0,1,1,0,1,1,+3
+December 22 2020,BRK,Reggie Perry,7:46,1,3,.333,0,1,.000,0,0,,1,1,2,1,0,0,0,0,2,-8
+December 22 2020,BRK,Bruce Brown,7:31,1,3,.333,0,1,.000,0,0,,0,1,1,1,0,0,2,1,2,-7
+December 22 2020,BRK,Timothé Luwawu-Cabarrot,6:36,2,6,.333,1,3,.333,0,0,,1,1,2,0,0,0,1,2,5,-9
+December 22 2020,BRK,Rodions Kurucs,6:36,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,-9
+December 22 2020,BRK,Tyler Johnson,5:59,0,1,.000,0,0,,0,0,,1,0,1,0,1,0,0,0,0,-12
+December 22 2020,BRK,Team Totals,240,42,92,.457,15,35,.429,26,32,.813,13,44,57,24,11,7,20,22,125
+December 22 2020,LAC,Paul George,35:46,13,18,.722,5,8,.625,2,2,1.000,0,6,6,3,1,0,5,3,33,+17
+December 22 2020,LAC,Kawhi Leonard,34:01,10,26,.385,1,8,.125,5,5,1.000,0,2,2,3,2,0,3,5,26,+1
+December 22 2020,LAC,Nicolas Batum,28:11,1,4,.250,1,3,.333,0,0,,1,5,6,6,2,0,1,2,3,-2
+December 22 2020,LAC,Patrick Beverley,22:07,4,9,.444,2,5,.400,0,0,,4,2,6,3,0,0,2,4,10,+10
+December 22 2020,LAC,Serge Ibaka,20:33,5,7,.714,2,3,.667,3,5,.600,2,4,6,0,0,1,1,3,15,-8
+December 22 2020,LAC,Ivica Zubac,26:31,4,5,.800,0,0,,3,4,.750,3,3,6,1,1,1,1,4,11,+17
+December 22 2020,LAC,Lou Williams,25:58,4,9,.444,2,4,.500,1,3,.333,0,2,2,3,0,0,1,2,11,+1
+December 22 2020,LAC,Luke Kennard,21:03,2,6,.333,0,3,.000,0,0,,0,2,2,2,2,1,1,3,4,-3
+December 22 2020,LAC,Patrick Patterson,19:36,1,5,.200,1,4,.250,0,0,,1,2,3,1,2,0,1,2,3,+9
+December 22 2020,LAC,Reggie Jackson,3:21,0,3,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,1,0,-1
+December 22 2020,LAC,Terance Mann,1:01,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2
+December 22 2020,LAC,Mfiondu Kabengele,0:56,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2
+December 22 2020,LAC,Amir Coffey,0:56,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2
+December 22 2020,LAC,Daniel Oturu,Did Not Play
+December 22 2020,LAC,Team Totals,240,44,93,.473,14,40,.350,14,19,.737,11,29,40,22,10,3,16,29,116
+December 22 2020,LAL,Anthony Davis,30:53,8,15,.533,0,2,.000,2,2,1.000,0,7,7,2,0,0,4,1,18,-16
+December 22 2020,LAL,LeBron James,28:21,7,17,.412,3,8,.375,5,7,.714,2,3,5,5,0,0,4,2,22,+2
+December 22 2020,LAL,Dennis Schröder,27:48,5,15,.333,2,5,.400,2,4,.500,1,11,12,8,0,0,1,4,14,-10
+December 22 2020,LAL,Kentavious Caldwell-Pope,23:03,2,4,.500,1,3,.333,4,4,1.000,0,2,2,1,2,1,2,2,9,-9
+December 22 2020,LAL,Marc Gasol,12:02,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,5,0,-8
+December 22 2020,LAL,Montrezl Harrell,32:15,6,7,.857,0,0,,5,7,.714,4,6,10,3,0,1,1,1,17,-3
+December 22 2020,LAL,Kyle Kuzma,26:38,6,11,.545,1,3,.333,2,2,1.000,0,1,1,0,0,0,2,2,15,+1
+December 22 2020,LAL,Markieff Morris,19:00,1,3,.333,1,2,.500,2,3,.667,1,3,4,1,0,0,0,0,5,+14
+December 22 2020,LAL,Alex Caruso,16:40,1,5,.200,1,4,.250,0,0,,0,2,2,1,0,0,3,0,3,+3
+December 22 2020,LAL,Wesley Matthews,11:06,0,2,.000,0,2,.000,0,0,,0,0,0,0,1,0,0,0,0,-18
+December 22 2020,LAL,Talen Horton-Tucker,10:51,2,2,1.000,0,0,,2,2,1.000,0,1,1,0,1,0,1,3,6,+7
+December 22 2020,LAL,Quinn Cook,1:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+2
+December 22 2020,LAL,Jared Dudley,Did Not Play
+December 22 2020,LAL,Alfonzo McKinnie,Did Not Play
+December 22 2020,LAL,Team Totals,240,38,81,.469,9,29,.310,24,31,.774,8,37,45,22,4,2,19,20,109
+December 23 2020,CHO,Terry Rozier,37:31,15,23,.652,10,16,.625,2,4,.500,1,2,3,2,2,1,3,5,42,-4
+December 23 2020,CHO,Devonte' Graham,37:07,4,13,.308,2,9,.222,0,0,,2,1,3,10,0,0,2,1,10,-7
+December 23 2020,CHO,Gordon Hayward,36:13,11,18,.611,4,8,.500,2,2,1.000,0,4,4,7,1,0,3,4,28,-2
+December 23 2020,CHO,P.J. Washington,21:23,1,5,.200,0,1,.000,2,2,1.000,0,2,2,2,0,1,0,1,4,-17
+December 23 2020,CHO,Cody Zeller,18:57,3,6,.500,0,2,.000,0,1,.000,1,2,3,0,3,1,1,1,6,-10
+December 23 2020,CHO,Bismack Biyombo,24:21,5,5,1.000,0,0,,1,5,.200,1,3,4,0,0,1,2,1,11,0
+December 23 2020,CHO,Miles Bridges,22:05,3,10,.300,0,5,.000,0,0,,1,5,6,1,1,0,0,1,6,+6
+December 23 2020,CHO,Cody Martin,21:01,2,3,.667,0,0,,1,1,1.000,1,4,5,4,0,0,0,1,5,+2
+December 23 2020,CHO,LaMelo Ball,15:48,0,5,.000,0,3,.000,0,0,,0,1,1,3,2,0,3,2,0,+2
+December 23 2020,CHO,Jalen McDaniels,5:34,1,2,.500,0,0,,0,0,,1,0,1,0,1,0,1,0,2,-5
+December 23 2020,CHO,Malik Monk,Did Not Play
+December 23 2020,CHO,Vernon Carey,Did Not Play
+December 23 2020,CHO,Nick Richards,Did Not Play
+December 23 2020,CHO,Caleb Martin,Did Not Play
+December 23 2020,CHO,Team Totals,240,45,90,.500,16,44,.364,8,15,.533,8,24,32,29,10,4,15,17,114
+December 23 2020,CLE,Collin Sexton,37:05,9,16,.563,3,4,.750,6,9,.667,0,2,2,5,0,0,2,4,27,+6
+December 23 2020,CLE,Larry Nance,33:34,5,9,.556,1,1,1.000,2,2,1.000,5,8,13,8,3,2,2,4,13,+3
+December 23 2020,CLE,Isaac Okoro,33:32,4,5,.800,1,2,.500,2,2,1.000,0,3,3,5,0,0,2,1,11,+7
+December 23 2020,CLE,Darius Garland,32:33,7,13,.538,4,8,.500,4,4,1.000,0,6,6,6,1,0,2,3,22,+4
+December 23 2020,CLE,Andre Drummond,27:13,7,18,.389,0,1,.000,0,0,,3,11,14,4,1,0,5,2,14,-5
+December 23 2020,CLE,JaVale McGee,19:12,6,7,.857,0,1,.000,1,1,1.000,1,6,7,1,1,1,1,3,13,+12
+December 23 2020,CLE,Cedi Osman,17:57,4,9,.444,3,6,.500,0,0,,1,3,4,2,0,0,1,2,11,-4
+December 23 2020,CLE,Dean Wade,15:52,3,4,.750,1,2,.500,0,0,,0,0,0,3,3,0,2,3,7,+2
+December 23 2020,CLE,Damyean Dotson,13:32,0,1,.000,0,1,.000,0,0,,0,1,1,0,1,0,0,0,0,+14
+December 23 2020,CLE,Dylan Windler,9:29,1,5,.200,1,4,.250,0,0,,0,0,0,0,2,0,1,0,3,-4
+December 23 2020,CLE,Marques Bolden,0:01,0,0,,0,0,,0,2,.000,0,0,0,0,0,0,0,0,0,0
+December 23 2020,CLE,Thon Maker,Did Not Play
+December 23 2020,CLE,Lamar Stevens,Did Not Play
+December 23 2020,CLE,Team Totals,240,46,87,.529,14,30,.467,15,20,.750,10,40,50,34,12,3,18,22,121
+December 23 2020,NYK,Julius Randle,35:28,7,15,.467,0,2,.000,3,4,.750,1,8,9,9,0,0,5,5,17,-5
+December 23 2020,NYK,RJ Barrett,34:22,11,15,.733,3,3,1.000,1,2,.500,0,8,8,5,0,0,1,3,26,-10
+December 23 2020,NYK,Reggie Bullock,25:38,4,10,.400,3,8,.375,0,0,,0,1,1,2,1,0,0,3,11,-16
+December 23 2020,NYK,Elfrid Payton,22:10,3,7,.429,1,1,1.000,0,0,,1,1,2,3,1,0,5,3,7,-15
+December 23 2020,NYK,Mitchell Robinson,21:10,1,2,.500,0,0,,1,2,.500,2,4,6,0,0,3,0,3,3,-17
+December 23 2020,NYK,Alec Burks,31:40,6,12,.500,2,4,.500,8,9,.889,0,4,4,3,1,1,1,3,22,+4
+December 23 2020,NYK,Obi Toppin,23:33,3,12,.250,3,7,.429,0,0,,0,3,3,1,0,2,0,0,9,-4
+December 23 2020,NYK,Kevin Knox,18:29,2,5,.400,0,1,.000,0,1,.000,0,3,3,0,2,1,2,3,4,-6
+December 23 2020,NYK,Immanuel Quickley,12:26,1,3,.333,0,1,.000,3,3,1.000,0,1,1,1,1,0,0,0,5,+5
+December 23 2020,NYK,Nerlens Noel,9:22,1,2,.500,0,0,,0,0,,1,2,3,1,1,1,2,3,2,0
+December 23 2020,NYK,Frank Ntilikina,4:47,0,2,.000,0,1,.000,1,2,.500,0,0,0,0,1,0,0,1,1,-5
+December 23 2020,NYK,Theo Pinson,0:55,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1
+December 23 2020,NYK,Dennis Smith,Did Not Play
+December 23 2020,NYK,Ignas Brazdeikis,Did Not Play
+December 23 2020,NYK,Jared Harper,Did Not Play
+December 23 2020,NYK,Team Totals,240,39,85,.459,12,28,.429,17,23,.739,5,35,40,25,8,8,16,27,107
+December 23 2020,IND,Domantas Sabonis,36:48,11,18,.611,2,4,.500,8,12,.667,4,9,13,5,1,0,4,5,32,+12
+December 23 2020,IND,Malcolm Brogdon,34:51,8,16,.500,2,4,.500,3,3,1.000,2,5,7,8,2,0,1,2,21,0
+December 23 2020,IND,Myles Turner,28:48,4,9,.444,0,4,.000,2,2,1.000,1,7,8,1,0,8,2,1,10,+20
+December 23 2020,IND,Victor Oladipo,28:16,9,14,.643,2,5,.400,2,3,.667,0,4,4,4,1,0,1,3,22,+5
+December 23 2020,IND,T.J. Warren,22:58,2,8,.250,0,2,.000,1,1,1.000,0,1,1,1,0,0,0,2,5,+6
+December 23 2020,IND,Doug McDermott,28:17,5,12,.417,0,6,.000,3,4,.750,1,5,6,2,1,0,1,2,13,+6
+December 23 2020,IND,Justin Holiday,22:23,2,6,.333,1,5,.200,1,2,.500,0,4,4,0,0,1,1,2,6,-1
+December 23 2020,IND,T.J. McConnell,20:20,2,3,.667,0,0,,1,2,.500,1,3,4,5,1,0,1,4,5,+17
+December 23 2020,IND,Aaron Holiday,17:19,3,8,.375,1,4,.250,0,0,,1,2,3,2,0,0,2,3,7,+5
+December 23 2020,IND,JaKarr Sampson,Did Not Play
+December 23 2020,IND,Kelan Martin,Did Not Play
+December 23 2020,IND,Jalen Lecque,Did Not Play
+December 23 2020,IND,Edmond Sumner,Did Not Play
+December 23 2020,IND,Cassius Stanley,Did Not Play
+December 23 2020,IND,Team Totals,240,46,94,.489,8,34,.235,21,29,.724,10,40,50,28,6,9,13,24,121
+December 23 2020,MIA,Jimmy Butler,35:42,7,15,.467,0,0,,5,5,1.000,1,2,3,7,7,0,6,1,19,-5
+December 23 2020,MIA,Bam Adebayo,34:41,11,16,.688,0,0,,3,4,.750,3,8,11,4,0,1,7,4,25,-12
+December 23 2020,MIA,Tyler Herro,32:06,6,14,.429,1,5,.200,0,0,,0,6,6,4,0,0,4,3,13,-7
+December 23 2020,MIA,Duncan Robinson,30:20,4,8,.500,3,6,.500,3,3,1.000,0,5,5,1,0,0,1,2,14,-5
+December 23 2020,MIA,Maurice Harkless,22:43,1,4,.250,1,2,.500,0,0,,0,2,2,1,0,0,0,0,3,-4
+December 23 2020,MIA,Goran Dragić,25:58,8,13,.615,1,4,.250,3,3,1.000,0,4,4,7,1,0,1,4,20,+7
+December 23 2020,MIA,Kelly Olynyk,19:59,2,6,.333,1,3,.333,0,0,,0,3,3,1,2,0,0,2,5,-3
+December 23 2020,MIA,Andre Iguodala,16:50,0,2,.000,0,0,,0,0,,2,2,4,0,1,1,3,3,0,-3
+December 23 2020,MIA,Precious Achiuwa,13:39,3,4,.750,0,0,,2,4,.500,1,2,3,0,0,0,0,2,8,+6
+December 23 2020,MIA,Kendrick Nunn,8:02,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,0,0,-4
+December 23 2020,MIA,Chris Silva,Did Not Play
+December 23 2020,MIA,Udonis Haslem,Did Not Play
+December 23 2020,MIA,Meyers Leonard,Did Not Play
+December 23 2020,MIA,KZ Okpala,Did Not Play
+December 23 2020,MIA,Avery Bradley,Did Not Play
+December 23 2020,MIA,Team Totals,240,42,83,.506,7,20,.350,16,19,.842,7,36,43,25,11,2,22,21,107
+December 23 2020,ORL,Nikola Vučević,33:33,5,13,.385,3,5,.600,2,8,.250,2,9,11,3,1,1,2,0,15,0
+December 23 2020,ORL,Evan Fournier,30:43,9,13,.692,3,5,.600,4,5,.800,0,0,0,4,3,0,2,2,25,0
+December 23 2020,ORL,Markelle Fultz,28:49,6,15,.400,0,3,.000,3,3,1.000,0,5,5,4,1,1,4,4,15,+3
+December 23 2020,ORL,Aaron Gordon,26:00,8,11,.727,1,4,.250,3,6,.500,3,4,7,0,4,0,2,4,20,+17
+December 23 2020,ORL,Dwayne Bacon,18:59,0,5,.000,0,1,.000,0,0,,0,3,3,3,0,0,0,2,0,0
+December 23 2020,ORL,Terrence Ross,28:33,6,14,.429,3,6,.500,4,4,1.000,0,3,3,1,1,0,3,1,19,+9
+December 23 2020,ORL,Chuma Okeke,22:00,1,3,.333,0,1,.000,1,2,.500,2,3,5,2,1,0,1,0,3,-11
+December 23 2020,ORL,Cole Anthony,19:11,3,5,.600,0,1,.000,0,0,,0,2,2,6,2,0,3,1,6,+3
+December 23 2020,ORL,Michael Carter-Williams,17:45,2,5,.400,0,2,.000,0,0,,3,0,3,0,1,1,0,2,4,+3
+December 23 2020,ORL,Khem Birch,14:27,2,4,.500,0,0,,2,2,1.000,1,1,2,0,1,0,0,3,6,+6
+December 23 2020,ORL,Gary Clark,Did Not Play
+December 23 2020,ORL,Jordan Bone,Did Not Play
+December 23 2020,ORL,Mohamed Bamba,Did Not Play
+December 23 2020,ORL,Karim Mané,Did Not Play
+December 23 2020,ORL,Team Totals,240,42,88,.477,10,28,.357,19,30,.633,11,30,41,23,15,3,17,19,113
+December 23 2020,WAS,Russell Westbrook,36:18,9,22,.409,0,2,.000,3,5,.600,2,9,11,15,0,0,6,3,21,+10
+December 23 2020,WAS,Bradley Beal,35:44,11,22,.500,3,8,.375,6,7,.857,0,2,2,3,4,0,6,3,31,+6
+December 23 2020,WAS,Deni Avdija,28:06,2,2,1.000,2,2,1.000,1,2,.500,0,4,4,1,1,0,1,3,7,+14
+December 23 2020,WAS,Thomas Bryant,25:33,5,13,.385,0,3,.000,0,1,.000,1,4,5,0,0,1,2,5,10,+2
+December 23 2020,WAS,Isaac Bonga,16:43,2,3,.667,1,1,1.000,0,1,.000,1,2,3,2,2,0,1,2,5,+7
+December 23 2020,WAS,Ish Smith,22:53,2,7,.286,1,2,.500,2,2,1.000,0,4,4,3,0,1,1,1,7,-21
+December 23 2020,WAS,Troy Brown,22:26,1,3,.333,1,2,.500,0,0,,0,3,3,1,0,0,0,2,3,-23
+December 23 2020,WAS,Dāvis Bertāns,20:08,4,7,.571,4,6,.667,2,2,1.000,0,3,3,1,0,1,0,0,14,-3
+December 23 2020,WAS,Robin Lopez,16:32,1,3,.333,1,1,1.000,0,0,,1,2,3,0,0,1,2,4,3,-16
+December 23 2020,WAS,Raul Neto,9:42,0,1,.000,0,0,,2,3,.667,0,0,0,1,0,0,0,0,2,-14
+December 23 2020,WAS,Moritz Wagner,5:55,2,2,1.000,0,0,,0,0,,0,2,2,1,0,0,0,3,4,+8
+December 23 2020,WAS,Anžejs Pasečņiks,Did Not Play
+December 23 2020,WAS,Jerome Robinson,Did Not Play
+December 23 2020,WAS,Anthony Gill,Did Not Play
+December 23 2020,WAS,Team Totals,240,39,85,.459,13,27,.481,16,23,.696,5,35,40,28,7,4,19,26,107
+December 23 2020,PHI,Joel Embiid,34:50,10,17,.588,1,1,1.000,8,9,.889,2,12,14,2,0,1,3,3,29,-2
+December 23 2020,PHI,Ben Simmons,32:25,7,12,.583,0,0,,2,6,.333,1,8,9,7,2,3,4,3,16,-2
+December 23 2020,PHI,Seth Curry,32:16,4,8,.500,1,5,.200,4,4,1.000,0,0,0,4,2,0,1,4,13,-1
+December 23 2020,PHI,Tobias Harris,31:08,3,13,.231,0,4,.000,4,4,1.000,4,4,8,0,0,1,2,4,10,-7
+December 23 2020,PHI,Danny Green,18:16,1,6,.167,0,4,.000,0,0,,0,0,0,2,2,0,1,2,2,-27
+December 23 2020,PHI,Shake Milton,29:44,6,11,.545,2,4,.500,5,7,.714,0,1,1,3,3,0,0,3,19,+33
+December 23 2020,PHI,Furkan Korkmaz,20:11,4,9,.444,3,6,.500,0,0,,0,1,1,0,1,2,2,1,11,+14
+December 23 2020,PHI,Mike Scott,16:52,1,3,.333,1,3,.333,0,0,,0,2,2,0,1,0,0,1,3,+13
+December 23 2020,PHI,Dwight Howard,13:10,2,2,1.000,0,0,,0,0,,3,7,10,2,0,1,2,3,4,+8
+December 23 2020,PHI,Tyrese Maxey,10:51,3,6,.500,0,1,.000,0,0,,0,2,2,2,0,0,1,0,6,+3
+December 23 2020,PHI,Matisse Thybulle,0:17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-2
+December 23 2020,PHI,Terrance Ferguson,Did Not Play
+December 23 2020,PHI,Tony Bradley,Did Not Play
+December 23 2020,PHI,Dakota Mathias,Did Not Play
+December 23 2020,PHI,Isaiah Joe,Did Not Play
+December 23 2020,PHI,Team Totals,240,41,87,.471,8,28,.286,23,30,.767,10,37,47,22,11,8,16,25,113
+December 23 2020,NOP,Brandon Ingram,37:20,10,19,.526,3,6,.500,1,2,.500,0,9,9,11,3,1,3,2,24,+17
+December 23 2020,NOP,Eric Bledsoe,34:27,6,12,.500,4,8,.500,2,4,.500,0,2,2,6,1,1,4,1,18,+4
+December 23 2020,NOP,Steven Adams,30:37,4,6,.667,0,0,,0,0,,2,6,8,3,4,2,0,1,8,+16
+December 23 2020,NOP,Zion Williamson,29:34,7,9,.778,0,0,,1,4,.250,4,6,10,3,1,1,6,3,15,+6
+December 23 2020,NOP,Lonzo Ball,28:48,4,9,.444,4,8,.500,4,6,.667,1,4,5,2,1,2,5,3,16,+16
+December 23 2020,NOP,J.J. Redick,28:52,8,14,.571,6,11,.545,1,1,1.000,0,3,3,1,0,0,1,4,23,+10
+December 23 2020,NOP,Josh Hart,26:41,2,5,.400,1,4,.250,1,3,.333,1,4,5,1,2,0,2,2,6,+8
+December 23 2020,NOP,Nicolò Melli,13:31,0,4,.000,0,3,.000,0,0,,0,2,2,2,1,0,1,0,0,-6
+December 23 2020,NOP,Jaxson Hayes,6:17,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,1,0,+1
+December 23 2020,NOP,Nickeil Alexander-Walker,3:53,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,0,1,0,3,-2
+December 23 2020,NOP,Willy Hernangómez,Did Not Play
+December 23 2020,NOP,Kira Lewis,Did Not Play
+December 23 2020,NOP,Naji Marshall,Did Not Play
+December 23 2020,NOP,Sindarius Thornwell,Did Not Play
+December 23 2020,NOP,Team Totals,240,42,80,.525,19,42,.452,10,20,.500,8,37,45,30,13,7,24,17,113
+December 23 2020,TOR,Pascal Siakam,38:41,8,17,.471,3,7,.429,1,2,.500,0,6,6,6,0,0,4,1,20,-15
+December 23 2020,TOR,Kyle Lowry,38:34,7,15,.467,4,9,.444,0,0,,1,0,1,10,1,0,6,3,18,-1
+December 23 2020,TOR,OG Anunoby,36:13,4,10,.400,0,5,.000,0,0,,2,6,8,2,3,2,4,4,8,-14
+December 23 2020,TOR,Fred VanVleet,29:36,3,12,.250,2,8,.250,1,2,.500,1,2,3,3,3,0,1,4,9,-18
+December 23 2020,TOR,Aron Baynes,28:06,5,9,.556,1,4,.250,0,0,,1,8,9,0,0,0,1,2,11,-17
+December 23 2020,TOR,Norman Powell,23:09,2,11,.182,1,6,.167,7,8,.875,0,1,1,1,1,0,0,4,12,-13
+December 23 2020,TOR,Matt Thomas,20:17,3,6,.500,3,5,.600,0,0,,0,2,2,4,2,0,0,2,9,-1
+December 23 2020,TOR,Chris Boucher,14:47,6,8,.750,0,1,.000,0,0,,2,3,5,0,0,2,2,2,12,+2
+December 23 2020,TOR,DeAndre' Bembry,5:30,0,0,,0,0,,0,0,,0,0,0,0,0,1,1,0,0,+4
+December 23 2020,TOR,Terence Davis,2:35,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1
+December 23 2020,TOR,Stanley Johnson,1:16,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+2
+December 23 2020,TOR,Malachi Flynn,1:16,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,+2
+December 23 2020,TOR,Paul Watson,Did Not Play
+December 23 2020,TOR,Yuta Watanabe,Did Not Play
+December 23 2020,TOR,Alex Len,Did Not Play
+December 23 2020,TOR,Team Totals,240,38,89,.427,14,46,.304,9,12,.750,7,28,35,26,10,5,20,22,99
+December 23 2020,MIL,Jrue Holiday,38:23,10,16,.625,1,4,.250,4,4,1.000,2,4,6,3,2,1,3,3,25,-5
+December 23 2020,MIL,Khris Middleton,37:33,10,20,.500,3,8,.375,4,4,1.000,2,12,14,8,0,0,2,2,27,+7
+December 23 2020,MIL,Giannis Antetokounmpo,36:24,13,26,.500,3,8,.375,6,8,.750,2,11,13,2,0,2,7,5,35,-1
+December 23 2020,MIL,Brook Lopez,29:05,3,4,.750,1,2,.500,0,0,,2,1,3,0,0,2,0,3,7,+22
+December 23 2020,MIL,Donte DiVincenzo,27:13,6,11,.545,3,4,.750,0,0,,2,3,5,3,2,0,1,3,15,+4
+December 23 2020,MIL,Pat Connaughton,23:08,2,3,.667,2,3,.667,0,0,,0,1,1,1,0,0,1,1,6,-14
+December 23 2020,MIL,Bobby Portis,16:22,1,3,.333,0,0,,1,2,.500,1,3,4,1,0,0,1,0,3,-16
+December 23 2020,MIL,Bryn Forbes,13:31,1,5,.200,1,4,.250,0,0,,0,1,1,0,0,0,0,1,3,+4
+December 23 2020,MIL,D.J. Wilson,12:53,0,2,.000,0,2,.000,0,0,,0,5,5,1,0,1,1,2,0,-6
+December 23 2020,MIL,Sam Merrill,5:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+December 23 2020,MIL,Jaylen Adams,Did Not Play
+December 23 2020,MIL,Thanasis Antetokounmpo,Did Not Play
+December 23 2020,MIL,Jordan Nwora,Did Not Play
+December 23 2020,MIL,Mamadi Diakite,Did Not Play
+December 23 2020,MIL,Torrey Craig,Did Not Play
+December 23 2020,MIL,Team Totals,240,46,90,.511,14,35,.400,15,18,.833,11,41,52,19,4,6,16,20,121
+December 23 2020,BOS,Marcus Smart,38:27,0,3,.000,0,2,.000,3,4,.750,0,1,1,7,0,2,2,2,3,0
+December 23 2020,BOS,Jaylen Brown,37:38,13,24,.542,3,8,.375,4,4,1.000,0,5,5,4,2,1,0,3,33,+8
+December 23 2020,BOS,Jayson Tatum,32:49,12,28,.429,6,13,.462,0,0,,0,7,7,2,2,1,2,2,30,-6
+December 23 2020,BOS,Daniel Theis,24:40,4,8,.500,2,6,.333,0,0,,0,3,3,3,0,0,0,1,10,+7
+December 23 2020,BOS,Tristan Thompson,22:24,6,10,.600,0,0,,0,0,,4,4,8,1,0,0,0,3,12,-6
+December 23 2020,BOS,Jeff Teague,25:00,7,15,.467,4,4,1.000,1,2,.500,2,1,3,4,2,1,0,1,19,+8
+December 23 2020,BOS,Semi Ojeleye,18:59,2,2,1.000,1,1,1.000,0,1,.000,1,3,4,1,0,0,0,1,5,+20
+December 23 2020,BOS,Grant Williams,14:35,1,5,.200,1,4,.250,0,0,,0,1,1,1,1,0,1,2,3,-19
+December 23 2020,BOS,Payton Pritchard,13:00,1,4,.250,1,2,.500,0,0,,0,1,1,0,1,0,0,1,3,-2
+December 23 2020,BOS,Robert Williams,12:28,2,2,1.000,0,0,,0,0,,3,1,4,0,0,1,1,1,4,-5
+December 23 2020,BOS,Carsen Edwards,Did Not Play
+December 23 2020,BOS,Javonte Green,Did Not Play
+December 23 2020,BOS,Aaron Nesmith,Did Not Play
+December 23 2020,BOS,Tremont Waters,Did Not Play
+December 23 2020,BOS,Team Totals,240,48,101,.475,18,40,.450,8,11,.727,10,27,37,23,8,6,6,17,122
+December 23 2020,ATL,Trae Young,25:58,10,12,.833,5,6,.833,12,14,.857,2,4,6,7,0,0,4,1,37,+30
+December 23 2020,ATL,De'Andre Hunter,25:54,5,6,.833,1,1,1.000,0,0,,0,3,3,1,0,0,2,3,11,+40
+December 23 2020,ATL,Danilo Gallinari,24:26,4,6,.667,1,2,.500,4,4,1.000,0,4,4,3,0,0,3,2,13,+31
+December 23 2020,ATL,Cam Reddish,23:46,6,11,.545,1,3,.333,2,2,1.000,1,5,6,0,2,0,1,3,15,+27
+December 23 2020,ATL,John Collins,18:03,6,10,.600,0,2,.000,2,2,1.000,0,4,4,2,0,2,0,4,14,+21
+December 23 2020,ATL,Solomon Hill,28:24,0,3,.000,0,3,.000,0,0,,0,3,3,0,0,1,3,2,0,-8
+December 23 2020,ATL,Kevin Huerter,27:03,4,10,.400,2,6,.333,1,2,.500,0,2,2,4,1,0,0,2,11,0
+December 23 2020,ATL,Bogdan Bogdanović,24:56,5,12,.417,3,8,.375,2,3,.667,0,7,7,2,1,0,2,2,15,0
+December 23 2020,ATL,Bruno Fernando,18:08,2,3,.667,0,0,,1,2,.500,3,4,7,1,2,0,3,3,5,-1
+December 23 2020,ATL,Brandon Goodwin,13:14,1,4,.250,1,3,.333,0,0,,0,1,1,4,0,0,1,4,3,-16
+December 23 2020,ATL,Skylar Mays,5:04,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-12
+December 23 2020,ATL,Nathan Knight,5:04,0,2,.000,0,0,,0,0,,2,1,3,0,0,0,2,2,0,-12
+December 23 2020,ATL,Team Totals,240,43,80,.538,14,35,.400,24,29,.828,8,38,46,24,6,3,21,29,124
+December 23 2020,CHI,Patrick Williams,33:03,5,11,.455,1,3,.333,5,6,.833,0,4,4,1,1,1,0,2,16,-23
+December 23 2020,CHI,Coby White,30:28,2,11,.182,1,7,.143,4,4,1.000,0,2,2,7,2,0,3,2,9,-13
+December 23 2020,CHI,Lauri Markkanen,30:12,6,9,.667,4,6,.667,5,5,1.000,1,6,7,4,2,0,2,1,21,-34
+December 23 2020,CHI,Wendell Carter,25:46,2,5,.400,0,2,.000,2,2,1.000,1,5,6,2,0,0,3,3,6,-13
+December 23 2020,CHI,Zach LaVine,25:18,9,19,.474,1,8,.125,3,3,1.000,1,1,2,1,1,0,5,5,22,-26
+December 23 2020,CHI,Otto Porter,23:22,5,10,.500,0,2,.000,4,4,1.000,3,2,5,1,2,0,1,2,14,-9
+December 23 2020,CHI,Ryan Arcidiacono,19:35,2,6,.333,1,4,.250,0,0,,0,3,3,2,1,0,0,2,5,+6
+December 23 2020,CHI,Chandler Hutchison,18:35,1,6,.167,0,0,,0,0,,1,4,5,0,0,0,1,3,2,+4
+December 23 2020,CHI,Daniel Gafford,16:54,2,4,.500,0,0,,1,4,.250,0,1,1,0,0,1,0,1,5,+2
+December 23 2020,CHI,Adam Mokoka,16:47,2,6,.333,0,3,.000,0,0,,1,1,2,2,1,1,0,1,4,+6
+December 23 2020,CHI,Denzel Valentine,Did Not Play
+December 23 2020,CHI,Garrett Temple,Did Not Play
+December 23 2020,CHI,Tomáš Satoranský,Did Not Play
+December 23 2020,CHI,Cristiano Felício,Did Not Play
+December 23 2020,CHI,Luke Kornet,Did Not Play
+December 23 2020,CHI,Team Totals,240,36,87,.414,8,35,.229,24,28,.857,8,29,37,20,10,3,15,22,104
+December 23 2020,SAS,DeMar DeRozan,34:53,7,14,.500,0,0,,14,15,.933,2,7,9,9,1,1,1,1,28,-1
+December 23 2020,SAS,Lonnie Walker,34:23,6,9,.667,3,4,.750,1,1,1.000,1,5,6,2,1,1,1,3,16,0
+December 23 2020,SAS,Keldon Johnson,32:01,5,10,.500,1,3,.333,5,7,.714,0,5,5,3,3,0,2,1,16,+3
+December 23 2020,SAS,Dejounte Murray,30:39,9,15,.600,1,3,.333,2,2,1.000,0,6,6,9,2,0,3,3,21,+6
+December 23 2020,SAS,LaMarcus Aldridge,28:46,9,17,.529,1,4,.250,1,1,1.000,0,3,3,1,0,1,2,3,20,-2
+December 23 2020,SAS,Rudy Gay,21:06,4,9,.444,1,5,.200,1,2,.500,0,7,7,1,0,3,1,1,10,+14
+December 23 2020,SAS,Devin Vassell,19:40,1,4,.250,1,2,.500,0,0,,1,2,3,0,0,1,0,1,3,+13
+December 23 2020,SAS,Patty Mills,19:18,5,11,.455,2,4,.500,1,1,1.000,0,2,2,2,0,0,0,4,13,+13
+December 23 2020,SAS,Jakob Poeltl,19:14,2,6,.333,0,0,,0,0,,4,3,7,1,1,1,0,1,4,+14
+December 23 2020,SAS,Trey Lyles,Did Not Play
+December 23 2020,SAS,Drew Eubanks,Did Not Play
+December 23 2020,SAS,Luka Šamanić,Did Not Play
+December 23 2020,SAS,Tre Jones,Did Not Play
+December 23 2020,SAS,Keita Bates-Diop,Did Not Play
+December 23 2020,SAS,Team Totals,240,48,95,.505,10,25,.400,25,29,.862,8,40,48,28,8,8,10,18,131
+December 23 2020,MEM,Ja Morant,35:10,18,27,.667,1,2,.500,7,8,.875,0,2,2,9,2,1,1,1,44,+10
+December 23 2020,MEM,Dillon Brooks,33:13,7,14,.500,1,3,.333,1,1,1.000,1,3,4,6,2,0,2,6,16,-10
+December 23 2020,MEM,Jonas Valančiūnas,29:33,6,11,.545,1,1,1.000,2,6,.333,3,10,13,2,1,1,1,4,15,-4
+December 23 2020,MEM,Kyle Anderson,28:50,3,8,.375,1,3,.333,0,0,,0,10,10,2,0,0,2,3,7,-6
+December 23 2020,MEM,Grayson Allen,26:57,2,7,.286,2,6,.333,0,0,,0,2,2,5,0,1,0,1,6,-3
+December 23 2020,MEM,Brandon Clarke,25:51,5,9,.556,0,2,.000,0,1,.000,0,3,3,0,0,1,1,1,10,-8
+December 23 2020,MEM,De'Anthony Melton,24:32,1,6,.167,1,3,.333,0,0,,0,2,2,1,0,2,0,1,3,-7
+December 23 2020,MEM,Tyus Jones,13:35,3,5,.600,0,1,.000,1,2,.500,0,1,1,1,0,0,2,0,7,-20
+December 23 2020,MEM,Gorgui Dieng,11:46,2,3,.667,1,2,.500,0,0,,0,1,1,1,1,2,1,2,5,-6
+December 23 2020,MEM,Desmond Bane,10:33,2,5,.400,2,4,.500,0,0,,1,3,4,0,0,0,1,1,6,-6
+December 23 2020,MEM,Sean McDermott,Did Not Play
+December 23 2020,MEM,John Konchar,Did Not Play
+December 23 2020,MEM,Team Totals,240,49,95,.516,10,27,.370,11,18,.611,5,37,42,27,6,8,11,20,119
+December 23 2020,DET,Blake Griffin,35:00,6,13,.462,0,5,.000,3,5,.600,0,7,7,2,0,0,2,2,15,-15
+December 23 2020,DET,Mason Plumlee,32:12,7,8,.875,0,0,,0,0,,1,7,8,6,0,0,0,4,14,-9
+December 23 2020,DET,Jerami Grant,31:25,4,11,.364,1,5,.200,0,0,,0,1,1,3,1,1,0,0,9,-14
+December 23 2020,DET,Killian Hayes,21:12,3,6,.500,1,2,.500,0,0,,0,1,1,3,0,0,4,2,7,-3
+December 23 2020,DET,Delon Wright,19:09,2,5,.400,1,3,.333,0,0,,0,2,2,4,1,0,1,0,5,+3
+December 23 2020,DET,Josh Jackson,28:51,8,14,.571,3,7,.429,0,0,,0,6,6,2,1,0,2,5,19,-13
+December 23 2020,DET,Derrick Rose,26:48,7,13,.538,1,3,.333,0,2,.000,0,1,1,6,2,1,1,1,15,-7
+December 23 2020,DET,Sviatoslav Mykhailiuk,16:35,1,8,.125,1,8,.125,0,0,,0,2,2,1,0,0,0,1,3,+4
+December 23 2020,DET,Jahlil Okafor,15:18,4,7,.571,0,0,,0,0,,4,3,7,1,0,0,2,4,8,-1
+December 23 2020,DET,Sekou Doumbouya,13:30,3,8,.375,0,2,.000,0,1,.000,2,7,9,1,0,0,0,1,6,+5
+December 23 2020,DET,Wayne Ellington,Did Not Play
+December 23 2020,DET,Isaiah Stewart,Did Not Play
+December 23 2020,DET,Saddiq Bey,Did Not Play
+December 23 2020,DET,Rodney McGruder,Did Not Play
+December 23 2020,DET,Saben Lee,Did Not Play
+December 23 2020,DET,Team Totals,240,45,93,.484,8,35,.229,3,8,.375,7,37,44,29,5,2,12,20,101
+December 23 2020,MIN,Josh Okogie,32:33,4,9,.444,1,4,.250,3,3,1.000,1,3,4,2,0,0,2,3,12,+17
+December 23 2020,MIN,Karl-Anthony Towns,30:26,6,10,.600,2,4,.500,8,8,1.000,3,8,11,7,1,2,4,4,22,+11
+December 23 2020,MIN,Malik Beasley,26:37,10,18,.556,3,9,.333,0,0,,1,3,4,2,1,0,1,3,23,+12
+December 23 2020,MIN,Ricky Rubio,25:25,1,4,.250,0,1,.000,1,2,.500,0,1,1,3,2,0,1,3,3,+17
+December 23 2020,MIN,Jake Layman,16:33,0,3,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-15
+December 23 2020,MIN,D'Angelo Russell,33:20,7,16,.438,4,11,.364,0,0,,1,4,5,4,1,0,2,2,18,+5
+December 23 2020,MIN,Anthony Edwards,25:09,5,12,.417,1,5,.200,4,4,1.000,2,2,4,4,0,0,1,1,15,+4
+December 23 2020,MIN,Jarrett Culver,20:37,3,6,.500,0,1,.000,4,5,.800,2,8,10,2,0,0,0,0,10,+7
+December 23 2020,MIN,Naz Reid,17:34,2,5,.400,0,1,.000,4,6,.667,2,3,5,1,0,3,0,0,8,-1
+December 23 2020,MIN,Juan Hernangómez,11:46,0,5,.000,0,4,.000,0,0,,0,3,3,0,1,0,0,0,0,-7
+December 23 2020,MIN,Jaden McDaniels,Did Not Play
+December 23 2020,MIN,Jarred Vanderbilt,Did Not Play
+December 23 2020,MIN,Ed Davis,Did Not Play
+December 23 2020,MIN,Team Totals,240,38,88,.432,11,41,.268,24,28,.857,12,36,48,25,6,5,11,16,111
+December 23 2020,SAC,Harrison Barnes,41:57,8,15,.533,0,3,.000,5,7,.714,1,8,9,5,2,0,1,1,21,+3
+December 23 2020,SAC,Buddy Hield,41:07,7,15,.467,5,11,.455,3,3,1.000,1,3,4,3,1,0,3,5,22,-2
+December 23 2020,SAC,De'Aaron Fox,38:44,8,20,.400,1,2,.500,4,5,.800,2,2,4,7,1,1,2,2,21,-2
+December 23 2020,SAC,Marvin Bagley,27:21,5,15,.333,0,4,.000,3,4,.750,2,8,10,0,0,1,2,6,13,+2
+December 23 2020,SAC,Richaun Holmes,22:59,3,6,.500,0,0,,0,0,,6,3,9,1,0,1,1,6,6,+1
+December 23 2020,SAC,Tyrese Haliburton,30:00,3,7,.429,2,5,.400,4,4,1.000,1,1,2,4,0,1,0,0,12,+1
+December 23 2020,SAC,Cory Joseph,29:22,6,10,.600,2,5,.400,1,2,.500,0,3,3,4,1,2,2,4,15,+8
+December 23 2020,SAC,Hassan Whiteside,17:34,2,6,.333,0,0,,0,2,.000,2,7,9,1,0,1,2,2,4,+3
+December 23 2020,SAC,Nemanja Bjelica,15:56,3,8,.375,0,1,.000,4,4,1.000,3,1,4,2,0,0,1,3,10,-4
+December 23 2020,SAC,Glenn Robinson,Did Not Play
+December 23 2020,SAC,Justin James,Did Not Play
+December 23 2020,SAC,Robert Woodard,Did Not Play
+December 23 2020,SAC,Kyle Guy,Did Not Play
+December 23 2020,SAC,Jahmi'us Ramsey,Did Not Play
+December 23 2020,SAC,Team Totals,265,45,102,.441,10,31,.323,24,31,.774,18,36,54,27,5,7,14,29,124
+December 23 2020,DEN,Nikola Jokić,41:51,11,18,.611,1,2,.500,6,9,.667,3,12,15,14,0,2,6,3,29,+5
+December 23 2020,DEN,Gary Harris,41:33,4,9,.444,0,4,.000,2,2,1.000,0,2,2,2,0,1,0,2,10,+5
+December 23 2020,DEN,Paul Millsap,36:06,7,13,.538,2,5,.400,0,0,,2,5,7,3,0,0,1,3,16,-6
+December 23 2020,DEN,Jamal Murray,34:27,1,9,.111,0,5,.000,7,7,1.000,0,4,4,1,2,0,2,6,9,+3
+December 23 2020,DEN,Michael Porter,29:37,9,15,.600,3,7,.429,3,3,1.000,1,4,5,2,2,3,2,3,24,0
+December 23 2020,DEN,Will Barton,33:27,7,16,.438,1,3,.333,1,2,.500,0,2,2,4,2,1,0,2,16,+1
+December 23 2020,DEN,Monte Morris,16:19,1,6,.167,0,1,.000,0,0,,0,2,2,0,0,0,1,0,2,-7
+December 23 2020,DEN,PJ Dozier,14:39,3,5,.600,0,1,.000,1,1,1.000,2,3,5,2,0,2,1,1,7,-6
+December 23 2020,DEN,Isaiah Hartenstein,8:53,3,6,.500,0,0,,0,0,,2,1,3,0,0,2,2,4,6,-1
+December 23 2020,DEN,Facundo Campazzo,8:08,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,1,3,-4
+December 23 2020,DEN,Markus Howard,Did Not Play
+December 23 2020,DEN,Bol Bol,Did Not Play
+December 23 2020,DEN,R.J. Hampton,Did Not Play
+December 23 2020,DEN,Vlatko Čančar,Did Not Play
+December 23 2020,DEN,Zeke Nnaji,Did Not Play
+December 23 2020,DEN,Team Totals,265,47,98,.480,8,29,.276,20,24,.833,10,36,46,28,6,11,15,25,122
+December 23 2020,UTA,Bojan Bogdanović,33:12,5,14,.357,4,11,.364,1,1,1.000,1,5,6,2,0,0,3,2,15,+22
+December 23 2020,UTA,Donovan Mitchell,30:47,6,16,.375,4,10,.400,4,4,1.000,0,3,3,5,1,0,2,2,20,+11
+December 23 2020,UTA,Mike Conley,29:35,6,15,.400,4,7,.571,2,3,.667,0,3,3,2,0,0,2,3,18,+14
+December 23 2020,UTA,Rudy Gobert,28:08,8,10,.800,0,0,,4,6,.667,4,13,17,2,1,0,2,2,20,+15
+December 23 2020,UTA,Royce O'Neale,28:05,0,5,.000,0,4,.000,0,0,,3,4,7,0,0,1,0,3,0,+6
+December 23 2020,UTA,Joe Ingles,26:43,5,10,.500,3,8,.375,1,1,1.000,0,5,5,7,1,1,1,0,14,+14
+December 23 2020,UTA,Jordan Clarkson,22:09,6,12,.500,3,6,.500,0,0,,1,6,7,1,0,1,1,0,15,+16
+December 23 2020,UTA,Derrick Favors,16:17,5,5,1.000,0,0,,0,0,,2,5,7,3,0,0,0,3,10,+5
+December 23 2020,UTA,Georges Niang,8:31,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,+4
+December 23 2020,UTA,Miye Oni,3:51,1,2,.500,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,3,-2
+December 23 2020,UTA,Udoka Azubuike,3:35,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,0
+December 23 2020,UTA,Elijah Hughes,3:09,0,1,.000,0,0,,3,4,.750,0,1,1,1,0,0,0,0,3,-2
+December 23 2020,UTA,Juwan Morgan,3:09,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-2
+December 23 2020,UTA,Shaquille Harrison,2:49,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1
+December 23 2020,UTA,Team Totals,240,43,94,.457,19,50,.380,15,19,.789,12,47,59,24,3,3,11,16,120
+December 23 2020,POR,CJ McCollum,34:10,7,19,.368,3,8,.375,6,6,1.000,1,3,4,3,0,1,0,3,23,-11
+December 23 2020,POR,Damian Lillard,33:41,4,12,.333,1,7,.143,0,1,.000,0,4,4,7,1,1,1,1,9,-21
+December 23 2020,POR,Derrick Jones,25:35,3,9,.333,3,5,.600,0,0,,1,3,4,0,0,0,1,3,9,-16
+December 23 2020,POR,Jusuf Nurkić,21:52,5,9,.556,1,2,.500,2,2,1.000,1,2,3,3,1,0,2,3,13,-10
+December 23 2020,POR,Robert Covington,21:25,0,3,.000,0,3,.000,1,2,.500,0,4,4,3,1,0,0,2,1,-18
+December 23 2020,POR,Gary Trent,26:08,4,12,.333,3,5,.600,0,0,,0,2,2,3,2,0,0,0,11,-10
+December 23 2020,POR,Enes Kanter,25:54,7,7,1.000,0,0,,0,0,,1,7,8,0,0,0,0,0,14,-10
+December 23 2020,POR,Carmelo Anthony,24:04,5,12,.417,0,0,,5,6,.833,1,3,4,0,1,0,1,2,15,-3
+December 23 2020,POR,Rodney Hood,13:50,0,3,.000,0,0,,0,0,,0,3,3,2,0,0,0,0,0,-1
+December 23 2020,POR,Harry Giles,4:27,1,2,.500,1,1,1.000,0,0,,0,2,2,0,0,1,0,1,3,0
+December 23 2020,POR,CJ Elleby,4:27,1,2,.500,0,1,.000,0,0,,1,1,2,1,0,0,0,2,2,0
+December 23 2020,POR,Keljin Blevins,4:27,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,1,0,0
+December 23 2020,POR,Team Totals,240,37,92,.402,12,33,.364,14,17,.824,6,34,40,23,6,3,6,18,100
+December 23 2020,DAL,Josh Richardson,36:16,5,11,.455,2,7,.286,0,0,,1,6,7,1,1,0,2,4,12,-9
+December 23 2020,DAL,Luka Dončić,35:57,11,26,.423,0,6,.000,10,12,.833,2,6,8,5,0,0,1,2,32,-9
+December 23 2020,DAL,Dorian Finney-Smith,35:48,4,11,.364,1,6,.167,2,2,1.000,1,7,8,3,2,0,0,3,11,+11
+December 23 2020,DAL,Tim Hardaway,26:48,3,10,.300,3,8,.375,3,6,.500,0,4,4,0,1,0,0,1,12,-4
+December 23 2020,DAL,Dwight Powell,17:32,1,3,.333,0,0,,0,0,,1,1,2,1,1,0,2,3,2,-3
+December 23 2020,DAL,Maxi Kleber,26:53,2,8,.250,2,7,.286,4,4,1.000,1,2,3,1,0,0,1,4,10,-19
+December 23 2020,DAL,Trey Burke,19:35,3,6,.500,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,7,-1
+December 23 2020,DAL,Jalen Brunson,18:11,5,8,.625,0,2,.000,2,2,1.000,0,2,2,4,0,0,3,2,12,+3
+December 23 2020,DAL,James Johnson,13:42,0,0,,0,0,,0,0,,0,3,3,1,1,0,1,3,0,+2
+December 23 2020,DAL,Willie Cauley-Stein,6:02,1,1,1.000,0,0,,0,0,,0,2,2,1,0,0,0,1,2,+14
+December 23 2020,DAL,Josh Green,3:16,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,-5
+December 23 2020,DAL,Tyrell Terry,Did Not Play
+December 23 2020,DAL,Wesley Iwundu,Did Not Play
+December 23 2020,DAL,Boban Marjanović,Did Not Play
+December 23 2020,DAL,Team Totals,240,36,85,.424,9,37,.243,21,26,.808,6,33,39,17,6,0,11,23,102
+December 23 2020,PHO,Mikal Bridges,35:57,5,11,.455,4,7,.571,4,4,1.000,2,5,7,0,0,2,0,2,18,+9
+December 23 2020,PHO,Devin Booker,34:07,8,15,.533,2,6,.333,4,6,.667,0,5,5,3,2,0,8,4,22,+7
+December 23 2020,PHO,Chris Paul,27:45,3,9,.333,0,2,.000,2,2,1.000,1,3,4,5,2,0,3,3,8,-10
+December 23 2020,PHO,Jae Crowder,25:57,1,6,.167,1,5,.200,1,2,.500,0,9,9,4,0,0,1,0,4,-12
+December 23 2020,PHO,Deandre Ayton,24:10,5,9,.556,0,0,,3,6,.500,1,7,8,1,1,2,2,4,13,-4
+December 23 2020,PHO,Cameron Johnson,25:32,5,9,.556,1,3,.333,4,4,1.000,0,5,5,1,1,0,0,2,15,+9
+December 23 2020,PHO,Cameron Payne,20:15,5,9,.556,1,2,.500,0,0,,1,2,3,3,0,1,1,2,11,+14
+December 23 2020,PHO,Jalen Smith,16:13,2,3,.667,0,0,,0,2,.000,1,2,3,1,0,1,1,1,4,+6
+December 23 2020,PHO,Jevon Carter,13:53,0,3,.000,0,3,.000,0,0,,0,2,2,2,0,0,1,2,0,-3
+December 23 2020,PHO,Langston Galloway,8:34,4,5,.800,2,2,1.000,1,1,1.000,0,1,1,1,0,0,0,1,11,+2
+December 23 2020,PHO,Damian Jones,7:37,0,0,,0,0,,0,0,,0,1,1,0,1,1,1,5,0,+2
+December 23 2020,PHO,Dario Šarić,Did Not Play
+December 23 2020,PHO,Ty-Shon Alexander,Did Not Play
+December 23 2020,PHO,E'Twaun Moore,Did Not Play
+December 23 2020,PHO,Team Totals,240,38,79,.481,11,30,.367,19,27,.704,6,42,48,21,7,7,18,26,106
+December 25 2020,NOP,Zion Williamson,38:18,11,20,.550,0,1,.000,10,15,.667,4,10,14,1,1,0,3,1,32,-13
+December 25 2020,NOP,Brandon Ingram,37:03,7,17,.412,4,8,.500,10,11,.909,0,2,2,3,0,0,4,0,28,+2
+December 25 2020,NOP,Lonzo Ball,33:26,2,8,.250,2,8,.250,0,0,,0,2,2,6,2,1,3,4,6,-3
+December 25 2020,NOP,Eric Bledsoe,33:10,2,10,.200,1,6,.167,0,0,,0,2,2,6,1,0,5,2,5,-3
+December 25 2020,NOP,Steven Adams,32:22,3,3,1.000,0,0,,0,0,,4,5,9,1,2,1,2,2,6,+5
+December 25 2020,NOP,Josh Hart,28:40,5,10,.500,2,6,.333,0,0,,2,7,9,0,1,0,0,3,12,-10
+December 25 2020,NOP,J.J. Redick,24:24,1,7,.143,1,5,.200,5,5,1.000,0,2,2,0,1,0,1,6,8,-27
+December 25 2020,NOP,Nicolò Melli,9:22,0,2,.000,0,1,.000,1,2,.500,0,0,0,0,0,0,0,2,1,-7
+December 25 2020,NOP,Jaxson Hayes,3:15,0,1,.000,0,0,,0,0,,1,0,1,1,0,0,1,0,0,-9
+December 25 2020,NOP,Willy Hernangómez,Did Not Play
+December 25 2020,NOP,Nickeil Alexander-Walker,Did Not Play
+December 25 2020,NOP,Kira Lewis,Did Not Play
+December 25 2020,NOP,Naji Marshall,Did Not Play
+December 25 2020,NOP,Sindarius Thornwell,Did Not Play
+December 25 2020,NOP,Team Totals,240,31,78,.397,10,35,.286,26,33,.788,11,30,41,18,8,2,19,20,98
+December 25 2020,MIA,Tyler Herro,32:20,3,10,.300,2,4,.500,3,3,1.000,0,2,2,3,1,0,3,1,11,0
+December 25 2020,MIA,Duncan Robinson,32:02,8,14,.571,7,13,.538,0,0,,0,5,5,0,0,0,1,3,23,+5
+December 25 2020,MIA,Bam Adebayo,28:13,5,9,.556,0,0,,7,8,.875,0,4,4,2,2,1,3,2,17,+9
+December 25 2020,MIA,Meyers Leonard,19:48,3,5,.600,3,5,.600,0,0,,0,2,2,1,0,0,1,5,9,+1
+December 25 2020,MIA,Jimmy Butler,16:13,2,7,.286,0,1,.000,0,0,,3,3,6,5,1,0,1,0,4,-8
+December 25 2020,MIA,Avery Bradley,28:27,4,7,.571,2,5,.400,2,3,.667,0,2,2,4,2,0,2,2,12,+23
+December 25 2020,MIA,Goran Dragić,27:09,6,11,.545,0,4,.000,6,7,.857,0,2,2,9,4,0,3,1,18,+21
+December 25 2020,MIA,Andre Iguodala,26:13,2,5,.400,2,5,.400,0,0,,0,7,7,3,1,0,2,3,6,+17
+December 25 2020,MIA,Precious Achiuwa,19:28,5,7,.714,0,0,,1,2,.500,1,2,3,2,0,1,1,6,11,+4
+December 25 2020,MIA,Maurice Harkless,9:29,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,2,0,-7
+December 25 2020,MIA,Chris Silva,0:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+December 25 2020,MIA,KZ Okpala,0:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+December 25 2020,MIA,Kendrick Nunn,Did Not Play
+December 25 2020,MIA,Kelly Olynyk,Did Not Play
+December 25 2020,MIA,Udonis Haslem,Did Not Play
+December 25 2020,MIA,Team Totals,240,38,75,.507,16,37,.432,19,23,.826,4,31,35,29,11,2,17,25,111
+December 25 2020,GSW,Stephen Curry,28:58,6,17,.353,2,10,.200,5,5,1.000,0,4,4,6,1,0,2,2,19,-24
+December 25 2020,GSW,James Wiseman,25:03,5,11,.455,3,4,.750,5,6,.833,3,5,8,0,0,3,2,4,18,-16
+December 25 2020,GSW,Eric Paschall,25:00,3,8,.375,0,3,.000,1,1,1.000,1,1,2,1,1,0,1,2,7,-23
+December 25 2020,GSW,Andrew Wiggins,24:54,6,18,.333,0,4,.000,0,0,,3,3,6,0,1,0,1,3,12,-19
+December 25 2020,GSW,Kelly Oubre,19:46,1,10,.100,0,5,.000,1,2,.500,1,4,5,1,1,0,2,3,3,-15
+December 25 2020,GSW,Brad Wanamaker,19:02,4,7,.571,1,2,.500,2,2,1.000,0,1,1,2,1,0,0,3,11,-15
+December 25 2020,GSW,Jordan Poole,19:02,4,11,.364,1,6,.167,2,2,1.000,0,1,1,0,0,0,0,1,11,-15
+December 25 2020,GSW,Damion Lee,18:54,2,4,.500,2,4,.500,3,3,1.000,0,2,2,1,0,0,1,0,9,-10
+December 25 2020,GSW,Mychal Mulder,17:34,1,4,.250,1,4,.250,0,0,,0,3,3,0,0,1,0,0,3,-15
+December 25 2020,GSW,Marquese Chriss,14:17,1,4,.250,0,2,.000,2,4,.500,0,5,5,1,0,2,2,1,4,-19
+December 25 2020,GSW,Juan Toscano-Anderson,12:33,0,0,,0,0,,0,0,,1,2,3,1,0,0,0,1,0,-9
+December 25 2020,GSW,Kevon Looney,11:01,1,3,.333,0,1,.000,0,0,,1,2,3,0,0,0,0,1,2,-11
+December 25 2020,GSW,Kent Bazemore,3:56,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,0,1,0,-4
+December 25 2020,GSW,Team Totals,240,34,99,.343,10,45,.222,21,25,.840,10,33,43,14,5,6,11,22,99
+December 25 2020,MIL,Giannis Antetokounmpo,26:42,4,14,.286,0,3,.000,7,15,.467,4,9,13,4,0,0,2,2,15,+26
+December 25 2020,MIL,Khris Middleton,25:48,10,15,.667,6,8,.750,5,5,1.000,0,4,4,5,2,0,2,2,31,+21
+December 25 2020,MIL,Jrue Holiday,25:23,6,8,.750,0,1,.000,0,0,,1,3,4,6,0,1,3,1,12,+23
+December 25 2020,MIL,Donte DiVincenzo,19:59,5,8,.625,3,5,.600,0,0,,1,3,4,0,2,0,2,1,13,+5
+December 25 2020,MIL,Brook Lopez,19:43,3,6,.500,0,1,.000,2,2,1.000,2,2,4,0,0,1,2,1,8,+14
+December 25 2020,MIL,Bobby Portis,25:53,5,9,.556,0,3,.000,0,0,,1,11,12,2,1,1,1,1,10,+20
+December 25 2020,MIL,Pat Connaughton,18:53,1,3,.333,0,1,.000,0,0,,0,7,7,2,0,0,0,0,2,+27
+December 25 2020,MIL,D.J. Wilson,13:56,3,4,.750,3,3,1.000,0,0,,0,4,4,0,0,1,1,2,9,+12
+December 25 2020,MIL,D.J. Augustin,13:27,4,6,.667,3,3,1.000,2,2,1.000,0,0,0,1,0,0,0,1,13,+10
+December 25 2020,MIL,Bryn Forbes,13:21,3,5,.600,2,3,.667,0,0,,0,0,0,0,0,0,0,1,8,+13
+December 25 2020,MIL,Jordan Nwora,9:46,2,6,.333,1,3,.333,2,2,1.000,0,1,1,0,0,0,1,2,7,+6
+December 25 2020,MIL,Thanasis Antetokounmpo,9:46,2,2,1.000,0,0,,0,0,,0,0,0,1,0,0,1,1,4,+6
+December 25 2020,MIL,Torrey Craig,9:46,0,1,.000,0,0,,0,0,,0,4,4,0,0,0,1,2,0,+6
+December 25 2020,MIL,Sam Merrill,7:37,2,3,.667,2,2,1.000,0,0,,2,1,3,4,1,0,1,0,6,+6
+December 25 2020,MIL,Jaylen Adams,Did Not Play
+December 25 2020,MIL,Team Totals,240,50,90,.556,20,36,.556,18,26,.692,11,49,60,25,6,4,17,17,138
+December 25 2020,BRK,Kyrie Irving,33:24,13,21,.619,7,10,.700,4,4,1.000,1,5,6,8,1,0,1,4,37,+31
+December 25 2020,BRK,Kevin Durant,33:24,9,16,.563,3,4,.750,8,9,.889,0,4,4,3,2,0,2,3,29,+31
+December 25 2020,BRK,Spencer Dinwiddie,29:12,2,6,.333,0,2,.000,2,2,1.000,0,4,4,2,2,1,2,3,6,+16
+December 25 2020,BRK,Joe Harris,26:12,3,6,.500,2,4,.500,1,2,.500,0,1,1,0,0,0,0,4,9,+23
+December 25 2020,BRK,DeAndre Jordan,19:14,2,2,1.000,0,0,,0,2,.000,2,5,7,2,0,2,1,2,4,+5
+December 25 2020,BRK,Jarrett Allen,21:27,2,3,.667,0,0,,5,6,.833,5,6,11,1,0,4,1,1,9,+18
+December 25 2020,BRK,Landry Shamet,19:25,1,3,.333,1,3,.333,2,2,1.000,0,3,3,1,0,1,1,0,5,+1
+December 25 2020,BRK,Caris LeVert,18:34,5,8,.625,0,2,.000,0,0,,0,1,1,3,0,1,7,1,10,+1
+December 25 2020,BRK,Jeff Green,14:32,1,3,.333,0,1,.000,0,0,,1,3,4,0,0,0,0,1,2,+1
+December 25 2020,BRK,Taurean Prince,12:06,1,5,.200,1,2,.500,2,2,1.000,0,0,0,0,0,1,0,2,5,-7
+December 25 2020,BRK,Timothé Luwawu-Cabarrot,2:30,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,4,+4
+December 25 2020,BRK,Tyler Johnson,2:30,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,+4
+December 25 2020,BRK,Reggie Perry,2:30,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,+4
+December 25 2020,BRK,Rodions Kurucs,2:30,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,+4
+December 25 2020,BRK,Bruce Brown,2:30,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,+4
+December 25 2020,BRK,Team Totals,240,41,76,.539,15,29,.517,26,31,.839,9,34,43,21,5,10,15,22,123
+December 25 2020,BOS,Jayson Tatum,36:07,9,22,.409,2,6,.333,0,0,,1,7,8,2,1,1,3,1,20,-21
+December 25 2020,BOS,Marcus Smart,31:53,4,12,.333,3,7,.429,2,2,1.000,2,1,3,6,2,1,1,5,13,-24
+December 25 2020,BOS,Jaylen Brown,30:32,11,25,.440,0,4,.000,5,9,.556,5,3,8,3,0,1,2,5,27,-25
+December 25 2020,BOS,Daniel Theis,23:21,1,3,.333,0,2,.000,0,0,,1,4,5,3,0,0,1,3,2,-14
+December 25 2020,BOS,Tristan Thompson,21:25,3,8,.375,0,0,,2,2,1.000,5,3,8,0,0,1,1,5,8,-19
+December 25 2020,BOS,Payton Pritchard,25:06,3,5,.600,1,2,.500,0,0,,0,2,2,1,2,0,3,3,7,-9
+December 25 2020,BOS,Jeff Teague,21:18,0,5,.000,0,1,.000,0,0,,0,1,1,2,1,0,2,1,0,0
+December 25 2020,BOS,Grant Williams,18:33,2,4,.500,0,1,.000,0,0,,2,4,6,4,0,1,0,3,4,-4
+December 25 2020,BOS,Semi Ojeleye,14:17,2,7,.286,1,2,.500,4,6,.667,3,1,4,1,0,0,0,1,9,-4
+December 25 2020,BOS,Aaron Nesmith,8:45,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,1,0,3,-6
+December 25 2020,BOS,Javonte Green,3:43,1,3,.333,0,0,,0,0,,1,1,2,0,0,0,0,0,2,-6
+December 25 2020,BOS,Tremont Waters,2:30,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-4
+December 25 2020,BOS,Carsen Edwards,2:30,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-4
+December 25 2020,BOS,Team Totals,240,37,98,.378,8,27,.296,13,19,.684,20,27,47,23,6,5,15,27,95
+December 25 2020,DAL,Luka Dončić,34:08,9,19,.474,2,5,.400,7,8,.875,0,4,4,7,0,1,3,0,27,-14
+December 25 2020,DAL,Dorian Finney-Smith,29:22,4,9,.444,2,6,.333,0,0,,0,2,2,0,3,0,1,4,10,-19
+December 25 2020,DAL,Tim Hardaway,28:03,4,12,.333,1,5,.200,1,2,.500,1,3,4,2,0,0,0,1,10,-9
+December 25 2020,DAL,Josh Richardson,27:23,6,12,.500,2,5,.400,3,3,1.000,1,1,2,2,2,0,0,4,17,-10
+December 25 2020,DAL,Dwight Powell,23:32,4,4,1.000,1,1,1.000,2,4,.500,0,3,3,1,3,0,1,2,11,-11
+December 25 2020,DAL,Trey Burke,24:28,5,10,.500,4,7,.571,3,4,.750,0,1,1,2,0,1,0,5,17,-13
+December 25 2020,DAL,Maxi Kleber,19:45,1,2,.500,1,2,.500,2,2,1.000,1,4,5,0,2,0,0,0,5,-8
+December 25 2020,DAL,Willie Cauley-Stein,14:05,0,3,.000,0,0,,0,0,,0,2,2,0,2,1,1,3,0,-6
+December 25 2020,DAL,Jalen Brunson,13:52,2,5,.400,0,1,.000,0,0,,0,2,2,1,0,0,3,2,4,-9
+December 25 2020,DAL,James Johnson,11:52,1,1,1.000,0,0,,2,3,.667,0,1,1,4,1,0,0,0,4,-7
+December 25 2020,DAL,Boban Marjanović,7:02,3,4,.750,0,0,,0,0,,0,1,1,0,0,0,0,1,6,-2
+December 25 2020,DAL,Wesley Iwundu,2:23,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,-4
+December 25 2020,DAL,Josh Green,2:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-4
+December 25 2020,DAL,Tyrell Terry,1:42,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,2,+1
+December 25 2020,DAL,Team Totals,240,41,83,.494,13,32,.406,20,26,.769,3,24,27,20,13,3,9,22,115
+December 25 2020,LAL,LeBron James,31:24,8,18,.444,3,8,.375,3,4,.750,1,6,7,10,1,0,4,0,22,+16
+December 25 2020,LAL,Anthony Davis,30:17,10,16,.625,3,5,.600,5,7,.714,1,7,8,5,2,0,2,2,28,+16
+December 25 2020,LAL,Dennis Schröder,25:07,7,11,.636,1,3,.333,3,4,.750,1,1,2,6,0,0,4,5,18,+8
+December 25 2020,LAL,Kentavious Caldwell-Pope,24:09,3,7,.429,2,6,.333,0,0,,0,0,0,2,1,2,0,4,8,+14
+December 25 2020,LAL,Marc Gasol,19:34,0,1,.000,0,1,.000,2,2,1.000,2,7,9,0,0,0,1,2,2,+8
+December 25 2020,LAL,Montrezl Harrell,28:26,10,13,.769,0,1,.000,2,5,.400,5,2,7,2,1,0,2,4,22,+15
+December 25 2020,LAL,Kyle Kuzma,21:54,5,11,.455,3,4,.750,0,0,,2,4,6,2,0,1,0,1,13,+7
+December 25 2020,LAL,Wesley Matthews,16:25,1,3,.333,0,2,.000,0,0,,0,1,1,0,1,0,0,1,2,-3
+December 25 2020,LAL,Markieff Morris,15:20,3,5,.600,3,5,.600,0,0,,3,4,7,2,1,0,0,0,9,+3
+December 25 2020,LAL,Alex Caruso,13:24,2,2,1.000,2,2,1.000,0,0,,0,1,1,2,2,0,2,2,6,+10
+December 25 2020,LAL,Talen Horton-Tucker,6:51,1,2,.500,1,1,1.000,2,2,1.000,1,0,1,2,0,1,1,2,5,+9
+December 25 2020,LAL,Alfonzo McKinnie,2:23,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,+4
+December 25 2020,LAL,Jared Dudley,2:23,0,0,,0,0,,0,0,,1,2,3,0,0,0,0,0,0,+4
+December 25 2020,LAL,Quinn Cook,2:23,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+4
+December 25 2020,LAL,Team Totals,240,51,91,.560,19,39,.487,17,24,.708,17,36,53,33,9,4,16,23,138
+December 25 2020,LAC,Paul George,36:56,8,14,.571,5,9,.556,2,2,1.000,0,5,5,9,1,0,6,1,23,+14
+December 25 2020,LAC,Nicolas Batum,36:19,5,8,.625,2,5,.400,1,1,1.000,4,6,10,4,1,1,2,5,13,+13
+December 25 2020,LAC,Kawhi Leonard,30:21,8,14,.571,2,4,.500,3,3,1.000,2,3,5,7,4,1,2,4,21,+13
+December 25 2020,LAC,Patrick Beverley,21:33,3,6,.500,2,5,.400,1,2,.500,1,1,2,0,2,0,1,5,9,+5
+December 25 2020,LAC,Serge Ibaka,21:29,6,9,.667,2,2,1.000,1,1,1.000,0,2,2,2,0,1,1,4,15,+10
+December 25 2020,LAC,Lou Williams,23:38,3,7,.429,2,4,.500,0,0,,0,4,4,3,1,0,1,1,8,+4
+December 25 2020,LAC,Luke Kennard,19:53,2,6,.333,2,4,.500,2,2,1.000,0,6,6,2,0,0,2,1,8,+6
+December 25 2020,LAC,Ivica Zubac,19:05,2,2,1.000,0,0,,8,11,.727,0,0,0,0,0,1,2,4,12,+9
+December 25 2020,LAC,Reggie Jackson,13:03,2,6,.333,1,4,.250,0,0,,0,1,1,3,0,0,0,2,5,-4
+December 25 2020,LAC,Patrick Patterson,11:29,1,1,1.000,1,1,1.000,2,2,1.000,2,1,3,2,0,0,1,4,5,+2
+December 25 2020,LAC,Terance Mann,4:44,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,-4
+December 25 2020,LAC,Mfiondu Kabengele,0:38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-3
+December 25 2020,LAC,Daniel Oturu,0:26,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+December 25 2020,LAC,Amir Coffey,0:26,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+December 25 2020,LAC,Team Totals,240,41,74,.554,19,38,.500,20,24,.833,9,29,38,32,9,4,18,32,121
+December 25 2020,DEN,Nikola Jokić,38:29,7,13,.538,1,4,.250,9,11,.818,3,6,9,10,1,0,5,2,24,-20
+December 25 2020,DEN,Jamal Murray,37:16,9,20,.450,4,11,.364,1,2,.500,2,3,5,3,1,0,3,4,23,-3
+December 25 2020,DEN,Michael Porter,23:20,4,9,.444,2,6,.333,0,0,,0,3,3,2,2,0,0,2,10,-14
+December 25 2020,DEN,Gary Harris,22:24,1,5,.200,0,2,.000,0,0,,0,1,1,2,1,0,2,2,2,-12
+December 25 2020,DEN,Paul Millsap,21:53,3,5,.600,1,2,.500,1,2,.500,0,1,1,0,0,0,0,4,8,-10
+December 25 2020,DEN,Monte Morris,30:21,3,7,.429,1,3,.333,6,7,.857,1,0,1,4,1,0,0,0,13,-5
+December 25 2020,DEN,Will Barton,28:33,4,10,.400,1,4,.250,6,9,.667,1,4,5,3,1,0,1,3,15,0
+December 25 2020,DEN,PJ Dozier,19:07,3,5,.600,1,2,.500,0,0,,1,1,2,0,0,0,1,2,7,+1
+December 25 2020,DEN,Isaiah Hartenstein,9:31,3,5,.600,0,0,,0,0,,2,3,5,1,0,1,0,1,6,+7
+December 25 2020,DEN,Bol Bol,5:29,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-2
+December 25 2020,DEN,Facundo Campazzo,3:11,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-7
+December 25 2020,DEN,Markus Howard,0:26,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0
+December 25 2020,DEN,Zeke Nnaji,Did Not Play
+December 25 2020,DEN,Vlatko Čančar,Did Not Play
+December 25 2020,DEN,R.J. Hampton,Did Not Play
+December 25 2020,DEN,Team Totals,240,37,81,.457,11,36,.306,23,31,.742,10,22,32,25,7,1,13,20,108
+December 26 2020,ATL,Trae Young,35:23,10,24,.417,1,7,.143,15,17,.882,2,1,3,9,0,0,2,1,36,+12
+December 26 2020,ATL,De'Andre Hunter,35:19,5,11,.455,2,4,.500,3,3,1.000,1,10,11,3,0,2,1,3,15,+13
+December 26 2020,ATL,Cam Reddish,32:28,2,8,.250,1,1,1.000,0,0,,1,2,3,2,1,1,3,3,5,0
+December 26 2020,ATL,Bogdan Bogdanović,32:13,2,10,.200,1,9,.111,2,2,1.000,1,8,9,2,1,0,1,0,7,0
+December 26 2020,ATL,John Collins,27:18,4,9,.444,0,3,.000,5,5,1.000,3,7,10,0,1,2,2,4,13,+15
+December 26 2020,ATL,Kevin Huerter,26:36,8,12,.667,4,5,.800,1,1,1.000,0,2,2,4,1,0,3,5,21,+14
+December 26 2020,ATL,Bruno Fernando,17:12,0,1,.000,0,0,,0,0,,2,8,10,3,0,0,2,1,0,-1
+December 26 2020,ATL,Solomon Hill,12:58,2,5,.400,1,2,.500,1,1,1.000,1,1,2,0,0,0,0,2,6,+3
+December 26 2020,ATL,Brandon Goodwin,11:58,1,4,.250,1,2,.500,2,4,.500,1,0,1,0,0,0,0,0,5,-2
+December 26 2020,ATL,Nathan Knight,8:35,4,5,.800,2,3,.667,4,5,.800,1,2,3,0,0,0,1,1,14,-4
+December 26 2020,ATL,Rajon Rondo,Did Not Play
+December 26 2020,ATL,Skylar Mays,Did Not Play
+December 26 2020,ATL,Danilo Gallinari,Did Not Play
+December 26 2020,ATL,Team Totals,240,38,89,.427,13,36,.361,33,38,.868,13,41,54,23,4,5,15,20,122
+December 26 2020,MEM,Kyle Anderson,36:26,8,15,.533,2,6,.333,2,2,1.000,1,13,14,1,0,2,0,2,20,+1
+December 26 2020,MEM,Ja Morant,33:31,10,21,.476,2,7,.286,6,8,.750,1,2,3,7,0,1,2,4,28,-2
+December 26 2020,MEM,Dillon Brooks,30:36,8,23,.348,3,11,.273,0,0,,0,2,2,2,2,0,2,6,19,+7
+December 26 2020,MEM,Grayson Allen,29:28,2,6,.333,1,5,.200,5,5,1.000,3,1,4,2,0,0,0,0,10,-7
+December 26 2020,MEM,Jonas Valančiūnas,28:56,2,6,.333,1,3,.333,8,10,.800,2,10,12,4,1,1,4,5,13,+2
+December 26 2020,MEM,Desmond Bane,22:21,2,2,1.000,2,2,1.000,0,0,,0,1,1,0,0,0,0,4,6,+2
+December 26 2020,MEM,Brandon Clarke,20:06,2,8,.250,0,1,.000,0,0,,1,2,3,1,0,0,0,4,4,-15
+December 26 2020,MEM,Tyus Jones,15:59,0,4,.000,0,2,.000,0,0,,0,1,1,3,0,1,0,0,0,-8
+December 26 2020,MEM,John Konchar,15:39,1,3,.333,1,3,.333,4,4,1.000,1,3,4,0,2,1,1,1,7,-16
+December 26 2020,MEM,Gorgui Dieng,6:58,2,5,.400,1,3,.333,0,0,,0,2,2,0,0,0,1,1,5,-14
+December 26 2020,MEM,Xavier Tillman,Did Not Play
+December 26 2020,MEM,Sean McDermott,Did Not Play
+December 26 2020,MEM,Team Totals,240,37,93,.398,13,43,.302,25,29,.862,9,37,46,20,5,6,10,27,112
+December 26 2020,OKC,Luguentz Dort,34:34,5,12,.417,1,4,.250,4,4,1.000,2,3,5,2,1,1,0,3,15,+16
+December 26 2020,OKC,Shai Gilgeous-Alexander,34:22,8,20,.400,1,6,.167,7,10,.700,2,5,7,9,0,1,5,4,24,+14
+December 26 2020,OKC,Darius Bazley,32:56,7,12,.583,1,5,.200,0,0,,1,9,10,1,1,2,1,1,15,+9
+December 26 2020,OKC,Al Horford,28:33,1,5,.200,0,2,.000,1,1,1.000,0,13,13,3,0,1,1,0,3,+3
+December 26 2020,OKC,George Hill,24:03,8,9,.889,4,4,1.000,1,2,.500,1,3,4,3,1,0,1,2,21,+10
+December 26 2020,OKC,Théo Maledon,20:26,2,5,.400,0,2,.000,0,0,,0,0,0,2,2,0,4,2,4,-16
+December 26 2020,OKC,Hamidou Diallo,19:40,3,8,.375,0,1,.000,2,3,.667,2,4,6,2,1,0,2,1,8,-9
+December 26 2020,OKC,Mike Muscala,18:10,5,8,.625,2,4,.500,2,2,1.000,0,2,2,1,2,0,0,3,14,+2
+December 26 2020,OKC,Kenrich Williams,16:20,1,3,.333,1,2,.500,2,2,1.000,1,2,3,2,1,1,1,3,5,-6
+December 26 2020,OKC,Aleksej Pokusevski,10:56,0,6,.000,0,6,.000,0,0,,0,4,4,0,1,1,1,2,0,-13
+December 26 2020,OKC,Darius Miller,Did Not Play
+December 26 2020,OKC,Moses Brown,Did Not Play
+December 26 2020,OKC,Isaiah Roby,Did Not Play
+December 26 2020,OKC,Josh Hall,Did Not Play
+December 26 2020,OKC,Justin Jackson,Did Not Play
+December 26 2020,OKC,Team Totals,240,40,88,.455,10,36,.278,19,24,.792,9,45,54,25,10,7,16,21,109
+December 26 2020,CHO,Gordon Hayward,34:41,5,13,.385,0,5,.000,2,3,.667,0,4,4,7,3,0,2,3,12,-2
+December 26 2020,CHO,Devonte' Graham,33:50,4,16,.250,3,7,.429,3,5,.600,1,2,3,10,1,0,2,2,14,+14
+December 26 2020,CHO,Terry Rozier,31:18,5,15,.333,2,7,.286,7,9,.778,1,2,3,2,2,1,0,2,19,-18
+December 26 2020,CHO,Bismack Biyombo,30:19,2,7,.286,0,0,,1,2,.500,3,6,9,4,0,2,1,2,5,-5
+December 26 2020,CHO,P.J. Washington,29:09,7,15,.467,1,3,.333,3,6,.500,2,6,8,1,1,3,2,3,18,-7
+December 26 2020,CHO,Miles Bridges,23:07,5,8,.625,4,4,1.000,0,0,,4,2,6,0,1,2,2,4,14,-4
+December 26 2020,CHO,Cody Martin,16:11,0,0,,0,0,,0,0,,0,2,2,1,0,0,0,1,0,+3
+December 26 2020,CHO,Caleb Martin,15:23,4,8,.500,1,2,.500,1,1,1.000,0,1,1,0,2,0,1,1,10,+7
+December 26 2020,CHO,LaMelo Ball,15:19,5,10,.500,2,4,.500,1,2,.500,2,4,6,1,1,0,2,1,13,-11
+December 26 2020,CHO,Jalen McDaniels,10:43,0,1,.000,0,0,,2,4,.500,0,5,5,1,0,0,1,3,2,+13
+December 26 2020,CHO,Nick Richards,Did Not Play
+December 26 2020,CHO,Malik Monk,Did Not Play
+December 26 2020,CHO,Vernon Carey,Did Not Play
+December 26 2020,CHO,Team Totals,240,37,93,.398,13,32,.406,20,32,.625,13,34,47,27,11,8,13,22,107
+December 26 2020,CLE,Collin Sexton,45:14,15,23,.652,2,3,.667,0,1,.000,0,2,2,3,3,0,4,5,32,+9
+December 26 2020,CLE,Darius Garland,43:59,9,14,.643,3,3,1.000,0,0,,2,3,5,12,2,1,2,3,21,+19
+December 26 2020,CLE,Andre Drummond,43:40,7,21,.333,0,2,.000,9,14,.643,2,14,16,5,4,3,4,2,23,+10
+December 26 2020,CLE,Isaac Okoro,41:39,0,4,.000,0,3,.000,0,0,,0,3,3,0,1,0,2,4,0,+16
+December 26 2020,CLE,Kevin Love,37:33,4,12,.333,3,8,.375,4,5,.800,1,8,9,3,0,0,3,1,15,+14
+December 26 2020,CLE,Cedi Osman,25:56,7,12,.583,4,7,.571,4,6,.667,0,4,4,0,1,0,0,1,22,-12
+December 26 2020,CLE,Larry Nance,24:30,0,3,.000,0,2,.000,0,0,,2,5,7,2,2,0,1,1,0,-2
+December 26 2020,CLE,JaVale McGee,14:20,4,7,.571,1,1,1.000,2,4,.500,0,2,2,0,0,0,2,6,11,-1
+December 26 2020,CLE,Dante Exum,13:09,2,3,.667,0,1,.000,0,0,,0,3,3,4,0,0,0,1,4,-8
+December 26 2020,CLE,Thon Maker,Did Not Play
+December 26 2020,CLE,Dean Wade,Did Not Play
+December 26 2020,CLE,Damyean Dotson,Did Not Play
+December 26 2020,CLE,Marques Bolden,Did Not Play
+December 26 2020,CLE,Lamar Stevens,Did Not Play
+December 26 2020,CLE,Team Totals,290,48,99,.485,13,30,.433,19,30,.633,7,44,51,29,13,4,18,24,128
+December 26 2020,DET,Blake Griffin,44:20,9,21,.429,8,16,.500,0,0,,0,6,6,4,3,0,3,1,26,-16
+December 26 2020,DET,Jerami Grant,42:31,9,14,.643,4,8,.500,6,8,.750,1,9,10,2,0,3,1,4,28,+2
+December 26 2020,DET,Delon Wright,42:12,5,9,.556,2,3,.667,7,9,.778,3,3,6,4,0,1,1,0,19,-23
+December 26 2020,DET,Mason Plumlee,32:47,3,6,.500,0,1,.000,0,0,,2,7,9,5,3,0,3,6,6,-2
+December 26 2020,DET,Killian Hayes,19:30,1,7,.143,0,3,.000,1,2,.500,0,3,3,2,0,0,2,2,3,-5
+December 26 2020,DET,Derrick Rose,33:07,4,15,.267,1,2,.500,4,6,.667,1,3,4,4,0,0,6,1,13,-3
+December 26 2020,DET,Sviatoslav Mykhailiuk,23:34,4,9,.444,1,6,.167,3,3,1.000,0,3,3,2,2,0,3,2,12,+3
+December 26 2020,DET,Josh Jackson,18:42,2,6,.333,0,3,.000,2,2,1.000,0,8,8,1,1,1,3,0,6,+9
+December 26 2020,DET,Jahlil Okafor,18:27,3,4,.750,0,0,,0,0,,1,3,4,0,0,0,0,3,6,+9
+December 26 2020,DET,Sekou Doumbouya,8:49,0,5,.000,0,1,.000,0,0,,1,1,2,0,0,0,0,0,0,-18
+December 26 2020,DET,Saddiq Bey,6:01,0,2,.000,0,2,.000,0,2,.000,1,1,2,0,0,0,0,1,0,-1
+December 26 2020,DET,Rodney McGruder,Did Not Play
+December 26 2020,DET,Wayne Ellington,Did Not Play
+December 26 2020,DET,Deividas Sirvydis,Did Not Play
+December 26 2020,DET,Isaiah Stewart,Did Not Play
+December 26 2020,DET,Team Totals,290,40,98,.408,16,45,.356,23,32,.719,10,47,57,24,9,5,22,20,119
+December 26 2020,ORL,Nikola Vučević,31:05,8,20,.400,2,7,.286,4,4,1.000,3,14,17,3,2,0,3,1,22,+5
+December 26 2020,ORL,Markelle Fultz,31:05,7,13,.538,0,2,.000,7,8,.875,2,2,4,7,1,0,2,3,21,+5
+December 26 2020,ORL,Aaron Gordon,29:39,6,12,.500,1,2,.500,2,4,.500,1,8,9,3,0,0,0,3,15,+16
+December 26 2020,ORL,Evan Fournier,28:57,4,8,.500,1,5,.200,4,5,.800,1,4,5,0,2,0,2,4,13,-1
+December 26 2020,ORL,Dwayne Bacon,20:21,2,3,.667,2,2,1.000,0,0,,0,1,1,1,1,0,1,1,6,-1
+December 26 2020,ORL,Terrence Ross,28:06,9,14,.643,3,6,.500,4,4,1.000,0,2,2,1,2,0,2,0,25,+11
+December 26 2020,ORL,Michael Carter-Williams,18:36,3,4,.750,1,2,.500,1,2,.500,2,1,3,2,0,0,3,3,8,+11
+December 26 2020,ORL,Chuma Okeke,18:21,1,4,.250,0,1,.000,1,2,.500,1,2,3,2,0,0,0,1,3,-6
+December 26 2020,ORL,Cole Anthony,16:55,4,11,.364,1,4,.250,0,0,,1,4,5,5,0,0,0,2,9,+5
+December 26 2020,ORL,Khem Birch,16:55,4,6,.667,0,0,,0,0,,0,5,5,1,0,0,0,3,8,+5
+December 26 2020,ORL,Karim Mané,Did Not Play
+December 26 2020,ORL,Mohamed Bamba,Did Not Play
+December 26 2020,ORL,Jordan Bone,Did Not Play
+December 26 2020,ORL,Gary Clark,Did Not Play
+December 26 2020,ORL,Team Totals,240,48,95,.505,11,31,.355,23,29,.793,11,43,54,25,8,0,13,21,130
+December 26 2020,WAS,Bradley Beal,37:14,14,24,.583,2,5,.400,9,13,.692,2,5,7,5,2,0,4,2,39,-9
+December 26 2020,WAS,Russell Westbrook,35:59,6,19,.316,0,4,.000,3,4,.750,2,13,15,12,2,0,5,3,15,+2
+December 26 2020,WAS,Thomas Bryant,30:04,8,11,.727,3,5,.600,0,0,,0,5,5,1,0,0,0,2,19,-3
+December 26 2020,WAS,Isaac Bonga,20:00,4,5,.800,2,3,.667,0,0,,0,0,0,2,0,2,1,3,10,-2
+December 26 2020,WAS,Deni Avdija,14:40,2,2,1.000,1,1,1.000,0,1,.000,0,3,3,2,0,0,0,4,5,-7
+December 26 2020,WAS,Ish Smith,22:19,4,9,.444,0,1,.000,0,3,.000,0,4,4,3,0,0,1,1,8,-12
+December 26 2020,WAS,Dāvis Bertāns,19:46,3,11,.273,2,10,.200,1,3,.333,1,0,1,1,1,0,0,1,9,-1
+December 26 2020,WAS,Jerome Robinson,19:39,0,3,.000,0,2,.000,0,0,,0,2,2,1,0,0,1,4,0,-5
+December 26 2020,WAS,Robin Lopez,17:56,1,2,.500,0,0,,2,4,.500,1,2,3,0,0,1,0,1,4,-7
+December 26 2020,WAS,Troy Brown,13:14,0,5,.000,0,3,.000,0,0,,1,2,3,1,0,0,1,2,0,+3
+December 26 2020,WAS,Raul Neto,9:09,4,4,1.000,3,3,1.000,0,0,,0,0,0,0,0,0,1,2,11,-9
+December 26 2020,WAS,Anžejs Pasečņiks,Did Not Play
+December 26 2020,WAS,Moritz Wagner,Did Not Play
+December 26 2020,WAS,Anthony Gill,Did Not Play
+December 26 2020,WAS,Team Totals,240,46,95,.484,13,37,.351,15,28,.536,7,36,43,28,5,3,14,25,120
+December 26 2020,PHI,Ben Simmons,32:53,5,9,.556,0,0,,5,8,.625,1,8,9,6,1,2,3,4,15,+22
+December 26 2020,PHI,Joel Embiid,30:39,10,20,.500,2,4,.500,5,7,.714,4,6,10,2,1,1,1,3,27,+18
+December 26 2020,PHI,Tobias Harris,30:10,7,14,.500,2,5,.400,1,2,.500,2,3,5,2,0,2,0,2,17,+32
+December 26 2020,PHI,Seth Curry,29:53,6,8,.750,3,4,.750,2,2,1.000,0,4,4,3,1,0,0,0,17,+23
+December 26 2020,PHI,Danny Green,28:02,2,6,.333,2,6,.333,0,0,,1,4,5,3,4,0,1,2,6,+19
+December 26 2020,PHI,Shake Milton,22:32,4,8,.500,0,2,.000,2,2,1.000,0,1,1,0,0,0,3,3,10,-4
+December 26 2020,PHI,Furkan Korkmaz,18:00,1,7,.143,1,5,.200,0,0,,0,3,3,1,0,0,3,1,3,-4
+December 26 2020,PHI,Mike Scott,16:46,1,5,.200,1,5,.200,0,0,,0,2,2,0,0,0,0,0,3,-8
+December 26 2020,PHI,Dwight Howard,15:24,4,7,.571,0,0,,1,1,1.000,3,3,6,0,1,1,0,4,9,-1
+December 26 2020,PHI,Tyrese Maxey,8:49,1,4,.250,0,0,,0,0,,1,1,2,3,0,0,1,0,2,+2
+December 26 2020,PHI,Matisse Thybulle,6:52,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,+1
+December 26 2020,PHI,Isaiah Joe,Did Not Play
+December 26 2020,PHI,Dakota Mathias,Did Not Play
+December 26 2020,PHI,Terrance Ferguson,Did Not Play
+December 26 2020,PHI,Tony Bradley,Did Not Play
+December 26 2020,PHI,Team Totals,240,41,88,.466,11,31,.355,16,22,.727,12,35,47,20,9,6,12,19,109
+December 26 2020,NYK,RJ Barrett,37:04,2,15,.133,0,6,.000,6,8,.750,1,5,6,4,0,0,4,0,10,-16
+December 26 2020,NYK,Julius Randle,34:35,11,15,.733,2,2,1.000,1,2,.500,3,4,7,3,1,0,4,4,25,-20
+December 26 2020,NYK,Reggie Bullock,27:23,2,7,.286,1,4,.250,1,2,.500,0,3,3,2,0,0,0,4,6,-13
+December 26 2020,NYK,Mitchell Robinson,24:59,5,8,.625,0,0,,1,2,.500,5,4,9,0,1,2,0,3,11,-19
+December 26 2020,NYK,Elfrid Payton,18:14,0,6,.000,0,3,.000,0,0,,0,3,3,1,0,0,0,1,0,-15
+December 26 2020,NYK,Alec Burks,30:42,6,13,.462,4,6,.667,6,6,1.000,0,5,5,3,2,1,5,4,22,-4
+December 26 2020,NYK,Kevin Knox,28:33,3,6,.500,1,3,.333,0,0,,3,1,4,3,0,0,1,2,7,-9
+December 26 2020,NYK,Dennis Smith,17:38,1,5,.200,0,2,.000,2,2,1.000,0,2,2,2,1,0,1,4,4,+1
+December 26 2020,NYK,Nerlens Noel,15:58,2,5,.400,0,0,,0,1,.000,1,3,4,1,1,1,1,1,4,+1
+December 26 2020,NYK,Theo Pinson,2:27,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-3
+December 26 2020,NYK,Frank Ntilikina,2:27,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-3
+December 26 2020,NYK,Ignas Brazdeikis,Did Not Play
+December 26 2020,NYK,Jared Harper,Did Not Play
+December 26 2020,NYK,Team Totals,240,32,83,.386,8,29,.276,17,23,.739,13,30,43,19,6,4,16,23,89
+December 26 2020,IND,Domantas Sabonis,33:56,8,11,.727,0,1,.000,6,11,.545,1,9,10,11,1,0,5,6,22,+16
+December 26 2020,IND,Malcolm Brogdon,28:52,8,14,.571,1,4,.250,1,1,1.000,0,2,2,6,1,0,1,1,18,+8
+December 26 2020,IND,T.J. Warren,26:59,10,16,.625,0,2,.000,3,4,.750,2,4,6,3,0,0,0,3,23,+9
+December 26 2020,IND,Myles Turner,25:13,4,8,.500,1,4,.250,0,0,,0,5,5,1,2,4,1,4,9,+15
+December 26 2020,IND,Victor Oladipo,25:03,8,12,.667,5,5,1.000,1,1,1.000,0,7,7,1,2,0,2,2,22,+8
+December 26 2020,IND,Justin Holiday,31:25,2,5,.400,0,3,.000,1,2,.500,0,2,2,2,2,0,0,3,5,+3
+December 26 2020,IND,Doug McDermott,22:08,5,8,.625,2,4,.500,0,0,,2,6,8,0,0,0,1,2,12,+6
+December 26 2020,IND,T.J. McConnell,19:08,2,5,.400,0,0,,0,0,,2,1,3,8,3,0,3,2,4,+11
+December 26 2020,IND,Aaron Holiday,18:56,3,10,.300,0,3,.000,0,0,,0,2,2,2,3,0,2,2,6,+7
+December 26 2020,IND,Kelan Martin,2:05,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,0,0,2,+3
+December 26 2020,IND,Cassius Stanley,2:05,1,2,.500,0,0,,0,0,,1,0,1,0,0,0,1,0,2,+3
+December 26 2020,IND,Jalen Lecque,2:05,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,+3
+December 26 2020,IND,JaKarr Sampson,2:05,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,+3
+December 26 2020,IND,Team Totals,240,52,93,.559,9,26,.346,12,19,.632,9,40,49,34,15,4,16,26,125
+December 26 2020,CHI,Zach LaVine,28:50,6,13,.462,3,6,.500,2,2,1.000,0,1,1,2,1,0,3,4,17,-20
+December 26 2020,CHI,Wendell Carter,27:21,2,10,.200,0,1,.000,5,6,.833,3,3,6,2,0,2,1,3,9,-20
+December 26 2020,CHI,Lauri Markkanen,27:09,6,14,.429,2,8,.250,2,3,.667,2,7,9,0,0,0,2,2,16,-15
+December 26 2020,CHI,Coby White,24:57,4,10,.400,4,7,.571,0,0,,1,1,2,3,0,1,4,2,12,-16
+December 26 2020,CHI,Patrick Williams,22:04,2,6,.333,1,1,1.000,4,4,1.000,1,1,2,1,0,1,4,0,9,-14
+December 26 2020,CHI,Tomáš Satoranský,24:54,2,5,.400,0,1,.000,2,2,1.000,2,2,4,9,2,1,3,0,6,-1
+December 26 2020,CHI,Garrett Temple,19:51,2,7,.286,2,4,.500,0,0,,1,1,2,2,2,0,0,1,6,+7
+December 26 2020,CHI,Otto Porter,19:07,4,12,.333,1,5,.200,1,1,1.000,1,5,6,2,0,0,2,1,10,-6
+December 26 2020,CHI,Denzel Valentine,12:54,4,6,.667,3,4,.750,0,0,,0,1,1,0,1,1,0,0,11,-10
+December 26 2020,CHI,Daniel Gafford,11:57,1,3,.333,0,0,,1,2,.500,2,2,4,0,0,1,0,0,3,-3
+December 26 2020,CHI,Ryan Arcidiacono,8:26,1,3,.333,0,1,.000,3,3,1.000,0,3,3,2,1,0,0,0,5,+3
+December 26 2020,CHI,Chandler Hutchison,7:31,0,1,.000,0,0,,2,2,1.000,0,1,1,0,0,0,0,1,2,+2
+December 26 2020,CHI,Adam Mokoka,4:59,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,2,0,-2
+December 26 2020,CHI,Luke Kornet,Did Not Play
+December 26 2020,CHI,Cristiano Felício,Did Not Play
+December 26 2020,CHI,Team Totals,240,34,91,.374,16,39,.410,22,25,.880,13,28,41,23,7,7,20,16,106
+December 26 2020,TOR,Pascal Siakam,43:02,6,16,.375,0,5,.000,4,4,1.000,2,13,15,8,1,1,5,5,16,-4
+December 26 2020,TOR,OG Anunoby,35:44,3,6,.500,2,5,.400,2,4,.500,1,5,6,1,2,1,0,2,10,+2
+December 26 2020,TOR,Kyle Lowry,35:28,6,15,.400,2,6,.333,2,2,1.000,0,0,0,10,2,0,2,5,16,+3
+December 26 2020,TOR,Fred VanVleet,35:27,10,20,.500,5,12,.417,2,3,.667,0,3,3,9,1,0,1,1,27,-2
+December 26 2020,TOR,Aron Baynes,19:44,6,11,.545,1,4,.250,0,0,,3,4,7,1,0,0,1,3,13,+4
+December 26 2020,TOR,Chris Boucher,28:15,9,13,.692,3,4,.750,1,2,.500,4,6,10,1,0,7,0,4,22,-9
+December 26 2020,TOR,Matt Thomas,18:51,3,8,.375,2,5,.400,0,0,,0,3,3,1,0,0,1,0,8,-10
+December 26 2020,TOR,Norman Powell,17:54,0,5,.000,0,0,,0,0,,0,1,1,1,2,0,0,2,0,-2
+December 26 2020,TOR,DeAndre' Bembry,5:33,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,1,1,2,-7
+December 26 2020,TOR,Terence Davis,Did Not Play
+December 26 2020,TOR,Stanley Johnson,Did Not Play
+December 26 2020,TOR,Yuta Watanabe,Did Not Play
+December 26 2020,TOR,Alex Len,Did Not Play
+December 26 2020,TOR,Malachi Flynn,Did Not Play
+December 26 2020,TOR,Paul Watson,Did Not Play
+December 26 2020,TOR,Team Totals,240,44,96,.458,15,41,.366,11,15,.733,10,36,46,32,8,9,11,23,114
+December 26 2020,SAS,DeMar DeRozan,36:26,10,17,.588,3,4,.750,4,5,.800,1,4,5,8,2,0,2,2,27,+7
+December 26 2020,SAS,Dejounte Murray,29:59,5,15,.333,0,3,.000,1,1,1.000,2,8,10,10,0,0,2,3,11,-5
+December 26 2020,SAS,LaMarcus Aldridge,28:43,5,14,.357,1,5,.200,1,2,.500,1,5,6,4,0,1,0,2,12,-9
+December 26 2020,SAS,Keldon Johnson,28:27,5,15,.333,0,2,.000,2,2,1.000,2,7,9,0,1,1,2,2,12,-10
+December 26 2020,SAS,Lonnie Walker,24:53,6,14,.429,2,8,.250,0,1,.000,1,3,4,2,0,0,2,3,14,-13
+December 26 2020,SAS,Patty Mills,29:38,8,9,.889,5,6,.833,0,0,,1,0,1,3,0,0,1,2,21,+12
+December 26 2020,SAS,Rudy Gay,27:05,2,6,.333,1,4,.250,3,4,.750,1,4,5,2,0,0,3,3,8,+21
+December 26 2020,SAS,Jakob Poeltl,18:47,2,4,.500,0,0,,0,1,.000,4,3,7,5,0,0,2,0,4,+10
+December 26 2020,SAS,Devin Vassell,11:53,3,5,.600,1,1,1.000,0,0,,0,5,5,1,1,1,2,3,7,+14
+December 26 2020,SAS,Trey Lyles,4:08,1,1,1.000,1,1,1.000,0,0,,1,0,1,1,0,0,0,0,3,-2
+December 26 2020,SAS,Luka Šamanić,Did Not Play
+December 26 2020,SAS,Tre Jones,Did Not Play
+December 26 2020,SAS,Keita Bates-Diop,Did Not Play
+December 26 2020,SAS,Drew Eubanks,Did Not Play
+December 26 2020,SAS,Team Totals,240,47,100,.470,14,34,.412,11,16,.688,14,39,53,36,4,3,16,20,119
+December 26 2020,MIN,Malik Beasley,38:42,7,17,.412,1,4,.250,3,3,1.000,2,4,6,0,1,0,2,3,18,+13
+December 26 2020,MIN,D'Angelo Russell,34:11,9,21,.429,3,6,.500,4,8,.500,0,2,2,6,1,0,2,4,25,-9
+December 26 2020,MIN,Josh Okogie,31:33,4,8,.500,0,1,.000,0,0,,3,3,6,2,0,1,0,3,8,-4
+December 26 2020,MIN,Karl-Anthony Towns,29:54,6,19,.316,1,5,.200,3,3,1.000,3,9,12,3,1,4,2,3,16,+11
+December 26 2020,MIN,Jake Layman,13:36,0,0,,0,0,,0,0,,0,0,0,1,1,0,1,2,0,0
+December 26 2020,MIN,Ricky Rubio,26:42,3,8,.375,1,3,.333,2,2,1.000,0,4,4,6,1,0,1,4,9,+6
+December 26 2020,MIN,Anthony Edwards,22:20,8,12,.667,2,3,.667,0,0,,0,1,1,1,2,0,0,4,18,+6
+December 26 2020,MIN,Jarrett Culver,19:44,5,7,.714,3,3,1.000,1,2,.500,3,3,6,0,1,0,0,3,14,+9
+December 26 2020,MIN,Naz Reid,17:36,3,8,.375,2,4,.500,0,0,,0,2,2,2,1,0,1,1,8,-9
+December 26 2020,MIN,Juan Hernangómez,5:15,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,1,0,-1
+December 26 2020,MIN,Ed Davis,0:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+3
+December 26 2020,MIN,Jaden McDaniels,Did Not Play
+December 26 2020,MIN,Jarred Vanderbilt,Did Not Play
+December 26 2020,MIN,Team Totals,240,45,101,.446,13,29,.448,13,18,.722,12,28,40,21,9,5,9,28,116
+December 26 2020,UTA,Donovan Mitchell,37:16,6,23,.261,2,9,.222,7,9,.778,1,1,2,5,3,2,3,2,21,-5
+December 26 2020,UTA,Royce O'Neale,34:08,2,4,.500,1,2,.500,0,0,,3,10,13,1,0,0,2,1,5,-16
+December 26 2020,UTA,Bojan Bogdanović,34:03,3,16,.188,1,5,.200,2,2,1.000,3,4,7,1,0,1,0,0,9,-7
+December 26 2020,UTA,Mike Conley,33:33,6,13,.462,2,7,.286,6,8,.750,0,6,6,4,1,0,4,5,20,+9
+December 26 2020,UTA,Rudy Gobert,29:03,7,10,.700,0,0,,4,6,.667,8,9,17,2,0,1,4,4,18,+7
+December 26 2020,UTA,Joe Ingles,25:52,3,8,.375,2,5,.400,2,2,1.000,1,1,2,0,0,0,3,3,10,-13
+December 26 2020,UTA,Jordan Clarkson,23:05,8,17,.471,2,6,.333,5,6,.833,1,2,3,0,0,0,0,0,23,+6
+December 26 2020,UTA,Derrick Favors,17:56,1,3,.333,0,0,,3,4,.750,2,4,6,2,1,0,2,4,5,-6
+December 26 2020,UTA,Georges Niang,4:03,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,1,0,+6
+December 26 2020,UTA,Juwan Morgan,1:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-6
+December 26 2020,UTA,Elijah Hughes,Did Not Play
+December 26 2020,UTA,Udoka Azubuike,Did Not Play
+December 26 2020,UTA,Shaquille Harrison,Did Not Play
+December 26 2020,UTA,Miye Oni,Did Not Play
+December 26 2020,UTA,Team Totals,240,36,94,.383,10,34,.294,29,37,.784,20,38,58,15,5,4,18,20,111
+December 26 2020,HOU,Christian Wood,43:37,14,22,.636,0,2,.000,3,4,.750,3,10,13,3,0,1,3,4,31,-6
+December 26 2020,HOU,James Harden,43:16,12,22,.545,6,13,.462,14,16,.875,1,3,4,17,1,0,4,1,44,-6
+December 26 2020,HOU,P.J. Tucker,42:31,3,10,.300,1,4,.250,0,2,.000,3,8,11,1,1,1,4,3,7,-6
+December 26 2020,HOU,Danuel House,38:07,3,8,.375,1,4,.250,4,6,.667,0,3,3,1,1,0,1,1,11,-6
+December 26 2020,HOU,David Nwaba,26:46,4,10,.400,0,3,.000,2,2,1.000,1,1,2,0,1,2,0,2,10,-5
+December 26 2020,HOU,Jae'Sean Tate,37:14,5,9,.556,1,4,.250,2,2,1.000,1,3,4,2,1,0,1,4,13,+14
+December 26 2020,HOU,Sterling Brown,20:12,4,5,.800,2,3,.667,0,0,,0,1,1,0,0,0,1,3,10,-6
+December 26 2020,HOU,Brodric Thomas,9:44,0,1,.000,0,1,.000,0,0,,1,2,3,3,0,0,1,3,0,+4
+December 26 2020,HOU,Bruno Caboclo,3:33,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,1,0,1,0,+7
+December 26 2020,HOU,John Wall,Did Not Play
+December 26 2020,HOU,Eric Gordon,Did Not Play
+December 26 2020,HOU,Mason Jones,Did Not Play
+December 26 2020,HOU,DeMarcus Cousins,Did Not Play
+December 26 2020,HOU,Team Totals,265,45,88,.511,11,35,.314,25,32,.781,10,32,42,27,5,5,15,22,126
+December 26 2020,POR,CJ McCollum,43:50,17,30,.567,9,16,.563,1,2,.500,0,3,3,8,1,0,0,1,44,+8
+December 26 2020,POR,Damian Lillard,41:21,11,28,.393,5,13,.385,5,5,1.000,1,4,5,9,1,0,5,1,32,+9
+December 26 2020,POR,Robert Covington,38:28,3,7,.429,1,4,.250,2,2,1.000,1,7,8,0,2,1,2,3,9,+16
+December 26 2020,POR,Derrick Jones,36:24,2,4,.500,0,0,,2,4,.500,2,4,6,1,1,1,0,5,6,+5
+December 26 2020,POR,Jusuf Nurkić,34:45,5,11,.455,0,2,.000,2,6,.333,3,8,11,6,0,1,3,3,12,+10
+December 26 2020,POR,Carmelo Anthony,20:26,2,9,.222,1,2,.500,0,0,,0,1,1,2,2,0,0,2,5,-16
+December 26 2020,POR,Enes Kanter,18:15,4,5,.800,0,0,,2,2,1.000,4,5,9,0,0,1,2,2,10,-8
+December 26 2020,POR,Rodney Hood,15:45,1,2,.500,1,2,.500,0,0,,0,0,0,1,2,0,1,2,3,-1
+December 26 2020,POR,Anfernee Simons,9:51,2,5,.400,2,5,.400,1,2,.500,0,1,1,0,1,2,0,0,7,-5
+December 26 2020,POR,Gary Trent,5:55,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-8
+December 26 2020,POR,Harry Giles,Did Not Play
+December 26 2020,POR,CJ Elleby,Did Not Play
+December 26 2020,POR,Keljin Blevins,Did Not Play
+December 26 2020,POR,Team Totals,265,47,102,.461,19,45,.422,15,23,.652,11,34,45,27,10,6,13,20,128
+December 26 2020,PHO,Devin Booker,38:15,10,21,.476,3,7,.429,3,3,1.000,0,3,3,3,1,0,7,5,26,+3
+December 26 2020,PHO,Chris Paul,32:47,8,19,.421,2,6,.333,4,5,.800,1,4,5,12,2,1,0,4,22,-1
+December 26 2020,PHO,Jae Crowder,32:44,7,13,.538,3,8,.375,0,0,,1,7,8,2,1,0,0,1,17,-1
+December 26 2020,PHO,Deandre Ayton,29:56,3,5,.600,0,0,,3,5,.600,4,8,12,2,0,1,2,5,9,+7
+December 26 2020,PHO,Mikal Bridges,26:49,4,8,.500,1,5,.200,0,0,,1,2,3,1,1,3,0,2,9,+2
+December 26 2020,PHO,Cameron Johnson,25:03,3,10,.300,2,8,.250,0,0,,1,1,2,1,1,0,0,1,8,-10
+December 26 2020,PHO,Damian Jones,15:27,1,3,.333,0,0,,0,0,,0,2,2,0,0,0,0,2,2,-10
+December 26 2020,PHO,Cameron Payne,15:13,4,7,.571,0,1,.000,0,0,,0,1,1,4,1,0,2,2,8,-2
+December 26 2020,PHO,Langston Galloway,9:46,0,3,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-3
+December 26 2020,PHO,Jevon Carter,7:18,1,6,.167,0,5,.000,0,0,,0,1,1,0,1,0,0,0,2,-3
+December 26 2020,PHO,Jalen Smith,4:05,0,2,.000,0,1,.000,0,0,,2,0,2,0,0,0,0,0,0,+3
+December 26 2020,PHO,Frank Kaminsky,2:37,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,0
+December 26 2020,PHO,Dario Šarić,Did Not Play
+December 26 2020,PHO,Ty-Shon Alexander,Did Not Play
+December 26 2020,PHO,E'Twaun Moore,Did Not Play
+December 26 2020,PHO,Team Totals,240,41,98,.418,11,44,.250,10,13,.769,10,30,40,25,8,5,11,23,103
+December 26 2020,SAC,De'Aaron Fox,34:54,7,14,.500,3,7,.429,7,8,.875,1,3,4,7,1,2,5,2,24,-3
+December 26 2020,SAC,Buddy Hield,34:41,4,14,.286,2,7,.286,4,6,.667,1,3,4,0,1,0,1,3,14,+1
+December 26 2020,SAC,Harrison Barnes,34:08,5,14,.357,0,2,.000,1,1,1.000,1,10,11,2,0,1,2,0,11,+2
+December 26 2020,SAC,Richaun Holmes,24:02,3,5,.600,0,0,,5,5,1.000,3,6,9,1,1,0,4,4,11,-1
+December 26 2020,SAC,Marvin Bagley,20:42,5,10,.500,0,1,.000,3,7,.429,6,5,11,1,0,0,3,3,13,-3
+December 26 2020,SAC,Tyrese Haliburton,26:09,1,4,.250,0,3,.000,0,0,,0,2,2,5,0,1,1,2,2,+6
+December 26 2020,SAC,Cory Joseph,19:08,1,8,.125,0,2,.000,1,2,.500,0,3,3,1,0,1,1,2,3,-2
+December 26 2020,SAC,Nemanja Bjelica,15:39,5,6,.833,0,0,,2,2,1.000,1,0,1,2,0,1,0,3,12,+8
+December 26 2020,SAC,Glenn Robinson,15:21,4,6,.667,0,1,.000,0,0,,0,3,3,0,0,1,0,1,8,+4
+December 26 2020,SAC,Hassan Whiteside,15:16,4,5,.800,0,0,,0,2,.000,2,6,8,1,1,2,1,2,8,+3
+December 26 2020,SAC,Jabari Parker,Did Not Play
+December 26 2020,SAC,Kyle Guy,Did Not Play
+December 26 2020,SAC,Robert Woodard,Did Not Play
+December 26 2020,SAC,Justin James,Did Not Play
+December 26 2020,SAC,Chimezie Metu,Did Not Play
+December 26 2020,SAC,Team Totals,240,39,86,.453,5,23,.217,23,33,.697,15,41,56,20,4,9,18,22,106
+December 27 2020,DAL,Josh Richardson,26:42,8,13,.615,4,8,.500,1,1,1.000,2,1,3,2,1,0,0,3,21,+22
+December 27 2020,DAL,Luka Dončić,25:55,8,18,.444,0,5,.000,8,9,.889,0,9,9,8,1,0,2,0,24,+29
+December 27 2020,DAL,Tim Hardaway,22:59,7,14,.500,4,8,.500,0,0,,0,5,5,2,2,0,0,2,18,+27
+December 27 2020,DAL,Dorian Finney-Smith,18:02,2,4,.500,2,4,.500,2,2,1.000,0,1,1,1,0,0,0,1,8,+25
+December 27 2020,DAL,Dwight Powell,17:54,1,1,1.000,0,0,,2,2,1.000,1,3,4,0,1,0,1,2,4,+12
+December 27 2020,DAL,James Johnson,20:24,1,6,.167,1,3,.333,2,2,1.000,2,6,8,3,2,0,0,2,5,+25
+December 27 2020,DAL,Willie Cauley-Stein,18:01,3,5,.600,0,1,.000,3,3,1.000,4,2,6,2,0,1,0,0,9,+31
+December 27 2020,DAL,Trey Burke,17:30,2,3,.667,1,2,.500,0,0,,0,2,2,1,1,0,1,0,5,+28
+December 27 2020,DAL,Maxi Kleber,17:04,1,2,.500,1,2,.500,2,2,1.000,0,5,5,1,0,1,0,2,5,+26
+December 27 2020,DAL,Jalen Brunson,13:19,4,6,.667,1,3,.333,2,2,1.000,0,2,2,3,0,0,0,0,11,+20
+December 27 2020,DAL,Wesley Iwundu,11:34,3,6,.500,0,2,.000,0,0,,0,1,1,0,1,0,0,1,6,+2
+December 27 2020,DAL,Josh Green,11:34,1,3,.333,0,0,,2,2,1.000,0,2,2,2,0,0,1,0,4,+2
+December 27 2020,DAL,Boban Marjanović,10:16,2,4,.500,0,2,.000,0,2,.000,2,3,5,0,0,0,1,0,4,+4
+December 27 2020,DAL,Tyrell Terry,8:46,0,2,.000,0,1,.000,0,0,,0,1,1,0,1,0,0,1,0,+2
+December 27 2020,DAL,Team Totals,240,43,87,.494,14,41,.341,24,27,.889,11,43,54,25,10,2,6,14,124
+December 27 2020,LAC,Luke Kennard,29:00,3,11,.273,1,6,.167,0,0,,0,2,2,1,1,0,2,2,7,-29
+December 27 2020,LAC,Paul George,24:09,4,13,.308,0,6,.000,7,8,.875,0,2,2,4,0,0,4,1,15,-22
+December 27 2020,LAC,Patrick Beverley,21:55,0,2,.000,0,2,.000,2,2,1.000,0,2,2,0,0,0,1,4,2,-23
+December 27 2020,LAC,Nicolas Batum,21:30,2,4,.500,0,1,.000,0,0,,1,5,6,1,0,0,1,2,4,-17
+December 27 2020,LAC,Serge Ibaka,19:32,6,11,.545,0,4,.000,1,2,.500,1,8,9,1,0,1,0,2,13,-14
+December 27 2020,LAC,Terance Mann,23:51,2,8,.250,0,2,.000,0,0,,0,3,3,2,0,0,1,2,4,-29
+December 27 2020,LAC,Reggie Jackson,20:54,3,6,.500,2,5,.400,0,0,,0,3,3,1,0,0,2,0,8,-21
+December 27 2020,LAC,Amir Coffey,17:39,0,5,.000,0,2,.000,1,2,.500,1,0,1,2,0,0,0,1,1,-8
+December 27 2020,LAC,Ivica Zubac,16:28,3,4,.750,0,0,,4,4,1.000,1,1,2,0,0,0,0,1,10,-33
+December 27 2020,LAC,Mfiondu Kabengele,15:11,1,3,.333,1,3,.333,2,2,1.000,0,2,2,0,1,0,0,2,5,-5
+December 27 2020,LAC,Daniel Oturu,12:00,2,4,.500,0,1,.000,0,0,,0,2,2,0,0,1,1,2,4,-4
+December 27 2020,LAC,Lou Williams,9:00,0,4,.000,0,0,,0,0,,1,0,1,1,0,0,0,0,0,-24
+December 27 2020,LAC,Patrick Patterson,8:51,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-26
+December 27 2020,LAC,Kawhi Leonard,Did Not Play
+December 27 2020,LAC,Team Totals,240,26,76,.342,4,33,.121,17,20,.850,5,31,36,13,2,2,12,19,73
+December 27 2020,SAS,Lonnie Walker,34:08,6,14,.429,4,7,.571,0,0,,0,2,2,1,0,1,0,4,16,-13
+December 27 2020,SAS,DeMar DeRozan,31:03,3,12,.250,0,4,.000,2,2,1.000,0,3,3,10,0,1,2,5,8,-18
+December 27 2020,SAS,Dejounte Murray,31:02,6,9,.667,1,3,.333,0,0,,0,7,7,3,2,0,6,1,13,-6
+December 27 2020,SAS,Keldon Johnson,30:47,5,10,.500,2,5,.400,2,2,1.000,2,9,11,5,1,2,2,3,14,+3
+December 27 2020,SAS,LaMarcus Aldridge,20:15,2,7,.286,0,2,.000,0,0,,1,3,4,1,0,2,2,3,4,-16
+December 27 2020,SAS,Rudy Gay,28:07,9,20,.450,2,8,.250,2,2,1.000,1,5,6,2,2,2,1,2,22,+9
+December 27 2020,SAS,Jakob Poeltl,23:19,4,6,.667,0,0,,0,0,,0,8,8,0,0,2,1,3,8,+15
+December 27 2020,SAS,Patty Mills,23:06,3,6,.500,2,4,.500,2,2,1.000,0,2,2,3,0,0,1,1,10,+11
+December 27 2020,SAS,Devin Vassell,12:09,0,4,.000,0,2,.000,0,0,,0,2,2,1,0,0,0,1,0,+6
+December 27 2020,SAS,Trey Lyles,6:04,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-6
+December 27 2020,SAS,Luka Šamanić,Did Not Play
+December 27 2020,SAS,Keita Bates-Diop,Did Not Play
+December 27 2020,SAS,Tre Jones,Did Not Play
+December 27 2020,SAS,Drew Eubanks,Did Not Play
+December 27 2020,SAS,Team Totals,240,38,89,.427,11,36,.306,8,8,1.000,4,43,47,26,5,10,15,23,95
+December 27 2020,NOP,Zion Williamson,38:03,7,22,.318,0,1,.000,4,7,.571,5,6,11,0,5,1,1,3,18,-1
+December 27 2020,NOP,Lonzo Ball,37:25,7,14,.500,1,5,.200,1,2,.500,1,7,8,5,5,0,2,2,16,+8
+December 27 2020,NOP,Brandon Ingram,35:15,9,23,.391,2,5,.400,8,10,.800,2,9,11,6,0,1,3,1,28,+15
+December 27 2020,NOP,Steven Adams,30:51,4,7,.571,0,0,,0,2,.000,3,6,9,3,0,1,0,1,8,+18
+December 27 2020,NOP,Eric Bledsoe,28:22,3,11,.273,1,5,.200,0,0,,1,1,2,0,1,1,1,1,7,-4
+December 27 2020,NOP,Josh Hart,32:59,3,6,.500,1,2,.500,5,5,1.000,1,9,10,0,0,0,0,3,12,+10
+December 27 2020,NOP,J.J. Redick,19:56,1,8,.125,0,6,.000,1,1,1.000,0,1,1,1,0,0,0,1,3,-16
+December 27 2020,NOP,Jaxson Hayes,17:09,2,3,.667,0,0,,2,2,1.000,0,4,4,0,0,0,1,4,6,-15
+December 27 2020,NOP,Kira Lewis,Did Not Play
+December 27 2020,NOP,Willy Hernangómez,Did Not Play
+December 27 2020,NOP,Naji Marshall,Did Not Play
+December 27 2020,NOP,Nicolò Melli,Did Not Play
+December 27 2020,NOP,Sindarius Thornwell,Did Not Play
+December 27 2020,NOP,Nickeil Alexander-Walker,Did Not Play
+December 27 2020,NOP,Team Totals,240,36,94,.383,5,24,.208,21,29,.724,13,43,56,15,11,4,8,16,98
+December 27 2020,ORL,Markelle Fultz,29:03,11,21,.524,2,3,.667,2,2,1.000,0,2,2,2,1,0,2,1,26,-11
+December 27 2020,ORL,Nikola Vučević,28:04,5,11,.455,1,4,.250,4,4,1.000,0,8,8,4,2,0,0,2,15,-11
+December 27 2020,ORL,Evan Fournier,27:50,4,10,.400,2,5,.400,9,10,.900,1,0,1,2,0,0,1,2,19,-15
+December 27 2020,ORL,Aaron Gordon,19:48,1,4,.250,0,1,.000,2,2,1.000,0,6,6,0,0,0,0,0,4,-12
+December 27 2020,ORL,Dwayne Bacon,17:16,2,4,.500,0,1,.000,2,2,1.000,0,3,3,0,0,1,1,1,6,-15
+December 27 2020,ORL,Terrence Ross,30:44,7,15,.467,4,7,.571,8,8,1.000,1,0,1,0,1,0,2,4,26,+22
+December 27 2020,ORL,Michael Carter-Williams,23:07,3,3,1.000,0,0,,0,0,,1,5,6,3,2,1,2,1,6,+28
+December 27 2020,ORL,Khem Birch,19:56,1,6,.167,0,0,,4,4,1.000,2,5,7,2,0,1,0,1,6,+18
+December 27 2020,ORL,Cole Anthony,18:57,3,9,.333,0,2,.000,6,6,1.000,4,3,7,3,0,0,0,1,12,+18
+December 27 2020,ORL,Chuma Okeke,16:12,0,0,,0,0,,0,0,,1,0,1,2,0,0,1,0,0,-5
+December 27 2020,ORL,Gary Clark,9:03,0,2,.000,0,2,.000,0,0,,1,2,3,1,0,0,1,1,0,+18
+December 27 2020,ORL,Jordan Bone,Did Not Play
+December 27 2020,ORL,Karim Mané,Did Not Play
+December 27 2020,ORL,Mohamed Bamba,Did Not Play
+December 27 2020,ORL,Team Totals,240,37,85,.435,9,25,.360,37,38,.974,11,34,45,19,6,3,10,14,120
+December 27 2020,WAS,Bradley Beal,39:06,10,29,.345,0,7,.000,9,9,1.000,0,5,5,7,0,1,1,1,29,-1
+December 27 2020,WAS,Deni Avdija,36:11,4,11,.364,1,5,.200,0,0,,2,7,9,3,2,0,1,1,9,+13
+December 27 2020,WAS,Thomas Bryant,32:27,8,15,.533,0,2,.000,0,0,,4,3,7,5,1,1,1,5,16,+1
+December 27 2020,WAS,Raul Neto,32:13,10,17,.588,2,8,.250,0,0,,2,2,4,5,3,0,2,2,22,+1
+December 27 2020,WAS,Isaac Bonga,18:06,2,2,1.000,2,2,1.000,0,0,,1,6,7,1,0,1,0,2,6,+20
+December 27 2020,WAS,Troy Brown,23:59,5,7,.714,2,4,.500,0,0,,2,3,5,1,0,0,2,4,12,-24
+December 27 2020,WAS,Dāvis Bertāns,19:22,1,4,.250,1,4,.250,2,3,.667,0,2,2,1,0,1,1,3,5,-14
+December 27 2020,WAS,Ish Smith,15:47,2,5,.400,0,0,,0,0,,0,3,3,4,0,0,1,3,4,-8
+December 27 2020,WAS,Robin Lopez,15:33,4,6,.667,0,0,,0,1,.000,2,3,5,0,0,0,2,2,8,-8
+December 27 2020,WAS,Jerome Robinson,7:16,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,2,3,2,-15
+December 27 2020,WAS,Anthony Gill,Did Not Play
+December 27 2020,WAS,Moritz Wagner,Did Not Play
+December 27 2020,WAS,Anžejs Pasečņiks,Did Not Play
+December 27 2020,WAS,Team Totals,240,47,97,.485,8,32,.250,11,13,.846,13,34,47,27,6,4,13,26,113
+December 27 2020,BRK,Kevin Durant,36:21,9,15,.600,5,7,.714,6,9,.667,0,3,3,4,0,1,3,3,29,+7
+December 27 2020,BRK,Kyrie Irving,36:21,10,17,.588,3,8,.375,2,2,1.000,0,3,3,6,1,0,4,1,25,+7
+December 27 2020,BRK,Joe Harris,32:19,5,12,.417,3,7,.429,0,0,,0,2,2,1,0,0,3,2,13,+2
+December 27 2020,BRK,DeAndre Jordan,18:58,0,2,.000,0,0,,1,2,.500,1,11,12,2,0,1,2,3,1,+2
+December 27 2020,BRK,Spencer Dinwiddie,15:11,2,4,.500,1,2,.500,0,0,,0,4,4,3,0,0,0,0,5,+2
+December 27 2020,BRK,Caris LeVert,25:49,4,12,.333,2,7,.286,0,0,,1,4,5,4,1,1,0,0,10,-12
+December 27 2020,BRK,Jarrett Allen,25:21,1,2,.500,0,0,,6,8,.750,4,10,14,1,0,1,2,1,8,-3
+December 27 2020,BRK,Landry Shamet,13:18,0,9,.000,0,8,.000,0,0,,0,1,1,0,0,0,3,2,0,-4
+December 27 2020,BRK,Jeff Green,12:43,0,0,,0,0,,0,0,,0,0,0,2,0,0,0,1,0,-5
+December 27 2020,BRK,Timothé Luwawu-Cabarrot,12:00,4,4,1.000,3,3,1.000,0,0,,0,0,0,0,1,0,1,2,11,+3
+December 27 2020,BRK,Taurean Prince,11:39,0,5,.000,0,5,.000,2,4,.500,0,2,2,0,1,1,1,2,2,-9
+December 27 2020,BRK,Rodions Kurucs,Did Not Play
+December 27 2020,BRK,Reggie Perry,Did Not Play
+December 27 2020,BRK,Tyler Johnson,Did Not Play
+December 27 2020,BRK,Bruce Brown,Did Not Play
+December 27 2020,BRK,Team Totals,240,35,82,.427,17,47,.362,17,25,.680,6,40,46,23,4,5,19,17,104
+December 27 2020,CHO,Gordon Hayward,35:35,12,20,.600,2,3,.667,2,2,1.000,1,5,6,7,1,0,0,1,28,+1
+December 27 2020,CHO,Devonte' Graham,35:29,5,15,.333,3,9,.333,0,0,,0,8,8,3,2,0,0,3,13,+14
+December 27 2020,CHO,P.J. Washington,34:35,6,16,.375,0,2,.000,2,6,.333,6,6,12,5,2,0,3,5,14,+7
+December 27 2020,CHO,Terry Rozier,30:27,7,14,.500,1,7,.143,4,5,.800,0,4,4,5,0,0,2,1,19,-8
+December 27 2020,CHO,Bismack Biyombo,29:38,5,6,.833,0,0,,2,4,.500,4,2,6,1,0,1,1,5,12,-3
+December 27 2020,CHO,Miles Bridges,27:42,4,9,.444,2,5,.400,0,0,,0,4,4,3,1,2,2,3,10,+2
+December 27 2020,CHO,LaMelo Ball,20:01,2,6,.333,2,3,.667,0,0,,0,5,5,5,1,0,3,4,6,-4
+December 27 2020,CHO,Cody Martin,17:43,2,6,.333,0,3,.000,0,0,,2,4,6,4,0,0,1,1,4,+5
+December 27 2020,CHO,Caleb Martin,4:45,0,1,.000,0,1,.000,0,0,,0,0,0,0,1,0,0,1,0,-2
+December 27 2020,CHO,Jalen McDaniels,4:05,0,3,.000,0,1,.000,0,0,,0,1,1,2,0,0,0,1,0,-2
+December 27 2020,CHO,Vernon Carey,Did Not Play
+December 27 2020,CHO,Nick Richards,Did Not Play
+December 27 2020,CHO,Malik Monk,Did Not Play
+December 27 2020,CHO,Team Totals,240,43,96,.448,10,34,.294,10,17,.588,13,39,52,35,8,3,12,25,106
+December 27 2020,PHI,Ben Simmons,28:26,5,8,.625,0,0,,5,7,.714,0,6,6,4,2,2,6,2,15,-21
+December 27 2020,PHI,Tobias Harris,28:21,5,10,.500,4,6,.667,2,2,1.000,0,9,9,5,3,0,3,1,16,-16
+December 27 2020,PHI,Seth Curry,24:26,2,7,.286,2,5,.400,2,2,1.000,0,1,1,4,0,0,2,2,8,-7
+December 27 2020,PHI,Danny Green,17:30,1,2,.500,0,1,.000,2,2,1.000,1,2,3,1,0,1,1,1,4,-4
+December 27 2020,PHI,Dwight Howard,15:00,4,4,1.000,0,0,,1,2,.500,1,2,3,0,0,0,3,4,9,-14
+December 27 2020,PHI,Shake Milton,22:29,2,6,.333,1,3,.333,1,2,.500,0,1,1,2,0,0,1,2,6,-22
+December 27 2020,PHI,Tyrese Maxey,21:40,3,8,.375,0,2,.000,0,0,,0,0,0,1,1,0,1,1,6,-14
+December 27 2020,PHI,Mike Scott,18:37,4,8,.500,3,7,.429,1,2,.500,2,1,3,0,1,0,3,2,12,-8
+December 27 2020,PHI,Tony Bradley,17:25,2,7,.286,0,0,,0,1,.000,4,4,8,1,0,2,0,2,4,-5
+December 27 2020,PHI,Furkan Korkmaz,16:40,1,8,.125,0,5,.000,2,2,1.000,0,2,2,2,1,0,1,0,4,-23
+December 27 2020,PHI,Matisse Thybulle,8:14,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-4
+December 27 2020,PHI,Dakota Mathias,7:04,3,6,.500,2,4,.500,0,0,,0,1,1,2,0,0,0,0,8,+6
+December 27 2020,PHI,Isaiah Joe,7:04,1,2,.500,0,1,.000,0,0,,0,1,1,1,1,0,0,0,2,+6
+December 27 2020,PHI,Terrance Ferguson,7:04,0,2,.000,0,2,.000,0,0,,0,0,0,1,0,0,0,1,0,+6
+December 27 2020,PHI,Joel Embiid,Did Not Dress
+December 27 2020,PHI,Team Totals,240,33,79,.418,12,37,.324,16,22,.727,8,31,39,24,9,5,21,19,94
+December 27 2020,CLE,Larry Nance,35:22,5,6,.833,3,4,.750,0,0,,1,3,4,5,2,0,4,3,13,+21
+December 27 2020,CLE,Collin Sexton,29:20,8,15,.533,1,2,.500,5,6,.833,0,3,3,3,1,0,1,1,22,+9
+December 27 2020,CLE,Darius Garland,28:56,7,15,.467,0,3,.000,0,0,,0,0,0,7,2,0,2,2,14,+21
+December 27 2020,CLE,Andre Drummond,25:40,11,18,.611,0,0,,2,4,.500,6,8,14,3,3,2,1,1,24,+27
+December 27 2020,CLE,Kevin Love,8:50,2,6,.333,0,1,.000,0,0,,1,2,3,2,1,0,0,0,4,+2
+December 27 2020,CLE,Dante Exum,23:05,3,5,.600,0,1,.000,0,0,,1,3,4,6,2,0,1,5,6,+29
+December 27 2020,CLE,Cedi Osman,21:46,5,8,.625,2,4,.500,2,2,1.000,0,2,2,2,1,1,1,4,14,+20
+December 27 2020,CLE,Damyean Dotson,19:42,2,5,.400,1,3,.333,0,0,,0,1,1,1,1,0,2,0,5,+5
+December 27 2020,CLE,JaVale McGee,16:26,2,6,.333,1,2,.500,2,2,1.000,0,6,6,2,0,2,2,2,7,0
+December 27 2020,CLE,Dean Wade,14:25,1,4,.250,1,3,.333,0,0,,1,3,4,0,0,1,1,2,3,-7
+December 27 2020,CLE,Marques Bolden,5:54,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,-3
+December 27 2020,CLE,Thon Maker,5:54,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,1,2,2,-3
+December 27 2020,CLE,Lamar Stevens,4:40,0,1,.000,0,0,,2,2,1.000,0,2,2,0,0,0,0,0,2,-1
+December 27 2020,CLE,Team Totals,240,48,91,.527,9,23,.391,13,16,.813,11,34,45,31,13,6,16,22,118
+December 27 2020,MIL,Khris Middleton,32:46,8,18,.444,1,6,.167,5,5,1.000,1,3,4,5,0,0,0,1,22,-23
+December 27 2020,MIL,Giannis Antetokounmpo,31:59,9,15,.600,1,5,.200,8,13,.615,2,11,13,5,3,0,3,3,27,-13
+December 27 2020,MIL,Jrue Holiday,27:55,4,10,.400,0,4,.000,0,0,,2,2,4,5,2,0,3,0,8,-9
+December 27 2020,MIL,Donte DiVincenzo,23:30,4,7,.571,2,4,.500,0,1,.000,0,2,2,1,0,0,1,0,10,-11
+December 27 2020,MIL,Brook Lopez,20:51,2,7,.286,0,4,.000,2,2,1.000,2,0,2,0,1,2,0,3,6,-25
+December 27 2020,MIL,Bobby Portis,26:07,7,12,.583,1,2,.500,2,2,1.000,5,2,7,2,1,1,1,5,17,+6
+December 27 2020,MIL,Bryn Forbes,17:39,0,4,.000,0,1,.000,1,2,.500,0,0,0,0,0,0,0,2,1,-9
+December 27 2020,MIL,Pat Connaughton,15:57,2,8,.250,0,5,.000,0,0,,1,2,3,1,0,1,0,2,4,-6
+December 27 2020,MIL,D.J. Augustin,13:45,0,6,.000,0,4,.000,2,2,1.000,0,1,1,1,0,0,1,0,2,-19
+December 27 2020,MIL,Jordan Nwora,7:27,4,6,.667,1,2,.500,0,0,,0,2,2,0,0,0,2,0,9,+6
+December 27 2020,MIL,Sam Merrill,7:27,1,2,.500,1,1,1.000,0,0,,1,2,3,2,0,0,0,1,3,+6
+December 27 2020,MIL,D.J. Wilson,6:54,0,0,,0,0,,1,2,.500,1,0,1,0,0,0,0,2,1,-6
+December 27 2020,MIL,Thanasis Antetokounmpo,4:59,0,0,,0,0,,0,0,,2,0,2,0,0,0,0,2,0,0
+December 27 2020,MIL,Torrey Craig,2:44,0,0,,0,0,,0,0,,0,0,0,2,0,1,0,0,0,+3
+December 27 2020,MIL,Team Totals,240,41,95,.432,7,38,.184,21,29,.724,17,27,44,24,7,5,11,21,110
+December 27 2020,NYK,RJ Barrett,38:15,7,17,.412,0,4,.000,3,4,.750,2,6,8,4,1,0,2,4,17,+21
+December 27 2020,NYK,Julius Randle,37:07,8,17,.471,3,5,.600,10,11,.909,3,11,14,7,0,1,2,4,29,+12
+December 27 2020,NYK,Mitchell Robinson,34:40,4,6,.667,0,0,,1,1,1.000,0,6,6,1,2,1,1,2,9,+16
+December 27 2020,NYK,Elfrid Payton,29:18,12,16,.750,3,3,1.000,0,2,.000,1,2,3,7,1,0,3,2,27,+15
+December 27 2020,NYK,Reggie Bullock,16:53,2,5,.400,1,2,.500,2,2,1.000,0,3,3,1,0,0,1,2,7,+1
+December 27 2020,NYK,Kevin Knox,26:15,3,8,.375,1,4,.250,0,0,,0,4,4,2,1,1,1,1,7,+17
+December 27 2020,NYK,Alec Burks,20:30,5,7,.714,4,5,.800,4,5,.800,0,2,2,5,0,0,1,3,18,+21
+December 27 2020,NYK,Frank Ntilikina,18:42,4,6,.667,4,4,1.000,0,0,,0,1,1,0,0,0,1,4,12,+5
+December 27 2020,NYK,Nerlens Noel,13:20,1,1,1.000,0,0,,0,0,,1,3,4,0,0,1,3,1,2,+4
+December 27 2020,NYK,Jared Harper,1:52,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-4
+December 27 2020,NYK,Theo Pinson,1:52,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-4
+December 27 2020,NYK,Ignas Brazdeikis,1:16,0,1,.000,0,0,,2,2,1.000,1,0,1,0,0,0,0,0,2,-4
+December 27 2020,NYK,Team Totals,240,46,85,.541,16,27,.593,22,27,.815,8,38,46,27,5,4,15,23,130
+December 27 2020,BOS,Jayson Tatum,35:47,9,21,.429,3,9,.333,4,4,1.000,0,11,11,5,0,1,5,1,25,-6
+December 27 2020,BOS,Jaylen Brown,33:37,8,13,.615,0,1,.000,2,2,1.000,0,2,2,4,2,1,2,4,18,+1
+December 27 2020,BOS,Marcus Smart,31:38,4,8,.500,2,4,.500,1,2,.500,1,2,3,6,2,0,2,1,11,-4
+December 27 2020,BOS,Tristan Thompson,22:17,3,7,.429,0,0,,1,2,.500,1,7,8,0,0,1,3,1,7,+1
+December 27 2020,BOS,Daniel Theis,14:56,2,5,.400,0,2,.000,0,0,,0,4,4,0,1,2,0,0,4,-5
+December 27 2020,BOS,Payton Pritchard,23:00,5,5,1.000,3,3,1.000,0,0,,0,0,0,2,2,0,2,0,13,+9
+December 27 2020,BOS,Grant Williams,22:53,2,4,.500,1,2,.500,1,4,.250,2,2,4,0,0,0,1,4,6,+3
+December 27 2020,BOS,Jeff Teague,21:52,0,6,.000,0,0,,9,10,.900,0,3,3,2,2,0,1,2,9,0
+December 27 2020,BOS,Robert Williams,21:35,6,7,.857,0,0,,0,0,,2,2,4,1,4,2,1,3,12,-4
+December 27 2020,BOS,Semi Ojeleye,12:25,1,3,.333,0,2,.000,0,0,,0,1,1,1,0,0,1,1,2,0
+December 27 2020,BOS,Tremont Waters,Did Not Play
+December 27 2020,BOS,Javonte Green,Did Not Play
+December 27 2020,BOS,Aaron Nesmith,Did Not Play
+December 27 2020,BOS,Carsen Edwards,Did Not Play
+December 27 2020,BOS,Team Totals,240,40,79,.506,9,23,.391,18,24,.750,6,34,40,21,13,7,18,17,107
+December 27 2020,IND,Domantas Sabonis,40:35,8,18,.444,2,4,.500,1,3,.333,2,8,10,5,0,1,4,2,19,+3
+December 27 2020,IND,T.J. Warren,37:30,8,14,.571,0,1,.000,1,1,1.000,0,5,5,1,1,0,2,5,17,-2
+December 27 2020,IND,Malcolm Brogdon,36:20,11,20,.550,2,7,.286,1,2,.500,0,5,5,5,2,0,5,0,25,-4
+December 27 2020,IND,Myles Turner,29:17,3,10,.300,0,4,.000,4,4,1.000,3,4,7,0,2,5,1,2,10,+3
+December 27 2020,IND,Aaron Holiday,21:54,3,5,.600,0,2,.000,0,0,,1,1,2,1,3,1,0,3,6,+14
+December 27 2020,IND,Justin Holiday,28:05,5,7,.714,0,1,.000,3,3,1.000,1,3,4,1,1,0,1,5,13,-2
+December 27 2020,IND,Doug McDermott,27:11,6,12,.500,3,7,.429,1,2,.500,1,0,1,3,1,0,0,1,16,-9
+December 27 2020,IND,T.J. McConnell,19:08,1,2,.500,0,0,,0,0,,0,3,3,7,1,0,3,2,2,+2
+December 27 2020,IND,Cassius Stanley,Did Not Play
+December 27 2020,IND,JaKarr Sampson,Did Not Play
+December 27 2020,IND,Kelan Martin,Did Not Play
+December 27 2020,IND,Jalen Lecque,Did Not Play
+December 27 2020,IND,Team Totals,240,45,88,.511,7,26,.269,11,15,.733,8,29,37,23,11,7,16,20,108
+December 27 2020,GSW,Stephen Curry,36:26,11,25,.440,5,15,.333,9,9,1.000,0,2,2,6,2,2,4,1,36,+3
+December 27 2020,GSW,Andrew Wiggins,36:26,6,15,.400,2,3,.667,5,6,.833,2,7,9,4,0,1,0,2,19,+2
+December 27 2020,GSW,Kelly Oubre,30:18,3,16,.188,0,6,.000,2,2,1.000,3,8,11,0,4,0,3,3,8,+9
+December 27 2020,GSW,James Wiseman,22:37,3,8,.375,1,1,1.000,0,0,,0,3,3,0,1,1,1,4,7,-4
+December 27 2020,GSW,Juan Toscano-Anderson,19:12,2,3,.667,1,2,.500,0,0,,0,5,5,1,1,0,1,1,5,-2
+December 27 2020,GSW,Damion Lee,20:38,4,7,.571,4,5,.800,0,0,,1,1,2,2,2,0,0,4,12,+11
+December 27 2020,GSW,Eric Paschall,19:07,4,8,.500,1,2,.500,6,7,.857,1,1,2,2,2,0,1,2,15,-13
+December 27 2020,GSW,Kevon Looney,16:53,3,5,.600,0,0,,2,2,1.000,3,1,4,4,0,0,0,2,8,+12
+December 27 2020,GSW,Brad Wanamaker,14:24,1,4,.250,0,2,.000,0,0,,0,1,1,5,4,0,2,1,2,-3
+December 27 2020,GSW,Jordan Poole,13:25,3,7,.429,2,6,.333,2,2,1.000,0,2,2,1,0,0,0,2,10,-10
+December 27 2020,GSW,Mychal Mulder,10:34,2,6,.333,2,5,.400,1,2,.500,0,0,0,0,1,0,0,1,7,0
+December 27 2020,GSW,Kent Bazemore,Did Not Play
+December 27 2020,GSW,Team Totals,240,42,104,.404,18,47,.383,27,30,.900,10,31,41,25,17,4,12,23,129
+December 27 2020,CHI,Coby White,35:38,8,19,.421,4,9,.444,0,0,,0,7,7,5,0,0,3,1,20,-7
+December 27 2020,CHI,Zach LaVine,34:48,11,23,.478,4,12,.333,7,9,.778,0,7,7,3,2,2,7,3,33,-5
+December 27 2020,CHI,Wendell Carter,31:28,8,9,.889,1,2,.500,5,8,.625,4,9,13,4,0,0,3,3,22,-4
+December 27 2020,CHI,Lauri Markkanen,29:15,7,13,.538,4,7,.571,5,7,.714,0,7,7,1,1,1,2,1,23,+13
+December 27 2020,CHI,Patrick Williams,26:21,2,5,.400,0,1,.000,2,2,1.000,1,3,4,2,0,3,2,1,6,+6
+December 27 2020,CHI,Tomáš Satoranský,22:50,1,3,.333,0,1,.000,1,1,1.000,0,1,1,3,0,0,3,2,3,-3
+December 27 2020,CHI,Otto Porter,20:45,3,4,.750,3,4,.750,3,4,.750,2,4,6,3,0,0,3,2,12,-2
+December 27 2020,CHI,Garrett Temple,19:28,1,5,.200,0,3,.000,0,0,,0,1,1,2,0,0,0,6,2,-7
+December 27 2020,CHI,Chandler Hutchison,19:27,3,5,.600,1,2,.500,0,0,,0,8,8,4,1,0,1,2,7,+4
+December 27 2020,CHI,Denzel Valentine,Did Not Play
+December 27 2020,CHI,Luke Kornet,Did Not Play
+December 27 2020,CHI,Cristiano Felício,Did Not Play
+December 27 2020,CHI,Adam Mokoka,Did Not Play
+December 27 2020,CHI,Daniel Gafford,Did Not Play
+December 27 2020,CHI,Ryan Arcidiacono,Did Not Play
+December 27 2020,CHI,Team Totals,240,44,86,.512,17,41,.415,23,31,.742,7,47,54,27,4,6,24,21,128
+December 27 2020,PHO,Mikal Bridges,36:18,9,15,.600,4,8,.500,0,0,,1,6,7,1,0,1,0,3,22,+17
+December 27 2020,PHO,Devin Booker,35:17,8,19,.421,1,6,.167,3,4,.750,1,4,5,5,2,1,4,1,20,+16
+December 27 2020,PHO,Deandre Ayton,29:18,5,11,.455,1,2,.500,0,0,,3,12,15,4,0,0,1,2,11,-1
+December 27 2020,PHO,Chris Paul,27:14,4,10,.400,0,2,.000,0,0,,1,3,4,12,0,0,2,4,8,-5
+December 27 2020,PHO,Jae Crowder,25:48,1,6,.167,0,4,.000,0,0,,0,3,3,3,0,0,1,1,2,-4
+December 27 2020,PHO,Cameron Johnson,21:03,7,9,.778,3,4,.750,4,4,1.000,0,1,1,1,1,0,0,1,21,+25
+December 27 2020,PHO,Cameron Payne,19:37,2,5,.400,1,2,.500,2,2,1.000,0,5,5,6,2,0,0,6,7,+26
+December 27 2020,PHO,Frank Kaminsky,18:42,5,10,.500,1,2,.500,0,0,,1,1,2,2,0,1,1,1,11,+17
+December 27 2020,PHO,Langston Galloway,14:18,3,4,.750,2,3,.667,1,1,1.000,0,0,0,0,0,0,0,0,9,+5
+December 27 2020,PHO,Jevon Carter,10:07,2,4,.500,1,2,.500,0,0,,0,1,1,0,1,0,0,1,5,-6
+December 27 2020,PHO,Ty-Shon Alexander,1:09,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-5
+December 27 2020,PHO,Damian Jones,1:09,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,-5
+December 27 2020,PHO,Dario Šarić,Did Not Play
+December 27 2020,PHO,E'Twaun Moore,Did Not Play
+December 27 2020,PHO,Jalen Smith,Did Not Play
+December 27 2020,PHO,Team Totals,240,46,94,.489,14,35,.400,10,11,.909,8,36,44,34,6,3,9,20,116
+December 27 2020,SAC,Buddy Hield,33:55,6,16,.375,3,9,.333,2,2,1.000,0,0,0,3,1,1,1,3,17,-18
+December 27 2020,SAC,Harrison Barnes,28:54,4,6,.667,0,1,.000,2,3,.667,0,7,7,0,0,0,1,1,10,-15
+December 27 2020,SAC,Marvin Bagley,27:28,5,13,.385,1,2,.500,0,0,,0,8,8,1,1,0,3,4,11,+3
+December 27 2020,SAC,De'Aaron Fox,26:34,4,12,.333,0,2,.000,4,6,.667,0,0,0,4,0,0,5,5,12,-9
+December 27 2020,SAC,Richaun Holmes,24:53,3,5,.600,0,0,,2,2,1.000,2,9,11,0,2,1,2,4,8,+2
+December 27 2020,SAC,Tyrese Haliburton,26:32,5,7,.714,3,4,.750,2,2,1.000,1,0,1,6,0,0,0,2,15,-19
+December 27 2020,SAC,Cory Joseph,20:16,2,4,.500,1,2,.500,4,4,1.000,0,2,2,2,1,0,1,2,9,-10
+December 27 2020,SAC,Glenn Robinson,15:54,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,1,1,0,-16
+December 27 2020,SAC,Nemanja Bjelica,11:07,1,3,.333,1,1,1.000,0,0,,0,3,3,2,0,0,0,0,3,-5
+December 27 2020,SAC,Hassan Whiteside,10:24,3,4,.750,0,0,,0,2,.000,0,2,2,0,0,2,0,1,6,-11
+December 27 2020,SAC,Kyle Guy,5:45,1,2,.500,1,1,1.000,2,2,1.000,0,2,2,1,0,0,0,0,5,+3
+December 27 2020,SAC,Robert Woodard,2:46,1,2,.500,0,1,.000,0,2,.000,0,1,1,0,0,0,1,0,2,+5
+December 27 2020,SAC,Jahmi'us Ramsey,2:46,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,+5
+December 27 2020,SAC,Justin James,2:46,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,+5
+December 27 2020,SAC,Jabari Parker,Did Not Play
+December 27 2020,SAC,Team Totals,240,36,76,.474,10,23,.435,18,25,.720,3,36,39,21,5,4,15,23,100
+December 27 2020,MIN,Naz Reid,27:48,5,13,.385,1,4,.250,0,0,,1,4,5,4,2,0,1,5,11,-21
+December 27 2020,MIN,Malik Beasley,24:27,3,9,.333,0,3,.000,2,3,.667,0,5,5,2,1,0,0,0,8,-19
+December 27 2020,MIN,D'Angelo Russell,20:35,2,7,.286,0,1,.000,0,0,,0,0,0,3,1,1,7,4,4,-31
+December 27 2020,MIN,Jake Layman,14:47,4,8,.500,0,1,.000,2,2,1.000,0,3,3,0,0,0,0,1,10,-17
+December 27 2020,MIN,Josh Okogie,11:01,2,4,.500,0,1,.000,0,0,,0,0,0,1,0,0,0,0,4,-16
+December 27 2020,MIN,Jarrett Culver,29:25,4,11,.364,0,4,.000,0,0,,2,2,4,0,1,1,5,4,8,-18
+December 27 2020,MIN,Anthony Edwards,28:32,6,21,.286,1,9,.111,2,2,1.000,2,2,4,2,1,0,1,2,15,-14
+December 27 2020,MIN,Ricky Rubio,18:06,4,8,.500,1,4,.250,0,0,,1,3,4,4,0,0,0,1,9,-9
+December 27 2020,MIN,Jordan McLaughlin,16:15,2,5,.400,0,2,.000,0,0,,0,3,3,1,0,0,0,0,4,-6
+December 27 2020,MIN,Jarred Vanderbilt,15:28,0,3,.000,0,0,,2,4,.500,2,5,7,6,3,1,1,0,2,+1
+December 27 2020,MIN,Juan Hernangómez,13:24,2,6,.333,1,3,.333,1,3,.333,2,3,5,0,0,1,0,1,6,-15
+December 27 2020,MIN,Ed Davis,12:32,2,5,.400,0,0,,0,0,,7,0,7,1,0,1,2,4,4,-15
+December 27 2020,MIN,Jaden McDaniels,7:40,2,3,.667,2,3,.667,0,0,,0,1,1,0,2,1,0,2,6,0
+December 27 2020,MIN,Team Totals,240,38,103,.369,6,35,.171,9,14,.643,17,31,48,24,11,6,17,24,91
+December 27 2020,LAL,Kyle Kuzma,29:09,8,12,.667,4,6,.667,0,0,,1,2,3,3,0,3,1,1,20,+38
+December 27 2020,LAL,LeBron James,26:12,6,13,.462,1,5,.200,5,7,.714,0,9,9,5,1,0,4,1,18,+16
+December 27 2020,LAL,Dennis Schröder,25:14,5,10,.500,0,3,.000,1,1,1.000,0,4,4,4,1,0,3,3,11,+35
+December 27 2020,LAL,Kentavious Caldwell-Pope,23:14,3,3,1.000,0,0,,2,3,.667,0,2,2,2,1,0,0,1,8,+29
+December 27 2020,LAL,Marc Gasol,20:39,4,4,1.000,3,3,1.000,1,1,1.000,2,5,7,8,0,4,3,2,12,+24
+December 27 2020,LAL,Talen Horton-Tucker,20:48,4,12,.333,2,5,.400,2,2,1.000,0,2,2,3,2,1,0,2,12,+5
+December 27 2020,LAL,Montrezl Harrell,19:41,6,10,.600,0,1,.000,0,0,,0,1,1,2,1,1,1,2,12,+12
+December 27 2020,LAL,Wesley Matthews,17:53,2,4,.500,0,2,.000,0,1,.000,0,1,1,2,0,1,1,1,4,+16
+December 27 2020,LAL,Markieff Morris,15:06,3,7,.429,1,4,.250,0,0,,1,5,6,1,0,2,1,3,7,+1
+December 27 2020,LAL,Alex Caruso,10:31,3,4,.750,1,2,.500,0,0,,0,2,2,0,0,0,0,1,7,+4
+December 27 2020,LAL,Quinn Cook,8:33,2,5,.400,0,3,.000,1,1,1.000,0,1,1,2,0,0,0,0,5,0
+December 27 2020,LAL,Alfonzo McKinnie,7:40,3,3,1.000,0,0,,2,2,1.000,1,1,2,0,0,0,1,1,8,0
+December 27 2020,LAL,Jared Dudley,7:40,1,1,1.000,1,1,1.000,0,0,,0,2,2,0,0,0,0,0,3,0
+December 27 2020,LAL,Kostas Antetokounmpo,7:40,0,2,.000,0,0,,0,0,,0,4,4,0,0,2,2,1,0,0
+December 27 2020,LAL,Team Totals,240,50,90,.556,13,35,.371,14,18,.778,5,41,46,32,6,14,17,19,127
