@@ -128,7 +128,7 @@ df['date']=dates
 
 #print(df.corr()['result'])
 
-df.to_csv('train_test.csv',index=False)
+df.to_csv(input('name of file to write data',index=False)
 
 print(time.time()-start)
 
