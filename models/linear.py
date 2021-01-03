@@ -6,11 +6,12 @@ import joblib
 import torch
 
 train_name='../data/train60.csv'
+train_name='../data/data40wr.csv'
 train=pd.read_csv(train_name)
 print('using '+train_name)
 
 train=train.drop(['home','away','date'],1)
-#print(train.corr()['Result'])
+print(train.corr()['result'])
 
 nans=train[train.isnull().T.any().T]
 #print(nans)
@@ -36,5 +37,3 @@ print('acc is',sum(accs)/len(accs))
 if input('want to dump model? (y or n) ') == 'y':
 	joblib.dump(clf,input('name of file to dump on '))
 
-preds=list(clf.predict(X))
-print('acc on whole',train_name,'is',f.myacc(preds,Y))

@@ -88,7 +88,7 @@ for x in range(len(games)):
       ix=months.index(name)
       new.append(int(date[2]+months_1[ix]+date[1]))
 games['date']=new
-games_date=input('insert %year%month%day (e.g. 20200105) ')
+games_date=input('insert %year%month%day (e.g. 20200105): ')
 games=games.loc[games['date']==int(games_date)]
 
 new=[]
@@ -104,13 +104,14 @@ games['away']=new
 games=games.reset_index(drop=True)
 
 ########## open logs
-if mode == '1':
-	logs=open('../logs/linear_regression.csv','a')
-elif mode == '2':
-	logs=open('../logs/neural_net.csv','a')
-
 ## columns to average
 cols=['MP','FG','FGA','FG%','3P','3PA','3P%','FT','FTA','FT%','ORB','DRB','TRB','AST','TOV','STL','BLK','PF','PTS','+/-']
+
+WRITE=input('write to logs? y or n: ') 
+MODEL=input('name of model to use ')
+
+if WRITE=='y':
+	logs=open('../logs/'+MODEL+'.csv','a')
 
 og=df.copy()
 for x in range(len(games)):
@@ -120,8 +121,11 @@ for x in range(len(games)):
 	df_2=df_2.reset_index(drop=True)
 	df_2=df_2.loc[df_2['date'] < int(games_date)]
 	df_2.reset_index(drop=True,inplace=True)
-	#df_2=df_2.tail(20)
-	df_2=df_2.tail(60)
+	
+	if MODEL == 'model_linear60':
+		df_2=df_2.tail(60)
+	else:
+		df_2=df_2.tail(20)
 
 	rowH=[]
 	if len(df_2) > 0:
@@ -133,13 +137,16 @@ for x in range(len(games)):
 			rowH.append(avg)
 	
 	away=games.at[x,'away']
-
+	
 	df_2=og.loc[og['team'] == away]
 	df_2=df_2.reset_index(drop=True)
 	df_2=df_2.loc[df_2['date'] < int(games_date)]
 	df_2.reset_index(drop=True,inplace=True)
-	#df_2=df_2.tail(20)
-	df_2=df_2.tail(60)
+	
+	if MODEL == 'model_linear60' or MODEL == 'nn60':
+		df_2=df_2.tail(60)
+	else:
+		df_2=df_2.tail(20)
 
 	rowA=[]
 	if len(df_2) > 0:
@@ -154,17 +161,16 @@ for x in range(len(games)):
 	x=x.reshape(1,-1)
 
 	if mode == '1':
-		#clf=joblib.load('model_linear')
-		clf=joblib.load('test_model')
-		#logs.write(str(games_date+','+home+','+away+','+str(clf.predict(x))[1:-1]+'\n'))
-		#print('wrote to logs')
+		clf=joblib.load(MODEL)
 		print(games_date,home,away,str(clf.predict(x))[1:-1])
+		if WRITE == 'y':
+			logs.write(str(games_date+','+home+','+away+','+str(clf.predict(x))[1:-1]+'\n'))
 	elif mode == '2':
-		model=torch.load('model_nn')
+		model=torch.load(MODEL)
 		x=torch.Tensor(x)
-		logs.write(str(games_date+','+home+','+away+','+str(float(model(x)))+'\n'))
-		print('wrote to logs')
 		print(games_date,home,away,float(model(x)))
+		if WRITE == 'y':
+			logs.write(str(games_date+','+home+','+away+','+str(float(model(x)))+'\n'))
 
 logs.close()
 

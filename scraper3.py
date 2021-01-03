@@ -18,6 +18,7 @@ with open('./data/data'+season+'.txt','w') as file:
 	file.write('date,team,player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-\n')
 
 	x = requests.get('https://www.basketball-reference.com/leagues/NBA_'+last_year_of_season+'_games.html')
+	print('https://www.basketball-reference.com/leagues/NBA_'+last_year_of_season+'_games.html')
 	soup=bs4(x.text,'html.parser')
 	months=soup.body.find('div',class_="filter").find_all('a')
 	for month in months:
@@ -42,6 +43,7 @@ with open('./data/data'+season+'.txt','w') as file:
 
 			ids=[]
 			tables=soup.body.find_all('div',class_='overthrow table_container')
+			tables=soup.body.find_all('div',class_='table_container')
 			for table_id in tables:
 				if re.search('-game-basic',table_id.get('id')):
 					ids.append(table_id.get('id'))
@@ -53,6 +55,7 @@ with open('./data/data'+season+'.txt','w') as file:
 
 				# get whole game table
 				table=soup.body.find('div',attrs={"id":id,"class":"overthrow table_container"})
+				table=soup.body.find('div',attrs={"id":id,"class":"table_container"})
 				table=table.table
 
 				stats=[]

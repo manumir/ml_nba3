@@ -1,6 +1,6 @@
 import glob
 
-mode=input('update? y or n')
+mode=input('last 2 seasons ? y or n')
 if mode == 'n':
 	files=glob.glob('data*.txt')
 elif mode == 'y':

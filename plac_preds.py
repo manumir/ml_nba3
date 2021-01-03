@@ -92,7 +92,7 @@ if os_name=='Linux':
 else:
 	path2logs=curr_path+'\\logs\\'
 
-log=pd.read_csv(path2logs+'plac_log.txt')
+log=pd.read_csv(path2logs+'plac_log.csv')
 log=log.append(df,sort=False)
-log.to_csv(path2logs+'plac_log.txt',index=False)
+log.to_csv(path2logs+'plac_log.csv',index=False)
 

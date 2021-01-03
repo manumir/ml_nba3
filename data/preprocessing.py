@@ -21,6 +21,14 @@ while x < len(df):
 	x=x+2
 df['+/-']=new
 
+location=[]
+for x in range(len(df)):
+	if x % 2 == 1:
+		location.append(0)
+	else:
+		location.append(1)
+df['location']=location
+
 ### make a result column
 x,new=0,[]
 while x < len(df):
@@ -77,7 +85,7 @@ for x in range(len(df)):
 	df_2=df_2.reset_index(drop=True)
 	df_2=df_2.loc[df_2['date'] < date]
 	df_2.reset_index(drop=True,inplace=True)
-	df_2=df_2.tail(60)
+	df_2=df_2.tail(40)
 
 	if len(df_2) > 0:
 		for col in cols:
@@ -86,21 +94,39 @@ for x in range(len(df)):
 				y=y+float(value)
 			avg=y/len(df_2)
 			df.at[x,col]=avg
+		
+		count=0
+		df_2=df_2.tail(40)
+		for j in range(len(df_2)):
+			if df_2.iloc[j]['result'] == 1 and df_2.iloc[j]['location'] == 1:
+				count=count+1
+			elif df.iloc[j]['result'] == 0 and df_2.iloc[j]['location'] == 0:
+				count=count+1
+		df.at[x,'wr40']=count/5
 
-		"""
 		# winrate here
 		count=0
-		df_2=df_2.tail(5)
+		df_2=df_2.tail(20)
 		for j in range(len(df_2)):
-			if int(df.iloc[[j]].index[0]) % 2==0 and df.iloc[j]['result'] == 1:
+			if df_2.iloc[j]['result'] == 1 and df_2.iloc[j]['location'] == 1:
 				count=count+1
-			elif int(df.iloc[[j]].index[0]) % 2==1 and df.iloc[j]['result'] == 0:
+			elif df.iloc[j]['result'] == 0 and df_2.iloc[j]['location'] == 0:
 				count=count+1
-		df.at[x,'wr5']=count/5
-		"""
-	if x % 1024 == 0:
+		df.at[x,'wr20']=count/5
+		
+		count=0
+		df_2=df_2.tail(10)
+		for j in range(len(df_2)):
+			if df_2.iloc[j]['result'] == 1 and df_2.iloc[j]['location'] == 1:
+				count=count+1
+			elif df.iloc[j]['result'] == 0 and df_2.iloc[j]['location'] == 0:
+				count=count+1
+		df.at[x,'wr10']=count/5
+
+	if x % 2048 == 0:
 		print(x)
 
+df.pop('location')
 # join rows
 home,away=[],[]
 for x in range(len(df)):
@@ -128,7 +154,7 @@ df['date']=dates
 
 #print(df.corr()['result'])
 
-df.to_csv(input('name of file to write data',index=False)
+df.to_csv(input('name of file to write data: '),index=False)
 
 print(time.time()-start)
 

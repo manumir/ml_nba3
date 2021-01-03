@@ -3,7 +3,7 @@ import functions as f
 from sklearn.model_selection import train_test_split
 import torch
 
-train_name='../data/train.csv'
+train_name='../data/train60.csv'
 train=pd.read_csv(train_name)
 print('using',train_name)
 
@@ -32,7 +32,7 @@ model = torch.nn.Sequential(
 )
 loss_fn = torch.nn.MSELoss()
 
-learning_rate = 3e-4
+learning_rate = 4e-4
 optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
 
 model_name2save=input('name of file to save model')
@@ -56,12 +56,4 @@ for t in range(2500):
 
 print('train:',f.myacc(model(x_train),y_train),'test:',f.myacc(preds,y_test))
 #torch.save(model,'./123')
-
-model=torch.load('model_nn')
-
-X=torch.Tensor(X.values)
-preds=list(model(X))
-
-print(f.myacc(preds,Y))
-
 
