@@ -64,25 +64,6 @@ for x in range(len(plac)):
 		new.append(0)
 plac['pred']=new
 
-
-lin=pd.read_csv('linear_regression.csv')
-count,total=0,0
-for x in range(len(lin)):
-	date=lin.iloc[x]['date']
-	home=lin.iloc[x]['home']
-	away=lin.iloc[x]['away']
-	
-	game=df.loc[df['date']==date]
-	game=game.loc[game['team']==home]
-	game=game.reset_index(drop=True)
-	#print(home,away,game.iloc[0]['result'],round(lin.at[x,'pred']))
-
-	if len(game) > 0:
-		if game.iloc[0]['result']==round(lin.at[x,'pred']):
-			count=count+1
-		total=total+1
-print('linear regression acc',count/total)
-
 count,total=0,0
 for x in range(len(plac)):
 	date=plac.iloc[x]['date']
@@ -98,9 +79,28 @@ for x in range(len(plac)):
 		if plac.iloc[x]['pred']==game.iloc[0]['result']:
 			count=count+1
 		total=total+1
-print('plac accuracy',count/total)
+#print('count:',count,'total:',total,'plac accuracy',count/total) # this is the accuracy on all
+print('count:',count-2,'total:',total-9,'plac accuracy',(count-2)/(total-9)) # this is to compare in the same games as the models
 
-nn=pd.read_csv('neural_net.csv')
+lin=pd.read_csv('model_linear20.csv')
+count,total=0,0
+for x in range(len(lin)):
+	date=lin.iloc[x]['date']
+	home=lin.iloc[x]['home']
+	away=lin.iloc[x]['away']
+	
+	game=df.loc[df['date']==date]
+	game=game.loc[game['team']==home]
+	game=game.reset_index(drop=True)
+	#print(date,home,away,game.iloc[0]['result'],round(lin.at[x,'pred']))
+
+	if len(game) > 0:
+		if game.iloc[0]['result']==round(lin.at[x,'pred']):
+			count=count+1
+		total=total+1
+print('count:',count,'total:',total,'model_linear20 acc',count/total)
+
+nn=pd.read_csv('model_nn20.csv')
 count,total=0,0
 for x in range(len(nn)):
 	date=nn.iloc[x]['date']
@@ -116,10 +116,10 @@ for x in range(len(nn)):
 		if game.iloc[0]['result']==round(nn.at[x,'pred']):
 			count=count+1
 		total=total+1
-print('neural net acc',count/total)
+print('count:',count,'total:',total,'model_nn20 acc',count/total)
 
 
-lin=pd.read_csv('linear60.csv')
+lin=pd.read_csv('model_linear60.csv')
 count,total=0,0
 for x in range(len(lin)):
 	date=lin.iloc[x]['date']
@@ -136,5 +136,5 @@ for x in range(len(lin)):
 			count=count+1
 		total=total+1
 
-print('linear test model acc',count/total)
+print('count:',count,'total:',total,'model_linear60 acc',count/total)
 
