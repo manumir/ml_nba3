@@ -138,3 +138,21 @@ for x in range(len(lin)):
 
 print('count:',count,'total:',total,'model_linear60 acc',count/total)
 
+lin=pd.read_csv('nn60.csv')
+count,total=0,0
+for x in range(len(lin)):
+	date=lin.iloc[x]['date']
+	home=lin.iloc[x]['home']
+	away=lin.iloc[x]['away']
+	
+	game=df.loc[df['date']==date]
+	game=game.loc[game['team']==home]
+	game=game.reset_index(drop=True)
+	#print(home,away,game.iloc[0]['result'],round(lin.at[x,'pred']))
+
+	if len(game) > 0:
+		if game.iloc[0]['result']==round(lin.at[x,'pred']):
+			count=count+1
+		total=total+1
+
+print('count:',count,'total:',total,'nn60 acc:',count/total)

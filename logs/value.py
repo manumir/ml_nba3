@@ -65,9 +65,13 @@ for x in range(len(plac)):
 plac['pred']=new
 
 
-coef=input('coef: ')
-lin=pd.read_csv('model_linear60.csv')
-#lin=pd.read_csv('model_nn20.csv')
+coef=0.1 #input('coef: ')
+models=['','model_linear20.csv','model_linear60.csv','model_nn20.csv','nn60.csv']
+mode=int(input('which model\n1:linear20   2:linear60   3:nn20   4:nn60\n'))
+
+lin=pd.read_csv(models[mode])
+print('using',models[mode])
+
 count,beted=0,0
 for x in range(len(lin)):
 	date=lin.iloc[x]['date']
@@ -79,21 +83,21 @@ for x in range(len(lin)):
 	game=game.loc[game['home']==home]
 	game=game.reset_index(drop=True)
 
-	if date == 20210103:
-		
+	if date == 20210105:
+
 		myodd=round(1/lpred,2)*float(coef) + round(1/lpred,2)
 		if myodd < game['plac_A'].values[0]:
 			print(date,home,away,'bet on away')
 
-		myodd=round(1/(1-lpred),2)*float(coef) + round(1/lpred,2)
+		myodd=round(1/(1-lpred),2)*float(coef) + round(1/(1-lpred),2)
 		if myodd < game['plac_H'].values[0]:
 			print(date,home,away,'bet on home')
 
 	result=df.loc[df['date']==date]
 	if len(result) > 0:
+		result=result.loc[result['team']==home]['result'].values[0]	
 
 		myodd=round(1/lpred,2)*float(coef) + round(1/lpred,2)
-		result=result.loc[result['team']==home]['result'].values[0]	
 		if myodd < game['plac_A'].values[0]:
 			if result == 1:
 				count=count+float(game['plac_A'].values[0])
@@ -105,7 +109,7 @@ for x in range(len(lin)):
 			if result == 0:
 				count=count+float(game['plac_H'].values[0])
 			beted=beted+1
-			#print(game,lpred,0,result)
+			#print(game,lpred,result)
 		#print(game,lpred)
 print('won:',count,'spent:',beted,'profit:',count-beted,(count-beted)/count * 100,'%')
 
