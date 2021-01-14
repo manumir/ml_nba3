@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 import glob
 
 mode=input('last 2 seasons ? y or n')

@@ -29,6 +29,7 @@ WebDriverWait(driver,15).until(EC.presence_of_element_located((By.ID, "b5-l4-0-b
 html=bs4(driver.page_source,'html.parser')
 
 nba_table=html.find_all("div",id='b5-l4-0-b8-SectionItem')
+#nba_table=html.find_all("div",id='b5-l4-0-b8-SectionItem')
 
 # teams field
 teams=nba_table[0].find_all("span", class_="font-size20")

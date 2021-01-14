@@ -1,3 +1,4 @@
+import sys
 import pandas as pd
 import numpy as np
 import functions as f 
@@ -88,7 +89,8 @@ for x in range(len(games)):
       ix=months.index(name)
       new.append(int(date[2]+months_1[ix]+date[1]))
 games['date']=new
-games_date=input('insert %year%month%day (e.g. 20200105): ')
+#games_date=input('insert %year%month%day (e.g. 20200105): ')
+games_date=sys.argv[1]
 games=games.loc[games['date']==int(games_date)]
 
 new=[]
@@ -107,8 +109,11 @@ games=games.reset_index(drop=True)
 ## columns to average
 cols=['MP','FG','FGA','FG%','3P','3PA','3P%','FT','FTA','FT%','ORB','DRB','TRB','AST','TOV','STL','BLK','PF','PTS','+/-']
 
+models=['model_linear20','model_linear60','model_nn20','nn60']
+choose_model=input('0:model_linear20   1:model_linear60  2:model_nn20   3:nn60  |:')
+MODEL=models[int(choose_model)]
+
 WRITE=input('write to logs? y or n: ') 
-MODEL=input('name of model to use ')
 
 if WRITE=='y':
 	logs=open('../logs/'+MODEL+'.csv','a')
@@ -122,7 +127,7 @@ for x in range(len(games)):
 	df_2=df_2.loc[df_2['date'] < int(games_date)]
 	df_2.reset_index(drop=True,inplace=True)
 	
-	if MODEL == 'model_linear60':
+	if MODEL == 'model_linear60' or MODEL=='nn60':
 		df_2=df_2.tail(60)
 	else:
 		df_2=df_2.tail(20)

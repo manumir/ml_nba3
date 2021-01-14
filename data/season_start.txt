@@ -32024,14 +32024,14 @@ December 27 2020,NYK,Theo Pinson,1:52,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-4
 December 27 2020,NYK,Ignas Brazdeikis,1:16,0,1,.000,0,0,,2,2,1.000,1,0,1,0,0,0,0,0,2,-4
 December 27 2020,NYK,Team Totals,240,46,85,.541,16,27,.593,22,27,.815,8,38,46,27,5,4,15,23,130
 December 27 2020,BOS,Jayson Tatum,35:47,9,21,.429,3,9,.333,4,4,1.000,0,11,11,5,0,1,5,1,25,-6
-December 27 2020,BOS,Jaylen Brown,33:37,8,13,.615,0,1,.000,2,2,1.000,0,2,2,4,2,1,2,4,18,+1
+December 27 2020,BOS,Jaylen Brown,33:36,8,13,.615,0,1,.000,2,2,1.000,0,2,2,4,2,1,2,4,18,+1
 December 27 2020,BOS,Marcus Smart,31:38,4,8,.500,2,4,.500,1,2,.500,1,2,3,6,2,0,2,1,11,-4
 December 27 2020,BOS,Tristan Thompson,22:17,3,7,.429,0,0,,1,2,.500,1,7,8,0,0,1,3,1,7,+1
 December 27 2020,BOS,Daniel Theis,14:56,2,5,.400,0,2,.000,0,0,,0,4,4,0,1,2,0,0,4,-5
 December 27 2020,BOS,Payton Pritchard,23:00,5,5,1.000,3,3,1.000,0,0,,0,0,0,2,2,0,2,0,13,+9
 December 27 2020,BOS,Grant Williams,22:53,2,4,.500,1,2,.500,1,4,.250,2,2,4,0,0,0,1,4,6,+3
-December 27 2020,BOS,Jeff Teague,21:52,0,6,.000,0,0,,9,10,.900,0,3,3,2,2,0,1,2,9,0
-December 27 2020,BOS,Robert Williams,21:35,6,7,.857,0,0,,0,0,,2,2,4,1,4,2,1,3,12,-4
+December 27 2020,BOS,Jeff Teague,21:51,0,6,.000,0,0,,9,10,.900,0,3,3,2,2,0,1,2,9,0
+December 27 2020,BOS,Robert Williams,21:34,6,7,.857,0,0,,0,0,,2,2,4,1,4,2,1,3,12,-4
 December 27 2020,BOS,Semi Ojeleye,12:25,1,3,.333,0,2,.000,0,0,,0,1,1,1,0,0,1,1,2,0
 December 27 2020,BOS,Tremont Waters,Did Not Play
 December 27 2020,BOS,Javonte Green,Did Not Play
@@ -32044,7 +32044,7 @@ December 27 2020,IND,Malcolm Brogdon,36:20,11,20,.550,2,7,.286,1,2,.500,0,5,5,5,
 December 27 2020,IND,Myles Turner,29:17,3,10,.300,0,4,.000,4,4,1.000,3,4,7,0,2,5,1,2,10,+3
 December 27 2020,IND,Aaron Holiday,21:54,3,5,.600,0,2,.000,0,0,,1,1,2,1,3,1,0,3,6,+14
 December 27 2020,IND,Justin Holiday,28:05,5,7,.714,0,1,.000,3,3,1.000,1,3,4,1,1,0,1,5,13,-2
-December 27 2020,IND,Doug McDermott,27:11,6,12,.500,3,7,.429,1,2,.500,1,0,1,3,1,0,0,1,16,-9
+December 27 2020,IND,Doug McDermott,27:10,6,12,.500,3,7,.429,1,2,.500,1,0,1,3,1,0,0,1,16,-9
 December 27 2020,IND,T.J. McConnell,19:08,1,2,.500,0,0,,0,0,,0,3,3,7,1,0,3,2,2,+2
 December 27 2020,IND,Cassius Stanley,Did Not Play
 December 27 2020,IND,JaKarr Sampson,Did Not Play
@@ -32056,7 +32056,7 @@ December 27 2020,GSW,Andrew Wiggins,36:26,6,15,.400,2,3,.667,5,6,.833,2,7,9,4,0,
 December 27 2020,GSW,Kelly Oubre,30:18,3,16,.188,0,6,.000,2,2,1.000,3,8,11,0,4,0,3,3,8,+9
 December 27 2020,GSW,James Wiseman,22:37,3,8,.375,1,1,1.000,0,0,,0,3,3,0,1,1,1,4,7,-4
 December 27 2020,GSW,Juan Toscano-Anderson,19:12,2,3,.667,1,2,.500,0,0,,0,5,5,1,1,0,1,1,5,-2
-December 27 2020,GSW,Damion Lee,20:38,4,7,.571,4,5,.800,0,0,,1,1,2,2,2,0,0,4,12,+11
+December 27 2020,GSW,Damion Lee,20:37,4,7,.571,4,5,.800,0,0,,1,1,2,2,2,0,0,4,12,+11
 December 27 2020,GSW,Eric Paschall,19:07,4,8,.500,1,2,.500,6,7,.857,1,1,2,2,2,0,1,2,15,-13
 December 27 2020,GSW,Kevon Looney,16:53,3,5,.600,0,0,,2,2,1.000,3,1,4,4,0,0,0,2,8,+12
 December 27 2020,GSW,Brad Wanamaker,14:24,1,4,.250,0,2,.000,0,0,,0,1,1,5,4,0,2,1,2,-3
@@ -32646,7 +32646,7 @@ December 30 2020,BRK,Rodions Kurucs,Did Not Play
 December 30 2020,BRK,Chris Chiozza,Did Not Play
 December 30 2020,BRK,Bruce Brown,Did Not Play
 December 30 2020,BRK,Team Totals,240,54,100,.540,19,41,.463,18,23,.783,9,31,40,30,6,3,8,24,145
-December 30 2020,MEM,Kyle Anderson,28:08,3,11,.273,0,4,.000,3,4,.750,0,4,4,9,0,1,8,2,9,-7
+December 30 2020,MEM,Kyle Anderson,28:07,3,11,.273,0,4,.000,3,4,.750,0,4,4,9,0,1,8,2,9,-7
 December 30 2020,MEM,Dillon Brooks,27:53,6,18,.333,2,9,.222,2,2,1.000,3,2,5,2,1,0,3,2,16,-18
 December 30 2020,MEM,Jonas Valančiūnas,24:10,7,11,.636,1,1,1.000,5,7,.714,4,7,11,1,0,0,5,2,20,-13
 December 30 2020,MEM,Tyus Jones,22:49,3,7,.429,0,2,.000,0,0,,0,2,2,2,2,1,1,0,6,-24
@@ -32661,7 +32661,7 @@ December 30 2020,MEM,Jontay Porter,Did Not Dress
 December 30 2020,MEM,Team Totals,240,40,93,.430,9,33,.273,18,25,.720,14,32,46,26,8,3,22,13,107
 December 30 2020,BOS,Jaylen Brown,28:57,15,21,.714,7,10,.700,5,6,.833,1,4,5,4,1,0,4,1,42,+22
 December 30 2020,BOS,Marcus Smart,26:19,5,11,.455,4,9,.444,0,0,,0,2,2,4,3,1,2,1,14,+8
-December 30 2020,BOS,Jayson Tatum,23:15,6,12,.500,3,5,.600,1,1,1.000,0,4,4,3,1,0,0,0,16,+29
+December 30 2020,BOS,Jayson Tatum,23:14,6,12,.500,3,5,.600,1,1,1.000,0,4,4,3,1,0,0,0,16,+29
 December 30 2020,BOS,Jeff Teague,21:20,2,6,.333,0,2,.000,0,0,,0,5,5,4,4,0,1,1,4,+22
 December 30 2020,BOS,Daniel Theis,19:09,5,7,.714,0,1,.000,2,3,.667,2,3,5,2,1,2,2,4,12,-2
 December 30 2020,BOS,Robert Williams,22:49,3,4,.750,0,0,,0,0,,4,6,10,2,1,4,2,2,6,+28
@@ -33430,9 +33430,9 @@ January 2 2021,NOP,Naji Marshall,Did Not Play
 January 2 2021,NOP,Kira Lewis,Did Not Play
 January 2 2021,NOP,Team Totals,240,35,83,.422,14,38,.368,36,47,.766,14,36,50,26,6,7,12,18,120
 January 3 2021,BOS,Jayson Tatum,36:40,10,22,.455,4,8,.500,0,0,,2,6,8,12,0,2,0,1,24,+2
-January 3 2021,BOS,Jaylen Brown,34:54,13,16,.813,5,8,.625,0,0,,0,1,1,3,0,0,6,2,31,+1
-January 3 2021,BOS,Marcus Smart,34:10,5,10,.500,1,5,.200,6,6,1.000,1,2,3,10,0,1,2,1,17,-1
-January 3 2021,BOS,Tristan Thompson,26:33,5,10,.500,0,0,,2,4,.500,4,7,11,1,0,0,1,3,12,-1
+January 3 2021,BOS,Jaylen Brown,34:53,13,16,.813,5,8,.625,0,0,,0,1,1,3,0,0,6,2,31,+1
+January 3 2021,BOS,Marcus Smart,34:09,5,10,.500,1,5,.200,6,6,1.000,1,2,3,10,0,1,2,1,17,-1
+January 3 2021,BOS,Tristan Thompson,26:32,5,10,.500,0,0,,2,4,.500,4,7,11,1,0,0,1,3,12,-1
 January 3 2021,BOS,Daniel Theis,25:10,7,8,.875,1,2,.500,0,1,.000,1,3,4,1,1,0,2,5,15,-1
 January 3 2021,BOS,Payton Pritchard,27:35,2,6,.333,1,3,.333,0,0,,0,4,4,4,1,1,2,5,5,+7
 January 3 2021,BOS,Semi Ojeleye,22:10,4,7,.571,3,6,.500,0,0,,0,2,2,0,0,0,2,3,11,-1
@@ -33449,7 +33449,7 @@ January 3 2021,DET,Blake Griffin,29:23,4,14,.286,3,10,.300,2,4,.500,0,3,3,4,1,0,
 January 3 2021,DET,Mason Plumlee,24:39,3,4,.750,0,0,,7,8,.875,2,6,8,2,1,1,0,4,13,+2
 January 3 2021,DET,Killian Hayes,24:00,2,5,.400,1,2,.500,0,0,,0,1,1,4,0,0,2,4,5,-3
 January 3 2021,DET,Josh Jackson,13:47,5,10,.500,2,4,.500,1,1,1.000,0,1,1,2,1,0,0,0,13,+6
-January 3 2021,DET,Derrick Rose,23:30,4,12,.333,1,3,.333,4,4,1.000,1,0,1,8,0,1,4,0,13,+6
+January 3 2021,DET,Derrick Rose,23:29,4,12,.333,1,3,.333,4,4,1.000,1,0,1,8,0,1,4,0,13,+6
 January 3 2021,DET,Saddiq Bey,19:41,2,6,.333,2,3,.667,0,0,,0,3,3,2,1,0,0,2,6,0
 January 3 2021,DET,Delon Wright,18:25,1,2,.500,0,0,,2,2,1.000,0,3,3,3,2,1,1,0,4,-10
 January 3 2021,DET,Isaiah Stewart,15:04,1,3,.333,0,0,,0,0,,2,1,3,0,0,2,0,3,2,+1
@@ -33579,7 +33579,7 @@ January 3 2021,DAL,Jalen Brunson,37:30,11,17,.647,3,7,.429,6,6,1.000,0,5,5,7,1,0
 January 3 2021,DAL,Josh Richardson,35:51,5,14,.357,3,7,.429,3,4,.750,2,2,4,2,0,1,3,5,16,-7
 January 3 2021,DAL,Dorian Finney-Smith,35:43,2,5,.400,0,3,.000,1,2,.500,1,5,6,1,1,1,1,3,5,+1
 January 3 2021,DAL,Tim Hardaway,33:04,4,15,.267,2,12,.167,3,5,.600,0,4,4,4,0,0,3,3,13,-16
-January 3 2021,DAL,Dwight Powell,20:13,1,4,.250,0,0,,2,2,1.000,1,3,4,4,1,1,1,3,4,-1
+January 3 2021,DAL,Dwight Powell,20:13,1,5,.200,0,0,,2,2,1.000,1,3,4,4,1,1,1,3,4,-1
 January 3 2021,DAL,Maxi Kleber,28:35,5,8,.625,3,6,.500,3,4,.750,1,4,5,1,0,0,0,3,16,-3
 January 3 2021,DAL,Trey Burke,17:17,3,9,.333,0,3,.000,1,1,1.000,0,2,2,3,1,0,1,1,7,-12
 January 3 2021,DAL,James Johnson,12:02,1,5,.200,0,2,.000,0,1,.000,0,0,0,1,2,1,2,2,2,-7
@@ -33590,7 +33590,7 @@ January 3 2021,DAL,Josh Green,0:18,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,-2
 January 3 2021,DAL,Tyrell Terry,0:16,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0
 January 3 2021,DAL,Luka Dončić,Did Not Dress
 January 3 2021,DAL,Wesley Iwundu,Did Not Play
-January 3 2021,DAL,Team Totals,240,39,88,.443,11,42,.262,19,27,.704,11,30,41,23,6,4,15,27,108
+January 3 2021,DAL,Team Totals,240,39,89,.438,11,42,.262,19,27,.704,11,30,41,23,6,4,15,27,108
 January 3 2021,CHI,Zach LaVine,38:40,14,25,.560,3,9,.333,8,9,.889,0,6,6,5,3,0,4,4,39,+6
 January 3 2021,CHI,Coby White,32:50,7,14,.500,4,9,.444,5,5,1.000,1,6,7,4,0,0,4,5,23,+7
 January 3 2021,CHI,Otto Porter,28:38,4,11,.364,2,6,.333,5,5,1.000,1,6,7,2,2,0,2,3,15,-4
@@ -33666,7 +33666,7 @@ January 3 2021,GSW,Jordan Poole,Did Not Play
 January 3 2021,GSW,Team Totals,240,49,88,.557,13,34,.382,26,34,.765,11,42,53,23,4,7,15,24,137
 January 4 2021,CLE,Collin Sexton,38:51,10,19,.526,2,4,.500,2,2,1.000,1,1,2,2,1,0,6,5,24,-19
 January 4 2021,CLE,Larry Nance,34:10,2,6,.333,0,3,.000,0,0,,0,3,3,3,2,0,0,0,4,-12
-January 4 2021,CLE,Andre Drummond,32:13,5,15,.333,0,1,.000,0,2,.000,5,9,14,4,1,1,1,1,10,-16
+January 4 2021,CLE,Andre Drummond,32:13,5,14,.357,0,1,.000,0,2,.000,4,9,13,4,1,1,1,1,10,-16
 January 4 2021,CLE,Damyean Dotson,29:09,6,10,.600,3,6,.500,1,2,.500,1,0,1,2,1,0,1,2,16,-19
 January 4 2021,CLE,Dante Exum,0:49,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-4
 January 4 2021,CLE,Cedi Osman,38:27,6,14,.429,4,8,.500,2,2,1.000,1,6,7,7,2,1,3,3,18,-10
@@ -33676,15 +33676,15 @@ January 4 2021,CLE,Dean Wade,14:42,0,4,.000,0,3,.000,0,0,,0,1,1,0,0,0,0,0,0,-3
 January 4 2021,CLE,JaVale McGee,13:34,1,7,.143,0,1,.000,0,0,,0,2,2,1,0,1,0,1,2,-11
 January 4 2021,CLE,Marques Bolden,5:41,0,1,.000,0,0,,0,0,,0,1,1,0,1,0,0,0,0,+4
 January 4 2021,CLE,Darius Garland,Did Not Play
-January 4 2021,CLE,Team Totals,240,33,86,.384,10,28,.357,7,12,.583,10,26,36,20,12,4,14,14,83
+January 4 2021,CLE,Team Totals,240,33,85,.388,10,28,.357,7,12,.583,9,26,35,20,12,4,14,14,83
 January 4 2021,ORL,Nikola Vučević,31:09,9,16,.563,2,5,.400,3,3,1.000,2,6,8,2,2,3,0,0,23,+12
 January 4 2021,ORL,Markelle Fultz,31:00,3,9,.333,0,1,.000,0,0,,0,5,5,8,0,0,5,2,6,+11
 January 4 2021,ORL,Aaron Gordon,27:55,9,17,.529,6,9,.667,0,0,,6,5,11,1,1,0,2,1,24,+6
-January 4 2021,ORL,Dwayne Bacon,25:16,3,7,.429,2,4,.500,0,0,,0,2,2,1,1,0,2,0,8,+19
+January 4 2021,ORL,Dwayne Bacon,25:16,3,7,.429,2,4,.500,0,0,,0,2,2,1,1,0,3,0,8,+19
 January 4 2021,ORL,Michael Carter-Williams,17:43,0,4,.000,0,2,.000,0,0,,1,0,1,3,0,1,2,2,0,+9
 January 4 2021,ORL,Terrence Ross,31:28,5,13,.385,2,7,.286,3,3,1.000,0,2,2,1,4,0,2,1,15,+10
 January 4 2021,ORL,Khem Birch,22:53,5,7,.714,0,0,,2,2,1.000,6,6,12,1,1,1,1,4,12,+6
-January 4 2021,ORL,Cole Anthony,21:29,2,9,.222,1,2,.500,4,5,.800,1,4,5,4,0,1,2,3,9,+14
+January 4 2021,ORL,Cole Anthony,21:29,2,9,.222,1,2,.500,4,5,.800,1,4,5,4,0,1,1,3,9,+14
 January 4 2021,ORL,Gary Clark,20:53,2,5,.400,2,4,.500,0,0,,2,3,5,0,0,0,2,1,6,+14
 January 4 2021,ORL,Mohamed Bamba,4:28,0,0,,0,0,,0,0,,0,2,2,1,0,1,1,1,0,-1
 January 4 2021,ORL,Jordan Bone,2:53,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0
@@ -33697,13 +33697,13 @@ January 4 2021,CHO,Devonte' Graham,24:28,5,13,.385,5,11,.455,0,0,,0,2,2,1,0,0,0,
 January 4 2021,CHO,Bismack Biyombo,22:44,2,7,.286,0,0,,0,0,,1,3,4,4,0,1,3,3,4,-20
 January 4 2021,CHO,LaMelo Ball,30:25,5,16,.313,0,5,.000,2,3,.667,2,5,7,9,2,0,2,2,12,-9
 January 4 2021,CHO,Miles Bridges,23:56,3,6,.500,1,1,1.000,0,0,,0,5,5,0,0,0,3,3,7,-31
-January 4 2021,CHO,Caleb Martin,17:24,2,4,.500,0,2,.000,3,5,.600,2,1,3,2,0,2,3,0,7,0
+January 4 2021,CHO,Caleb Martin,17:24,2,4,.500,0,2,.000,3,5,.600,2,1,3,2,0,1,3,0,7,0
 January 4 2021,CHO,Jalen McDaniels,16:29,4,6,.667,1,2,.500,1,2,.500,0,4,4,0,1,0,0,4,10,+11
 January 4 2021,CHO,Malik Monk,9:43,0,1,.000,0,1,.000,1,2,.500,0,0,0,3,0,0,1,0,1,-6
-January 4 2021,CHO,Nick Richards,6:02,1,1,1.000,0,0,,1,2,.500,1,1,2,0,0,0,0,1,3,+9
+January 4 2021,CHO,Nick Richards,6:02,1,1,1.000,0,0,,1,2,.500,1,2,3,0,0,0,0,1,3,+9
 January 4 2021,CHO,Cody Martin,Did Not Play
 January 4 2021,CHO,Vernon Carey,Did Not Play
-January 4 2021,CHO,Team Totals,240,36,86,.419,13,39,.333,16,22,.727,8,38,46,30,4,5,16,24,101
+January 4 2021,CHO,Team Totals,240,36,86,.419,13,39,.333,16,22,.727,8,39,47,30,4,4,16,24,101
 January 4 2021,PHI,Ben Simmons,34:59,6,13,.462,0,0,,0,0,,1,9,10,6,0,1,2,2,12,+7
 January 4 2021,PHI,Tobias Harris,29:37,10,16,.625,2,5,.400,0,0,,1,4,5,2,0,0,1,1,22,+24
 January 4 2021,PHI,Seth Curry,25:34,4,7,.571,2,2,1.000,1,1,1.000,0,1,1,2,0,1,2,2,11,+20
@@ -33908,10 +33908,10 @@ January 4 2021,SAC,Robert Woodard,4:45,2,6,.333,0,1,.000,0,0,,3,3,6,0,0,0,0,0,4,
 January 4 2021,SAC,Jahmi'us Ramsey,4:45,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,+2
 January 4 2021,SAC,Team Totals,240,34,90,.378,10,35,.286,28,39,.718,11,41,52,20,5,6,14,20,106
 January 4 2021,GSW,Stephen Curry,30:34,9,18,.500,5,12,.417,7,7,1.000,0,9,9,8,0,0,2,3,30,+26
-January 4 2021,GSW,Andrew Wiggins,28:05,7,15,.467,2,4,.500,0,0,,0,3,3,5,1,1,3,1,16,+15
+January 4 2021,GSW,Andrew Wiggins,28:05,7,15,.467,2,4,.500,0,0,,0,2,2,5,1,1,3,1,16,+15
 January 4 2021,GSW,Kelly Oubre,25:31,6,13,.462,4,6,.667,2,2,1.000,1,2,3,2,1,2,0,2,18,+21
 January 4 2021,GSW,Draymond Green,21:15,1,3,.333,1,2,.500,2,2,1.000,0,5,5,5,2,0,1,3,5,+13
-January 4 2021,GSW,James Wiseman,17:27,5,9,.556,0,1,.000,0,1,.000,1,3,4,1,0,2,1,2,10,+4
+January 4 2021,GSW,James Wiseman,17:27,5,9,.556,0,1,.000,0,1,.000,1,4,5,1,0,2,1,2,10,+4
 January 4 2021,GSW,Eric Paschall,21:49,6,10,.600,2,3,.667,0,0,,0,7,7,4,0,0,1,2,14,+12
 January 4 2021,GSW,Damion Lee,19:54,1,3,.333,1,3,.333,0,0,,0,6,6,3,0,0,0,2,3,+10
 January 4 2021,GSW,Brad Wanamaker,17:26,2,6,.333,1,2,.500,0,0,,0,1,1,4,0,0,0,2,5,+5
@@ -33921,3 +33921,1896 @@ January 4 2021,GSW,Kevon Looney,12:24,5,6,.833,0,0,,1,2,.500,1,2,3,2,0,0,0,3,11,
 January 4 2021,GSW,Jordan Poole,7:47,3,5,.600,2,3,.667,0,0,,0,1,1,0,0,0,1,1,8,-1
 January 4 2021,GSW,Nico Mannion,7:47,0,2,.000,0,1,.000,0,0,,0,2,2,2,0,0,0,1,0,-1
 January 4 2021,GSW,Team Totals,240,51,97,.526,23,43,.535,12,14,.857,3,45,48,41,4,6,11,28,137
+January 5 2021,UTA,Donovan Mitchell,29:51,10,22,.455,3,8,.375,8,10,.800,0,4,4,4,0,0,3,3,31,-24
+January 5 2021,UTA,Rudy Gobert,27:10,3,10,.300,0,0,,4,5,.800,6,5,11,3,0,2,0,1,10,-15
+January 5 2021,UTA,Mike Conley,26:52,3,10,.300,2,5,.400,0,2,.000,2,1,3,5,1,0,2,1,8,-12
+January 5 2021,UTA,Bojan Bogdanović,26:40,2,7,.286,0,3,.000,0,0,,0,2,2,1,0,0,0,1,4,-23
+January 5 2021,UTA,Royce O'Neale,25:19,4,7,.571,2,5,.400,0,0,,0,5,5,0,0,0,1,3,10,-22
+January 5 2021,UTA,Joe Ingles,22:43,2,6,.333,1,2,.500,2,2,1.000,0,3,3,2,0,0,2,3,7,-10
+January 5 2021,UTA,Jordan Clarkson,19:56,5,13,.385,2,5,.400,0,0,,1,1,2,0,2,0,4,0,12,-14
+January 5 2021,UTA,Derrick Favors,13:16,1,1,1.000,0,0,,0,0,,0,4,4,0,0,1,0,3,2,-12
+January 5 2021,UTA,Miye Oni,11:15,0,2,.000,0,2,.000,0,0,,0,1,1,1,0,0,0,1,0,-8
+January 5 2021,UTA,Elijah Hughes,7:34,2,6,.333,1,4,.250,0,0,,0,2,2,0,0,0,2,0,5,-7
+January 5 2021,UTA,Udoka Azubuike,7:34,0,0,,0,0,,2,4,.500,0,2,2,0,1,0,0,1,2,-7
+January 5 2021,UTA,Trent Forrest,7:34,0,0,,0,0,,2,2,1.000,0,0,0,1,1,0,0,1,2,-7
+January 5 2021,UTA,Shaquille Harrison,7:10,1,2,.500,0,0,,1,2,.500,0,1,1,0,1,0,0,0,3,-7
+January 5 2021,UTA,Georges Niang,7:06,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-2
+January 5 2021,UTA,Team Totals,240,33,86,.384,11,34,.324,19,27,.704,9,32,41,17,6,3,15,18,96
+January 5 2021,BRK,Jarrett Allen,31:57,8,9,.889,0,0,,3,7,.429,5,13,18,1,3,2,0,1,19,+20
+January 5 2021,BRK,Kyrie Irving,29:35,12,19,.632,5,7,.714,0,0,,0,6,6,5,3,0,2,3,29,+22
+January 5 2021,BRK,Bruce Brown,23:07,3,5,.600,0,1,.000,0,0,,0,6,6,5,0,0,1,1,6,+20
+January 5 2021,BRK,Taurean Prince,19:39,3,9,.333,1,5,.200,1,1,1.000,0,0,0,2,0,1,0,2,8,+13
+January 5 2021,BRK,Jeff Green,19:05,1,3,.333,0,1,.000,0,0,,0,5,5,0,0,0,0,3,2,+11
+January 5 2021,BRK,Timothé Luwawu-Cabarrot,24:20,5,9,.556,1,5,.200,0,0,,0,3,3,1,0,0,1,2,11,+13
+January 5 2021,BRK,Joe Harris,23:04,4,7,.571,2,4,.500,0,0,,0,0,0,1,1,0,2,0,10,+17
+January 5 2021,BRK,Caris LeVert,21:27,9,18,.500,2,5,.400,4,4,1.000,0,1,1,5,2,0,2,1,24,+16
+January 5 2021,BRK,Tyler Johnson,18:25,2,5,.400,2,4,.500,0,0,,0,1,1,7,2,0,0,1,6,+12
+January 5 2021,BRK,DeAndre Jordan,8:53,2,2,1.000,0,0,,1,1,1.000,2,2,4,1,0,1,1,5,5,+7
+January 5 2021,BRK,Landry Shamet,7:10,1,3,.333,1,3,.333,2,2,1.000,0,1,1,1,0,0,0,0,5,+7
+January 5 2021,BRK,Reggie Perry,7:10,2,4,.500,0,1,.000,1,1,1.000,0,5,5,1,0,0,3,3,5,+7
+January 5 2021,BRK,Chris Chiozza,6:08,0,0,,0,0,,0,0,,1,0,1,1,0,1,0,0,0,+5
+January 5 2021,BRK,Rodions Kurucs,Did Not Play
+January 5 2021,BRK,Team Totals,240,52,93,.559,14,36,.389,12,16,.750,8,43,51,31,11,5,12,22,130
+January 5 2021,LAL,Dennis Schröder,36:06,5,15,.333,1,4,.250,1,1,1.000,0,2,2,6,0,0,4,0,12,-1
+January 5 2021,LAL,Anthony Davis,34:25,10,20,.500,4,10,.400,2,3,.667,0,10,10,4,3,3,4,0,26,+12
+January 5 2021,LAL,LeBron James,34:05,11,20,.550,1,4,.250,3,3,1.000,2,10,12,7,1,1,6,0,26,+20
+January 5 2021,LAL,Kyle Kuzma,30:15,2,5,.400,0,2,.000,1,2,.500,1,5,6,0,0,0,1,2,5,+21
+January 5 2021,LAL,Marc Gasol,18:42,1,3,.333,1,2,.500,0,0,,0,4,4,2,1,2,1,5,3,+11
+January 5 2021,LAL,Wesley Matthews,29:47,1,4,.250,1,4,.250,1,1,1.000,1,2,3,1,0,1,0,0,4,-8
+January 5 2021,LAL,Talen Horton-Tucker,22:03,2,5,.400,0,1,.000,0,0,,0,2,2,2,1,1,0,2,4,-22
+January 5 2021,LAL,Montrezl Harrell,20:09,4,9,.444,0,1,.000,1,1,1.000,3,4,7,1,1,0,1,2,9,-13
+January 5 2021,LAL,Markieff Morris,14:28,2,6,.333,1,3,.333,0,0,,2,4,6,1,0,0,0,3,5,-10
+January 5 2021,LAL,Quinn Cook,Did Not Play
+January 5 2021,LAL,Jared Dudley,Did Not Play
+January 5 2021,LAL,Alfonzo McKinnie,Did Not Play
+January 5 2021,LAL,Team Totals,240,38,87,.437,9,31,.290,9,11,.818,9,43,52,24,7,8,17,14,94
+January 5 2021,MEM,Tyus Jones,32:13,3,8,.375,1,4,.250,1,2,.500,0,0,0,8,2,1,1,0,8,-17
+January 5 2021,MEM,Dillon Brooks,29:13,5,13,.385,3,5,.600,0,1,.000,1,4,5,2,2,0,0,3,13,-16
+January 5 2021,MEM,Kyle Anderson,28:59,4,10,.400,1,3,.333,1,1,1.000,0,5,5,2,1,0,1,0,10,-17
+January 5 2021,MEM,Brandon Clarke,28:32,5,11,.455,1,2,.500,1,2,.500,1,2,3,1,3,1,0,2,12,-10
+January 5 2021,MEM,Jonas Valančiūnas,25:42,4,13,.308,0,1,.000,5,5,1.000,2,9,11,2,1,1,4,1,13,-10
+January 5 2021,MEM,Desmond Bane,24:40,3,8,.375,1,4,.250,0,0,,0,3,3,1,1,0,2,1,7,+12
+January 5 2021,MEM,Gorgui Dieng,21:38,6,8,.750,1,1,1.000,0,0,,1,3,4,1,2,0,2,3,13,+8
+January 5 2021,MEM,Xavier Tillman,17:35,3,8,.375,0,1,.000,2,2,1.000,0,2,2,0,1,0,1,0,8,+13
+January 5 2021,MEM,De'Anthony Melton,15:45,2,6,.333,1,3,.333,0,0,,0,2,2,5,1,1,2,3,5,+12
+January 5 2021,MEM,Grayson Allen,15:43,1,2,.500,1,2,.500,0,0,,0,3,3,2,0,0,0,1,3,+15
+January 5 2021,MEM,Sean McDermott,Did Not Play
+January 5 2021,MEM,John Konchar,Did Not Dress
+January 5 2021,MEM,Tim Frazier,Did Not Play
+January 5 2021,MEM,Team Totals,240,36,87,.414,10,26,.385,10,13,.769,5,33,38,24,14,4,13,14,92
+January 5 2021,MIN,Malik Beasley,37:39,5,16,.313,0,6,.000,5,5,1.000,2,4,6,4,0,0,1,1,15,+1
+January 5 2021,MIN,D'Angelo Russell,37:21,10,21,.476,4,9,.444,9,10,.900,0,3,3,11,2,0,3,3,33,+1
+January 5 2021,MIN,Juan Hernangómez,34:21,10,14,.714,5,8,.625,0,1,.000,3,5,8,2,2,1,0,3,25,+3
+January 5 2021,MIN,Jarrett Culver,22:12,2,5,.400,0,1,.000,0,0,,1,5,6,1,0,0,2,2,4,+4
+January 5 2021,MIN,Ed Davis,13:50,2,3,.667,0,0,,0,0,,2,4,6,0,0,0,0,4,4,-4
+January 5 2021,MIN,Anthony Edwards,25:34,6,19,.316,1,7,.143,2,2,1.000,1,2,3,1,0,0,3,1,15,-9
+January 5 2021,MIN,Jarred Vanderbilt,23:07,4,5,.800,0,0,,3,7,.429,1,4,5,2,3,2,0,4,11,+9
+January 5 2021,MIN,Ricky Rubio,21:22,0,3,.000,0,1,.000,0,0,,0,4,4,2,1,0,2,5,0,-18
+January 5 2021,MIN,Jake Layman,14:22,2,3,.667,1,2,.500,2,2,1.000,0,1,1,1,0,1,1,3,7,-9
+January 5 2021,MIN,Naz Reid,10:12,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,2,5,2,-13
+January 5 2021,MIN,Jaden McDaniels,Did Not Play
+January 5 2021,MIN,Jaylen Nowell,Did Not Play
+January 5 2021,MIN,Team Totals,240,42,91,.462,11,34,.324,21,27,.778,10,32,42,24,8,4,14,31,116
+January 5 2021,DEN,Nikola Jokić,36:34,12,20,.600,1,1,1.000,10,12,.833,5,10,15,6,3,1,4,5,35,+13
+January 5 2021,DEN,Will Barton,35:53,7,14,.500,2,7,.286,4,6,.667,0,7,7,3,2,0,2,2,20,+13
+January 5 2021,DEN,Gary Harris,32:45,4,8,.500,0,1,.000,2,2,1.000,1,2,3,3,1,0,1,2,10,+6
+January 5 2021,DEN,Jamal Murray,31:48,3,7,.429,1,4,.250,6,6,1.000,0,1,1,3,0,0,2,4,13,+7
+January 5 2021,DEN,Paul Millsap,15:30,5,9,.556,0,2,.000,0,0,,2,1,3,1,0,0,2,4,10,-2
+January 5 2021,DEN,Facundo Campazzo,25:52,3,7,.429,0,3,.000,5,7,.714,0,1,1,2,0,0,0,4,11,+3
+January 5 2021,DEN,Monte Morris,24:58,1,3,.333,1,3,.333,1,4,.250,1,0,1,2,3,0,0,0,4,+4
+January 5 2021,DEN,JaMychal Green,20:20,5,8,.625,3,3,1.000,4,6,.667,1,5,6,1,0,0,1,3,17,-3
+January 5 2021,DEN,PJ Dozier,16:14,1,3,.333,0,1,.000,1,2,.500,0,5,5,1,0,1,2,3,3,-2
+January 5 2021,DEN,R.J. Hampton,0:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-4
+January 5 2021,DEN,Zeke Nnaji,Did Not Play
+January 5 2021,DEN,Vlatko Čančar,Did Not Play
+January 5 2021,DEN,Isaiah Hartenstein,Did Not Play
+January 5 2021,DEN,Bol Bol,Did Not Play
+January 5 2021,DEN,Markus Howard,Did Not Play
+January 5 2021,DEN,Team Totals,240,41,79,.519,8,25,.320,33,45,.733,10,32,42,22,9,2,14,27,123
+January 5 2021,SAS,Dejounte Murray,36:42,9,18,.500,2,5,.400,1,1,1.000,2,3,5,5,2,0,2,2,21,+10
+January 5 2021,SAS,Keldon Johnson,30:16,4,11,.364,1,3,.333,0,0,,4,7,11,4,0,1,0,4,9,-14
+January 5 2021,SAS,Lonnie Walker,30:04,3,9,.333,1,5,.200,2,3,.667,0,1,1,1,2,1,1,2,9,-10
+January 5 2021,SAS,DeMar DeRozan,28:31,3,9,.333,0,0,,0,0,,1,4,5,6,0,1,2,3,6,-20
+January 5 2021,SAS,LaMarcus Aldridge,25:14,6,16,.375,2,6,.333,0,0,,2,4,6,2,1,0,1,0,14,-6
+January 5 2021,SAS,Patty Mills,28:41,8,16,.500,8,12,.667,3,4,.750,0,1,1,1,1,0,1,0,27,+8
+January 5 2021,SAS,Rudy Gay,24:44,6,11,.545,3,5,.600,1,2,.500,1,6,7,1,0,0,1,0,16,+13
+January 5 2021,SAS,Jakob Poeltl,19:17,1,1,1.000,0,0,,0,0,,1,5,6,3,2,0,2,0,2,+15
+January 5 2021,SAS,Devin Vassell,16:31,4,5,.800,3,4,.750,1,1,1.000,0,2,2,0,1,0,0,2,12,+19
+January 5 2021,SAS,Trey Lyles,Did Not Play
+January 5 2021,SAS,Luka Šamanić,Did Not Play
+January 5 2021,SAS,Drew Eubanks,Did Not Play
+January 5 2021,SAS,Tre Jones,Did Not Play
+January 5 2021,SAS,Team Totals,240,44,96,.458,20,40,.500,8,11,.727,11,33,44,23,9,3,10,13,116
+January 5 2021,LAC,Luke Kennard,37:51,3,10,.300,1,5,.200,2,2,1.000,1,5,6,4,0,0,3,1,9,0
+January 5 2021,LAC,Kawhi Leonard,37:14,13,22,.591,1,3,.333,3,3,1.000,2,1,3,10,2,1,0,1,30,+14
+January 5 2021,LAC,Nicolas Batum,35:49,8,12,.667,2,5,.400,3,3,1.000,1,8,9,3,1,1,2,2,21,+17
+January 5 2021,LAC,Patrick Beverley,32:37,7,10,.700,6,9,.667,0,0,,1,7,8,8,0,2,1,5,20,+8
+January 5 2021,LAC,Serge Ibaka,25:18,1,7,.143,0,2,.000,1,2,.500,1,4,5,1,1,2,1,1,3,+10
+January 5 2021,LAC,Lou Williams,21:18,5,13,.385,2,5,.400,3,3,1.000,0,2,2,2,1,0,1,2,15,+3
+January 5 2021,LAC,Ivica Zubac,18:42,1,1,1.000,0,0,,0,0,,1,7,8,0,1,0,2,0,2,-18
+January 5 2021,LAC,Reggie Jackson,15:57,3,7,.429,2,4,.500,0,0,,0,1,1,1,0,0,2,3,8,-21
+January 5 2021,LAC,Terance Mann,8:38,0,2,.000,0,1,.000,0,0,,0,3,3,0,0,1,1,1,0,-20
+January 5 2021,LAC,Patrick Patterson,6:31,2,2,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,5,-5
+January 5 2021,LAC,Amir Coffey,0:05,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-3
+January 5 2021,LAC,Mfiondu Kabengele,Did Not Play
+January 5 2021,LAC,Marcus Morris,Did Not Play
+January 5 2021,LAC,Daniel Oturu,Did Not Play
+January 5 2021,LAC,Paul George,Did Not Play
+January 5 2021,LAC,Team Totals,240,43,86,.500,15,35,.429,12,13,.923,7,38,45,29,6,7,13,16,113
+January 5 2021,CHI,Zach LaVine,42:39,6,18,.333,3,10,.300,3,3,1.000,0,4,4,9,0,2,4,2,18,+1
+January 5 2021,CHI,Coby White,38:39,8,19,.421,2,7,.286,3,4,.750,2,8,10,5,0,0,2,2,21,-1
+January 5 2021,CHI,Otto Porter,28:14,7,14,.500,4,7,.571,1,2,.500,2,11,13,1,0,0,0,2,19,+4
+January 5 2021,CHI,Wendell Carter,25:14,4,9,.444,0,2,.000,5,6,.833,2,1,3,5,1,1,1,5,13,+1
+January 5 2021,CHI,Patrick Williams,24:53,5,8,.625,2,2,1.000,2,2,1.000,1,2,3,1,0,0,2,2,14,-4
+January 5 2021,CHI,Garrett Temple,28:25,5,10,.500,4,9,.444,0,0,,0,1,1,0,3,1,2,1,14,+5
+January 5 2021,CHI,Thaddeus Young,23:12,4,8,.500,1,2,.500,1,1,1.000,2,6,8,4,0,0,3,4,10,+2
+January 5 2021,CHI,Denzel Valentine,19:12,0,3,.000,0,2,.000,0,0,,0,8,8,2,1,0,1,0,0,+10
+January 5 2021,CHI,Daniel Gafford,9:32,1,2,.500,0,0,,0,0,,2,0,2,0,0,1,0,1,2,-3
+January 5 2021,CHI,Devon Dotson,Did Not Play
+January 5 2021,CHI,Luke Kornet,Did Not Play
+January 5 2021,CHI,Cristiano Felício,Did Not Play
+January 5 2021,CHI,Adam Mokoka,Did Not Play
+January 5 2021,CHI,Team Totals,240,40,91,.440,16,41,.390,15,18,.833,11,41,52,27,5,5,15,19,111
+January 5 2021,POR,Damian Lillard,36:42,6,17,.353,3,11,.273,9,11,.818,0,5,5,9,0,0,0,1,24,+5
+January 5 2021,POR,Robert Covington,36:32,5,10,.500,4,9,.444,0,0,,1,5,6,1,1,1,0,5,14,+6
+January 5 2021,POR,CJ McCollum,35:56,10,21,.476,6,14,.429,0,0,,0,5,5,4,3,0,5,3,26,0
+January 5 2021,POR,Derrick Jones,31:22,2,7,.286,0,3,.000,1,4,.250,2,1,3,1,3,1,1,0,5,-5
+January 5 2021,POR,Jusuf Nurkić,28:01,6,15,.400,0,2,.000,0,0,,3,8,11,6,0,1,1,4,12,+3
+January 5 2021,POR,Carmelo Anthony,27:58,4,9,.444,4,6,.667,0,0,,0,4,4,0,1,0,2,1,12,-9
+January 5 2021,POR,Gary Trent,18:36,5,10,.500,2,5,.400,1,2,.500,1,0,1,0,0,0,1,1,13,-2
+January 5 2021,POR,Enes Kanter,15:36,1,3,.333,0,0,,0,0,,3,7,10,2,0,0,1,1,2,-5
+January 5 2021,POR,Anfernee Simons,5:04,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-6
+January 5 2021,POR,Harry Giles,4:13,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-2
+January 5 2021,POR,Nassir Little,Did Not Play
+January 5 2021,POR,CJ Elleby,Did Not Play
+January 5 2021,POR,Keljin Blevins,Did Not Play
+January 5 2021,POR,Team Totals,240,39,94,.415,19,51,.373,11,17,.647,10,36,46,23,8,3,11,16,108
+January 6 2021,HOU,James Harden,38:51,5,14,.357,1,5,.200,4,4,1.000,0,4,4,12,1,2,4,2,15,+3
+January 6 2021,HOU,David Nwaba,37:09,6,11,.545,1,5,.200,2,4,.500,1,3,4,0,0,2,2,2,15,+3
+January 6 2021,HOU,John Wall,37:08,12,20,.600,0,3,.000,4,4,1.000,1,5,6,3,2,1,5,1,28,+3
+January 6 2021,HOU,P.J. Tucker,32:36,3,4,.750,2,2,1.000,2,2,1.000,1,5,6,0,1,1,2,6,10,+3
+January 6 2021,HOU,DeMarcus Cousins,23:28,2,9,.222,1,2,.500,4,6,.667,2,12,14,1,2,4,1,3,9,-4
+January 6 2021,HOU,Eric Gordon,33:26,7,15,.467,2,10,.200,4,4,1.000,0,1,1,1,0,2,0,3,20,-16
+January 6 2021,HOU,Jae'Sean Tate,23:35,3,6,.500,1,3,.333,1,2,.500,0,2,2,2,0,0,1,4,8,-12
+January 6 2021,HOU,Sterling Brown,13:47,1,2,.500,0,0,,0,0,,0,2,2,0,1,0,1,1,2,-15
+January 6 2021,HOU,Christian Wood,Did Not Play
+January 6 2021,HOU,Brodric Thomas,Did Not Play
+January 6 2021,HOU,Bruno Caboclo,Did Not Play
+January 6 2021,HOU,Ben McLemore,Did Not Play
+January 6 2021,HOU,Team Totals,240,39,81,.481,8,30,.267,21,26,.808,5,34,39,19,7,12,16,22,107
+January 6 2021,IND,Malcolm Brogdon,39:07,13,25,.520,4,6,.667,5,5,1.000,1,1,2,7,3,0,1,3,35,-1
+January 6 2021,IND,Domantas Sabonis,38:08,9,14,.643,0,0,,4,6,.667,3,9,12,4,0,1,5,4,22,+4
+January 6 2021,IND,Victor Oladipo,35:55,6,20,.300,1,7,.143,5,8,.625,0,9,9,2,1,0,2,4,18,-10
+January 6 2021,IND,Myles Turner,31:47,1,6,.167,0,2,.000,0,0,,1,4,5,2,2,8,0,4,2,-3
+January 6 2021,IND,Aaron Holiday,27:35,3,8,.375,1,4,.250,0,0,,0,0,0,3,0,0,0,3,7,-6
+January 6 2021,IND,Justin Holiday,31:57,6,9,.667,3,4,.750,5,5,1.000,2,3,5,0,1,0,1,0,20,+22
+January 6 2021,IND,T.J. McConnell,19:02,2,5,.400,0,0,,0,0,,0,3,3,3,3,0,0,1,4,+16
+January 6 2021,IND,Doug McDermott,16:29,2,2,1.000,0,0,,2,2,1.000,0,2,2,0,0,0,0,2,6,+13
+January 6 2021,IND,JaKarr Sampson,Did Not Play
+January 6 2021,IND,Cassius Stanley,Did Not Play
+January 6 2021,IND,Edmond Sumner,Did Not Play
+January 6 2021,IND,Kelan Martin,Did Not Play
+January 6 2021,IND,Team Totals,240,42,89,.472,9,23,.391,21,26,.808,7,31,38,21,10,9,9,21,114
+January 6 2021,CLE,Collin Sexton,35:00,8,20,.400,3,7,.429,2,2,1.000,1,2,3,4,1,1,0,1,21,-13
+January 6 2021,CLE,Cedi Osman,32:53,1,12,.083,0,7,.000,2,2,1.000,0,5,5,7,3,0,2,4,4,-20
+January 6 2021,CLE,Larry Nance,32:37,4,7,.571,1,3,.333,1,6,.167,0,3,3,1,1,0,2,4,10,-20
+January 6 2021,CLE,Isaac Okoro,28:00,4,5,.800,0,1,.000,2,2,1.000,0,0,0,2,0,0,0,3,10,-1
+January 6 2021,CLE,Andre Drummond,26:18,9,16,.563,0,0,,1,4,.250,6,9,15,1,1,1,5,4,19,-12
+January 6 2021,CLE,Lamar Stevens,20:36,4,9,.444,0,2,.000,2,2,1.000,1,5,6,1,0,0,0,2,10,+1
+January 6 2021,CLE,JaVale McGee,17:06,2,6,.333,0,1,.000,2,2,1.000,2,3,5,3,2,0,1,1,6,-5
+January 6 2021,CLE,Damyean Dotson,15:31,2,5,.400,0,3,.000,0,0,,0,0,0,3,0,0,0,0,4,-8
+January 6 2021,CLE,Thon Maker,14:29,2,3,.667,0,1,.000,2,2,1.000,2,4,6,2,0,0,0,0,6,+6
+January 6 2021,CLE,Dean Wade,12:52,0,2,.000,0,1,.000,2,2,1.000,0,0,0,0,0,0,0,0,2,+7
+January 6 2021,CLE,Marques Bolden,4:38,0,0,,0,0,,2,2,1.000,1,1,2,0,1,2,0,0,2,+10
+January 6 2021,CLE,Darius Garland,Did Not Play
+January 6 2021,CLE,Team Totals,240,36,85,.424,4,26,.154,18,26,.692,13,32,45,24,9,4,10,19,94
+January 6 2021,ORL,Nikola Vučević,34:08,7,18,.389,1,5,.200,1,1,1.000,0,7,7,6,0,1,2,2,16,+1
+January 6 2021,ORL,Dwayne Bacon,31:31,8,14,.571,2,5,.400,1,1,1.000,0,2,2,1,0,0,0,0,19,+3
+January 6 2021,ORL,Gary Clark,28:25,1,4,.250,1,3,.333,0,0,,1,3,4,1,0,0,0,4,3,-1
+January 6 2021,ORL,Aaron Gordon,27:09,5,7,.714,2,2,1.000,3,7,.429,0,8,8,3,1,1,5,1,15,+8
+January 6 2021,ORL,Markelle Fultz,4:25,1,3,.333,0,0,,1,1,1.000,0,0,0,0,1,0,0,0,3,-8
+January 6 2021,ORL,Cole Anthony,32:06,4,12,.333,0,4,.000,0,0,,0,4,4,3,0,1,3,1,8,+11
+January 6 2021,ORL,Khem Birch,24:55,3,4,.750,0,0,,0,0,,4,6,10,2,1,0,1,3,6,+18
+January 6 2021,ORL,Terrence Ross,21:45,6,9,.667,5,6,.833,3,4,.750,0,2,2,2,1,1,1,5,20,+17
+January 6 2021,ORL,James Ennis,16:06,2,3,.667,0,1,.000,2,2,1.000,2,0,2,1,0,0,2,2,6,+10
+January 6 2021,ORL,Jordan Bone,12:10,3,4,.750,1,2,.500,0,0,,1,2,3,1,0,0,0,2,7,+8
+January 6 2021,ORL,Karim Mané,3:40,0,1,.000,0,0,,2,2,1.000,0,0,0,0,0,0,1,0,2,-6
+January 6 2021,ORL,Mohamed Bamba,3:40,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,2,0,-6
+January 6 2021,ORL,Evan Fournier,Did Not Play
+January 6 2021,ORL,Team Totals,240,40,81,.494,12,29,.414,13,18,.722,8,35,43,20,4,4,15,22,105
+January 6 2021,WAS,Russell Westbrook,38:57,8,18,.444,3,6,.500,1,4,.250,0,8,8,12,3,1,6,4,20,-4
+January 6 2021,WAS,Bradley Beal,38:15,20,35,.571,7,10,.700,13,15,.867,4,3,7,5,1,0,4,3,60,-9
+January 6 2021,WAS,Thomas Bryant,33:55,4,6,.667,0,2,.000,3,3,1.000,2,4,6,1,0,0,0,4,11,-14
+January 6 2021,WAS,Rui Hachimura,24:09,2,4,.500,1,1,1.000,3,4,.750,0,2,2,0,0,0,0,1,8,-13
+January 6 2021,WAS,Deni Avdija,15:31,0,1,.000,0,1,.000,1,2,.500,0,0,0,0,0,1,0,3,1,-9
+January 6 2021,WAS,Dāvis Bertāns,32:58,6,15,.400,4,12,.333,1,1,1.000,1,3,4,1,2,0,2,3,17,+1
+January 6 2021,WAS,Ish Smith,23:05,4,8,.500,0,2,.000,1,2,.500,1,4,5,5,2,0,1,2,9,+5
+January 6 2021,WAS,Robin Lopez,14:05,1,3,.333,0,1,.000,3,4,.750,1,1,2,1,0,0,0,1,5,+9
+January 6 2021,WAS,Raul Neto,11:34,2,4,.500,1,2,.500,0,0,,0,0,0,2,1,0,0,3,5,+10
+January 6 2021,WAS,Jerome Robinson,5:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-3
+January 6 2021,WAS,Anthony Gill,2:25,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,+2
+January 6 2021,WAS,Moritz Wagner,Did Not Play
+January 6 2021,WAS,Garrison Mathews,Did Not Play
+January 6 2021,WAS,Troy Brown,Did Not Play
+January 6 2021,WAS,Isaac Bonga,Did Not Play
+January 6 2021,WAS,Team Totals,240,47,94,.500,16,37,.432,26,35,.743,9,26,35,27,9,2,13,27,136
+January 6 2021,PHI,Tobias Harris,40:38,8,16,.500,3,7,.429,0,2,.000,0,7,7,3,0,0,2,2,19,+7
+January 6 2021,PHI,Joel Embiid,36:36,11,20,.550,3,4,.750,13,13,1.000,0,8,8,5,3,3,5,1,38,+14
+January 6 2021,PHI,Seth Curry,36:18,11,14,.786,6,7,.857,0,0,,0,5,5,3,0,0,1,1,28,+16
+January 6 2021,PHI,Ben Simmons,35:43,7,9,.778,0,0,,3,6,.500,0,6,6,12,2,0,3,5,17,+6
+January 6 2021,PHI,Danny Green,30:18,5,10,.500,5,8,.625,0,0,,1,2,3,5,2,0,1,3,15,+14
+January 6 2021,PHI,Shake Milton,19:59,6,9,.667,1,3,.333,6,8,.750,0,0,0,3,1,0,4,3,19,-5
+January 6 2021,PHI,Matisse Thybulle,17:47,1,2,.500,0,0,,0,0,,0,0,0,1,1,1,0,3,2,-9
+January 6 2021,PHI,Dwight Howard,11:24,0,0,,0,0,,1,4,.250,0,4,4,0,0,2,0,2,1,-9
+January 6 2021,PHI,Tyrese Maxey,10:59,1,1,1.000,0,0,,0,0,,0,2,2,1,0,0,0,1,2,-9
+January 6 2021,PHI,Terrance Ferguson,0:18,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+January 6 2021,PHI,Paul Reed,Did Not Play
+January 6 2021,PHI,Dakota Mathias,Did Not Play
+January 6 2021,PHI,Isaiah Joe,Did Not Play
+January 6 2021,PHI,Tony Bradley,Did Not Play
+January 6 2021,PHI,Vincent Poirier,Did Not Play
+January 6 2021,PHI,Team Totals,240,50,81,.617,18,29,.621,23,33,.697,1,34,35,33,9,6,16,21,141
+January 6 2021,CHO,Gordon Hayward,39:07,15,25,.600,4,9,.444,10,12,.833,2,5,7,2,1,1,1,3,44,+10
+January 6 2021,CHO,Devonte' Graham,39:03,3,15,.200,3,10,.300,5,6,.833,0,4,4,7,4,0,2,2,14,+12
+January 6 2021,CHO,P.J. Washington,37:34,3,8,.375,1,2,.500,2,2,1.000,0,10,10,4,2,3,3,1,9,+16
+January 6 2021,CHO,Terry Rozier,28:05,4,10,.400,2,5,.400,4,5,.800,0,3,3,1,2,1,1,1,14,+13
+January 6 2021,CHO,Bismack Biyombo,24:18,1,5,.200,0,0,,0,2,.000,2,6,8,1,0,2,0,2,2,-5
+January 6 2021,CHO,LaMelo Ball,23:40,5,11,.455,1,4,.250,2,2,1.000,2,6,8,5,0,0,1,2,13,0
+January 6 2021,CHO,Miles Bridges,22:22,0,5,.000,0,3,.000,2,2,1.000,2,4,6,2,2,0,0,2,2,+10
+January 6 2021,CHO,Caleb Martin,14:50,1,4,.250,0,2,.000,0,0,,0,1,1,0,0,0,1,1,2,-5
+January 6 2021,CHO,Cody Martin,11:01,0,2,.000,0,1,.000,2,2,1.000,0,2,2,0,0,0,0,0,2,-11
+January 6 2021,CHO,Vernon Carey,Did Not Play
+January 6 2021,CHO,Jalen McDaniels,Did Not Play
+January 6 2021,CHO,Malik Monk,Did Not Play
+January 6 2021,CHO,Team Totals,240,32,85,.376,11,36,.306,27,33,.818,8,41,49,22,11,7,9,14,102
+January 6 2021,ATL,Trae Young,35:04,2,9,.222,0,3,.000,3,3,1.000,0,5,5,3,1,0,7,4,7,-15
+January 6 2021,ATL,De'Andre Hunter,33:51,6,15,.400,1,7,.143,4,4,1.000,2,4,6,5,1,0,0,4,17,-4
+January 6 2021,ATL,John Collins,31:47,9,16,.563,0,0,,5,7,.714,4,7,11,1,1,0,2,4,23,-12
+January 6 2021,ATL,Cam Reddish,27:22,3,15,.200,0,8,.000,2,2,1.000,0,4,4,2,1,0,1,1,8,-3
+January 6 2021,ATL,Clint Capela,26:23,3,8,.375,0,0,,1,2,.500,6,13,19,1,0,1,0,1,7,+2
+January 6 2021,ATL,Kevin Huerter,32:57,7,15,.467,5,12,.417,0,0,,0,5,5,6,0,0,1,4,19,-1
+January 6 2021,ATL,Brandon Goodwin,20:15,4,10,.400,1,5,.200,0,0,,0,3,3,2,2,0,1,1,9,+9
+January 6 2021,ATL,Bogdan Bogdanović,18:19,1,5,.200,0,3,.000,0,0,,0,2,2,3,0,0,0,4,2,-9
+January 6 2021,ATL,Solomon Hill,11:17,1,2,.500,0,1,.000,0,0,,0,2,2,2,0,0,1,1,2,+1
+January 6 2021,ATL,Nathan Knight,2:45,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-8
+January 6 2021,ATL,Skylar Mays,Did Not Play
+January 6 2021,ATL,Bruno Fernando,Did Not Play
+January 6 2021,ATL,Team Totals,240,36,96,.375,7,40,.175,15,18,.833,12,45,57,25,6,1,13,25,94
+January 6 2021,BOS,Jayson Tatum,37:32,10,21,.476,5,8,.625,2,2,1.000,0,5,5,4,1,0,2,4,27,+7
+January 6 2021,BOS,Jaylen Brown,36:46,8,23,.348,3,9,.333,2,2,1.000,1,11,12,5,2,2,1,4,21,-8
+January 6 2021,BOS,Marcus Smart,32:12,3,10,.300,1,3,.333,2,2,1.000,1,3,4,6,1,0,0,5,9,-6
+January 6 2021,BOS,Daniel Theis,28:06,6,11,.545,1,4,.250,0,0,,2,3,5,1,0,1,1,1,13,-4
+January 6 2021,BOS,Tristan Thompson,19:30,3,4,.750,0,0,,3,4,.750,2,5,7,1,0,0,1,2,9,+1
+January 6 2021,BOS,Grant Williams,28:06,2,7,.286,1,2,.500,0,0,,3,3,6,1,2,1,1,2,5,+8
+January 6 2021,BOS,Payton Pritchard,20:23,3,10,.300,0,4,.000,0,0,,4,2,6,4,0,0,0,3,6,+6
+January 6 2021,BOS,Robert Williams,14:40,3,3,1.000,0,0,,2,2,1.000,0,4,4,0,1,1,1,1,8,+3
+January 6 2021,BOS,Semi Ojeleye,13:02,2,6,.333,1,3,.333,0,0,,3,1,4,0,0,0,0,1,5,+1
+January 6 2021,BOS,Carsen Edwards,9:43,2,4,.500,0,2,.000,0,0,,0,0,0,0,0,0,0,0,4,+2
+January 6 2021,BOS,Tacko Fall,Did Not Play
+January 6 2021,BOS,Aaron Nesmith,Did Not Play
+January 6 2021,BOS,Tremont Waters,Did Not Play
+January 6 2021,BOS,Team Totals,240,42,99,.424,12,35,.343,11,12,.917,16,37,53,22,7,5,7,23,107
+January 6 2021,MIA,Tyler Herro,34:07,2,8,.250,1,5,.200,3,5,.600,0,7,7,1,0,0,2,1,8,+2
+January 6 2021,MIA,Bam Adebayo,33:45,5,10,.500,0,0,,5,6,.833,1,7,8,10,0,2,2,2,15,-9
+January 6 2021,MIA,Jimmy Butler,33:08,9,19,.474,0,3,.000,8,9,.889,2,6,8,3,0,3,1,0,26,+8
+January 6 2021,MIA,Duncan Robinson,31:09,5,11,.455,5,11,.455,1,1,1.000,0,6,6,2,1,0,0,2,16,+12
+January 6 2021,MIA,Kelly Olynyk,21:12,4,7,.571,3,6,.500,0,0,,0,5,5,0,0,0,0,4,11,+2
+January 6 2021,MIA,Goran Dragić,28:16,5,12,.417,1,5,.200,3,3,1.000,0,0,0,2,0,0,2,3,14,-8
+January 6 2021,MIA,Avery Bradley,23:34,0,4,.000,0,1,.000,0,0,,0,2,2,4,1,1,0,2,0,-3
+January 6 2021,MIA,Andre Iguodala,20:34,3,5,.600,3,5,.600,0,0,,0,1,1,1,0,0,0,0,9,-21
+January 6 2021,MIA,Precious Achiuwa,14:15,2,5,.400,0,0,,2,2,1.000,3,2,5,3,0,1,1,1,6,+7
+January 6 2021,MIA,Udonis Haslem,Did Not Play
+January 6 2021,MIA,Kendrick Nunn,Did Not Play
+January 6 2021,MIA,Gabe Vincent,Did Not Play
+January 6 2021,MIA,Meyers Leonard,Did Not Play
+January 6 2021,MIA,KZ Okpala,Did Not Play
+January 6 2021,MIA,Chris Silva,Did Not Play
+January 6 2021,MIA,Team Totals,240,35,81,.432,13,36,.361,22,26,.846,6,36,42,26,2,7,8,15,105
+January 6 2021,UTA,Donovan Mitchell,36:18,8,23,.348,2,10,.200,0,0,,2,2,4,4,1,0,4,0,18,-20
+January 6 2021,UTA,Rudy Gobert,35:00,7,9,.778,0,0,,0,3,.000,2,9,11,2,0,5,0,1,14,-18
+January 6 2021,UTA,Royce O'Neale,33:16,3,6,.500,2,5,.400,0,0,,2,7,9,0,2,0,1,2,8,-11
+January 6 2021,UTA,Mike Conley,29:04,3,14,.214,0,6,.000,3,4,.750,1,3,4,6,1,0,3,2,9,-12
+January 6 2021,UTA,Bojan Bogdanović,28:40,2,10,.200,1,7,.143,1,2,.500,1,3,4,1,0,0,2,2,6,-16
+January 6 2021,UTA,Joe Ingles,28:16,6,13,.462,4,9,.444,0,0,,0,2,2,3,0,0,4,1,16,+1
+January 6 2021,UTA,Jordan Clarkson,24:44,7,12,.583,3,5,.600,2,2,1.000,0,3,3,2,1,0,0,4,19,+2
+January 6 2021,UTA,Derrick Favors,13:00,2,2,1.000,0,0,,0,0,,1,2,3,1,0,4,0,2,4,+6
+January 6 2021,UTA,Georges Niang,11:42,2,2,1.000,2,2,1.000,0,0,,1,1,2,1,0,0,0,1,6,+8
+January 6 2021,UTA,Shaquille Harrison,Did Not Play
+January 6 2021,UTA,Udoka Azubuike,Did Not Play
+January 6 2021,UTA,Miye Oni,Did Not Play
+January 6 2021,UTA,Trent Forrest,Did Not Play
+January 6 2021,UTA,Elijah Hughes,Did Not Play
+January 6 2021,UTA,Team Totals,240,40,91,.440,14,44,.318,6,11,.545,10,32,42,20,5,9,14,15,100
+January 6 2021,NYK,Elfrid Payton,42:16,10,15,.667,0,2,.000,2,2,1.000,0,2,2,8,1,0,1,3,22,+25
+January 6 2021,NYK,Mitchell Robinson,41:26,4,6,.667,0,0,,1,2,.500,4,10,14,2,2,3,3,2,9,+12
+January 6 2021,NYK,Julius Randle,39:31,10,26,.385,0,5,.000,10,12,.833,3,13,16,7,0,0,5,4,30,+25
+January 6 2021,NYK,RJ Barrett,33:20,4,14,.286,0,3,.000,1,3,.333,0,5,5,1,3,1,2,3,9,+10
+January 6 2021,NYK,Reggie Bullock,29:34,5,8,.625,2,3,.667,0,0,,3,4,7,0,1,0,0,2,12,+13
+January 6 2021,NYK,Austin Rivers,32:16,9,14,.643,5,7,.714,0,0,,1,2,3,2,2,0,1,1,23,+2
+January 6 2021,NYK,Kevin Knox,15:53,3,3,1.000,1,1,1.000,0,0,,0,1,1,0,0,1,0,0,7,-14
+January 6 2021,NYK,Immanuel Quickley,5:44,0,1,.000,0,1,.000,0,0,,0,0,0,2,1,0,0,2,0,-13
+January 6 2021,NYK,Theo Pinson,Did Not Play
+January 6 2021,NYK,Dennis Smith,Did Not Play
+January 6 2021,NYK,Omari Spellman,Did Not Play
+January 6 2021,NYK,Ignas Brazdeikis,Did Not Play
+January 6 2021,NYK,Jared Harper,Did Not Play
+January 6 2021,NYK,Team Totals,240,45,87,.517,8,22,.364,14,19,.737,11,37,48,22,10,5,12,17,112
+January 6 2021,DET,Jerami Grant,35:21,9,20,.450,2,6,.333,11,11,1.000,4,6,10,1,0,0,0,2,31,-14
+January 6 2021,DET,Blake Griffin,26:11,2,9,.222,0,6,.000,5,6,.833,0,1,1,5,1,0,1,2,9,-19
+January 6 2021,DET,Delon Wright,25:00,1,8,.125,1,5,.200,0,0,,0,1,1,3,1,0,0,0,3,-12
+January 6 2021,DET,Wayne Ellington,23:52,5,9,.556,2,6,.333,0,0,,1,2,3,0,1,1,0,2,12,-17
+January 6 2021,DET,Mason Plumlee,16:42,2,5,.400,0,0,,0,0,,2,3,5,1,0,1,2,4,4,-22
+January 6 2021,DET,Saddiq Bey,24:08,6,14,.429,6,10,.600,2,2,1.000,0,10,10,3,1,0,1,1,20,+2
+January 6 2021,DET,Isaiah Stewart,20:11,2,6,.333,0,0,,1,2,.500,4,3,7,0,0,0,2,2,5,+5
+January 6 2021,DET,Sviatoslav Mykhailiuk,13:31,3,8,.375,2,6,.333,0,0,,0,2,2,4,0,0,0,1,8,-3
+January 6 2021,DET,Sekou Doumbouya,12:54,0,0,,0,0,,0,0,,0,2,2,1,0,1,0,3,0,-4
+January 6 2021,DET,Saben Lee,11:57,1,5,.200,0,1,.000,2,4,.500,1,0,1,1,2,0,3,1,4,+3
+January 6 2021,DET,Jahlil Okafor,11:07,3,5,.600,0,0,,0,0,,2,1,3,0,0,0,0,0,6,+2
+January 6 2021,DET,Derrick Rose,11:03,3,7,.429,0,1,.000,4,4,1.000,0,1,1,1,0,0,0,1,10,-6
+January 6 2021,DET,Rodney McGruder,7:06,1,1,1.000,0,0,,1,1,1.000,1,0,1,0,0,0,0,1,3,+8
+January 6 2021,DET,Deividas Sirvydis,0:57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+2
+January 6 2021,DET,Team Totals,240,38,97,.392,13,41,.317,26,30,.867,15,32,47,20,6,3,9,20,115
+January 6 2021,MIL,Khris Middleton,31:02,9,15,.600,5,6,.833,0,0,,1,4,5,7,0,0,2,3,23,+17
+January 6 2021,MIL,Jrue Holiday,30:04,4,11,.364,0,3,.000,2,2,1.000,2,3,5,6,0,0,1,2,10,+10
+January 6 2021,MIL,Giannis Antetokounmpo,28:28,8,15,.533,1,5,.200,8,14,.571,2,6,8,4,0,1,5,4,25,+24
+January 6 2021,MIL,Brook Lopez,27:48,6,9,.667,4,7,.571,1,1,1.000,1,3,4,5,0,2,0,1,17,+13
+January 6 2021,MIL,Donte DiVincenzo,22:17,2,8,.250,0,3,.000,0,0,,1,3,4,1,0,0,2,2,4,+10
+January 6 2021,MIL,Bobby Portis,27:55,7,11,.636,2,5,.400,0,0,,1,9,10,4,2,0,1,3,16,-1
+January 6 2021,MIL,Bryn Forbes,22:21,3,7,.429,2,6,.333,0,2,.000,0,1,1,1,1,0,2,2,8,+5
+January 6 2021,MIL,D.J. Augustin,22:20,2,4,.500,2,4,.500,2,2,1.000,0,4,4,6,1,0,1,2,8,+12
+January 6 2021,MIL,Jordan Nwora,14:43,4,5,.800,3,3,1.000,0,0,,1,3,4,0,1,1,0,2,11,-5
+January 6 2021,MIL,Thanasis Antetokounmpo,12:05,4,4,1.000,0,0,,0,0,,0,2,2,1,0,0,0,1,8,-8
+January 6 2021,MIL,Jaylen Adams,0:57,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-2
+January 6 2021,MIL,D.J. Wilson,Did Not Play
+January 6 2021,MIL,Team Totals,240,49,90,.544,19,43,.442,13,21,.619,9,38,47,35,5,4,14,22,130
+January 6 2021,OKC,Shai Gilgeous-Alexander,36:31,7,17,.412,2,7,.286,5,6,.833,0,5,5,9,5,0,2,2,21,-4
+January 6 2021,OKC,Darius Bazley,33:58,8,20,.400,3,11,.273,1,1,1.000,1,11,12,3,1,0,3,3,20,+9
+January 6 2021,OKC,Luguentz Dort,30:51,3,4,.750,1,2,.500,2,2,1.000,0,1,1,1,0,0,0,2,9,+4
+January 6 2021,OKC,George Hill,27:12,4,9,.444,3,7,.429,2,2,1.000,1,2,3,4,2,0,1,1,13,+4
+January 6 2021,OKC,Al Horford,27:12,3,11,.273,2,7,.286,0,0,,1,6,7,1,0,3,1,3,8,+4
+January 6 2021,OKC,Mike Muscala,20:48,6,9,.667,5,7,.714,1,1,1.000,0,3,3,1,0,1,0,0,18,-3
+January 6 2021,OKC,Hamidou Diallo,20:48,4,8,.500,0,1,.000,1,4,.250,0,1,1,3,1,1,1,0,9,-3
+January 6 2021,OKC,Théo Maledon,19:12,2,4,.500,2,2,1.000,0,0,,0,2,2,4,0,0,3,3,6,-4
+January 6 2021,OKC,Kenrich Williams,12:45,1,3,.333,0,1,.000,0,0,,0,2,2,2,1,0,1,2,2,+1
+January 6 2021,OKC,Isaiah Roby,10:43,2,2,1.000,1,1,1.000,0,0,,1,1,2,0,0,0,2,2,5,-3
+January 6 2021,OKC,Josh Hall,Did Not Play
+January 6 2021,OKC,Darius Miller,Did Not Play
+January 6 2021,OKC,Justin Jackson,Did Not Play
+January 6 2021,OKC,Moses Brown,Did Not Play
+January 6 2021,OKC,Team Totals,240,40,87,.460,19,46,.413,12,16,.750,4,34,38,28,10,5,14,18,111
+January 6 2021,NOP,Brandon Ingram,35:52,9,15,.600,0,2,.000,6,6,1.000,1,10,11,4,0,0,2,0,24,+5
+January 6 2021,NOP,Lonzo Ball,35:52,6,18,.333,2,9,.222,1,1,1.000,0,4,4,4,0,0,4,5,15,+5
+January 6 2021,NOP,Steven Adams,34:17,4,5,.800,0,0,,2,5,.400,2,9,11,10,1,0,2,2,10,+4
+January 6 2021,NOP,Zion Williamson,32:23,12,17,.706,0,0,,5,6,.833,3,3,6,1,3,0,2,3,29,-9
+January 6 2021,NOP,Eric Bledsoe,25:04,5,9,.556,2,4,.500,1,2,.500,0,3,3,3,2,0,2,1,13,-11
+January 6 2021,NOP,Josh Hart,27:45,0,4,.000,0,2,.000,0,0,,2,8,10,1,3,0,2,2,0,+2
+January 6 2021,NOP,Nickeil Alexander-Walker,26:46,5,14,.357,0,5,.000,3,3,1.000,1,4,5,1,2,0,1,3,13,+9
+January 6 2021,NOP,Jaxson Hayes,13:43,2,3,.667,0,0,,0,0,,0,2,2,0,0,0,0,2,4,-5
+January 6 2021,NOP,J.J. Redick,8:18,1,4,.250,0,0,,0,0,,0,0,0,1,0,0,0,0,2,-5
+January 6 2021,NOP,Nicolò Melli,Not With Team
+January 6 2021,NOP,Kira Lewis,Did Not Play
+January 6 2021,NOP,Will Magnay,Did Not Play
+January 6 2021,NOP,Willy Hernangómez,Did Not Play
+January 6 2021,NOP,Wenyen Gabriel,Did Not Play
+January 6 2021,NOP,Naji Marshall,Did Not Play
+January 6 2021,NOP,Team Totals,240,44,89,.494,4,22,.182,18,23,.783,9,43,52,25,11,0,15,18,110
+January 6 2021,TOR,Fred VanVleet,38:36,5,12,.417,2,5,.400,1,2,.500,1,3,4,7,2,1,1,3,13,+5
+January 6 2021,TOR,Kyle Lowry,38:26,9,15,.600,3,8,.375,3,3,1.000,2,7,9,6,1,0,4,4,24,-5
+January 6 2021,TOR,Pascal Siakam,38:08,11,21,.524,1,4,.250,9,14,.643,4,5,9,3,1,1,1,3,32,-1
+January 6 2021,TOR,OG Anunoby,38:03,8,10,.800,3,5,.600,1,2,.500,2,6,8,0,1,0,1,2,20,0
+January 6 2021,TOR,Aron Baynes,13:24,0,2,.000,0,1,.000,0,0,,0,5,5,0,0,0,1,1,0,+4
+January 6 2021,TOR,Norman Powell,26:06,2,7,.286,2,5,.400,7,8,.875,0,1,1,1,1,0,1,1,13,-10
+January 6 2021,TOR,Yuta Watanabe,15:54,1,4,.250,1,2,.500,0,0,,1,2,3,0,0,1,1,2,3,-14
+January 6 2021,TOR,Chris Boucher,15:12,3,4,.750,2,3,.667,1,1,1.000,0,2,2,1,0,1,1,1,9,-6
+January 6 2021,TOR,Alex Len,11:39,0,1,.000,0,1,.000,1,2,.500,0,1,1,0,0,1,1,2,1,-10
+January 6 2021,TOR,Malachi Flynn,3:47,0,3,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1
+January 6 2021,TOR,DeAndre' Bembry,0:44,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2
+January 6 2021,TOR,Matt Thomas,Did Not Play
+January 6 2021,TOR,Terence Davis,Did Not Play
+January 6 2021,TOR,Stanley Johnson,Did Not Play
+January 6 2021,TOR,Paul Watson,Did Not Play
+January 6 2021,TOR,Team Totals,240,39,79,.494,14,35,.400,23,32,.719,10,32,42,18,6,5,12,19,115
+January 6 2021,PHO,Jae Crowder,34:57,7,11,.636,6,9,.667,1,2,.500,0,3,3,1,1,0,2,4,21,-2
+January 6 2021,PHO,Devin Booker,34:36,6,14,.429,3,8,.375,9,10,.900,1,0,1,6,0,0,1,1,24,+2
+January 6 2021,PHO,Chris Paul,31:36,4,12,.333,0,0,,4,4,1.000,1,3,4,8,2,0,0,2,12,+1
+January 6 2021,PHO,Deandre Ayton,31:25,5,8,.625,0,1,.000,1,1,1.000,2,14,16,1,0,0,2,5,11,-1
+January 6 2021,PHO,Mikal Bridges,29:09,3,10,.300,3,7,.429,4,4,1.000,3,1,4,3,0,1,1,4,13,+4
+January 6 2021,PHO,Cameron Johnson,23:19,6,10,.600,4,7,.571,0,0,,0,3,3,0,1,0,1,1,16,+9
+January 6 2021,PHO,Jevon Carter,17:04,2,4,.500,2,4,.500,0,0,,0,1,1,0,0,2,1,2,6,+10
+January 6 2021,PHO,Dario Šarić,16:34,6,11,.545,2,3,.667,1,1,1.000,1,4,5,1,0,0,0,2,15,+9
+January 6 2021,PHO,Cameron Payne,16:24,1,3,.333,1,1,1.000,2,2,1.000,0,3,3,10,0,0,1,2,5,+7
+January 6 2021,PHO,Langston Galloway,4:55,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,+1
+January 6 2021,PHO,Abdel Nader,Did Not Play
+January 6 2021,PHO,Damian Jones,Did Not Play
+January 6 2021,PHO,E'Twaun Moore,Did Not Play
+January 6 2021,PHO,Frank Kaminsky,Did Not Play
+January 6 2021,PHO,Jalen Smith,Did Not Play
+January 6 2021,PHO,Team Totals,240,40,83,.482,21,40,.525,22,24,.917,8,33,41,30,4,3,10,23,123
+January 6 2021,LAC,Paul George,38:32,5,15,.333,2,6,.333,9,9,1.000,2,10,12,2,1,0,2,4,21,+5
+January 6 2021,LAC,Kawhi Leonard,34:31,7,12,.583,0,3,.000,7,7,1.000,0,4,4,4,1,1,7,2,21,+14
+January 6 2021,LAC,Serge Ibaka,34:31,5,13,.385,1,4,.250,1,1,1.000,3,11,14,1,1,1,3,3,12,+13
+January 6 2021,LAC,Patrick Beverley,30:15,2,8,.250,1,5,.200,2,2,1.000,1,0,1,3,1,1,0,3,7,+8
+January 6 2021,LAC,Nicolas Batum,26:18,4,9,.444,3,6,.500,2,2,1.000,3,2,5,0,1,0,1,2,13,+13
+January 6 2021,LAC,Lou Williams,19:55,1,4,.250,1,2,.500,0,0,,0,1,1,3,1,0,1,1,3,-4
+January 6 2021,LAC,Luke Kennard,18:39,3,4,.750,1,1,1.000,2,2,1.000,0,1,1,1,0,0,1,2,9,-6
+January 6 2021,LAC,Marcus Morris,18:11,4,9,.444,2,6,.333,2,2,1.000,2,0,2,2,0,0,3,3,12,-11
+January 6 2021,LAC,Ivica Zubac,10:00,2,2,1.000,0,0,,0,0,,1,5,6,0,0,0,1,5,4,0
+January 6 2021,LAC,Reggie Jackson,8:13,3,5,.600,0,1,.000,0,0,,0,2,2,3,0,0,0,1,6,+3
+January 6 2021,LAC,Mfiondu Kabengele,0:31,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+2
+January 6 2021,LAC,Terance Mann,0:24,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2
+January 6 2021,LAC,Patrick Patterson,Did Not Play
+January 6 2021,LAC,Daniel Oturu,Did Not Play
+January 6 2021,LAC,Amir Coffey,Did Not Play
+January 6 2021,LAC,Team Totals,240,36,81,.444,11,34,.324,25,25,1.000,12,36,48,19,6,3,19,26,108
+January 6 2021,GSW,Stephen Curry,34:59,5,17,.294,1,6,.167,2,4,.500,1,3,4,5,1,0,0,3,13,-10
+January 6 2021,GSW,Andrew Wiggins,33:55,8,12,.667,2,4,.500,1,1,1.000,0,1,1,3,1,0,1,1,19,-7
+January 6 2021,GSW,Draymond Green,31:17,1,3,.333,0,2,.000,2,3,.667,0,6,6,6,2,0,3,4,4,-11
+January 6 2021,GSW,Kelly Oubre,24:40,4,13,.308,0,6,.000,0,0,,1,4,5,0,1,0,2,4,8,-11
+January 6 2021,GSW,James Wiseman,18:01,5,10,.500,0,0,,0,0,,1,3,4,0,1,1,3,3,10,-7
+January 6 2021,GSW,Damion Lee,22:17,2,5,.400,2,4,.500,1,2,.500,0,3,3,1,2,0,1,1,7,+3
+January 6 2021,GSW,Eric Paschall,20:07,7,14,.500,0,3,.000,5,5,1.000,2,1,3,1,0,0,0,1,19,+3
+January 6 2021,GSW,Kent Bazemore,19:02,3,5,.600,1,2,.500,0,0,,0,3,3,2,0,1,0,0,7,+4
+January 6 2021,GSW,Brad Wanamaker,15:15,1,3,.333,1,1,1.000,2,2,1.000,1,1,2,3,1,0,0,1,5,+8
+January 6 2021,GSW,Kevon Looney,12:14,2,2,1.000,0,0,,2,2,1.000,2,1,3,3,1,0,3,2,6,-4
+January 6 2021,GSW,Mychal Mulder,8:13,1,2,.500,1,2,.500,0,0,,0,1,1,1,0,0,0,1,3,-3
+January 6 2021,GSW,Jordan Poole,Did Not Play
+January 6 2021,GSW,Team Totals,240,39,86,.453,8,30,.267,15,19,.789,8,27,35,25,10,2,13,21,101
+January 6 2021,CHI,Coby White,39:38,15,23,.652,4,9,.444,2,2,1.000,0,3,3,7,0,0,0,1,36,-5
+January 6 2021,CHI,Zach LaVine,36:23,13,24,.542,3,11,.273,3,5,.600,0,7,7,3,0,1,6,3,32,-4
+January 6 2021,CHI,Wendell Carter,29:57,4,9,.444,0,0,,3,4,.750,6,11,17,4,0,0,1,1,11,+2
+January 6 2021,CHI,Otto Porter,26:23,1,8,.125,1,5,.200,0,0,,1,5,6,3,0,0,0,1,3,-14
+January 6 2021,CHI,Patrick Williams,22:11,3,6,.500,1,2,.500,2,2,1.000,1,1,2,1,1,0,0,5,9,+2
+January 6 2021,CHI,Garrett Temple,32:35,3,6,.500,3,5,.600,2,2,1.000,2,0,2,4,0,0,4,3,11,-8
+January 6 2021,CHI,Denzel Valentine,21:14,4,10,.400,2,7,.286,0,0,,0,4,4,5,2,0,0,2,10,+10
+January 6 2021,CHI,Thaddeus Young,20:45,4,5,.800,0,1,.000,0,0,,0,2,2,0,0,0,3,2,8,-2
+January 6 2021,CHI,Daniel Gafford,10:54,2,2,1.000,0,0,,0,0,,0,0,0,0,0,1,0,3,4,-1
+January 6 2021,CHI,Adam Mokoka,Did Not Play
+January 6 2021,CHI,Luke Kornet,Did Not Play
+January 6 2021,CHI,Cristiano Felício,Did Not Play
+January 6 2021,CHI,Devon Dotson,Did Not Play
+January 6 2021,CHI,Team Totals,240,49,93,.527,14,40,.350,12,15,.800,10,33,43,27,3,2,14,21,124
+January 6 2021,SAC,Harrison Barnes,37:22,7,10,.700,3,4,.750,3,5,.600,0,0,0,5,1,0,3,1,20,+6
+January 6 2021,SAC,Buddy Hield,35:12,3,15,.200,2,9,.222,2,2,1.000,0,3,3,3,1,0,1,3,10,+7
+January 6 2021,SAC,Richaun Holmes,29:41,10,11,.909,0,1,.000,4,6,.667,3,5,8,5,1,0,1,5,24,+10
+January 6 2021,SAC,Marvin Bagley,29:04,8,14,.571,3,5,.600,2,2,1.000,3,9,12,0,2,2,2,1,21,+1
+January 6 2021,SAC,De'Aaron Fox,5:14,1,2,.500,0,1,.000,1,2,.500,0,0,0,1,0,0,0,0,3,+2
+January 6 2021,SAC,Tyrese Haliburton,34:30,7,15,.467,3,7,.429,0,0,,4,3,7,6,3,1,0,2,17,0
+January 6 2021,SAC,Cory Joseph,25:17,3,10,.300,0,3,.000,1,2,.500,0,2,2,3,0,0,0,2,7,-1
+January 6 2021,SAC,Glenn Robinson,24:25,5,7,.714,2,3,.667,2,2,1.000,0,3,3,2,0,0,0,0,14,-2
+January 6 2021,SAC,Nemanja Bjelica,19:15,3,7,.429,1,4,.250,5,6,.833,2,2,4,5,0,0,0,2,12,-3
+January 6 2021,SAC,Jahmi'us Ramsey,Did Not Play
+January 6 2021,SAC,Justin James,Did Not Play
+January 6 2021,SAC,Robert Woodard,Did Not Play
+January 6 2021,SAC,Kyle Guy,Did Not Play
+January 6 2021,SAC,Hassan Whiteside,Did Not Play
+January 6 2021,SAC,Team Totals,240,47,91,.516,14,37,.378,20,27,.741,12,27,39,30,8,3,7,16,128
+January 7 2021,PHI,Shake Milton,36:19,8,13,.615,1,4,.250,7,7,1.000,0,1,1,7,0,0,3,0,24,-14
+January 7 2021,PHI,Tobias Harris,34:19,7,16,.438,1,4,.250,2,2,1.000,1,7,8,4,1,0,4,5,17,-19
+January 7 2021,PHI,Danny Green,32:17,3,5,.600,3,5,.600,0,0,,1,4,5,1,1,1,2,3,9,-18
+January 7 2021,PHI,Ben Simmons,31:37,4,13,.308,0,1,.000,3,4,.750,1,3,4,2,2,1,5,4,11,-22
+January 7 2021,PHI,Joel Embiid,29:52,7,14,.500,2,2,1.000,4,5,.800,0,12,12,3,0,1,5,5,20,-16
+January 7 2021,PHI,Tyrese Maxey,20:55,7,12,.583,2,4,.500,0,0,,0,3,3,2,1,1,0,0,16,+7
+January 7 2021,PHI,Matisse Thybulle,17:25,0,3,.000,0,2,.000,0,0,,0,1,1,2,1,1,0,2,0,+3
+January 7 2021,PHI,Dwight Howard,15:08,4,6,.667,0,0,,1,1,1.000,1,11,12,1,0,0,1,6,9,+7
+January 7 2021,PHI,Dakota Mathias,12:51,1,3,.333,0,2,.000,1,1,1.000,0,1,1,1,0,0,0,0,3,+7
+January 7 2021,PHI,Isaiah Joe,7:50,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,1,0,0,0,0
+January 7 2021,PHI,Vincent Poirier,1:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+January 7 2021,PHI,Tony Bradley,Did Not Play
+January 7 2021,PHI,Paul Reed,Did Not Play
+January 7 2021,PHI,Team Totals,240,41,87,.471,9,26,.346,18,20,.900,4,43,47,23,6,6,20,25,109
+January 7 2021,BRK,Caris LeVert,32:16,9,25,.360,0,5,.000,4,10,.400,0,7,7,10,2,0,1,0,22,+23
+January 7 2021,BRK,Jeff Green,28:54,4,7,.571,2,5,.400,4,4,1.000,0,1,1,1,1,1,0,2,14,+14
+January 7 2021,BRK,Jarrett Allen,28:25,5,6,.833,0,0,,5,6,.833,3,8,11,3,0,1,3,3,15,+16
+January 7 2021,BRK,Taurean Prince,21:32,4,8,.500,2,4,.500,3,3,1.000,0,1,1,1,2,1,1,1,13,+18
+January 7 2021,BRK,Bruce Brown,17:45,2,4,.500,1,2,.500,0,1,.000,0,1,1,0,1,0,2,2,5,+5
+January 7 2021,BRK,Joe Harris,30:14,11,19,.579,6,9,.667,0,2,.000,2,4,6,4,1,0,1,2,28,+10
+January 7 2021,BRK,Timothé Luwawu-Cabarrot,26:26,3,8,.375,2,7,.286,1,1,1.000,1,3,4,1,3,1,0,2,9,-1
+January 7 2021,BRK,Landry Shamet,19:09,2,7,.286,2,4,.500,0,0,,1,2,3,0,0,0,0,2,6,-7
+January 7 2021,BRK,DeAndre Jordan,18:08,1,4,.250,0,0,,0,0,,2,9,11,4,0,2,2,3,2,-3
+January 7 2021,BRK,Chris Chiozza,15:44,3,9,.333,0,1,.000,2,2,1.000,2,1,3,6,1,1,2,0,8,-10
+January 7 2021,BRK,Rodions Kurucs,1:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+January 7 2021,BRK,Tyler Johnson,Did Not Play
+January 7 2021,BRK,Team Totals,240,44,97,.454,15,37,.405,19,29,.655,11,37,48,30,11,7,12,17,122
+January 7 2021,CLE,Isaac Okoro,39:18,3,9,.333,1,4,.250,1,2,.500,2,0,2,2,1,2,2,2,8,-1
+January 7 2021,CLE,Cedi Osman,38:09,6,19,.316,4,11,.364,0,2,.000,1,4,5,7,1,0,2,3,16,+7
+January 7 2021,CLE,Andre Drummond,37:21,9,20,.450,0,0,,4,6,.667,3,12,15,3,2,0,6,2,22,0
+January 7 2021,CLE,Damyean Dotson,35:15,3,12,.250,1,8,.125,2,4,.500,0,2,2,6,3,0,1,0,9,+10
+January 7 2021,CLE,Larry Nance,34:50,7,7,1.000,4,4,1.000,0,0,,0,3,3,4,3,0,2,1,18,+13
+January 7 2021,CLE,Lamar Stevens,20:32,1,3,.333,0,0,,0,0,,0,3,3,0,0,0,2,1,2,-18
+January 7 2021,CLE,JaVale McGee,17:20,5,7,.714,1,1,1.000,2,2,1.000,1,5,6,0,1,1,0,4,13,+10
+January 7 2021,CLE,Dean Wade,12:13,2,2,1.000,2,2,1.000,0,0,,0,1,1,2,0,0,0,1,6,-1
+January 7 2021,CLE,Thon Maker,5:02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+January 7 2021,CLE,Collin Sexton,Did Not Play
+January 7 2021,CLE,Marques Bolden,Did Not Play
+January 7 2021,CLE,Darius Garland,Did Not Play
+January 7 2021,CLE,Team Totals,240,36,79,.456,13,30,.433,9,16,.563,7,30,37,24,11,3,15,14,94
+January 7 2021,MEM,Brandon Clarke,30:12,7,11,.636,0,0,,0,0,,0,8,8,2,0,1,1,2,14,-1
+January 7 2021,MEM,Dillon Brooks,28:22,4,13,.308,2,7,.286,1,2,.500,1,1,2,4,2,1,4,2,11,-14
+January 7 2021,MEM,Kyle Anderson,28:08,4,12,.333,2,7,.286,0,0,,2,6,8,2,0,1,2,1,10,+7
+January 7 2021,MEM,Jonas Valančiūnas,27:32,6,11,.545,1,2,.500,4,4,1.000,3,7,10,3,1,1,2,5,17,-5
+January 7 2021,MEM,Tyus Jones,26:47,4,9,.444,1,3,.333,0,0,,1,3,4,6,0,0,2,0,9,-11
+January 7 2021,MEM,Desmond Bane,23:36,2,6,.333,2,4,.500,0,0,,1,5,6,2,1,0,1,0,6,+3
+January 7 2021,MEM,De'Anthony Melton,21:13,4,7,.571,0,1,.000,0,0,,0,3,3,3,3,1,3,2,8,+7
+January 7 2021,MEM,Xavier Tillman,19:53,1,4,.250,0,0,,0,0,,0,1,1,2,1,1,0,3,2,+2
+January 7 2021,MEM,Gorgui Dieng,18:08,2,5,.400,1,2,.500,2,2,1.000,2,2,4,3,2,0,2,2,7,-3
+January 7 2021,MEM,Grayson Allen,16:09,2,5,.400,2,5,.400,0,0,,1,1,2,0,3,0,1,0,6,-5
+January 7 2021,MEM,John Konchar,Did Not Play
+January 7 2021,MEM,Tim Frazier,Did Not Play
+January 7 2021,MEM,Sean McDermott,Did Not Play
+January 7 2021,MEM,Team Totals,240,36,83,.434,11,31,.355,7,8,.875,11,37,48,27,13,6,18,17,90
+January 7 2021,DAL,Luka Dončić,43:17,13,22,.591,2,7,.286,10,15,.667,0,9,9,13,5,1,8,0,38,+14
+January 7 2021,DAL,Josh Richardson,41:16,5,15,.333,2,7,.286,2,2,1.000,0,1,1,1,2,0,1,4,14,+1
+January 7 2021,DAL,Dorian Finney-Smith,36:29,5,12,.417,4,8,.500,0,0,,3,5,8,2,3,2,0,4,14,-1
+January 7 2021,DAL,Maxi Kleber,36:00,3,7,.429,3,5,.600,0,0,,1,7,8,3,0,2,1,0,9,+15
+January 7 2021,DAL,Willie Cauley-Stein,26:16,1,1,1.000,0,0,,3,4,.750,2,7,9,1,0,1,0,4,5,+4
+January 7 2021,DAL,Tim Hardaway,24:36,3,11,.273,3,8,.375,2,3,.667,0,3,3,4,0,1,0,0,11,+3
+January 7 2021,DAL,Jalen Brunson,18:39,2,5,.400,1,3,.333,2,2,1.000,0,2,2,3,0,0,2,3,7,+8
+January 7 2021,DAL,Boban Marjanović,16:11,5,7,.714,0,0,,2,2,1.000,1,2,3,0,0,0,0,3,12,0
+January 7 2021,DAL,Dwight Powell,10:28,2,2,1.000,0,0,,3,3,1.000,0,0,0,0,1,0,0,1,7,+3
+January 7 2021,DAL,James Johnson,9:14,3,5,.600,1,2,.500,0,0,,0,0,0,0,1,0,1,1,7,-8
+January 7 2021,DAL,Josh Green,2:34,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-4
+January 7 2021,DAL,Wesley Iwundu,Did Not Play
+January 7 2021,DAL,Tyrell Terry,Did Not Play
+January 7 2021,DAL,Nate Hinton,Did Not Play
+January 7 2021,DAL,Team Totals,265,42,87,.483,16,40,.400,24,31,.774,7,37,44,27,12,7,13,21,124
+January 7 2021,DEN,Jamal Murray,46:18,8,19,.421,3,9,.333,2,2,1.000,1,3,4,9,1,0,3,3,21,-10
+January 7 2021,DEN,Nikola Jokić,41:13,14,31,.452,4,10,.400,6,10,.600,1,10,11,4,2,0,3,4,38,-6
+January 7 2021,DEN,Gary Harris,39:57,6,9,.667,1,4,.250,2,2,1.000,1,3,4,1,0,0,0,5,15,-15
+January 7 2021,DEN,Will Barton,34:17,3,7,.429,2,5,.400,0,0,,1,6,7,2,1,0,1,3,8,-10
+January 7 2021,DEN,Paul Millsap,28:38,1,6,.167,0,2,.000,3,3,1.000,2,3,5,4,2,0,2,1,5,+5
+January 7 2021,DEN,PJ Dozier,26:07,3,8,.375,1,4,.250,2,2,1.000,0,3,3,1,1,0,1,4,9,-6
+January 7 2021,DEN,Monte Morris,24:35,4,7,.571,2,4,.500,1,2,.500,0,3,3,3,1,0,0,2,11,+3
+January 7 2021,DEN,JaMychal Green,18:41,4,10,.400,2,6,.333,0,0,,2,7,9,0,0,0,3,2,10,-2
+January 7 2021,DEN,Isaiah Hartenstein,5:14,0,0,,0,0,,0,0,,1,0,1,1,0,1,0,3,0,+6
+January 7 2021,DEN,Bol Bol,Did Not Play
+January 7 2021,DEN,Markus Howard,Did Not Play
+January 7 2021,DEN,Zeke Nnaji,Did Not Play
+January 7 2021,DEN,Vlatko Čančar,Did Not Play
+January 7 2021,DEN,R.J. Hampton,Did Not Play
+January 7 2021,DEN,Facundo Campazzo,Did Not Play
+January 7 2021,DEN,Team Totals,265,43,97,.443,15,44,.341,16,21,.762,9,38,47,25,8,1,13,27,117
+January 7 2021,SAS,DeMar DeRozan,36:13,5,13,.385,2,6,.333,7,8,.875,0,4,4,8,2,1,0,1,19,+14
+January 7 2021,SAS,Dejounte Murray,31:38,7,14,.500,2,4,.500,2,2,1.000,0,8,8,2,0,0,0,3,18,+10
+January 7 2021,SAS,LaMarcus Aldridge,31:20,11,18,.611,3,7,.429,3,3,1.000,0,5,5,3,0,0,1,1,28,+3
+January 7 2021,SAS,Keldon Johnson,30:42,2,10,.200,1,2,.500,0,0,,1,1,2,2,1,0,1,2,5,+9
+January 7 2021,SAS,Lonnie Walker,26:35,6,11,.545,2,4,.500,0,0,,1,5,6,2,0,1,1,1,14,-1
+January 7 2021,SAS,Patty Mills,25:15,3,8,.375,1,3,.333,3,3,1.000,0,2,2,7,0,0,2,0,10,+5
+January 7 2021,SAS,Rudy Gay,24:25,6,10,.600,3,5,.600,0,0,,1,5,6,0,0,0,0,3,15,+1
+January 7 2021,SAS,Jakob Poeltl,15:43,1,3,.333,0,0,,1,1,1.000,3,3,6,2,0,0,1,3,3,+9
+January 7 2021,SAS,Devin Vassell,14:21,2,4,.500,2,4,.500,0,0,,0,1,1,2,1,1,0,1,6,+7
+January 7 2021,SAS,Trey Lyles,0:57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-3
+January 7 2021,SAS,Tre Jones,0:57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-3
+January 7 2021,SAS,Luka Šamanić,0:57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-3
+January 7 2021,SAS,Keita Bates-Diop,0:57,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-3
+January 7 2021,SAS,Team Totals,240,43,92,.467,16,35,.457,16,17,.941,6,34,40,28,4,3,6,15,118
+January 7 2021,LAL,LeBron James,34:54,8,15,.533,4,7,.571,7,11,.636,0,6,6,12,0,0,4,3,27,-10
+January 7 2021,LAL,Anthony Davis,34:20,11,17,.647,1,3,.333,0,2,.000,2,8,10,3,1,3,1,2,23,-16
+January 7 2021,LAL,Kyle Kuzma,30:23,6,16,.375,1,6,.167,0,0,,4,6,10,0,0,0,0,1,13,-17
+January 7 2021,LAL,Dennis Schröder,27:13,3,11,.273,0,3,.000,0,0,,0,4,4,2,1,0,2,1,6,-18
+January 7 2021,LAL,Marc Gasol,13:34,1,1,1.000,0,0,,2,2,1.000,0,1,1,0,0,1,3,4,4,-16
+January 7 2021,LAL,Wesley Matthews,21:31,1,6,.167,1,5,.200,0,0,,0,1,1,0,0,0,0,0,3,+8
+January 7 2021,LAL,Talen Horton-Tucker,20:47,4,9,.444,0,3,.000,2,3,.667,0,4,4,3,0,0,2,2,10,+7
+January 7 2021,LAL,Alex Caruso,20:23,3,3,1.000,2,2,1.000,0,0,,0,3,3,1,0,0,0,3,8,+7
+January 7 2021,LAL,Montrezl Harrell,18:14,5,7,.714,0,0,,0,1,.000,2,4,6,0,0,0,0,1,10,-1
+January 7 2021,LAL,Markieff Morris,12:38,0,0,,0,0,,0,0,,1,2,3,0,0,0,1,3,0,+2
+January 7 2021,LAL,Quinn Cook,2:01,1,1,1.000,1,1,1.000,2,2,1.000,0,0,0,0,0,0,0,0,5,+3
+January 7 2021,LAL,Alfonzo McKinnie,2:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+3
+January 7 2021,LAL,Jared Dudley,2:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+3
+January 7 2021,LAL,Team Totals,240,43,86,.500,10,30,.333,13,21,.619,9,39,48,21,2,4,13,20,109
+January 7 2021,MIN,D'Angelo Russell,28:09,9,16,.563,3,7,.429,5,6,.833,0,3,3,3,0,1,3,3,26,-15
+January 7 2021,MIN,Malik Beasley,27:45,3,13,.231,3,6,.500,3,4,.750,0,4,4,2,1,0,3,1,12,-20
+January 7 2021,MIN,Juan Hernangómez,21:41,3,8,.375,2,5,.400,4,4,1.000,1,5,6,0,1,0,1,1,12,-13
+January 7 2021,MIN,Jarrett Culver,19:35,3,6,.500,1,3,.333,0,0,,3,2,5,2,0,0,1,1,7,-14
+January 7 2021,MIN,Ed Davis,13:38,0,1,.000,0,0,,0,0,,0,1,1,0,0,1,0,1,0,-3
+January 7 2021,MIN,Anthony Edwards,31:13,9,21,.429,3,10,.300,5,7,.714,2,2,4,1,2,0,4,2,26,-15
+January 7 2021,MIN,Ricky Rubio,28:33,0,4,.000,0,1,.000,2,2,1.000,1,4,5,10,5,0,2,2,2,-4
+January 7 2021,MIN,Jarred Vanderbilt,20:54,4,7,.571,0,0,,2,3,.667,3,7,10,1,2,0,0,2,10,-13
+January 7 2021,MIN,Naz Reid,16:01,4,7,.571,1,3,.333,4,7,.571,2,3,5,1,0,1,0,4,13,-2
+January 7 2021,MIN,Jake Layman,12:44,2,4,.500,0,2,.000,0,0,,0,0,0,0,0,1,1,0,4,-10
+January 7 2021,MIN,Jaden McDaniels,12:00,1,3,.333,1,3,.333,0,0,,2,2,4,3,0,0,1,2,3,+13
+January 7 2021,MIN,Jaylen Nowell,7:47,1,3,.333,0,1,.000,0,0,,1,0,1,1,0,0,0,0,2,+6
+January 7 2021,MIN,Team Totals,240,39,93,.419,14,41,.341,25,33,.758,15,33,48,24,11,4,16,19,117
+January 7 2021,POR,Damian Lillard,28:57,13,21,.619,7,12,.583,6,7,.857,0,7,7,7,3,0,1,0,39,+12
+January 7 2021,POR,CJ McCollum,25:32,6,14,.429,4,9,.444,4,4,1.000,0,3,3,4,0,1,1,1,20,+33
+January 7 2021,POR,Robert Covington,23:24,1,4,.250,1,3,.333,0,0,,0,4,4,3,1,0,2,3,3,+16
+January 7 2021,POR,Jusuf Nurkić,23:02,8,10,.800,0,0,,1,2,.500,2,5,7,2,1,0,2,2,17,+18
+January 7 2021,POR,Derrick Jones,18:49,3,4,.750,1,2,.500,2,2,1.000,0,3,3,1,1,0,0,4,9,+16
+January 7 2021,POR,Gary Trent,27:24,2,7,.286,2,5,.400,3,4,.750,0,1,1,0,0,0,2,2,9,+6
+January 7 2021,POR,Carmelo Anthony,21:02,4,9,.444,1,4,.250,0,0,,1,2,3,3,1,0,0,0,9,+13
+January 7 2021,POR,Rodney Hood,16:01,1,6,.167,0,3,.000,0,0,,0,1,1,2,0,1,0,1,2,-1
+January 7 2021,POR,Enes Kanter,13:54,5,5,1.000,0,0,,0,0,,3,4,7,1,2,2,2,2,10,+13
+January 7 2021,POR,Anfernee Simons,12:00,3,5,.600,1,2,.500,1,2,.500,0,5,5,1,0,0,2,1,8,-13
+January 7 2021,POR,Harry Giles,11:04,1,3,.333,1,1,1.000,0,0,,0,2,2,0,1,0,2,5,3,-13
+January 7 2021,POR,Nassir Little,7:47,1,1,1.000,0,0,,0,0,,0,1,1,0,0,1,1,1,2,-6
+January 7 2021,POR,CJ Elleby,7:20,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,1,0,0,4,-2
+January 7 2021,POR,Keljin Blevins,3:44,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,-2
+January 7 2021,POR,Team Totals,240,49,90,.544,18,41,.439,19,23,.826,6,38,44,25,10,6,15,23,135
+January 8 2021,PHO,Devin Booker,37:55,8,18,.444,5,12,.417,2,4,.500,0,0,0,3,2,1,5,3,23,-17
+January 8 2021,PHO,Chris Paul,37:51,5,11,.455,1,4,.250,0,0,,0,7,7,9,0,0,2,5,11,-19
+January 8 2021,PHO,Deandre Ayton,36:49,7,9,.778,0,0,,0,3,.000,4,9,13,2,1,2,5,5,14,-26
+January 8 2021,PHO,Mikal Bridges,32:34,3,9,.333,0,4,.000,0,2,.000,3,5,8,1,1,1,1,1,6,-23
+January 8 2021,PHO,Jae Crowder,22:19,2,8,.250,2,8,.250,0,0,,0,4,4,1,0,0,1,5,6,-9
+January 8 2021,PHO,Dario Šarić,28:19,4,12,.333,2,6,.333,2,2,1.000,1,5,6,0,2,0,4,3,12,+7
+January 8 2021,PHO,Cameron Johnson,27:23,3,9,.333,2,7,.286,2,2,1.000,0,5,5,2,0,3,0,1,10,+18
+January 8 2021,PHO,Cameron Payne,15:09,3,6,.500,0,3,.000,0,0,,0,2,2,3,2,0,3,1,6,+14
+January 8 2021,PHO,Jevon Carter,14:47,0,0,,0,0,,0,0,,1,2,3,3,2,0,0,0,0,+18
+January 8 2021,PHO,Langston Galloway,11:54,6,9,.667,5,8,.625,0,0,,0,2,2,0,0,0,0,1,17,+12
+January 8 2021,PHO,Frank Kaminsky,Did Not Play
+January 8 2021,PHO,E'Twaun Moore,Did Not Play
+January 8 2021,PHO,Damian Jones,Did Not Play
+January 8 2021,PHO,Ty-Shon Alexander,Did Not Play
+January 8 2021,PHO,Abdel Nader,Did Not Play
+January 8 2021,PHO,Team Totals,265,41,91,.451,17,52,.327,6,13,.462,9,41,50,24,10,7,21,25,105
+January 8 2021,DET,Jerami Grant,42:16,10,15,.667,3,5,.600,8,11,.727,1,9,10,2,1,1,3,5,31,+21
+January 8 2021,DET,Blake Griffin,40:16,5,13,.385,1,5,.200,5,6,.833,2,10,12,5,1,0,2,0,16,+19
+January 8 2021,DET,Delon Wright,33:35,7,11,.636,0,1,.000,2,2,1.000,1,4,5,6,0,0,1,1,16,+18
+January 8 2021,DET,Mason Plumlee,32:57,2,4,.500,0,0,,8,8,1.000,1,5,6,3,3,1,2,3,12,+20
+January 8 2021,DET,Josh Jackson,18:37,2,11,.182,1,5,.200,0,0,,0,2,2,0,1,0,0,2,5,-3
+January 8 2021,DET,Saddiq Bey,26:42,4,8,.500,2,5,.400,0,0,,1,3,4,0,1,0,1,1,10,-8
+January 8 2021,DET,Derrick Rose,19:25,1,7,.143,0,1,.000,2,2,1.000,0,0,0,5,1,1,2,1,4,-13
+January 8 2021,DET,Sviatoslav Mykhailiuk,17:08,2,9,.222,2,8,.250,0,0,,0,0,0,1,1,0,1,0,6,-12
+January 8 2021,DET,Jahlil Okafor,10:13,2,4,.500,0,0,,0,0,,1,1,2,0,2,0,0,0,4,+2
+January 8 2021,DET,Frank Jackson,9:59,1,4,.250,1,3,.333,0,0,,0,0,0,1,1,0,1,1,3,+4
+January 8 2021,DET,Isaiah Stewart,8:37,0,2,.000,0,0,,0,0,,2,2,4,0,1,1,1,0,0,-15
+January 8 2021,DET,Sekou Doumbouya,5:11,1,2,.500,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,-9
+January 8 2021,DET,Wayne Ellington,0:04,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+1
+January 8 2021,DET,Rodney McGruder,Did Not Play
+January 8 2021,DET,Saben Lee,Did Not Play
+January 8 2021,DET,Team Totals,265,37,90,.411,11,34,.324,25,29,.862,9,37,46,23,13,4,14,14,110
+January 8 2021,WAS,Bradley Beal,38:11,16,29,.552,4,9,.444,5,5,1.000,0,3,3,3,0,1,5,3,41,-7
+January 8 2021,WAS,Rui Hachimura,37:12,7,12,.583,1,3,.333,2,2,1.000,1,4,5,3,2,0,1,3,17,-16
+January 8 2021,WAS,Russell Westbrook,33:29,4,16,.250,2,5,.400,2,2,1.000,0,4,4,8,0,1,7,4,12,-17
+January 8 2021,WAS,Thomas Bryant,29:31,3,7,.429,0,1,.000,1,2,.500,2,6,8,2,1,1,0,2,7,-12
+January 8 2021,WAS,Deni Avdija,14:25,0,3,.000,0,2,.000,0,0,,0,2,2,1,0,0,0,2,0,-21
+January 8 2021,WAS,Dāvis Bertāns,27:26,4,10,.400,4,9,.444,1,1,1.000,0,4,4,1,1,0,1,2,13,+7
+January 8 2021,WAS,Ish Smith,17:13,3,6,.500,0,0,,2,2,1.000,1,2,3,1,3,0,1,1,8,+11
+January 8 2021,WAS,Moritz Wagner,12:33,0,0,,0,0,,1,2,.500,0,3,3,1,0,0,1,3,1,+12
+January 8 2021,WAS,Garrison Mathews,11:02,2,2,1.000,0,0,,0,0,,1,1,2,0,2,0,0,1,4,+17
+January 8 2021,WAS,Robin Lopez,6:53,1,2,.500,0,0,,0,0,,2,1,3,0,0,1,0,0,2,-7
+January 8 2021,WAS,Isaac Bonga,6:18,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,1,0,-5
+January 8 2021,WAS,Raul Neto,5:47,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,1,2,2,-7
+January 8 2021,WAS,Anthony Gill,Did Not Play
+January 8 2021,WAS,Troy Brown,Did Not Play
+January 8 2021,WAS,Jerome Robinson,Did Not Play
+January 8 2021,WAS,Team Totals,240,41,88,.466,11,29,.379,14,16,.875,7,31,38,22,9,4,17,24,107
+January 8 2021,BOS,Jaylen Brown,37:40,9,19,.474,3,6,.500,6,6,1.000,3,10,13,5,2,0,5,4,27,+21
+January 8 2021,BOS,Marcus Smart,36:04,2,10,.200,0,5,.000,9,11,.818,0,5,5,5,2,0,3,4,13,+4
+January 8 2021,BOS,Jayson Tatum,35:06,14,27,.519,3,9,.333,1,1,1.000,1,4,5,2,1,0,4,2,32,-6
+January 8 2021,BOS,Daniel Theis,28:50,4,7,.571,1,1,1.000,1,3,.333,2,4,6,3,1,1,2,3,10,-4
+January 8 2021,BOS,Semi Ojeleye,27:11,3,7,.429,2,6,.333,0,0,,0,5,5,1,0,0,1,1,8,+23
+January 8 2021,BOS,Payton Pritchard,23:13,3,4,.750,3,3,1.000,2,2,1.000,1,1,2,2,2,0,3,2,11,+2
+January 8 2021,BOS,Tacko Fall,19:10,2,3,.667,0,0,,0,2,.000,2,5,7,0,0,3,0,4,4,+13
+January 8 2021,BOS,Javonte Green,18:05,2,3,.667,0,1,.000,3,5,.600,1,2,3,1,3,0,1,1,7,-7
+January 8 2021,BOS,Jeff Teague,14:41,2,6,.333,0,1,.000,0,0,,1,2,3,2,0,0,2,1,4,-1
+January 8 2021,BOS,Carsen Edwards,Did Not Play
+January 8 2021,BOS,Tremont Waters,Did Not Play
+January 8 2021,BOS,Aaron Nesmith,Did Not Play
+January 8 2021,BOS,Team Totals,240,41,86,.477,12,32,.375,22,30,.733,11,38,49,21,11,4,21,22,116
+January 8 2021,CHO,Gordon Hayward,37:51,9,18,.500,4,7,.571,4,4,1.000,2,5,7,3,2,0,4,4,26,+6
+January 8 2021,CHO,Devonte' Graham,36:50,5,13,.385,2,8,.250,5,5,1.000,2,4,6,8,0,0,1,3,17,+11
+January 8 2021,CHO,Terry Rozier,34:45,5,15,.333,4,10,.400,1,2,.500,1,3,4,5,3,1,1,1,15,+13
+January 8 2021,CHO,P.J. Washington,27:35,3,8,.375,1,4,.250,2,4,.500,2,2,4,5,2,2,1,3,9,-10
+January 8 2021,CHO,Bismack Biyombo,27:00,4,5,.800,0,0,,3,4,.750,1,5,6,0,0,1,1,2,11,+3
+January 8 2021,CHO,Miles Bridges,30:28,8,11,.727,4,6,.667,0,0,,2,2,4,1,0,0,2,2,20,+14
+January 8 2021,CHO,LaMelo Ball,25:34,4,11,.364,1,5,.200,3,4,.750,4,6,10,9,1,0,3,3,12,+5
+January 8 2021,CHO,Caleb Martin,11:22,2,4,.500,0,1,.000,0,0,,2,1,3,0,1,0,0,1,4,-1
+January 8 2021,CHO,Cody Martin,8:35,1,2,.500,0,1,.000,2,2,1.000,0,1,1,2,1,0,1,1,4,-1
+January 8 2021,CHO,Vernon Carey,Did Not Play
+January 8 2021,CHO,Nick Richards,Did Not Play
+January 8 2021,CHO,Malik Monk,Did Not Play
+January 8 2021,CHO,Jalen McDaniels,Did Not Play
+January 8 2021,CHO,Team Totals,240,41,87,.471,16,42,.381,20,25,.800,16,29,45,33,10,4,14,20,118
+January 8 2021,NOP,Lonzo Ball,36:30,2,8,.250,1,7,.143,0,0,,0,2,2,3,1,1,2,0,5,-7
+January 8 2021,NOP,Brandon Ingram,36:28,3,11,.273,3,10,.300,8,9,.889,3,5,8,8,1,1,4,0,17,-7
+January 8 2021,NOP,Steven Adams,34:49,5,7,.714,0,0,,3,6,.500,1,6,7,2,1,2,4,3,13,-4
+January 8 2021,NOP,Zion Williamson,33:42,12,22,.545,0,0,,2,4,.500,6,2,8,3,0,0,3,1,26,-4
+January 8 2021,NOP,Eric Bledsoe,33:13,3,8,.375,2,6,.333,0,0,,0,1,1,6,2,0,2,2,8,0
+January 8 2021,NOP,Josh Hart,26:43,6,8,.750,4,5,.800,3,4,.750,0,8,8,2,1,0,1,4,19,-11
+January 8 2021,NOP,J.J. Redick,19:06,5,8,.625,4,7,.571,3,3,1.000,0,1,1,1,0,0,1,1,17,-1
+January 8 2021,NOP,Nickeil Alexander-Walker,14:36,2,5,.400,1,3,.333,0,0,,0,1,1,2,0,0,2,3,5,-6
+January 8 2021,NOP,Jaxson Hayes,3:17,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,2,0,+1
+January 8 2021,NOP,Nicolò Melli,1:36,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,-1
+January 8 2021,NOP,Naji Marshall,Did Not Play
+January 8 2021,NOP,Willy Hernangómez,Did Not Play
+January 8 2021,NOP,Wenyen Gabriel,Did Not Play
+January 8 2021,NOP,Sindarius Thornwell,Did Not Play
+January 8 2021,NOP,Kira Lewis,Did Not Play
+January 8 2021,NOP,Team Totals,240,38,77,.494,15,38,.395,19,26,.731,10,26,36,29,6,4,19,17,110
+January 8 2021,OKC,Shai Gilgeous-Alexander,34:29,9,14,.643,3,3,1.000,4,6,.667,4,6,10,7,0,1,3,2,25,+3
+January 8 2021,OKC,Luguentz Dort,29:27,2,9,.222,1,6,.167,0,0,,2,6,8,1,0,1,2,2,5,+1
+January 8 2021,OKC,Al Horford,28:58,6,15,.400,3,7,.429,0,2,.000,1,7,8,0,1,1,2,1,15,-2
+January 8 2021,OKC,George Hill,28:28,1,4,.250,0,2,.000,2,2,1.000,1,1,2,3,0,1,1,4,4,-2
+January 8 2021,OKC,Darius Bazley,23:23,2,9,.222,0,3,.000,0,0,,1,6,7,0,0,1,1,1,4,-5
+January 8 2021,OKC,Hamidou Diallo,29:03,8,13,.615,1,2,.500,6,8,.750,1,10,11,2,1,0,1,2,23,+18
+January 8 2021,OKC,Théo Maledon,22:14,2,8,.250,0,3,.000,0,0,,0,5,5,3,0,0,0,4,4,+13
+January 8 2021,OKC,Aleksej Pokusevski,18:33,3,5,.600,1,3,.333,0,0,,1,5,6,0,0,1,1,0,7,+11
+January 8 2021,OKC,Mike Muscala,14:53,2,6,.333,1,4,.250,0,1,.000,0,4,4,0,0,1,0,1,5,+13
+January 8 2021,OKC,Kenrich Williams,6:23,2,3,.667,1,1,1.000,0,0,,0,1,1,0,0,0,0,2,5,+9
+January 8 2021,OKC,Isaiah Roby,4:09,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,4,+1
+January 8 2021,OKC,Josh Hall,Did Not Play
+January 8 2021,OKC,Darius Miller,Did Not Play
+January 8 2021,OKC,Moses Brown,Did Not Play
+January 8 2021,OKC,Justin Jackson,Did Not Play
+January 8 2021,OKC,Team Totals,240,38,87,.437,11,34,.324,14,21,.667,11,51,62,16,2,7,11,19,101
+January 8 2021,NYK,RJ Barrett,44:14,7,21,.333,1,5,.200,4,7,.571,5,3,8,2,1,1,0,4,19,-5
+January 8 2021,NYK,Julius Randle,30:42,8,15,.533,1,1,1.000,1,3,.333,0,12,12,7,1,0,2,5,18,-2
+January 8 2021,NYK,Elfrid Payton,30:38,4,17,.235,1,4,.250,7,8,.875,2,4,6,1,0,0,0,4,16,+1
+January 8 2021,NYK,Mitchell Robinson,26:43,3,4,.750,0,0,,0,2,.000,3,2,5,1,2,3,1,3,6,+6
+January 8 2021,NYK,Reggie Bullock,24:24,3,8,.375,0,2,.000,0,0,,0,7,7,0,1,0,0,2,6,-1
+January 8 2021,NYK,Austin Rivers,32:08,5,12,.417,2,7,.286,0,0,,0,5,5,6,0,0,0,0,12,-19
+January 8 2021,NYK,Kevin Knox,22:29,3,9,.333,3,5,.600,0,0,,0,4,4,0,1,0,1,0,9,-13
+January 8 2021,NYK,Immanuel Quickley,17:22,1,9,.111,1,3,.333,0,0,,0,1,1,2,1,1,0,0,3,-13
+January 8 2021,NYK,Nerlens Noel,11:20,0,1,.000,0,0,,0,0,,1,0,1,0,1,2,0,1,0,-14
+January 8 2021,NYK,Dennis Smith,Did Not Play
+January 8 2021,NYK,Ignas Brazdeikis,Did Not Play
+January 8 2021,NYK,Jared Harper,Did Not Play
+January 8 2021,NYK,Theo Pinson,Did Not Play
+January 8 2021,NYK,Team Totals,240,34,96,.354,9,27,.333,12,20,.600,11,38,49,19,8,7,4,19,89
+January 8 2021,ORL,Gary Clark,30:48,0,3,.000,0,3,.000,0,0,,0,4,4,0,0,1,2,1,0,-19
+January 8 2021,ORL,Nikola Vučević,29:38,8,19,.421,3,7,.429,3,3,1.000,3,9,12,3,1,0,0,0,22,-18
+January 8 2021,ORL,Cole Anthony,28:06,6,14,.429,0,3,.000,3,4,.750,1,1,2,3,2,0,4,1,15,-27
+January 8 2021,ORL,Dwayne Bacon,27:55,4,10,.400,0,1,.000,2,3,.667,0,1,1,1,0,0,1,2,10,-21
+January 8 2021,ORL,James Ennis,19:54,2,7,.286,0,0,,2,2,1.000,1,2,3,2,1,0,1,3,6,-7
+January 8 2021,ORL,Jordan Bone,27:31,3,8,.375,1,5,.200,0,0,,0,2,2,4,0,0,0,0,7,-24
+January 8 2021,ORL,Khem Birch,22:58,4,7,.571,1,1,1.000,2,2,1.000,2,3,5,2,0,0,0,1,11,-34
+January 8 2021,ORL,Karim Mané,21:20,0,3,.000,0,1,.000,2,2,1.000,0,5,5,1,0,1,2,0,2,-20
+January 8 2021,ORL,Terrence Ross,18:22,2,9,.222,1,4,.250,0,0,,0,1,1,1,1,0,2,2,5,-31
+January 8 2021,ORL,Mohamed Bamba,13:28,5,9,.556,2,4,.500,0,0,,2,5,7,0,0,0,0,3,12,-9
+January 8 2021,ORL,Aaron Gordon,Did Not Dress
+January 8 2021,ORL,Evan Fournier,Did Not Dress
+January 8 2021,ORL,Team Totals,240,34,89,.382,8,29,.276,14,16,.875,9,33,42,17,5,2,12,13,90
+January 8 2021,HOU,James Harden,30:58,6,13,.462,3,9,.333,0,0,,0,5,5,13,0,1,2,2,15,+26
+January 8 2021,HOU,John Wall,28:45,5,11,.455,3,4,.750,1,2,.500,0,3,3,4,0,0,0,3,14,+26
+January 8 2021,HOU,P.J. Tucker,28:33,5,7,.714,5,7,.714,0,0,,1,3,4,5,0,2,0,3,15,+24
+January 8 2021,HOU,Christian Wood,26:32,9,17,.529,1,5,.200,3,4,.750,3,12,15,0,1,2,1,1,22,+18
+January 8 2021,HOU,David Nwaba,22:52,3,6,.500,0,2,.000,0,0,,0,2,2,0,0,1,1,0,6,+17
+January 8 2021,HOU,Eric Gordon,18:51,2,5,.400,1,4,.250,0,0,,0,2,2,1,1,1,1,0,5,+18
+January 8 2021,HOU,Sterling Brown,18:10,3,4,.750,3,4,.750,0,0,,1,4,5,0,0,0,0,3,9,+21
+January 8 2021,HOU,DeMarcus Cousins,16:31,1,7,.143,0,4,.000,4,5,.800,1,4,5,4,1,0,0,2,6,+21
+January 8 2021,HOU,Ben McLemore,15:32,5,6,.833,5,5,1.000,0,0,,0,3,3,2,1,0,1,2,15,+11
+January 8 2021,HOU,Jae'Sean Tate,15:29,5,5,1.000,0,0,,0,0,,0,1,1,2,1,0,1,1,10,+20
+January 8 2021,HOU,Mason Jones,7:22,1,3,.333,0,1,.000,0,0,,1,0,1,2,0,0,1,0,2,+2
+January 8 2021,HOU,Kenyon Martin,5:28,3,3,1.000,1,1,1.000,0,0,,0,1,1,0,1,0,0,0,7,+3
+January 8 2021,HOU,Bruno Caboclo,4:57,3,4,.750,0,1,.000,0,0,,0,2,2,1,0,1,0,1,6,+3
+January 8 2021,HOU,Team Totals,240,51,91,.560,22,47,.468,8,11,.727,7,42,49,34,6,8,8,18,132
+January 8 2021,BRK,Caris LeVert,35:44,15,23,.652,7,9,.778,6,6,1.000,0,5,5,6,0,0,5,2,43,+8
+January 8 2021,BRK,Jeff Green,34:23,3,5,.600,3,5,.600,0,0,,0,9,9,4,1,0,3,1,9,+8
+January 8 2021,BRK,Jarrett Allen,30:17,3,7,.429,0,0,,6,7,.857,3,3,6,6,1,1,2,2,12,+3
+January 8 2021,BRK,Taurean Prince,24:29,4,13,.308,1,4,.250,7,7,1.000,0,4,4,0,1,1,2,1,16,+10
+January 8 2021,BRK,Bruce Brown,22:32,1,3,.333,0,1,.000,0,0,,0,6,6,0,0,1,3,2,2,+1
+January 8 2021,BRK,Joe Harris,28:05,6,9,.667,1,3,.333,0,0,,0,2,2,2,0,1,2,2,13,-12
+January 8 2021,BRK,Landry Shamet,21:40,3,7,.429,2,5,.400,0,0,,0,2,2,4,2,0,0,1,8,-15
+January 8 2021,BRK,Timothé Luwawu-Cabarrot,17:50,1,8,.125,0,3,.000,1,1,1.000,0,3,3,1,0,0,1,2,3,-7
+January 8 2021,BRK,DeAndre Jordan,17:22,2,2,1.000,0,0,,0,0,,1,4,5,3,0,0,2,0,4,-9
+January 8 2021,BRK,Chris Chiozza,7:38,0,4,.000,0,1,.000,0,0,,0,0,0,0,1,0,0,0,0,-12
+January 8 2021,BRK,Reggie Perry,Did Not Play
+January 8 2021,BRK,Rodions Kurucs,Did Not Play
+January 8 2021,BRK,Team Totals,240,38,81,.469,14,31,.452,20,21,.952,4,38,42,26,6,4,20,13,110
+January 8 2021,MEM,Brandon Clarke,32:59,9,22,.409,3,7,.429,0,1,.000,3,5,8,5,1,2,1,2,21,-9
+January 8 2021,MEM,Tyus Jones,30:47,5,12,.417,1,4,.250,0,0,,0,4,4,10,4,0,1,1,11,+1
+January 8 2021,MEM,Dillon Brooks,27:59,10,19,.526,2,7,.286,2,3,.667,2,2,4,0,0,0,1,4,24,+10
+January 8 2021,MEM,Kyle Anderson,25:30,2,6,.333,1,1,1.000,2,2,1.000,1,3,4,6,1,1,1,3,7,+2
+January 8 2021,MEM,Jonas Valančiūnas,13:34,3,5,.600,0,1,.000,2,2,1.000,1,3,4,0,2,1,1,2,8,+16
+January 8 2021,MEM,Grayson Allen,22:56,3,7,.429,2,4,.500,2,2,1.000,1,3,4,0,2,0,2,2,10,+8
+January 8 2021,MEM,De'Anthony Melton,22:00,6,10,.600,2,2,1.000,0,0,,1,4,5,1,1,1,2,0,14,-6
+January 8 2021,MEM,Desmond Bane,21:27,2,6,.333,2,3,.667,4,4,1.000,0,2,2,0,1,0,0,3,10,+4
+January 8 2021,MEM,Xavier Tillman,18:51,3,8,.375,0,2,.000,0,0,,2,4,6,3,0,1,0,0,6,+5
+January 8 2021,MEM,Gorgui Dieng,13:51,0,1,.000,0,1,.000,0,0,,1,3,4,1,2,0,1,1,0,-10
+January 8 2021,MEM,Tim Frazier,10:06,2,2,1.000,0,0,,0,0,,0,1,1,3,0,0,2,0,4,+4
+January 8 2021,MEM,John Konchar,Did Not Play
+January 8 2021,MEM,Sean McDermott,Did Not Play
+January 8 2021,MEM,Team Totals,240,45,98,.459,13,32,.406,12,14,.857,12,34,46,29,14,6,12,18,115
+January 8 2021,UTA,Royce O'Neale,33:54,6,8,.750,6,8,.750,0,0,,1,7,8,6,3,1,1,3,18,+7
+January 8 2021,UTA,Rudy Gobert,33:06,4,9,.444,0,0,,1,4,.250,4,10,14,0,1,4,2,1,9,+13
+January 8 2021,UTA,Donovan Mitchell,32:26,12,24,.500,4,9,.444,4,6,.667,1,4,5,7,0,1,1,2,32,+15
+January 8 2021,UTA,Bojan Bogdanović,30:20,7,16,.438,4,10,.400,2,2,1.000,1,4,5,3,0,0,3,4,20,+11
+January 8 2021,UTA,Mike Conley,29:23,6,12,.500,5,10,.500,0,0,,0,3,3,10,0,0,2,0,17,-1
+January 8 2021,UTA,Jordan Clarkson,34:45,10,20,.500,5,12,.417,1,1,1.000,1,5,6,2,0,1,1,3,26,+16
+January 8 2021,UTA,Derrick Favors,23:28,2,3,.667,0,0,,0,0,,2,4,6,1,0,1,0,3,4,+9
+January 8 2021,UTA,Georges Niang,13:48,1,3,.333,1,3,.333,0,0,,0,2,2,0,1,0,0,0,3,+2
+January 8 2021,UTA,Miye Oni,4:12,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,1,0,+1
+January 8 2021,UTA,Udoka Azubuike,1:15,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,-2
+January 8 2021,UTA,Shaquille Harrison,1:15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2
+January 8 2021,UTA,Trent Forrest,1:15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-2
+January 8 2021,UTA,Elijah Hughes,0:53,0,1,.000,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,-2
+January 8 2021,UTA,Team Totals,240,49,97,.505,25,53,.472,8,13,.615,10,40,50,31,6,8,10,18,131
+January 8 2021,MIL,Khris Middleton,35:58,11,19,.579,3,8,.375,6,6,1.000,2,8,10,4,0,0,2,3,31,-8
+January 8 2021,MIL,Jrue Holiday,33:42,7,14,.500,3,5,.600,0,1,.000,0,4,4,5,2,1,2,4,17,-11
+January 8 2021,MIL,Giannis Antetokounmpo,32:41,14,25,.560,2,5,.400,5,7,.714,1,7,8,4,0,1,2,2,35,-5
+January 8 2021,MIL,Brook Lopez,32:21,4,12,.333,4,12,.333,0,0,,0,3,3,0,1,2,1,1,12,-7
+January 8 2021,MIL,Donte DiVincenzo,29:50,4,10,.400,1,4,.250,2,3,.667,0,5,5,3,2,1,0,0,11,+3
+January 8 2021,MIL,Bobby Portis,19:45,1,5,.200,0,0,,0,0,,3,5,8,0,0,0,1,1,2,-10
+January 8 2021,MIL,D.J. Augustin,18:36,0,4,.000,0,3,.000,0,0,,0,0,0,1,0,0,0,1,0,-8
+January 8 2021,MIL,Bryn Forbes,15:05,1,5,.200,0,3,.000,0,0,,0,1,1,0,0,0,2,2,2,-6
+January 8 2021,MIL,Thanasis Antetokounmpo,13:20,1,2,.500,0,1,.000,0,0,,3,2,5,0,0,0,0,3,2,-12
+January 8 2021,MIL,Jordan Nwora,7:15,1,1,1.000,0,0,,2,2,1.000,0,1,1,0,0,0,2,1,4,-1
+January 8 2021,MIL,Sam Merrill,1:27,0,1,.000,0,1,.000,2,2,1.000,0,0,0,1,0,0,0,1,2,0
+January 8 2021,MIL,D.J. Wilson,Did Not Play
+January 8 2021,MIL,Team Totals,240,44,98,.449,13,42,.310,17,21,.810,9,36,45,18,5,5,12,19,118
+January 8 2021,LAC,Paul George,39:09,9,13,.692,5,7,.714,2,2,1.000,1,3,4,7,0,1,4,2,25,0
+January 8 2021,LAC,Kawhi Leonard,34:12,7,17,.412,3,5,.600,7,8,.875,0,3,3,4,2,0,2,2,24,-1
+January 8 2021,LAC,Serge Ibaka,30:21,9,12,.750,1,2,.500,0,0,,3,4,7,2,0,1,1,1,19,+14
+January 8 2021,LAC,Nicolas Batum,30:17,4,10,.400,2,8,.250,0,0,,0,6,6,6,2,0,0,1,10,+10
+January 8 2021,LAC,Patrick Beverley,28:00,2,8,.250,1,3,.333,2,3,.667,3,3,6,1,2,0,2,4,7,+14
+January 8 2021,LAC,Luke Kennard,17:47,3,5,.600,2,3,.667,0,0,,1,3,4,1,0,1,2,1,8,-22
+January 8 2021,LAC,Marcus Morris,17:43,1,7,.143,0,2,.000,0,0,,0,2,2,1,0,0,1,0,2,-20
+January 8 2021,LAC,Ivica Zubac,16:56,1,4,.250,0,0,,0,0,,1,3,4,1,0,1,3,2,2,-26
+January 8 2021,LAC,Lou Williams,16:23,3,6,.500,0,1,.000,0,0,,1,0,1,0,0,1,3,2,6,-25
+January 8 2021,LAC,Reggie Jackson,6:20,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-2
+January 8 2021,LAC,Terance Mann,0:43,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,+2
+January 8 2021,LAC,Mfiondu Kabengele,0:43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+2
+January 8 2021,LAC,Daniel Oturu,0:43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+2
+January 8 2021,LAC,Amir Coffey,0:43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+2
+January 8 2021,LAC,Patrick Patterson,Did Not Play
+January 8 2021,LAC,Team Totals,240,40,83,.482,14,31,.452,11,13,.846,10,27,37,23,6,5,18,16,105
+January 8 2021,GSW,Stephen Curry,36:16,13,24,.542,9,14,.643,3,3,1.000,0,2,2,11,3,0,2,3,38,+13
+January 8 2021,GSW,Draymond Green,30:38,2,4,.500,0,1,.000,0,0,,1,2,3,3,2,0,2,3,4,-7
+January 8 2021,GSW,Andrew Wiggins,28:03,5,10,.500,2,5,.400,4,4,1.000,1,5,6,1,1,1,3,2,16,-12
+January 8 2021,GSW,Kelly Oubre,21:23,2,7,.286,0,3,.000,2,2,1.000,2,3,5,0,1,0,3,2,6,-25
+January 8 2021,GSW,James Wiseman,15:18,3,7,.429,1,2,.500,2,4,.500,2,4,6,0,0,2,1,0,9,-21
+January 8 2021,GSW,Damion Lee,21:52,3,6,.500,2,5,.400,0,0,,1,0,1,2,1,0,0,1,8,+22
+January 8 2021,GSW,Eric Paschall,20:01,5,10,.500,2,3,.667,0,0,,2,4,6,1,0,0,0,0,12,+21
+January 8 2021,GSW,Kent Bazemore,19:48,2,5,.400,1,2,.500,1,2,.500,0,1,1,2,3,0,1,2,6,+16
+January 8 2021,GSW,Mychal Mulder,18:31,2,5,.400,1,4,.250,1,1,1.000,0,0,0,1,1,0,0,1,6,+27
+January 8 2021,GSW,Brad Wanamaker,16:14,2,3,.667,2,2,1.000,2,2,1.000,0,6,6,4,0,0,0,0,8,+6
+January 8 2021,GSW,Kevon Looney,11:56,1,1,1.000,0,0,,0,0,,0,2,2,0,1,0,3,5,2,+10
+January 8 2021,GSW,Nico Mannion,Did Not Play
+January 8 2021,GSW,Jordan Poole,Did Not Play
+January 8 2021,GSW,Team Totals,240,40,82,.488,20,41,.488,15,18,.833,9,29,38,25,13,3,15,19,115
+January 8 2021,CHI,Zach LaVine,38:23,14,22,.636,4,7,.571,6,6,1.000,0,5,5,6,2,0,0,1,38,+8
+January 8 2021,CHI,Patrick Williams,34:15,3,10,.300,0,2,.000,0,0,,2,6,8,0,4,0,2,5,6,0
+January 8 2021,CHI,Coby White,31:45,6,14,.429,2,5,.400,0,0,,0,3,3,5,0,0,3,3,14,-18
+January 8 2021,CHI,Wendell Carter,25:15,9,15,.600,0,1,.000,5,6,.833,3,4,7,3,0,0,1,4,23,0
+January 8 2021,CHI,Otto Porter,6:25,1,2,.500,0,0,,0,0,,1,0,1,2,0,0,0,0,2,-2
+January 8 2021,CHI,Thaddeus Young,29:52,7,12,.583,0,1,.000,1,1,1.000,3,4,7,5,1,0,2,4,15,-2
+January 8 2021,CHI,Garrett Temple,27:09,3,5,.600,2,3,.667,1,1,1.000,0,3,3,1,1,1,1,2,9,-2
+January 8 2021,CHI,Denzel Valentine,24:31,2,8,.250,1,5,.200,0,0,,0,4,4,1,0,0,0,1,5,+9
+January 8 2021,CHI,Daniel Gafford,15:34,0,0,,0,0,,0,0,,0,2,2,2,2,2,2,3,0,0
+January 8 2021,CHI,Adam Mokoka,6:51,1,3,.333,1,2,.500,0,0,,0,1,1,1,0,0,1,0,3,-3
+January 8 2021,CHI,Devon Dotson,Did Not Play
+January 8 2021,CHI,Cristiano Felício,Did Not Play
+January 8 2021,CHI,Luke Kornet,Did Not Play
+January 8 2021,CHI,Team Totals,240,46,91,.505,10,26,.385,13,14,.929,9,32,41,26,10,3,12,23,115
+January 8 2021,LAL,Dennis Schröder,34:16,5,11,.455,1,1,1.000,6,8,.750,0,3,3,6,2,0,4,5,17,-5
+January 8 2021,LAL,LeBron James,34:09,11,21,.524,0,5,.000,6,8,.750,0,7,7,7,0,0,4,1,28,+9
+January 8 2021,LAL,Wesley Matthews,33:55,4,8,.500,4,8,.500,2,2,1.000,1,1,2,1,0,1,0,3,14,-6
+January 8 2021,LAL,Markieff Morris,29:07,5,8,.625,1,3,.333,0,0,,0,6,6,0,0,1,1,2,11,+10
+January 8 2021,LAL,Marc Gasol,18:38,1,3,.333,0,2,.000,4,4,1.000,1,3,4,0,0,4,0,0,6,+12
+January 8 2021,LAL,Montrezl Harrell,29:18,7,13,.538,0,0,,3,3,1.000,7,7,14,0,0,1,2,2,17,-11
+January 8 2021,LAL,Talen Horton-Tucker,19:55,3,5,.600,1,1,1.000,2,2,1.000,0,2,2,3,0,1,1,1,9,+1
+January 8 2021,LAL,Kyle Kuzma,16:51,2,5,.400,2,3,.667,0,0,,1,0,1,1,0,0,1,1,6,-6
+January 8 2021,LAL,Alex Caruso,16:43,3,7,.429,3,6,.500,0,0,,0,2,2,3,1,0,2,0,9,+1
+January 8 2021,LAL,Jared Dudley,7:08,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,+5
+January 8 2021,LAL,Devontae Cacok,Did Not Play
+January 8 2021,LAL,Alfonzo McKinnie,Did Not Play
+January 8 2021,LAL,Quinn Cook,Did Not Play
+January 8 2021,LAL,Team Totals,240,41,81,.506,12,29,.414,23,27,.852,10,32,42,21,3,8,15,15,117
+January 8 2021,TOR,Fred VanVleet,33:14,13,22,.591,5,9,.556,3,3,1.000,1,2,3,7,1,0,3,1,34,+13
+January 8 2021,TOR,Pascal Siakam,33:09,7,11,.636,1,2,.500,2,2,1.000,3,6,9,12,1,1,2,5,17,+17
+January 8 2021,TOR,OG Anunoby,28:36,2,8,.250,0,4,.000,4,6,.667,0,2,2,2,2,0,3,5,8,+17
+January 8 2021,TOR,Norman Powell,26:42,6,8,.750,4,5,.800,6,6,1.000,0,2,2,0,2,0,1,0,22,+4
+January 8 2021,TOR,Alex Len,4:43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-12
+January 8 2021,TOR,Chris Boucher,29:12,9,12,.750,2,4,.500,3,5,.600,4,6,10,2,1,3,0,2,23,+14
+January 8 2021,TOR,Terence Davis,22:16,7,13,.538,4,8,.500,0,0,,0,1,1,3,0,0,1,1,18,+25
+January 8 2021,TOR,Yuta Watanabe,19:10,1,5,.200,1,2,.500,0,0,,2,5,7,0,0,1,0,1,3,+16
+January 8 2021,TOR,Malachi Flynn,16:48,5,6,.833,2,3,.667,0,0,,0,5,5,2,0,0,1,3,12,+6
+January 8 2021,TOR,Stanley Johnson,15:29,0,2,.000,0,1,.000,0,0,,1,3,4,1,0,0,0,1,0,+11
+January 8 2021,TOR,DeAndre' Bembry,3:50,1,2,.500,0,0,,0,0,,0,0,0,1,1,0,1,0,2,-3
+January 8 2021,TOR,Matt Thomas,2:17,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,-1
+January 8 2021,TOR,Paul Watson,2:17,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,-1
+January 8 2021,TOR,Jalen Harris,2:17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1
+January 8 2021,TOR,Aron Baynes,Did Not Play
+January 8 2021,TOR,Team Totals,240,53,91,.582,20,39,.513,18,22,.818,12,32,44,30,8,5,12,20,144
+January 8 2021,SAC,Buddy Hield,32:27,6,14,.429,3,9,.333,0,0,,0,5,5,6,1,0,1,3,15,-18
+January 8 2021,SAC,Harrison Barnes,30:30,6,8,.750,2,2,1.000,7,10,.700,0,4,4,8,1,0,3,3,21,-15
+January 8 2021,SAC,Marvin Bagley,29:16,6,9,.667,1,3,.333,2,5,.400,2,2,4,2,0,1,0,3,15,-13
+January 8 2021,SAC,De'Aaron Fox,24:54,9,11,.818,0,1,.000,5,7,.714,0,1,1,3,2,1,4,1,23,-8
+January 8 2021,SAC,Richaun Holmes,23:34,5,7,.714,0,0,,0,0,,0,0,0,2,1,3,0,4,10,-4
+January 8 2021,SAC,Tyrese Haliburton,29:01,5,10,.500,5,7,.714,0,0,,0,2,2,8,2,1,1,0,15,-15
+January 8 2021,SAC,Cory Joseph,22:51,2,4,.500,2,3,.667,0,0,,0,2,2,3,0,1,0,2,6,-21
+January 8 2021,SAC,Glenn Robinson,17:10,3,5,.600,1,3,.333,2,2,1.000,0,2,2,1,0,0,0,2,9,-5
+January 8 2021,SAC,Nemanja Bjelica,9:49,1,4,.250,0,2,.000,0,0,,0,1,1,1,0,0,1,0,2,-16
+January 8 2021,SAC,Kyle Guy,5:45,1,3,.333,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,3,+3
+January 8 2021,SAC,Justin James,5:45,1,3,.333,0,1,.000,0,4,.000,1,0,1,0,1,0,0,0,2,+3
+January 8 2021,SAC,Jahmi'us Ramsey,5:08,0,2,.000,0,2,.000,0,0,,0,3,3,1,0,1,1,0,0,+1
+January 8 2021,SAC,Robert Woodard,3:50,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,+3
+January 8 2021,SAC,Hassan Whiteside,Did Not Play
+January 8 2021,SAC,Team Totals,240,46,81,.568,15,34,.441,16,28,.571,3,23,26,36,9,8,11,18,123
+January 9 2021,DEN,Nikola Jokić,29:02,6,8,.750,0,0,,3,3,1.000,1,8,9,12,0,0,4,2,15,+24
+January 9 2021,DEN,Jamal Murray,28:53,6,11,.545,2,3,.667,0,0,,0,1,1,4,1,0,2,2,14,+19
+January 9 2021,DEN,Gary Harris,28:17,7,11,.636,5,8,.625,2,4,.500,1,2,3,1,1,0,1,1,21,+17
+January 9 2021,DEN,Will Barton,24:01,6,10,.600,0,1,.000,2,2,1.000,2,1,3,3,3,1,3,0,14,+13
+January 9 2021,DEN,Paul Millsap,21:39,3,8,.375,1,3,.333,2,2,1.000,1,4,5,0,2,1,1,0,9,+12
+January 9 2021,DEN,Monte Morris,22:27,5,10,.500,0,2,.000,2,2,1.000,0,2,2,4,1,1,0,1,12,+7
+January 9 2021,DEN,JaMychal Green,21:03,4,11,.364,2,6,.333,2,2,1.000,2,4,6,1,0,0,2,1,12,+4
+January 9 2021,DEN,PJ Dozier,18:55,2,5,.400,1,2,.500,0,0,,3,5,8,1,0,1,1,3,5,+1
+January 9 2021,DEN,Facundo Campazzo,17:01,1,4,.250,1,4,.250,0,0,,0,2,2,2,0,0,1,1,3,+1
+January 9 2021,DEN,Isaiah Hartenstein,14:56,3,5,.600,0,0,,0,0,,4,1,5,0,2,2,2,1,6,+2
+January 9 2021,DEN,R.J. Hampton,5:22,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,-8
+January 9 2021,DEN,Zeke Nnaji,2:06,1,3,.333,0,1,.000,0,0,,1,0,1,0,0,0,0,0,2,-8
+January 9 2021,DEN,Vlatko Čančar,2:06,0,1,.000,0,1,.000,0,0,,0,0,0,0,1,1,0,0,0,-8
+January 9 2021,DEN,Markus Howard,2:06,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-8
+January 9 2021,DEN,Bol Bol,2:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-8
+January 9 2021,DEN,Team Totals,240,45,90,.500,12,33,.364,13,15,.867,15,30,45,28,11,7,17,12,115
+January 9 2021,PHI,Isaiah Joe,44:51,4,18,.222,3,11,.273,2,2,1.000,2,2,4,2,1,0,1,1,13,-14
+January 9 2021,PHI,Tyrese Maxey,43:45,18,33,.545,3,8,.375,0,0,,1,6,7,6,2,0,2,3,39,-17
+January 9 2021,PHI,Dakota Mathias,41:03,5,13,.385,2,5,.400,0,1,.000,1,0,1,5,1,1,1,3,12,-17
+January 9 2021,PHI,Danny Green,36:10,4,17,.235,2,7,.286,1,3,.333,1,2,3,5,2,1,3,4,11,-13
+January 9 2021,PHI,Dwight Howard,23:35,4,6,.667,1,2,.500,2,2,1.000,4,7,11,2,0,0,4,5,11,-22
+January 9 2021,PHI,Paul Reed,26:11,3,9,.333,0,1,.000,0,0,,6,1,7,2,1,1,4,1,6,+13
+January 9 2021,PHI,Tony Bradley,24:25,5,7,.714,0,1,.000,1,2,.500,5,10,15,1,1,1,1,2,11,+10
+January 9 2021,PHI,Shake Milton,Did Not Play
+January 9 2021,PHI,Furkan Korkmaz,Did Not Dress
+January 9 2021,PHI,Matisse Thybulle,Did Not Play
+January 9 2021,PHI,Mike Scott,Did Not Dress
+January 9 2021,PHI,Vincent Poirier,Did Not Play
+January 9 2021,PHI,Team Totals,240,43,103,.417,11,35,.314,6,10,.600,20,28,48,23,8,4,16,19,103
+January 9 2021,ATL,Trae Young,37:08,5,19,.263,0,5,.000,5,5,1.000,2,0,2,10,0,0,5,4,15,0
+January 9 2021,ATL,De'Andre Hunter,33:41,6,10,.600,1,2,.500,7,7,1.000,2,6,8,1,1,2,1,2,20,+4
+January 9 2021,ATL,John Collins,30:16,4,7,.571,1,1,1.000,3,6,.500,6,4,10,0,1,0,0,4,12,0
+January 9 2021,ATL,Clint Capela,27:17,2,6,.333,0,0,,3,4,.750,4,9,13,1,1,0,2,1,7,-4
+January 9 2021,ATL,Bogdan Bogdanović,10:50,2,6,.333,1,5,.200,0,0,,0,1,1,0,0,0,2,2,5,-1
+January 9 2021,ATL,Cam Reddish,33:37,6,17,.353,4,13,.308,5,6,.833,0,5,5,1,4,0,3,3,21,-5
+January 9 2021,ATL,Kevin Huerter,32:34,4,13,.308,3,10,.300,0,0,,2,2,4,6,0,0,0,3,11,-11
+January 9 2021,ATL,Solomon Hill,19:37,3,5,.600,3,5,.600,0,0,,0,3,3,3,3,1,0,2,9,-12
+January 9 2021,ATL,Brandon Goodwin,12:52,2,6,.333,1,4,.250,0,0,,0,0,0,3,0,0,1,0,5,-12
+January 9 2021,ATL,Nathan Knight,2:07,0,0,,0,0,,0,0,,1,0,1,0,0,1,0,1,0,+1
+January 9 2021,ATL,Tony Snell,Did Not Play
+January 9 2021,ATL,Bruno Fernando,Did Not Play
+January 9 2021,ATL,Team Totals,240,34,89,.382,14,45,.311,23,28,.821,17,30,47,25,10,4,14,22,105
+January 9 2021,CHO,P.J. Washington,36:29,7,11,.636,2,4,.500,6,6,1.000,0,7,7,1,0,6,1,4,22,+5
+January 9 2021,CHO,Gordon Hayward,35:52,6,14,.429,1,4,.250,0,0,,0,1,1,3,1,0,2,0,13,+3
+January 9 2021,CHO,Terry Rozier,35:28,8,15,.533,4,9,.444,3,5,.600,0,4,4,2,4,0,3,3,23,+1
+January 9 2021,CHO,Devonte' Graham,32:06,1,6,.167,1,5,.200,6,8,.750,0,5,5,7,2,0,3,1,9,0
+January 9 2021,CHO,Bismack Biyombo,21:10,2,4,.500,0,0,,0,0,,3,4,7,0,0,1,2,4,4,-5
+January 9 2021,CHO,LaMelo Ball,31:10,9,13,.692,3,5,.600,1,2,.500,3,9,12,11,1,0,1,4,22,+18
+January 9 2021,CHO,Miles Bridges,25:16,0,4,.000,0,1,.000,2,2,1.000,0,3,3,1,1,0,1,3,2,+13
+January 9 2021,CHO,Caleb Martin,17:17,6,9,.667,3,4,.750,0,1,.000,0,2,2,2,1,0,0,0,15,+6
+January 9 2021,CHO,Cody Martin,5:10,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,1,0,2,0,3,-1
+January 9 2021,CHO,Vernon Carey,Did Not Play
+January 9 2021,CHO,Jalen McDaniels,Did Not Play
+January 9 2021,CHO,Malik Monk,Did Not Play
+January 9 2021,CHO,Nick Richards,Did Not Play
+January 9 2021,CHO,Team Totals,240,40,77,.519,15,33,.455,18,24,.750,6,35,41,27,11,7,15,19,113
+January 9 2021,PHO,Devin Booker,36:05,9,19,.474,1,5,.200,6,6,1.000,0,3,3,7,2,0,0,3,25,+5
+January 9 2021,PHO,Mikal Bridges,35:23,12,18,.667,6,8,.750,4,4,1.000,0,3,3,2,0,1,0,0,34,+5
+January 9 2021,PHO,Deandre Ayton,33:42,4,10,.400,0,0,,0,0,,3,11,14,3,0,0,0,2,8,+12
+January 9 2021,PHO,Chris Paul,33:06,6,10,.600,0,2,.000,3,3,1.000,0,2,2,10,0,0,1,4,15,+3
+January 9 2021,PHO,Jae Crowder,26:54,2,7,.286,2,7,.286,4,4,1.000,0,8,8,4,1,0,0,1,10,+7
+January 9 2021,PHO,Cameron Johnson,29:16,6,13,.462,4,10,.400,0,0,,1,3,4,4,0,0,1,0,16,+6
+January 9 2021,PHO,Dario Šarić,16:54,2,7,.286,0,2,.000,0,0,,0,2,2,2,0,0,0,1,4,-3
+January 9 2021,PHO,Jevon Carter,16:29,4,7,.571,2,5,.400,0,0,,0,3,3,1,3,1,0,5,10,+3
+January 9 2021,PHO,Langston Galloway,12:11,1,3,.333,1,2,.500,0,0,,0,1,1,0,0,0,0,1,3,+2
+January 9 2021,PHO,Frank Kaminsky,Did Not Play
+January 9 2021,PHO,E'Twaun Moore,Did Not Play
+January 9 2021,PHO,Ty-Shon Alexander,Did Not Play
+January 9 2021,PHO,Cameron Payne,Did Not Play
+January 9 2021,PHO,Damian Jones,Did Not Play
+January 9 2021,PHO,Abdel Nader,Did Not Play
+January 9 2021,PHO,Team Totals,240,46,94,.489,16,41,.390,17,17,1.000,4,36,40,33,6,2,2,17,125
+January 9 2021,IND,Domantas Sabonis,41:28,12,24,.500,0,4,.000,4,8,.500,7,15,22,4,0,0,3,5,28,-6
+January 9 2021,IND,Malcolm Brogdon,39:14,7,20,.350,3,6,.500,5,5,1.000,2,4,6,9,0,0,2,1,22,-7
+January 9 2021,IND,Myles Turner,36:04,6,8,.750,2,3,.667,1,2,.500,4,6,10,3,0,4,0,3,15,-6
+January 9 2021,IND,Victor Oladipo,30:55,7,21,.333,2,7,.286,0,0,,0,6,6,4,1,0,2,5,16,+1
+January 9 2021,IND,Aaron Holiday,24:43,1,3,.333,1,2,.500,0,0,,0,1,1,1,0,0,2,3,3,-9
+January 9 2021,IND,Justin Holiday,28:04,6,10,.600,2,5,.400,3,5,.600,0,5,5,0,0,0,0,0,17,-10
+January 9 2021,IND,Doug McDermott,23:18,3,3,1.000,2,2,1.000,4,4,1.000,0,1,1,2,0,0,0,2,12,-8
+January 9 2021,IND,JaKarr Sampson,7:57,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-8
+January 9 2021,IND,Edmond Sumner,6:10,2,2,1.000,0,0,,0,0,,0,0,0,0,1,0,1,0,4,+8
+January 9 2021,IND,Cassius Stanley,2:07,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,+5
+January 9 2021,IND,Kelan Martin,Did Not Play
+January 9 2021,IND,T.J. McConnell,Did Not Play
+January 9 2021,IND,Team Totals,240,44,92,.478,12,29,.414,17,24,.708,13,39,52,23,2,4,10,19,117
+January 9 2021,MIA,Tyler Herro,37:11,12,20,.600,1,5,.200,6,8,.750,0,9,9,2,0,0,3,3,31,-2
+January 9 2021,MIA,Jimmy Butler,36:01,10,18,.556,0,1,.000,6,6,1.000,3,7,10,9,2,1,0,1,26,+11
+January 9 2021,MIA,Duncan Robinson,34:34,2,8,.250,2,8,.250,1,2,.500,0,5,5,2,0,1,0,1,7,+10
+January 9 2021,MIA,Kelly Olynyk,31:34,7,15,.467,4,11,.364,0,0,,1,5,6,5,1,1,2,2,18,+3
+January 9 2021,MIA,Bam Adebayo,21:26,2,4,.500,0,0,,5,7,.714,1,15,16,4,0,1,4,5,9,+4
+January 9 2021,MIA,Goran Dragić,19:34,7,10,.700,7,9,.778,0,0,,2,0,2,5,0,0,3,4,21,+4
+January 9 2021,MIA,Avery Bradley,18:36,2,8,.250,1,5,.200,0,0,,1,2,3,1,0,0,1,2,5,-10
+January 9 2021,MIA,Andre Iguodala,13:45,1,3,.333,1,2,.500,0,0,,0,2,2,2,0,1,0,1,3,-12
+January 9 2021,MIA,Precious Achiuwa,12:40,3,4,.750,0,0,,1,1,1.000,0,2,2,0,0,0,2,4,7,+5
+January 9 2021,MIA,Meyers Leonard,7:33,0,1,.000,0,1,.000,1,2,.500,0,4,4,1,0,0,1,0,1,+5
+January 9 2021,MIA,KZ Okpala,7:06,0,2,.000,0,1,.000,0,0,,2,0,2,1,0,0,0,1,0,+2
+January 9 2021,MIA,Udonis Haslem,Did Not Play
+January 9 2021,MIA,Kendrick Nunn,Did Not Play
+January 9 2021,MIA,Maurice Harkless,Did Not Play
+January 9 2021,MIA,Chris Silva,Did Not Play
+January 9 2021,MIA,Team Totals,240,46,93,.495,16,43,.372,20,26,.769,10,51,61,32,3,5,16,24,128
+January 9 2021,WAS,Deni Avdija,31:38,7,15,.467,5,9,.556,1,1,1.000,0,5,5,5,2,0,0,2,20,-4
+January 9 2021,WAS,Rui Hachimura,25:48,8,18,.444,0,3,.000,1,1,1.000,1,4,5,2,0,0,0,4,17,+4
+January 9 2021,WAS,Jerome Robinson,23:47,4,8,.500,2,4,.500,2,2,1.000,0,4,4,2,1,0,1,1,12,-17
+January 9 2021,WAS,Raul Neto,20:00,2,9,.222,0,2,.000,2,3,.667,1,2,3,3,2,0,2,0,6,-9
+January 9 2021,WAS,Thomas Bryant,1:53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-4
+January 9 2021,WAS,Ish Smith,28:00,4,11,.364,1,2,.500,0,0,,0,3,3,7,0,0,1,2,9,+5
+January 9 2021,WAS,Garrison Mathews,23:20,6,12,.500,4,7,.571,6,7,.857,1,1,2,1,2,0,1,5,22,+11
+January 9 2021,WAS,Troy Brown,22:29,3,6,.500,1,4,.250,0,1,.000,2,4,6,1,1,1,0,1,7,+11
+January 9 2021,WAS,Dāvis Bertāns,22:12,1,7,.143,0,4,.000,3,5,.600,1,2,3,3,0,1,0,2,5,-8
+January 9 2021,WAS,Robin Lopez,21:01,5,6,.833,0,0,,3,4,.750,1,0,1,0,0,0,1,1,13,-7
+January 9 2021,WAS,Moritz Wagner,19:42,4,7,.571,2,5,.400,3,4,.750,0,7,7,1,1,0,0,6,13,-2
+January 9 2021,WAS,Isaac Bonga,0:10,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+January 9 2021,WAS,Anthony Gill,Did Not Play
+January 9 2021,WAS,Anžejs Pasečņiks,Did Not Play
+January 9 2021,WAS,Russell Westbrook,Did Not Play
+January 9 2021,WAS,Bradley Beal,Did Not Play
+January 9 2021,WAS,Team Totals,240,44,99,.444,15,40,.375,21,28,.750,7,32,39,25,9,2,6,24,124
+January 9 2021,CLE,Andre Drummond,41:17,11,23,.478,0,1,.000,4,5,.800,5,19,24,3,1,1,6,4,26,-2
+January 9 2021,CLE,Damyean Dotson,41:03,8,17,.471,2,7,.286,3,3,1.000,0,2,2,8,1,1,0,1,21,-2
+January 9 2021,CLE,Larry Nance,39:42,6,11,.545,3,6,.500,2,2,1.000,0,3,3,2,4,1,3,2,17,-9
+January 9 2021,CLE,Isaac Okoro,33:33,2,9,.222,0,1,.000,0,4,.000,0,2,2,1,0,0,1,4,4,-22
+January 9 2021,CLE,Cedi Osman,30:42,4,13,.308,1,8,.125,0,0,,2,3,5,2,0,0,5,4,9,-5
+January 9 2021,CLE,JaVale McGee,17:21,1,6,.167,0,0,,2,2,1.000,4,1,5,0,0,0,0,1,4,-2
+January 9 2021,CLE,Dean Wade,14:35,3,3,1.000,1,1,1.000,0,0,,0,3,3,0,0,0,0,0,7,+5
+January 9 2021,CLE,Lamar Stevens,11:36,0,1,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,1,0,-14
+January 9 2021,CLE,Thon Maker,10:11,1,4,.250,0,1,.000,0,0,,2,0,2,0,0,1,0,1,2,+1
+January 9 2021,CLE,Darius Garland,Did Not Play
+January 9 2021,CLE,Marques Bolden,Did Not Play
+January 9 2021,CLE,Collin Sexton,Did Not Play
+January 9 2021,CLE,Team Totals,240,36,87,.414,7,26,.269,11,16,.688,14,33,47,16,6,4,15,18,90
+January 9 2021,MIL,Jrue Holiday,36:16,5,12,.417,0,2,.000,5,7,.714,1,5,6,4,4,1,2,4,15,+10
+January 9 2021,MIL,Khris Middleton,35:29,10,16,.625,3,6,.500,4,4,1.000,1,4,5,6,1,1,3,3,27,+19
+January 9 2021,MIL,Brook Lopez,34:44,3,11,.273,0,5,.000,1,2,.500,2,6,8,0,0,2,0,3,7,+14
+January 9 2021,MIL,Bobby Portis,33:27,7,11,.636,1,2,.500,2,3,.667,3,8,11,3,4,0,5,2,17,+6
+January 9 2021,MIL,Donte DiVincenzo,26:55,3,10,.300,3,8,.375,2,2,1.000,0,4,4,4,2,0,1,0,11,-3
+January 9 2021,MIL,D.J. Augustin,20:13,2,7,.286,1,4,.250,0,0,,2,0,2,5,0,0,1,0,5,+7
+January 9 2021,MIL,D.J. Wilson,15:43,5,9,.556,2,3,.667,0,0,,1,2,3,1,0,0,1,0,12,0
+January 9 2021,MIL,Bryn Forbes,13:56,0,3,.000,0,3,.000,0,0,,0,0,0,0,0,0,0,0,0,-5
+January 9 2021,MIL,Thanasis Antetokounmpo,12:24,0,0,,0,0,,0,0,,0,2,2,2,0,0,2,1,0,0
+January 9 2021,MIL,Pat Connaughton,10:53,2,5,.400,2,3,.667,0,0,,1,3,4,0,0,0,0,1,6,+2
+January 9 2021,MIL,Sam Merrill,Did Not Play
+January 9 2021,MIL,Jordan Nwora,Did Not Play
+January 9 2021,MIL,Team Totals,240,37,84,.440,12,36,.333,14,18,.778,11,34,45,25,11,4,15,14,100
+January 9 2021,SAS,DeMar DeRozan,43:49,13,23,.565,0,2,.000,12,13,.923,1,4,5,5,0,0,1,1,38,+4
+January 9 2021,SAS,Keldon Johnson,41:45,6,12,.500,2,5,.400,3,4,.750,3,6,9,4,1,0,0,3,17,+4
+January 9 2021,SAS,Dejounte Murray,40:53,7,18,.389,3,6,.500,5,6,.833,2,12,14,4,1,1,2,2,22,+7
+January 9 2021,SAS,LaMarcus Aldridge,32:46,4,11,.364,1,3,.333,1,2,.500,1,2,3,1,2,1,0,4,10,+5
+January 9 2021,SAS,Lonnie Walker,27:48,2,8,.250,1,3,.333,2,2,1.000,0,2,2,0,2,0,0,1,7,+6
+January 9 2021,SAS,Patty Mills,30:10,8,14,.571,5,8,.625,0,0,,0,0,0,1,0,0,0,4,21,0
+January 9 2021,SAS,Rudy Gay,16:51,4,9,.444,1,3,.333,0,0,,0,4,4,3,0,1,1,2,9,-3
+January 9 2021,SAS,Jakob Poeltl,16:25,0,3,.000,0,0,,1,2,.500,3,4,7,1,1,0,2,1,1,-3
+January 9 2021,SAS,Devin Vassell,14:33,0,3,.000,0,2,.000,0,0,,2,2,4,3,1,0,0,1,0,-5
+January 9 2021,SAS,Tre Jones,Did Not Play
+January 9 2021,SAS,Trey Lyles,Did Not Play
+January 9 2021,SAS,Luka Šamanić,Did Not Play
+January 9 2021,SAS,Keita Bates-Diop,Did Not Play
+January 9 2021,SAS,Team Totals,265,44,101,.436,13,32,.406,24,29,.828,12,36,48,22,8,3,6,19,125
+January 9 2021,MIN,Malik Beasley,40:00,11,20,.550,7,11,.636,0,0,,0,4,4,2,0,0,2,2,29,+2
+January 9 2021,MIN,D'Angelo Russell,37:45,7,22,.318,1,6,.167,1,3,.333,1,2,3,6,1,1,1,2,16,-3
+January 9 2021,MIN,Karl-Anthony Towns,37:00,9,17,.529,2,3,.667,5,6,.833,6,7,13,4,0,3,3,2,25,-8
+January 9 2021,MIN,Jarrett Culver,30:37,4,6,.667,0,0,,2,4,.500,1,7,8,3,0,0,1,4,10,-4
+January 9 2021,MIN,Juan Hernangómez,22:39,2,4,.500,1,2,.500,0,0,,1,6,7,0,0,0,1,2,5,-1
+January 9 2021,MIN,Ricky Rubio,33:33,3,7,.429,0,0,,0,0,,1,4,5,8,0,0,2,2,6,-5
+January 9 2021,MIN,Anthony Edwards,30:16,5,11,.455,1,4,.250,2,2,1.000,0,4,4,4,0,0,3,3,13,+2
+January 9 2021,MIN,Naz Reid,16:00,6,8,.750,3,4,.750,1,2,.500,1,6,7,1,0,3,2,1,16,+5
+January 9 2021,MIN,Jarred Vanderbilt,12:14,1,1,1.000,0,0,,0,0,,0,2,2,1,0,0,1,1,2,+2
+January 9 2021,MIN,Jake Layman,4:56,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-5
+January 9 2021,MIN,Ed Davis,Did Not Play
+January 9 2021,MIN,Jaden McDaniels,Did Not Play
+January 9 2021,MIN,Jaylen Nowell,Did Not Play
+January 9 2021,MIN,Team Totals,265,48,96,.500,15,30,.500,11,17,.647,11,42,53,29,1,7,16,20,122
+January 9 2021,ORL,Aaron Gordon,35:32,6,16,.375,1,7,.143,3,6,.500,0,4,4,5,1,1,2,3,16,-3
+January 9 2021,ORL,Nikola Vučević,33:27,14,24,.583,2,7,.286,0,0,,3,12,15,2,2,0,0,3,30,-7
+January 9 2021,ORL,Cole Anthony,32:06,2,8,.250,1,5,.200,3,4,.750,0,2,2,3,0,0,2,2,8,-9
+January 9 2021,ORL,Dwayne Bacon,27:22,4,13,.308,0,1,.000,1,2,.500,2,1,3,1,1,0,0,4,9,+6
+January 9 2021,ORL,James Ennis,20:39,2,5,.400,0,2,.000,0,0,,0,2,2,1,3,0,1,0,4,-6
+January 9 2021,ORL,Terrence Ross,32:32,3,12,.250,0,4,.000,5,5,1.000,0,4,4,3,0,1,3,2,11,-20
+January 9 2021,ORL,Khem Birch,23:51,4,4,1.000,0,0,,4,5,.800,3,5,8,0,3,0,0,1,12,-9
+January 9 2021,ORL,Gary Clark,21:46,2,5,.400,2,4,.500,0,0,,2,2,4,0,1,0,1,1,6,-16
+January 9 2021,ORL,Jordan Bone,12:45,1,2,.500,0,1,.000,0,0,,0,1,1,2,0,0,0,0,2,-6
+January 9 2021,ORL,Mohamed Bamba,Did Not Play
+January 9 2021,ORL,Evan Fournier,Did Not Dress
+January 9 2021,ORL,Karim Mané,Did Not Play
+January 9 2021,ORL,Team Totals,240,38,89,.427,6,31,.194,16,22,.727,10,33,43,17,11,2,9,16,98
+January 9 2021,DAL,Tim Hardaway,40:26,12,20,.600,8,13,.615,4,6,.667,0,5,5,2,0,0,4,2,36,+6
+January 9 2021,DAL,Luka Dončić,34:37,7,20,.350,3,9,.333,3,3,1.000,1,9,10,10,1,2,6,1,20,0
+January 9 2021,DAL,Maxi Kleber,23:38,1,5,.200,1,3,.333,2,2,1.000,0,3,3,1,0,2,0,1,5,-3
+January 9 2021,DAL,Willie Cauley-Stein,23:19,2,5,.400,0,0,,2,2,1.000,1,6,7,2,0,0,1,2,6,+4
+January 9 2021,DAL,Josh Green,15:28,0,1,.000,0,1,.000,0,0,,0,3,3,0,0,0,0,0,0,-6
+January 9 2021,DAL,Wesley Iwundu,32:27,0,2,.000,0,1,.000,0,0,,1,5,6,1,2,0,2,3,0,+17
+January 9 2021,DAL,James Johnson,26:14,4,6,.667,1,3,.333,3,5,.600,0,4,4,3,2,1,2,3,12,+19
+January 9 2021,DAL,Trey Burke,21:02,11,13,.846,7,8,.875,0,0,,0,0,0,4,0,1,1,3,29,+25
+January 9 2021,DAL,Dwight Powell,20:56,2,6,.333,0,2,.000,0,0,,2,3,5,2,0,2,1,2,4,+10
+January 9 2021,DAL,Boban Marjanović,1:53,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,-2
+January 9 2021,DAL,Tyler Bey,Did Not Play
+January 9 2021,DAL,Tyrell Terry,Did Not Play
+January 9 2021,DAL,Nate Hinton,Did Not Play
+January 9 2021,DAL,Team Totals,240,39,79,.494,20,40,.500,14,18,.778,6,38,44,25,5,8,17,17,112
+January 9 2021,POR,Damian Lillard,29:40,5,16,.313,1,7,.143,6,6,1.000,0,4,4,6,1,0,0,0,17,+26
+January 9 2021,POR,CJ McCollum,29:19,13,22,.591,6,11,.545,5,5,1.000,0,3,3,3,2,0,1,3,37,+26
+January 9 2021,POR,Robert Covington,27:34,2,4,.500,2,4,.500,0,0,,0,8,8,4,1,0,0,1,6,+34
+January 9 2021,POR,Jusuf Nurkić,23:15,4,8,.500,0,0,,2,2,1.000,2,6,8,5,3,1,2,2,10,+25
+January 9 2021,POR,Derrick Jones,20:33,4,6,.667,1,2,.500,0,0,,0,2,2,0,1,1,1,2,9,+32
+January 9 2021,POR,Gary Trent,30:31,4,9,.444,2,4,.500,0,0,,0,2,2,1,0,0,1,3,10,+2
+January 9 2021,POR,Carmelo Anthony,21:50,4,12,.333,1,5,.200,4,6,.667,0,2,2,0,0,1,0,3,13,-4
+January 9 2021,POR,Enes Kanter,19:08,4,9,.444,0,0,,3,4,.750,6,9,15,0,0,0,1,3,11,+3
+January 9 2021,POR,Rodney Hood,14:57,0,5,.000,0,3,.000,0,0,,0,2,2,4,2,0,1,3,0,-6
+January 9 2021,POR,Anfernee Simons,6:34,2,4,.500,2,3,.667,0,0,,0,0,0,1,0,0,0,0,6,-2
+January 9 2021,POR,CJ Elleby,5:33,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,1,3,3,-2
+January 9 2021,POR,Nassir Little,5:33,1,2,.500,1,1,1.000,0,0,,1,1,2,0,0,0,0,1,3,-2
+January 9 2021,POR,Harry Giles,5:33,0,2,.000,0,0,,0,0,,0,2,2,2,0,2,0,3,0,-2
+January 9 2021,POR,Team Totals,240,44,100,.440,17,41,.415,20,23,.870,9,41,50,26,10,5,8,27,125
+January 9 2021,SAC,Harrison Barnes,32:30,4,8,.500,2,4,.500,0,0,,1,6,7,2,0,1,1,0,10,-18
+January 9 2021,SAC,Tyrese Haliburton,30:44,5,8,.625,1,4,.250,1,1,1.000,0,2,2,8,1,0,3,1,12,-15
+January 9 2021,SAC,Buddy Hield,25:54,3,10,.300,2,8,.250,0,0,,0,5,5,1,0,1,2,2,8,-26
+January 9 2021,SAC,De'Aaron Fox,25:27,3,9,.333,0,1,.000,4,6,.667,0,2,2,2,0,0,3,4,10,-32
+January 9 2021,SAC,Marvin Bagley,24:19,5,14,.357,1,2,.500,4,6,.667,1,7,8,0,0,0,2,3,15,-28
+January 9 2021,SAC,Hassan Whiteside,23:37,3,7,.429,0,0,,5,9,.556,1,7,8,2,1,1,0,3,11,+2
+January 9 2021,SAC,Glenn Robinson,22:32,3,5,.600,1,3,.333,4,4,1.000,0,4,4,1,0,0,1,0,11,-11
+January 9 2021,SAC,Cory Joseph,18:26,4,8,.500,0,2,.000,0,0,,0,1,1,1,1,0,1,2,8,-3
+January 9 2021,SAC,Justin James,12:57,0,3,.000,0,2,.000,1,2,.500,0,4,4,2,0,0,0,0,1,-6
+January 9 2021,SAC,Nemanja Bjelica,11:46,1,5,.200,0,3,.000,2,2,1.000,0,3,3,1,0,0,2,5,4,+3
+January 9 2021,SAC,Chimezie Metu,6:34,1,3,.333,0,0,,4,5,.800,3,0,3,1,1,2,0,0,6,+2
+January 9 2021,SAC,Jahmi'us Ramsey,3:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+1
+January 9 2021,SAC,Robert Woodard,2:14,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,+1
+January 9 2021,SAC,Richaun Holmes,Did Not Play
+January 9 2021,SAC,Team Totals,240,33,81,.407,8,30,.267,25,35,.714,6,41,47,21,4,5,15,20,99
+January 10 2021,UTA,Donovan Mitchell,37:14,9,18,.500,4,8,.500,6,7,.857,0,2,2,3,0,1,4,1,28,+11
+January 10 2021,UTA,Rudy Gobert,33:34,1,5,.200,0,0,,2,6,.333,6,13,19,1,0,4,4,2,4,+7
+January 10 2021,UTA,Royce O'Neale,32:43,0,2,.000,0,2,.000,0,0,,1,7,8,4,1,0,1,3,0,+9
+January 10 2021,UTA,Mike Conley,30:13,8,13,.615,2,4,.500,4,4,1.000,2,3,5,6,2,0,1,2,22,+2
+January 10 2021,UTA,Bojan Bogdanović,29:16,3,11,.273,0,5,.000,1,2,.500,0,6,6,1,0,0,0,1,7,+11
+January 10 2021,UTA,Jordan Clarkson,25:06,7,15,.467,3,7,.429,1,1,1.000,2,2,4,0,0,0,2,1,18,0
+January 10 2021,UTA,Joe Ingles,23:31,3,6,.500,2,5,.400,1,2,.500,0,5,5,2,0,0,0,2,9,+7
+January 10 2021,UTA,Derrick Favors,17:15,3,7,.429,0,0,,0,0,,5,9,14,0,0,0,1,3,6,+5
+January 10 2021,UTA,Georges Niang,11:08,1,5,.200,0,4,.000,0,0,,0,0,0,0,0,0,0,2,2,-2
+January 10 2021,UTA,Shaquille Harrison,Did Not Play
+January 10 2021,UTA,Miye Oni,Did Not Play
+January 10 2021,UTA,Elijah Hughes,Did Not Play
+January 10 2021,UTA,Udoka Azubuike,Did Not Play
+January 10 2021,UTA,Trent Forrest,Did Not Play
+January 10 2021,UTA,Team Totals,240,35,82,.427,11,35,.314,15,22,.682,16,47,63,17,3,5,13,17,96
+January 10 2021,DET,Jerami Grant,36:18,9,19,.474,3,6,.500,7,8,.875,0,4,4,4,1,1,1,0,28,-4
+January 10 2021,DET,Delon Wright,36:09,2,9,.222,0,1,.000,2,2,1.000,1,4,5,3,2,2,0,0,6,-9
+January 10 2021,DET,Blake Griffin,32:54,4,12,.333,1,7,.143,1,3,.333,1,5,6,5,0,0,1,2,10,-7
+January 10 2021,DET,Mason Plumlee,25:54,3,5,.600,0,0,,0,0,,3,5,8,3,2,1,1,6,6,-5
+January 10 2021,DET,Josh Jackson,14:19,0,5,.000,0,3,.000,2,2,1.000,1,1,2,1,2,0,0,4,2,0
+January 10 2021,DET,Saddiq Bey,27:17,3,9,.333,2,6,.333,4,4,1.000,2,1,3,1,0,0,0,4,12,-10
+January 10 2021,DET,Sviatoslav Mykhailiuk,14:58,1,9,.111,1,8,.125,0,0,,0,0,0,0,2,1,0,0,3,-9
+January 10 2021,DET,Isaiah Stewart,14:15,1,3,.333,0,0,,0,0,,3,1,4,1,1,0,0,4,2,+7
+January 10 2021,DET,Wayne Ellington,13:21,2,7,.286,2,6,.333,0,0,,0,2,2,0,0,2,0,2,6,+1
+January 10 2021,DET,Frank Jackson,11:51,1,5,.200,1,4,.250,0,0,,0,4,4,3,0,0,1,0,3,-1
+January 10 2021,DET,Jahlil Okafor,7:51,3,3,1.000,0,0,,0,0,,0,1,1,0,0,0,2,0,6,-12
+January 10 2021,DET,Sekou Doumbouya,4:53,0,1,.000,0,1,.000,2,2,1.000,0,0,0,0,0,0,1,1,2,-1
+January 10 2021,DET,Rodney McGruder,Did Not Play
+January 10 2021,DET,Deividas Sirvydis,Did Not Play
+January 10 2021,DET,Saben Lee,Did Not Play
+January 10 2021,DET,Team Totals,240,29,87,.333,10,42,.238,18,21,.857,11,28,39,21,10,7,7,23,86
+January 10 2021,CHI,Coby White,42:55,4,11,.364,0,4,.000,1,2,.500,1,7,8,13,1,0,5,4,9,-2
+January 10 2021,CHI,Zach LaVine,41:56,15,26,.577,10,16,.625,5,5,1.000,0,7,7,7,0,0,5,4,45,-3
+January 10 2021,CHI,Garrett Temple,36:07,7,8,.875,3,4,.750,1,1,1.000,0,6,6,1,2,0,2,4,18,+3
+January 10 2021,CHI,Patrick Williams,35:47,6,9,.667,3,5,.600,2,2,1.000,1,1,2,2,2,0,2,1,17,+9
+January 10 2021,CHI,Wendell Carter,26:48,4,8,.500,0,1,.000,4,4,1.000,1,4,5,2,0,0,4,2,12,-3
+January 10 2021,CHI,Thaddeus Young,25:20,6,7,.857,0,0,,2,3,.667,0,5,5,2,0,0,0,2,14,-5
+January 10 2021,CHI,Denzel Valentine,20:10,4,6,.667,2,3,.667,0,0,,0,4,4,3,0,0,2,1,10,-8
+January 10 2021,CHI,Daniel Gafford,10:33,1,2,.500,0,0,,0,0,,0,1,1,0,1,2,2,1,2,-3
+January 10 2021,CHI,Adam Mokoka,0:24,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-3
+January 10 2021,CHI,Cristiano Felício,Did Not Play
+January 10 2021,CHI,Luke Kornet,Did Not Play
+January 10 2021,CHI,Devon Dotson,Did Not Play
+January 10 2021,CHI,Team Totals,240,47,77,.610,18,33,.545,15,17,.882,3,35,38,30,6,2,22,19,127
+January 10 2021,LAC,Paul George,39:56,8,19,.421,5,8,.625,7,9,.778,2,5,7,9,2,0,2,1,28,+12
+January 10 2021,LAC,Kawhi Leonard,38:13,14,22,.636,7,9,.778,0,0,,0,2,2,4,3,0,2,0,35,-3
+January 10 2021,LAC,Nicolas Batum,27:32,2,3,.667,2,3,.667,2,3,.667,0,2,2,3,4,1,0,2,8,-4
+January 10 2021,LAC,Serge Ibaka,26:27,5,10,.500,0,2,.000,0,0,,3,2,5,1,0,0,2,2,10,-2
+January 10 2021,LAC,Patrick Beverley,25:19,3,9,.333,1,6,.167,0,0,,0,3,3,5,0,3,1,4,7,-12
+January 10 2021,LAC,Marcus Morris,25:04,3,8,.375,3,5,.600,2,2,1.000,2,5,7,0,0,0,1,3,11,+1
+January 10 2021,LAC,Lou Williams,23:30,6,10,.600,1,2,.500,8,9,.889,0,1,1,4,3,0,1,1,21,+16
+January 10 2021,LAC,Luke Kennard,18:13,2,5,.400,1,3,.333,0,0,,0,1,1,1,0,0,1,4,5,+3
+January 10 2021,LAC,Ivica Zubac,15:33,2,6,.333,0,0,,1,2,.500,5,2,7,1,1,1,0,2,5,+6
+January 10 2021,LAC,Terance Mann,0:13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2
+January 10 2021,LAC,Mfiondu Kabengele,Did Not Play
+January 10 2021,LAC,Daniel Oturu,Did Not Play
+January 10 2021,LAC,Amir Coffey,Did Not Play
+January 10 2021,LAC,Reggie Jackson,Did Not Play
+January 10 2021,LAC,Patrick Patterson,Did Not Play
+January 10 2021,LAC,Team Totals,240,45,92,.489,20,38,.526,20,25,.800,12,23,35,28,13,5,10,19,130
+January 10 2021,OKC,Shai Gilgeous-Alexander,36:01,11,16,.688,2,4,.500,7,8,.875,1,5,6,7,2,1,2,3,31,+1
+January 10 2021,OKC,Darius Bazley,33:19,2,6,.333,1,4,.250,0,0,,1,4,5,2,0,2,1,1,5,-7
+January 10 2021,OKC,George Hill,28:05,6,12,.500,2,6,.333,0,0,,0,0,0,3,2,0,1,1,14,-5
+January 10 2021,OKC,Al Horford,27:47,9,17,.529,3,7,.429,1,1,1.000,0,6,6,3,1,1,2,4,22,+3
+January 10 2021,OKC,Luguentz Dort,25:23,4,6,.667,2,3,.667,3,3,1.000,0,3,3,0,1,0,2,3,13,-4
+January 10 2021,OKC,Hamidou Diallo,23:53,10,14,.714,1,4,.250,4,4,1.000,0,3,3,4,4,0,0,4,25,+17
+January 10 2021,OKC,Isaiah Roby,19:17,5,7,.714,2,4,.500,1,1,1.000,0,5,5,0,0,0,1,2,13,+8
+January 10 2021,OKC,Théo Maledon,18:39,1,7,.143,1,4,.250,0,0,,0,1,1,5,2,0,0,1,3,+18
+January 10 2021,OKC,Aleksej Pokusevski,13:38,1,4,.250,1,3,.333,0,0,,0,3,3,0,0,0,1,0,3,+16
+January 10 2021,OKC,Kenrich Williams,13:02,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,3,0,+16
+January 10 2021,OKC,Moses Brown,0:56,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+2
+January 10 2021,OKC,Josh Hall,Did Not Play
+January 10 2021,OKC,Justin Jackson,Did Not Play
+January 10 2021,OKC,Mike Muscala,Did Not Play
+January 10 2021,OKC,Darius Miller,Did Not Play
+January 10 2021,OKC,Team Totals,240,49,90,.544,15,39,.385,16,17,.941,3,31,34,24,12,4,10,22,129
+January 10 2021,BRK,Kevin Durant,37:40,11,21,.524,2,7,.286,12,15,.800,1,10,11,4,0,1,4,2,36,0
+January 10 2021,BRK,Caris LeVert,35:32,8,17,.471,2,6,.333,3,3,1.000,1,3,4,6,0,0,2,2,21,-6
+January 10 2021,BRK,Jarrett Allen,33:05,6,7,.857,0,0,,3,3,1.000,1,9,10,1,0,1,3,3,15,-5
+January 10 2021,BRK,Joe Harris,31:41,4,12,.333,2,6,.333,0,0,,0,5,5,3,0,0,2,3,10,-3
+January 10 2021,BRK,Jeff Green,24:38,2,8,.250,0,4,.000,0,0,,2,2,4,1,1,0,0,1,4,-10
+January 10 2021,BRK,Taurean Prince,23:45,5,7,.714,1,2,.500,0,0,,1,4,5,2,1,0,1,1,11,-5
+January 10 2021,BRK,Timothé Luwawu-Cabarrot,20:43,4,6,.667,3,5,.600,1,2,.500,0,1,1,4,0,0,0,3,12,-10
+January 10 2021,BRK,Landry Shamet,15:28,1,5,.200,0,4,.000,1,1,1.000,0,1,1,0,1,0,2,1,3,-15
+January 10 2021,BRK,DeAndre Jordan,10:26,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,2,1,4,-8
+January 10 2021,BRK,Bruce Brown,4:47,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-4
+January 10 2021,BRK,Rodions Kurucs,2:15,0,0,,0,0,,0,0,,0,0,0,2,0,0,0,0,0,+1
+January 10 2021,BRK,Chris Chiozza,Did Not Play
+January 10 2021,BRK,Reggie Perry,Did Not Play
+January 10 2021,BRK,Team Totals,240,43,85,.506,10,34,.294,20,24,.833,6,37,43,23,3,2,17,18,116
+January 10 2021,DEN,Gary Harris,31:46,6,10,.600,2,4,.500,0,0,,2,1,3,1,2,1,1,2,14,+8
+January 10 2021,DEN,Nikola Jokić,30:04,9,15,.600,1,3,.333,3,3,1.000,3,7,10,5,1,1,2,1,22,+8
+January 10 2021,DEN,Jamal Murray,29:17,4,9,.444,1,4,.250,0,0,,0,0,0,3,0,0,0,2,9,+11
+January 10 2021,DEN,Will Barton,21:49,2,7,.286,0,2,.000,1,2,.500,0,2,2,4,0,0,0,1,5,+1
+January 10 2021,DEN,Paul Millsap,21:25,3,9,.333,2,6,.333,2,3,.667,0,5,5,0,2,0,1,2,10,0
+January 10 2021,DEN,JaMychal Green,22:53,4,5,.800,2,2,1.000,0,0,,1,7,8,1,1,0,0,2,10,+24
+January 10 2021,DEN,Monte Morris,22:50,5,10,.500,2,5,.400,0,0,,0,3,3,3,1,0,0,1,12,+26
+January 10 2021,DEN,PJ Dozier,17:16,4,6,.667,3,4,.750,1,2,.500,0,5,5,2,1,1,1,3,12,+17
+January 10 2021,DEN,Facundo Campazzo,14:10,2,5,.400,1,2,.500,0,0,,0,2,2,2,2,0,1,2,5,+16
+January 10 2021,DEN,Isaiah Hartenstein,11:32,3,3,1.000,0,0,,2,2,1.000,1,1,2,1,1,0,3,6,8,+15
+January 10 2021,DEN,Bol Bol,3:44,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,1,2,1,3,+1
+January 10 2021,DEN,R.J. Hampton,3:44,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,+1
+January 10 2021,DEN,Zeke Nnaji,3:44,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,+1
+January 10 2021,DEN,Markus Howard,2:53,1,3,.333,0,2,.000,0,0,,0,0,0,1,0,0,0,1,2,-2
+January 10 2021,DEN,Vlatko Čančar,2:53,0,0,,0,0,,0,0,,1,0,1,0,0,0,1,0,0,-2
+January 10 2021,DEN,Team Totals,240,45,84,.536,15,35,.429,9,12,.750,8,35,43,23,11,4,12,25,114
+January 10 2021,NYK,Julius Randle,38:29,11,16,.688,2,5,.400,5,6,.833,1,9,10,5,0,0,3,2,29,-21
+January 10 2021,NYK,Mitchell Robinson,34:23,5,5,1.000,0,0,,1,2,.500,2,3,5,0,1,1,0,0,11,-7
+January 10 2021,NYK,RJ Barrett,33:21,4,13,.308,0,3,.000,1,3,.333,3,6,9,4,0,0,3,1,9,-14
+January 10 2021,NYK,Elfrid Payton,32:11,4,10,.400,0,1,.000,4,5,.800,0,3,3,5,1,0,2,4,12,-6
+January 10 2021,NYK,Reggie Bullock,24:51,3,8,.375,1,1,1.000,0,0,,0,3,3,1,0,0,1,2,7,-2
+January 10 2021,NYK,Austin Rivers,22:05,2,6,.333,2,4,.500,0,0,,0,0,0,1,0,0,2,0,6,-22
+January 10 2021,NYK,Kevin Knox,17:46,2,6,.333,1,3,.333,1,1,1.000,0,1,1,0,0,0,2,1,6,-14
+January 10 2021,NYK,Immanuel Quickley,13:11,0,4,.000,0,2,.000,4,4,1.000,0,1,1,1,0,0,1,2,4,-18
+January 10 2021,NYK,Nerlens Noel,11:50,0,2,.000,0,0,,1,2,.500,2,2,4,1,0,0,2,3,1,-21
+January 10 2021,NYK,Dennis Smith,6:22,1,3,.333,0,1,.000,2,2,1.000,0,0,0,1,2,0,0,0,4,-2
+January 10 2021,NYK,Theo Pinson,3:44,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1
+January 10 2021,NYK,Ignas Brazdeikis,1:47,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+3
+January 10 2021,NYK,Jared Harper,Did Not Play
+January 10 2021,NYK,Team Totals,240,32,74,.432,6,21,.286,19,25,.760,8,28,36,19,4,1,16,15,89
+January 10 2021,LAL,Dennis Schröder,34:53,3,10,.300,1,3,.333,1,2,.500,0,5,5,7,2,2,0,2,8,+17
+January 10 2021,LAL,LeBron James,30:21,7,15,.467,1,6,.167,3,6,.500,1,6,7,7,1,1,2,2,18,+10
+January 10 2021,LAL,Anthony Davis,29:56,9,12,.750,0,1,.000,9,10,.900,1,3,4,1,0,3,2,4,27,+29
+January 10 2021,LAL,Marc Gasol,24:39,2,6,.333,1,2,.500,1,1,1.000,0,7,7,2,0,0,2,5,6,+3
+January 10 2021,LAL,Kentavious Caldwell-Pope,22:20,3,9,.333,1,4,.250,0,0,,1,3,4,3,2,0,2,1,7,+14
+January 10 2021,LAL,Kyle Kuzma,23:37,5,12,.417,3,8,.375,0,0,,0,2,2,1,0,1,3,0,13,-4
+January 10 2021,LAL,Montrezl Harrell,23:15,7,11,.636,0,0,,2,2,1.000,2,6,8,0,1,1,2,3,16,+15
+January 10 2021,LAL,Alex Caruso,21:30,1,5,.200,0,1,.000,1,2,.500,2,2,4,4,3,0,0,1,3,+3
+January 10 2021,LAL,Talen Horton-Tucker,20:32,7,8,.875,2,3,.667,1,1,1.000,2,3,5,3,4,0,2,4,17,+8
+January 10 2021,LAL,Quinn Cook,3:02,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,0
+January 10 2021,LAL,Alfonzo McKinnie,3:02,1,2,.500,0,0,,0,0,,1,1,2,0,0,0,0,0,2,0
+January 10 2021,LAL,Markieff Morris,2:53,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-5
+January 10 2021,LAL,Wesley Matthews,Did Not Play
+January 10 2021,LAL,Team Totals,240,46,91,.505,10,29,.345,18,24,.750,10,39,49,28,13,8,16,23,120
+January 10 2021,HOU,James Harden,37:46,7,14,.500,2,8,.250,4,5,.800,1,5,6,9,0,2,7,2,20,-11
+January 10 2021,HOU,John Wall,34:26,5,14,.357,2,4,.500,2,2,1.000,1,9,10,5,1,2,4,3,14,-28
+January 10 2021,HOU,Christian Wood,31:49,10,20,.500,1,5,.200,2,3,.667,1,2,3,1,0,1,1,4,23,-21
+January 10 2021,HOU,P.J. Tucker,29:35,1,4,.250,1,4,.250,1,1,1.000,0,1,1,0,2,1,1,3,4,-18
+January 10 2021,HOU,David Nwaba,17:14,2,6,.333,1,3,.333,1,2,.500,0,1,1,1,1,1,0,3,6,-15
+January 10 2021,HOU,Eric Gordon,21:39,1,4,.250,0,2,.000,2,4,.500,0,2,2,1,0,0,4,2,4,+2
+January 10 2021,HOU,Jae'Sean Tate,20:10,3,4,.750,0,0,,3,4,.750,3,3,6,1,2,1,1,2,9,-3
+January 10 2021,HOU,Ben McLemore,16:41,2,6,.333,2,6,.333,0,0,,0,1,1,1,0,0,2,2,6,-10
+January 10 2021,HOU,Sterling Brown,13:12,2,6,.333,1,4,.250,0,0,,2,1,3,2,0,0,0,0,5,+8
+January 10 2021,HOU,DeMarcus Cousins,8:22,2,5,.400,2,4,.500,0,0,,1,3,4,0,1,0,1,1,6,+6
+January 10 2021,HOU,Mason Jones,3:02,1,2,.500,0,1,.000,1,2,.500,1,2,3,0,0,0,0,0,3,0
+January 10 2021,HOU,Bruno Caboclo,3:02,1,2,.500,0,0,,0,0,,1,0,1,0,0,0,0,0,2,0
+January 10 2021,HOU,Kenyon Martin,3:02,0,3,.000,0,0,,0,0,,2,0,2,1,0,0,0,0,0,0
+January 10 2021,HOU,Team Totals,240,37,90,.411,12,41,.293,16,23,.696,13,30,43,22,7,8,21,22,102
+January 10 2021,SAS,LaMarcus Aldridge,36:43,9,21,.429,1,3,.333,1,1,1.000,2,7,9,4,1,0,2,2,20,-6
+January 10 2021,SAS,Dejounte Murray,35:56,5,15,.333,1,3,.333,0,0,,1,3,4,5,0,0,0,4,11,-8
+January 10 2021,SAS,Trey Lyles,35:00,2,4,.500,0,1,.000,1,2,.500,3,7,10,2,0,0,0,1,5,-2
+January 10 2021,SAS,Keldon Johnson,33:44,1,6,.167,0,2,.000,1,2,.500,0,7,7,1,1,3,2,4,3,-17
+January 10 2021,SAS,Lonnie Walker,30:22,9,19,.474,3,7,.429,4,6,.667,0,3,3,4,1,1,2,0,25,-4
+January 10 2021,SAS,Patty Mills,29:21,7,19,.368,3,13,.231,1,1,1.000,0,2,2,4,0,0,2,2,18,-1
+January 10 2021,SAS,Rudy Gay,17:50,2,6,.333,0,1,.000,0,0,,3,4,7,1,0,1,2,1,4,+3
+January 10 2021,SAS,Jakob Poeltl,11:17,1,2,.500,0,0,,0,2,.000,0,1,1,0,0,0,0,2,2,-2
+January 10 2021,SAS,Devin Vassell,9:47,0,2,.000,0,0,,0,0,,0,2,2,0,1,0,0,0,0,-3
+January 10 2021,SAS,Tre Jones,Did Not Play
+January 10 2021,SAS,DeMar DeRozan,Not With Team
+January 10 2021,SAS,Keita Bates-Diop,Did Not Play
+January 10 2021,SAS,Luka Šamanić,Did Not Play
+January 10 2021,SAS,Team Totals,240,36,94,.383,8,30,.267,8,14,.571,9,36,45,21,4,5,10,16,88
+January 10 2021,MIN,Malik Beasley,35:19,9,18,.500,3,6,.500,3,3,1.000,0,3,3,0,0,0,0,0,24,+13
+January 10 2021,MIN,D'Angelo Russell,31:14,9,21,.429,4,7,.571,5,6,.833,0,5,5,5,1,0,4,2,27,+4
+January 10 2021,MIN,Juan Hernangómez,27:10,2,5,.400,1,3,.333,2,2,1.000,2,6,8,2,0,0,0,2,7,+16
+January 10 2021,MIN,Jarrett Culver,19:55,1,5,.200,0,1,.000,0,0,,0,3,3,4,0,1,2,1,2,+8
+January 10 2021,MIN,Ed Davis,18:02,3,3,1.000,0,0,,0,0,,2,4,6,0,2,0,0,3,6,+9
+January 10 2021,MIN,Naz Reid,29:24,3,7,.429,1,4,.250,4,4,1.000,1,6,7,1,0,1,3,3,11,-4
+January 10 2021,MIN,Ricky Rubio,21:58,2,5,.400,0,1,.000,4,4,1.000,0,2,2,6,3,0,0,1,8,0
+January 10 2021,MIN,Josh Okogie,20:08,3,5,.600,0,2,.000,0,2,.000,0,4,4,0,0,1,1,2,6,+7
+January 10 2021,MIN,Jarred Vanderbilt,19:09,2,4,.500,0,0,,1,2,.500,1,7,8,0,0,0,1,2,5,-8
+January 10 2021,MIN,Anthony Edwards,17:41,0,8,.000,0,2,.000,0,0,,3,3,6,1,0,0,2,1,0,-5
+January 10 2021,MIN,Jordan McLaughlin,Did Not Play
+January 10 2021,MIN,Jaylen Nowell,Did Not Play
+January 10 2021,MIN,Jaden McDaniels,Did Not Play
+January 10 2021,MIN,Jake Layman,Did Not Play
+January 10 2021,MIN,Team Totals,240,34,81,.420,9,26,.346,19,23,.826,9,43,52,19,6,3,13,17,96
+January 10 2021,TOR,Pascal Siakam,40:27,9,19,.474,2,4,.500,5,9,.556,5,6,11,3,0,0,2,2,25,+7
+January 10 2021,TOR,Fred VanVleet,39:17,9,20,.450,3,10,.300,0,0,,2,3,5,5,0,1,1,3,21,+1
+January 10 2021,TOR,OG Anunoby,37:16,4,12,.333,2,6,.333,0,0,,2,4,6,1,2,1,1,0,10,0
+January 10 2021,TOR,Kyle Lowry,33:31,5,14,.357,3,8,.375,4,7,.571,1,8,9,6,1,0,1,4,17,0
+January 10 2021,TOR,Norman Powell,22:27,3,8,.375,1,3,.333,2,2,1.000,0,3,3,0,1,0,3,3,9,-10
+January 10 2021,TOR,Chris Boucher,23:49,6,10,.600,2,3,.667,1,1,1.000,3,3,6,0,1,6,0,6,15,+5
+January 10 2021,TOR,Malachi Flynn,12:34,0,3,.000,0,1,.000,0,0,,0,1,1,3,0,0,0,1,0,-5
+January 10 2021,TOR,Terence Davis,12:18,1,6,.167,0,2,.000,1,1,1.000,0,2,2,0,1,0,0,0,3,-6
+January 10 2021,TOR,Stanley Johnson,9:22,1,1,1.000,0,0,,1,2,.500,0,3,3,1,2,0,0,1,3,+10
+January 10 2021,TOR,Yuta Watanabe,8:59,1,3,.333,0,1,.000,0,0,,0,2,2,1,0,2,2,2,2,-7
+January 10 2021,TOR,Aron Baynes,Did Not Play
+January 10 2021,TOR,Paul Watson,Did Not Play
+January 10 2021,TOR,Alex Len,Did Not Play
+January 10 2021,TOR,DeAndre' Bembry,Did Not Play
+January 10 2021,TOR,Matt Thomas,Did Not Play
+January 10 2021,TOR,Team Totals,240,39,96,.406,13,38,.342,14,22,.636,13,35,48,20,8,10,10,22,105
+January 10 2021,GSW,Stephen Curry,38:12,2,16,.125,1,10,.100,6,6,1.000,3,6,9,6,0,0,5,3,11,+7
+January 10 2021,GSW,Andrew Wiggins,34:20,7,17,.412,3,10,.300,0,0,,0,2,2,4,0,4,3,2,17,-8
+January 10 2021,GSW,Draymond Green,29:22,3,8,.375,2,5,.400,2,3,.667,1,8,9,10,0,1,3,1,10,-3
+January 10 2021,GSW,Kelly Oubre,29:01,5,14,.357,1,6,.167,1,1,1.000,3,3,6,3,0,1,1,1,12,-4
+January 10 2021,GSW,James Wiseman,16:32,5,7,.714,0,1,.000,0,0,,0,7,7,0,0,0,0,2,10,-2
+January 10 2021,GSW,Kent Bazemore,20:44,4,7,.571,1,2,.500,0,0,,0,5,5,3,0,3,2,1,9,+7
+January 10 2021,GSW,Eric Paschall,18:38,5,10,.500,1,2,.500,4,5,.800,1,1,2,1,0,0,0,3,15,+4
+January 10 2021,GSW,Damion Lee,15:28,4,7,.571,3,6,.500,2,2,1.000,0,2,2,1,1,0,0,1,13,-2
+January 10 2021,GSW,Kevon Looney,14:11,1,1,1.000,0,0,,0,0,,2,1,3,0,0,1,0,0,2,+5
+January 10 2021,GSW,Brad Wanamaker,12:32,2,5,.400,1,3,.333,2,2,1.000,2,1,3,2,1,0,0,3,7,-4
+January 10 2021,GSW,Mychal Mulder,11:00,0,1,.000,0,1,.000,0,0,,0,3,3,0,0,0,1,1,0,+5
+January 10 2021,GSW,Jordan Poole,Did Not Play
+January 10 2021,GSW,Juan Toscano-Anderson,Did Not Play
+January 10 2021,GSW,Nico Mannion,Did Not Play
+January 10 2021,GSW,Team Totals,240,38,93,.409,13,46,.283,17,19,.895,12,39,51,30,2,10,15,18,106
+January 11 2021,NYK,Austin Rivers,37:50,5,12,.417,3,9,.333,0,0,,1,3,4,1,1,0,3,5,13,-21
+January 11 2021,NYK,RJ Barrett,34:52,5,18,.278,0,5,.000,1,2,.500,2,7,9,5,0,0,1,2,11,-13
+January 11 2021,NYK,Mitchell Robinson,33:03,5,5,1.000,0,0,,2,4,.500,7,4,11,0,2,2,1,1,12,-27
+January 11 2021,NYK,Elfrid Payton,30:41,7,14,.500,1,3,.333,0,2,.000,4,2,6,4,2,0,3,4,15,-24
+January 11 2021,NYK,Julius Randle,30:21,2,9,.222,0,2,.000,7,8,.875,0,5,5,5,0,1,4,2,11,-20
+January 11 2021,NYK,Kevin Knox,29:17,7,17,.412,5,12,.417,0,0,,2,3,5,2,0,1,2,4,19,-4
+January 11 2021,NYK,Immanuel Quickley,28:59,1,10,.100,0,6,.000,1,1,1.000,0,4,4,3,0,0,1,3,3,-2
+January 11 2021,NYK,Nerlens Noel,14:57,2,2,1.000,0,0,,0,0,,1,4,5,0,1,2,1,2,4,+6
+January 11 2021,NYK,Theo Pinson,Did Not Play
+January 11 2021,NYK,Jared Harper,Did Not Play
+January 11 2021,NYK,Ignas Brazdeikis,Did Not Play
+January 11 2021,NYK,Dennis Smith,Did Not Play
+January 11 2021,NYK,Team Totals,240,34,87,.391,9,37,.243,11,17,.647,17,32,49,20,6,6,16,23,88
+January 11 2021,CHO,Devonte' Graham,35:11,7,15,.467,2,8,.250,3,4,.750,0,2,2,7,3,0,1,1,19,+12
+January 11 2021,CHO,Gordon Hayward,34:40,11,17,.647,2,2,1.000,10,10,1.000,1,2,3,3,0,1,3,0,34,+25
+January 11 2021,CHO,Terry Rozier,33:58,4,8,.500,2,5,.400,2,3,.667,0,6,6,2,1,0,2,2,12,+16
+January 11 2021,CHO,P.J. Washington,30:39,4,11,.364,2,5,.400,3,4,.750,2,3,5,2,0,1,1,2,13,+17
+January 11 2021,CHO,Bismack Biyombo,25:20,1,2,.500,0,0,,0,0,,0,3,3,2,0,3,1,3,2,+11
+January 11 2021,CHO,LaMelo Ball,29:34,3,13,.231,2,6,.333,0,0,,1,13,14,7,3,1,1,2,8,+4
+January 11 2021,CHO,Miles Bridges,25:26,5,6,.833,2,2,1.000,1,1,1.000,0,2,2,2,1,2,0,2,13,+11
+January 11 2021,CHO,Caleb Martin,14:49,2,3,.667,1,2,.500,0,0,,0,0,0,2,0,0,0,0,5,-2
+January 11 2021,CHO,Cody Martin,6:20,1,3,.333,0,2,.000,1,1,1.000,1,1,2,1,0,0,1,1,3,+2
+January 11 2021,CHO,Vernon Carey,1:21,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+3
+January 11 2021,CHO,Nick Richards,1:21,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+3
+January 11 2021,CHO,Jalen McDaniels,1:21,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+3
+January 11 2021,CHO,Malik Monk,Did Not Play
+January 11 2021,CHO,Team Totals,240,38,78,.487,13,32,.406,20,23,.870,5,32,37,28,8,8,10,13,109
+January 11 2021,MEM,Dillon Brooks,33:22,6,15,.400,2,8,.250,7,8,.875,2,5,7,3,1,2,3,0,21,+7
+January 11 2021,MEM,Tyus Jones,31:37,5,9,.556,1,1,1.000,2,2,1.000,1,4,5,7,3,0,2,1,13,+18
+January 11 2021,MEM,Kyle Anderson,30:46,2,5,.400,0,0,,4,6,.667,0,6,6,9,0,1,0,0,8,+7
+January 11 2021,MEM,Jonas Valančiūnas,29:49,6,10,.600,0,1,.000,0,0,,2,5,7,3,0,1,3,5,12,+2
+January 11 2021,MEM,Brandon Clarke,29:48,7,13,.538,0,2,.000,1,2,.500,1,3,4,1,1,0,2,2,15,+3
+January 11 2021,MEM,Desmond Bane,20:09,4,5,.800,0,1,.000,1,1,1.000,0,4,4,2,1,0,2,2,9,+16
+January 11 2021,MEM,De'Anthony Melton,18:12,3,7,.429,1,2,.500,1,2,.500,0,2,2,2,1,0,1,4,8,+7
+January 11 2021,MEM,Xavier Tillman,17:45,4,5,.800,0,0,,0,0,,1,0,1,2,1,2,0,2,8,+8
+January 11 2021,MEM,Grayson Allen,17:45,3,6,.500,1,4,.250,0,0,,0,2,2,1,2,0,1,0,7,-6
+January 11 2021,MEM,Tim Frazier,10:47,0,3,.000,0,1,.000,0,0,,0,2,2,2,0,0,1,1,0,-12
+January 11 2021,MEM,Sean McDermott,Did Not Play
+January 11 2021,MEM,John Konchar,Did Not Play
+January 11 2021,MEM,Gorgui Dieng,Did Not Play
+January 11 2021,MEM,Team Totals,240,40,78,.513,5,20,.250,16,21,.762,7,33,40,32,10,6,15,17,101
+January 11 2021,CLE,Isaac Okoro,39:59,5,11,.455,2,3,.667,0,0,,1,1,2,1,3,0,4,2,12,-13
+January 11 2021,CLE,Larry Nance,38:00,5,7,.714,3,3,1.000,0,0,,0,5,5,3,2,0,2,1,13,-16
+January 11 2021,CLE,Damyean Dotson,37:01,6,14,.429,2,7,.286,0,0,,1,2,3,6,1,1,1,3,14,0
+January 11 2021,CLE,Andre Drummond,34:38,8,16,.500,0,0,,3,9,.333,5,9,14,3,1,2,4,6,19,-20
+January 11 2021,CLE,Cedi Osman,33:36,5,13,.385,3,7,.429,1,1,1.000,0,3,3,4,2,0,1,3,14,-1
+January 11 2021,CLE,Yogi Ferrell,16:47,4,9,.444,1,4,.250,0,2,.000,1,1,2,1,2,1,3,2,9,-1
+January 11 2021,CLE,JaVale McGee,15:33,2,7,.286,0,1,.000,2,2,1.000,0,7,7,2,0,3,1,3,6,+4
+January 11 2021,CLE,Dean Wade,14:24,0,3,.000,0,1,.000,0,0,,2,2,4,0,0,0,1,1,0,-9
+January 11 2021,CLE,Lamar Stevens,10:02,2,2,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,4,+6
+January 11 2021,CLE,Collin Sexton,Did Not Play
+January 11 2021,CLE,Marques Bolden,Did Not Play
+January 11 2021,CLE,Thon Maker,Did Not Play
+January 11 2021,CLE,Team Totals,240,37,82,.451,11,26,.423,6,14,.429,10,30,40,20,11,7,17,21,91
+January 11 2021,MIL,Khris Middleton,29:49,9,17,.529,2,6,.333,0,1,.000,1,9,10,3,1,0,3,3,20,+16
+January 11 2021,MIL,Jrue Holiday,29:34,3,10,.300,0,4,.000,5,5,1.000,1,2,3,3,2,1,1,1,11,-2
+January 11 2021,MIL,Brook Lopez,28:23,2,6,.333,1,4,.250,1,1,1.000,2,1,3,3,3,1,0,1,6,+14
+January 11 2021,MIL,Giannis Antetokounmpo,27:17,8,16,.500,2,4,.500,4,7,.571,0,6,6,4,1,2,4,5,22,+4
+January 11 2021,MIL,Donte DiVincenzo,26:02,4,7,.571,1,3,.333,0,0,,0,4,4,3,2,0,1,1,9,+20
+January 11 2021,MIL,Bobby Portis,24:38,9,13,.692,2,3,.667,0,0,,2,3,5,0,0,1,1,3,20,+14
+January 11 2021,MIL,D.J. Augustin,20:35,2,6,.333,1,3,.333,3,3,1.000,0,0,0,4,2,0,2,0,8,+8
+January 11 2021,MIL,Pat Connaughton,18:12,3,4,.750,1,2,.500,0,0,,1,3,4,0,2,2,0,2,7,+18
+January 11 2021,MIL,Bryn Forbes,16:54,4,7,.571,3,4,.750,3,3,1.000,0,2,2,1,2,0,0,0,14,+26
+January 11 2021,MIL,Thanasis Antetokounmpo,10:35,1,2,.500,0,0,,0,0,,4,1,5,2,0,0,2,1,2,-2
+January 11 2021,MIL,D.J. Wilson,3:02,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,-3
+January 11 2021,MIL,Sam Merrill,3:02,0,0,,0,0,,0,0,,0,0,0,2,0,0,0,0,0,-3
+January 11 2021,MIL,Jordan Nwora,1:57,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0
+January 11 2021,MIL,Team Totals,240,46,91,.505,13,35,.371,16,20,.800,11,32,43,25,15,7,14,17,121
+January 11 2021,ORL,Aaron Gordon,35:14,8,14,.571,3,4,.750,2,3,.667,2,3,5,8,1,2,4,2,21,-17
+January 11 2021,ORL,Nikola Vučević,31:52,11,24,.458,4,9,.444,2,2,1.000,5,8,13,5,0,0,4,1,28,-10
+January 11 2021,ORL,Dwayne Bacon,28:28,5,11,.455,0,1,.000,1,2,.500,0,3,3,0,0,1,1,2,11,+8
+January 11 2021,ORL,Cole Anthony,23:11,4,13,.308,1,4,.250,3,3,1.000,0,3,3,1,1,0,2,2,12,-7
+January 11 2021,ORL,James Ennis,15:21,1,3,.333,1,2,.500,0,0,,0,2,2,1,1,0,1,0,3,+7
+January 11 2021,ORL,Jordan Bone,28:41,3,6,.500,2,4,.500,0,0,,1,3,4,2,0,0,1,0,8,-27
+January 11 2021,ORL,Terrence Ross,25:21,2,6,.333,0,2,.000,0,0,,0,3,3,3,2,0,3,1,4,-32
+January 11 2021,ORL,Gary Clark,18:57,1,4,.250,0,3,.000,0,0,,2,1,3,2,0,0,1,1,2,-10
+January 11 2021,ORL,Khem Birch,18:33,1,3,.333,0,0,,0,0,,2,1,3,1,0,0,0,0,2,-20
+January 11 2021,ORL,Mohamed Bamba,11:20,3,7,.429,0,2,.000,2,3,.667,3,1,4,1,0,1,1,4,8,-5
+January 11 2021,ORL,Karim Mané,3:02,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,+3
+January 11 2021,ORL,Evan Fournier,Did Not Dress
+January 11 2021,ORL,Team Totals,240,39,91,.429,11,31,.355,10,13,.769,15,29,44,24,5,4,18,13,99
+January 11 2021,PHO,Chris Paul,36:12,5,10,.500,0,1,.000,4,4,1.000,0,5,5,11,1,0,1,3,14,-10
+January 11 2021,PHO,Devin Booker,32:46,11,21,.524,1,3,.333,10,10,1.000,0,3,3,0,1,1,1,4,33,-15
+January 11 2021,PHO,Jae Crowder,30:27,1,5,.200,0,3,.000,0,0,,1,5,6,2,1,0,0,0,2,-13
+January 11 2021,PHO,Deandre Ayton,24:54,4,10,.400,0,0,,0,0,,2,4,6,1,0,1,2,2,8,-23
+January 11 2021,PHO,Mikal Bridges,24:40,6,9,.667,1,4,.250,1,1,1.000,1,4,5,2,0,0,0,3,14,-1
+January 11 2021,PHO,Dario Šarić,20:19,4,8,.500,1,4,.250,4,4,1.000,0,6,6,1,0,1,0,2,13,-2
+January 11 2021,PHO,Cameron Johnson,18:03,2,7,.286,1,6,.167,0,2,.000,0,4,4,2,0,0,1,1,5,-25
+January 11 2021,PHO,Jevon Carter,17:17,3,8,.375,0,3,.000,0,0,,0,0,0,1,0,2,0,3,6,-18
+January 11 2021,PHO,Langston Galloway,13:55,0,3,.000,0,2,.000,2,2,1.000,2,0,2,0,0,0,0,1,2,-1
+January 11 2021,PHO,Damian Jones,11:36,2,3,.667,0,1,.000,2,5,.400,1,2,3,0,0,1,1,2,6,-3
+January 11 2021,PHO,Abdel Nader,3:17,0,0,,0,0,,2,2,1.000,0,1,1,1,0,0,0,0,2,+2
+January 11 2021,PHO,E'Twaun Moore,3:17,1,3,.333,0,0,,0,0,,1,0,1,0,0,0,0,1,2,+2
+January 11 2021,PHO,Ty-Shon Alexander,3:17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+2
+January 11 2021,PHO,Frank Kaminsky,Did Not Play
+January 11 2021,PHO,Cameron Payne,Did Not Play
+January 11 2021,PHO,Team Totals,240,39,87,.448,4,27,.148,25,30,.833,8,34,42,21,3,6,6,22,107
+January 11 2021,WAS,Bradley Beal,35:03,12,22,.545,2,7,.286,8,9,.889,2,6,8,9,2,1,1,3,34,+19
+January 11 2021,WAS,Rui Hachimura,28:22,4,9,.444,0,1,.000,2,3,.667,0,9,9,3,0,1,0,1,10,-2
+January 11 2021,WAS,Robin Lopez,25:58,5,6,.833,0,0,,1,5,.200,7,4,11,2,0,0,0,2,11,+21
+January 11 2021,WAS,Raul Neto,24:36,7,13,.538,2,6,.333,0,1,.000,0,2,2,2,0,0,2,2,16,+2
+January 11 2021,WAS,Deni Avdija,19:48,3,6,.500,0,0,,0,0,,1,4,5,1,0,0,2,3,6,+3
+January 11 2021,WAS,Dāvis Bertāns,24:29,6,10,.600,6,9,.667,0,0,,0,2,2,2,0,0,1,1,18,+20
+January 11 2021,WAS,Moritz Wagner,22:02,3,5,.600,1,1,1.000,2,2,1.000,1,5,6,1,0,0,0,2,9,0
+January 11 2021,WAS,Ish Smith,21:14,3,8,.375,0,1,.000,0,4,.000,1,2,3,6,1,0,1,1,6,+21
+January 11 2021,WAS,Garrison Mathews,20:34,3,9,.333,3,6,.500,2,2,1.000,2,1,3,2,0,1,0,3,11,+13
+January 11 2021,WAS,Isaac Bonga,12:27,1,1,1.000,1,1,1.000,0,0,,0,2,2,0,0,0,0,3,3,+12
+January 11 2021,WAS,Anthony Gill,3:17,1,2,.500,0,1,.000,2,2,1.000,0,2,2,0,0,0,0,1,4,-2
+January 11 2021,WAS,Cassius Winston,2:10,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,1,0,-2
+January 11 2021,WAS,Anžejs Pasečņiks,Did Not Play
+January 11 2021,WAS,Troy Brown,Did Not Play
+January 11 2021,WAS,Jerome Robinson,Did Not Play
+January 11 2021,WAS,Team Totals,240,48,92,.522,15,34,.441,17,28,.607,14,39,53,29,3,3,7,23,128
+January 11 2021,PHI,Dakota Mathias,39:12,6,15,.400,2,8,.250,0,0,,0,2,2,4,0,2,0,2,14,-17
+January 11 2021,PHI,Tyrese Maxey,30:56,7,14,.500,0,1,.000,1,1,1.000,0,6,6,4,0,2,2,1,15,-24
+January 11 2021,PHI,Danny Green,28:10,0,9,.000,0,7,.000,2,2,1.000,1,2,3,3,0,0,2,2,2,-24
+January 11 2021,PHI,Joel Embiid,22:49,8,17,.471,1,4,.250,7,8,.875,2,9,11,1,0,1,3,2,24,-27
+January 11 2021,PHI,Mike Scott,22:11,1,7,.143,0,5,.000,0,0,,0,4,4,0,0,1,0,2,2,-22
+January 11 2021,PHI,Dwight Howard,34:46,3,8,.375,1,3,.333,0,0,,1,10,11,2,0,1,1,2,7,+1
+January 11 2021,PHI,Isaiah Joe,27:41,6,9,.667,4,7,.571,2,2,1.000,0,2,2,4,2,0,1,5,18,+4
+January 11 2021,PHI,Paul Reed,20:41,3,7,.429,0,1,.000,0,0,,1,2,3,1,0,3,0,1,6,+7
+January 11 2021,PHI,Tony Bradley,13:34,3,6,.500,0,0,,0,0,,4,4,8,1,0,2,0,0,6,+12
+January 11 2021,PHI,Furkan Korkmaz,Did Not Dress
+January 11 2021,PHI,Shake Milton,Did Not Play
+January 11 2021,PHI,Matisse Thybulle,Did Not Play
+January 11 2021,PHI,Team Totals,240,37,92,.402,8,36,.222,12,13,.923,9,41,50,20,2,12,9,17,94
+January 11 2021,ATL,Clint Capela,26:26,4,12,.333,0,0,,4,6,.667,3,8,11,1,1,1,3,1,12,+26
+January 11 2021,ATL,Trae Young,25:29,9,19,.474,3,7,.429,5,6,.833,0,3,3,8,1,0,0,1,26,+20
+January 11 2021,ATL,John Collins,24:09,4,7,.571,4,7,.571,0,0,,1,6,7,1,0,0,1,0,12,+25
+January 11 2021,ATL,Cam Reddish,23:51,3,8,.375,1,4,.250,3,3,1.000,1,4,5,0,1,0,0,0,10,+22
+January 11 2021,ATL,De'Andre Hunter,22:59,4,8,.500,1,2,.500,6,7,.857,2,5,7,1,1,0,1,2,15,+15
+January 11 2021,ATL,Kevin Huerter,24:27,3,9,.333,1,4,.250,1,1,1.000,2,3,5,1,1,0,1,1,8,+12
+January 11 2021,ATL,Brandon Goodwin,22:31,5,12,.417,3,7,.429,2,2,1.000,0,4,4,4,1,0,0,1,15,-2
+January 11 2021,ATL,Solomon Hill,21:49,3,8,.375,3,7,.429,0,0,,2,6,8,0,1,0,0,2,9,+2
+January 11 2021,ATL,Bruno Fernando,20:43,1,4,.250,0,1,.000,0,2,.000,1,4,5,2,0,0,2,3,2,-6
+January 11 2021,ATL,Nathan Knight,15:37,1,7,.143,1,3,.333,0,0,,2,1,3,1,0,2,0,0,3,-8
+January 11 2021,ATL,Tony Snell,6:59,0,3,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,2,0,-10
+January 11 2021,ATL,Skylar Mays,5:00,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,-6
+January 11 2021,ATL,Team Totals,240,37,99,.374,17,44,.386,21,27,.778,14,44,58,20,7,3,8,13,112
+January 11 2021,TOR,Pascal Siakam,36:45,9,17,.529,0,2,.000,4,4,1.000,3,10,13,10,1,0,3,5,22,-2
+January 11 2021,TOR,Fred VanVleet,36:45,4,13,.308,2,7,.286,0,0,,0,0,0,6,1,0,3,1,10,-2
+January 11 2021,TOR,OG Anunoby,35:57,6,9,.667,4,6,.667,2,2,1.000,0,4,4,3,1,1,2,4,18,-4
+January 11 2021,TOR,Kyle Lowry,35:34,5,17,.294,3,12,.250,5,5,1.000,0,9,9,2,0,0,4,3,18,-1
+January 11 2021,TOR,Alex Len,9:33,0,1,.000,0,1,.000,0,0,,0,0,0,0,1,1,1,2,0,-1
+January 11 2021,TOR,Chris Boucher,32:12,7,12,.583,5,8,.625,1,1,1.000,1,7,8,1,0,3,0,1,20,+1
+January 11 2021,TOR,Stanley Johnson,23:18,3,6,.500,1,2,.500,0,0,,3,2,5,3,1,0,2,2,7,+4
+January 11 2021,TOR,Norman Powell,20:26,4,9,.444,2,4,.500,0,0,,0,3,3,1,0,0,0,2,10,+9
+January 11 2021,TOR,Terence Davis,9:30,2,5,.400,2,5,.400,0,0,,0,1,1,1,1,0,0,2,6,-9
+January 11 2021,TOR,Malachi Flynn,Did Not Play
+January 11 2021,TOR,Yuta Watanabe,Did Not Play
+January 11 2021,TOR,DeAndre' Bembry,Did Not Play
+January 11 2021,TOR,Aron Baynes,Did Not Play
+January 11 2021,TOR,Matt Thomas,Did Not Play
+January 11 2021,TOR,Paul Watson,Did Not Play
+January 11 2021,TOR,Team Totals,240,40,89,.449,19,47,.404,12,12,1.000,7,36,43,27,6,5,15,22,111
+January 11 2021,POR,Damian Lillard,40:04,8,16,.500,3,6,.500,4,4,1.000,0,7,7,5,0,1,8,0,23,+9
+January 11 2021,POR,CJ McCollum,38:59,10,19,.526,5,11,.455,5,6,.833,1,5,6,5,1,0,0,3,30,-7
+January 11 2021,POR,Robert Covington,33:52,2,9,.222,1,8,.125,2,2,1.000,1,7,8,2,2,1,2,4,7,+4
+January 11 2021,POR,Derrick Jones,19:17,1,3,.333,0,2,.000,2,2,1.000,1,2,3,1,1,1,0,0,4,+8
+January 11 2021,POR,Jusuf Nurkić,8:46,1,5,.200,0,0,,0,0,,0,2,2,0,0,0,1,1,2,-13
+January 11 2021,POR,Carmelo Anthony,35:15,6,14,.429,4,9,.444,4,4,1.000,1,4,5,3,2,2,1,2,20,+2
+January 11 2021,POR,Gary Trent,29:44,2,7,.286,1,5,.200,3,4,.750,0,2,2,1,0,1,0,2,8,+12
+January 11 2021,POR,Enes Kanter,15:30,7,8,.875,0,0,,0,1,.000,3,3,6,0,1,0,0,1,14,0
+January 11 2021,POR,Rodney Hood,13:44,1,2,.500,0,1,.000,0,0,,0,0,0,1,1,0,1,0,2,-12
+January 11 2021,POR,Harry Giles,4:49,0,0,,0,0,,2,2,1.000,1,2,3,0,1,0,0,1,2,+2
+January 11 2021,POR,Nassir Little,Did Not Play
+January 11 2021,POR,Anfernee Simons,Did Not Play
+January 11 2021,POR,CJ Elleby,Did Not Play
+January 11 2021,POR,Team Totals,240,38,83,.458,14,42,.333,22,25,.880,8,34,42,18,9,6,13,14,112
+January 11 2021,IND,Domantas Sabonis,39:31,12,21,.571,0,1,.000,4,4,1.000,3,8,11,3,0,0,3,4,28,-5
+January 11 2021,IND,Malcolm Brogdon,37:51,9,19,.474,4,10,.400,2,2,1.000,1,3,4,9,1,0,2,2,24,-5
+January 11 2021,IND,Victor Oladipo,37:25,8,20,.400,2,11,.182,3,4,.750,0,3,3,4,6,0,3,1,21,-4
+January 11 2021,IND,Justin Holiday,34:07,3,8,.375,2,4,.500,0,0,,1,4,5,2,1,0,1,4,8,-13
+January 11 2021,IND,Myles Turner,30:28,2,7,.286,1,4,.250,1,2,.500,3,3,6,4,2,3,3,4,6,-8
+January 11 2021,IND,Doug McDermott,29:54,8,10,.800,3,5,.600,2,2,1.000,1,3,4,1,1,0,0,2,21,+5
+January 11 2021,IND,Aaron Holiday,14:24,1,6,.167,0,2,.000,2,2,1.000,0,0,0,1,3,0,0,0,4,+3
+January 11 2021,IND,Edmond Sumner,11:28,3,4,.750,1,2,.500,1,2,.500,0,3,3,2,0,0,0,1,8,0
+January 11 2021,IND,JaKarr Sampson,4:52,1,2,.500,0,0,,0,0,,1,0,1,0,0,0,0,3,2,+2
+January 11 2021,IND,T.J. McConnell,Did Not Play
+January 11 2021,IND,Kelan Martin,Did Not Play
+January 11 2021,IND,Cassius Stanley,Did Not Play
+January 11 2021,IND,Team Totals,240,47,97,.485,13,39,.333,15,18,.833,10,27,37,26,14,3,12,21,122
+January 11 2021,SAC,De'Aaron Fox,38:26,7,19,.368,2,6,.333,5,7,.714,0,5,5,9,1,1,5,3,21,+9
+January 11 2021,SAC,Harrison Barnes,37:31,10,14,.714,2,3,.667,8,8,1.000,0,8,8,2,1,0,1,1,30,+9
+January 11 2021,SAC,Richaun Holmes,35:51,6,11,.545,1,1,1.000,3,4,.750,6,4,10,3,1,6,3,5,16,+12
+January 11 2021,SAC,Buddy Hield,30:47,6,11,.545,6,11,.545,0,0,,0,4,4,3,1,0,2,3,18,0
+January 11 2021,SAC,Marvin Bagley,23:29,4,7,.571,0,2,.000,0,0,,1,6,7,2,0,2,2,0,8,+6
+January 11 2021,SAC,Tyrese Haliburton,28:53,4,8,.500,3,6,.500,1,2,.500,0,3,3,4,1,0,1,2,12,+1
+January 11 2021,SAC,Glenn Robinson,20:40,3,7,.429,1,3,.333,0,0,,0,3,3,2,0,0,1,1,7,-5
+January 11 2021,SAC,Cory Joseph,14:49,3,3,1.000,0,0,,1,2,.500,0,2,2,4,1,0,2,1,7,-3
+January 11 2021,SAC,Hassan Whiteside,9:34,4,4,1.000,0,0,,0,0,,0,2,2,0,0,0,1,1,8,-4
+January 11 2021,SAC,Chimezie Metu,Did Not Play
+January 11 2021,SAC,Robert Woodard,Did Not Play
+January 11 2021,SAC,Nemanja Bjelica,Did Not Play
+January 11 2021,SAC,Kyle Guy,Did Not Play
+January 11 2021,SAC,Jabari Parker,Did Not Play
+January 11 2021,SAC,Justin James,Did Not Play
+January 11 2021,SAC,Team Totals,240,47,84,.560,15,32,.469,18,23,.783,7,37,44,29,6,9,18,17,127
+January 12 2021,MIA,Duncan Robinson,45:44,8,18,.444,6,14,.429,4,5,.800,0,2,2,1,1,1,2,2,26,+14
+January 12 2021,MIA,Kelly Olynyk,45:03,6,12,.500,3,9,.333,0,0,,1,7,8,4,2,1,3,4,15,-3
+January 12 2021,MIA,Tyler Herro,39:17,12,26,.462,3,9,.333,7,8,.875,0,7,7,4,0,1,6,0,34,-17
+January 12 2021,MIA,Gabe Vincent,36:24,9,20,.450,4,12,.333,2,3,.667,0,2,2,3,2,0,2,3,24,+9
+January 12 2021,MIA,Precious Achiuwa,35:40,7,10,.700,0,0,,3,4,.750,6,7,13,3,0,1,3,4,17,-6
+January 12 2021,MIA,Max Strus,23:47,3,7,.429,2,6,.333,0,0,,0,1,1,1,0,0,0,1,8,+1
+January 12 2021,MIA,Andre Iguodala,22:24,3,10,.300,1,6,.167,0,0,,2,3,5,7,1,0,1,1,7,-9
+January 12 2021,MIA,Chris Silva,16:41,0,1,.000,0,0,,3,4,.750,5,3,8,4,0,0,1,6,3,-4
+January 12 2021,MIA,Avery Bradley,Did Not Play
+January 12 2021,MIA,Jimmy Butler,Did Not Play
+January 12 2021,MIA,Meyers Leonard,Did Not Dress
+January 12 2021,MIA,Bam Adebayo,Did Not Play
+January 12 2021,MIA,Team Totals,265,48,104,.462,19,56,.339,19,24,.792,14,32,46,27,6,4,18,21,134
+January 12 2021,PHI,Danny Green,49:49,10,25,.400,9,21,.429,0,0,,6,4,10,6,2,2,6,0,29,+7
+January 12 2021,PHI,Mike Scott,46:13,6,16,.375,4,12,.333,0,0,,1,2,3,1,0,0,0,1,16,+3
+January 12 2021,PHI,Joel Embiid,39:20,16,23,.696,0,3,.000,13,13,1.000,2,14,16,4,5,1,4,2,45,+4
+January 12 2021,PHI,Tyrese Maxey,36:14,7,18,.389,1,6,.167,1,3,.333,1,2,3,8,1,0,1,6,16,-14
+January 12 2021,PHI,Ben Simmons,31:51,2,2,1.000,0,0,,1,2,.500,1,5,6,12,2,0,6,6,5,+2
+January 12 2021,PHI,Isaiah Joe,37:07,4,10,.400,4,10,.400,1,1,1.000,1,4,5,1,0,2,0,3,13,+6
+January 12 2021,PHI,Dwight Howard,13:40,4,4,1.000,0,0,,2,4,.500,4,4,8,0,0,1,0,2,10,-1
+January 12 2021,PHI,Dakota Mathias,10:46,1,4,.250,1,3,.333,0,2,.000,0,1,1,0,0,0,0,1,3,+8
+January 12 2021,PHI,Paul Reed,Did Not Play
+January 12 2021,PHI,Furkan Korkmaz,Did Not Dress
+January 12 2021,PHI,Terrance Ferguson,Did Not Play
+January 12 2021,PHI,Tony Bradley,Did Not Play
+January 12 2021,PHI,Team Totals,265,50,102,.490,19,55,.345,18,25,.720,16,36,52,32,10,6,17,21,137
+January 12 2021,DEN,Will Barton,37:43,8,14,.571,6,8,.750,0,0,,0,2,2,1,3,1,1,2,22,-13
+January 12 2021,DEN,Jamal Murray,34:44,9,20,.450,2,5,.400,0,2,.000,0,0,0,4,1,0,3,1,20,-12
+January 12 2021,DEN,Nikola Jokić,34:20,8,17,.471,1,4,.250,6,6,1.000,1,7,8,11,7,1,1,2,23,-11
+January 12 2021,DEN,Paul Millsap,21:52,3,3,1.000,2,2,1.000,2,2,1.000,1,3,4,1,0,1,2,1,10,0
+January 12 2021,DEN,Bol Bol,15:49,2,3,.667,1,2,.500,0,0,,0,2,2,1,0,0,2,2,5,-1
+January 12 2021,DEN,PJ Dozier,27:12,2,9,.222,0,3,.000,0,1,.000,2,2,4,3,0,0,1,4,4,-5
+January 12 2021,DEN,Monte Morris,23:49,6,7,.857,2,3,.667,0,0,,0,1,1,2,1,0,0,0,14,+1
+January 12 2021,DEN,JaMychal Green,22:07,3,7,.429,2,5,.400,1,2,.500,3,4,7,1,0,0,2,2,9,+2
+January 12 2021,DEN,Facundo Campazzo,11:13,2,5,.400,2,5,.400,0,0,,0,0,0,1,0,0,0,2,6,+5
+January 12 2021,DEN,Isaiah Hartenstein,11:10,1,3,.333,0,0,,1,3,.333,2,2,4,3,0,2,1,2,3,+5
+January 12 2021,DEN,R.J. Hampton,0:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1
+January 12 2021,DEN,Zeke Nnaji,Did Not Play
+January 12 2021,DEN,Vlatko Čančar,Did Not Play
+January 12 2021,DEN,Markus Howard,Did Not Play
+January 12 2021,DEN,Team Totals,240,44,88,.500,18,37,.486,10,16,.625,9,23,32,28,12,5,13,18,116
+January 12 2021,BRK,Kevin Durant,35:53,12,18,.667,4,7,.571,6,7,.857,0,9,9,13,0,0,7,4,34,+15
+January 12 2021,BRK,Jarrett Allen,35:49,3,6,.500,0,0,,0,1,.000,0,5,5,3,1,2,2,1,6,+18
+January 12 2021,BRK,Joe Harris,30:39,6,9,.667,3,5,.600,0,0,,1,2,3,4,3,0,1,3,15,+16
+January 12 2021,BRK,Bruce Brown,25:56,8,11,.727,0,2,.000,0,0,,1,5,6,3,0,3,2,2,16,+9
+January 12 2021,BRK,Jeff Green,24:32,3,5,.600,2,3,.667,0,0,,1,1,2,0,1,0,4,2,8,0
+January 12 2021,BRK,Caris LeVert,25:48,8,15,.533,2,5,.400,2,3,.667,3,2,5,6,0,0,1,2,20,-1
+January 12 2021,BRK,Timothé Luwawu-Cabarrot,22:51,3,6,.500,3,5,.600,2,4,.500,1,1,2,0,1,0,0,2,11,+2
+January 12 2021,BRK,Taurean Prince,22:30,3,6,.500,1,4,.250,0,0,,1,4,5,1,0,1,1,1,7,-12
+January 12 2021,BRK,Landry Shamet,16:02,2,3,.667,1,1,1.000,0,0,,0,4,4,1,0,0,0,1,5,-17
+January 12 2021,BRK,DeAndre Jordan,Did Not Play
+January 12 2021,BRK,Reggie Perry,Did Not Play
+January 12 2021,BRK,Chris Chiozza,Did Not Play
+January 12 2021,BRK,Rodions Kurucs,Did Not Play
+January 12 2021,BRK,Team Totals,240,48,79,.608,16,32,.500,10,15,.667,8,33,41,31,6,6,18,18,122
+January 12 2021,UTA,Donovan Mitchell,30:06,9,15,.600,5,7,.714,4,4,1.000,2,1,3,4,0,0,1,2,27,+22
+January 12 2021,UTA,Royce O'Neale,29:34,2,5,.400,1,4,.250,0,0,,1,2,3,4,1,0,1,1,5,+22
+January 12 2021,UTA,Bojan Bogdanović,27:49,6,10,.600,4,6,.667,4,4,1.000,0,2,2,3,0,0,2,0,20,+15
+January 12 2021,UTA,Mike Conley,27:00,4,10,.400,3,6,.500,1,2,.500,2,4,6,5,2,0,1,2,12,+18
+January 12 2021,UTA,Rudy Gobert,25:21,2,7,.286,0,0,,0,2,.000,2,8,10,0,1,1,2,3,4,+13
+January 12 2021,UTA,Jordan Clarkson,28:08,8,14,.571,5,9,.556,0,0,,1,7,8,4,2,0,4,1,21,+22
+January 12 2021,UTA,Miye Oni,17:54,2,4,.500,2,4,.500,0,0,,0,3,3,2,0,3,0,3,6,+8
+January 12 2021,UTA,Derrick Favors,17:00,1,2,.500,0,0,,0,0,,1,3,4,1,1,3,0,1,2,+18
+January 12 2021,UTA,Georges Niang,15:18,6,11,.545,2,4,.500,0,0,,0,5,5,0,0,0,2,0,14,+18
+January 12 2021,UTA,Shaquille Harrison,5:39,0,1,.000,0,0,,0,0,,0,0,0,3,1,0,2,1,0,-1
+January 12 2021,UTA,Udoka Azubuike,5:39,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,0,0,-1
+January 12 2021,UTA,Jarrell Brantley,5:39,0,1,.000,0,1,.000,0,0,,1,0,1,0,0,1,0,2,0,-1
+January 12 2021,UTA,Elijah Hughes,4:53,2,4,.500,2,4,.500,0,0,,0,1,1,0,0,0,1,0,6,-3
+January 12 2021,UTA,Team Totals,240,42,84,.500,24,45,.533,9,12,.750,10,38,48,26,8,8,16,16,117
+January 12 2021,CLE,Cedi Osman,37:42,7,15,.467,0,6,.000,3,3,1.000,0,4,4,6,0,1,2,3,17,-29
+January 12 2021,CLE,Isaac Okoro,35:33,4,13,.308,2,6,.333,1,2,.500,2,1,3,3,2,0,1,3,11,-28
+January 12 2021,CLE,Damyean Dotson,30:50,5,11,.455,1,3,.333,0,2,.000,0,2,2,3,0,0,3,1,11,-24
+January 12 2021,CLE,Larry Nance,29:54,2,11,.182,1,5,.200,1,2,.500,3,4,7,0,1,0,2,1,6,-24
+January 12 2021,CLE,JaVale McGee,20:57,4,8,.500,0,0,,0,0,,2,7,9,3,0,2,2,2,8,-10
+January 12 2021,CLE,Yogi Ferrell,23:42,4,12,.333,2,5,.400,0,0,,2,3,5,4,1,0,0,2,10,-10
+January 12 2021,CLE,Lamar Stevens,23:01,4,8,.500,0,1,.000,1,2,.500,0,3,3,2,1,0,0,0,9,-7
+January 12 2021,CLE,Dean Wade,19:17,2,6,.333,2,5,.400,0,0,,0,3,3,2,1,0,0,0,6,-8
+January 12 2021,CLE,Marques Bolden,10:03,0,1,.000,0,0,,0,0,,2,0,2,0,0,0,2,0,0,-5
+January 12 2021,CLE,Thon Maker,9:01,3,5,.600,0,0,,3,3,1.000,1,1,2,0,1,1,0,1,9,-5
+January 12 2021,CLE,Collin Sexton,Did Not Dress
+January 12 2021,CLE,Andre Drummond,Did Not Dress
+January 12 2021,CLE,Team Totals,240,35,90,.389,8,31,.258,9,14,.643,12,28,40,23,7,4,12,13,87
+January 12 2021,LAL,LeBron James,29:11,10,20,.500,4,9,.444,2,4,.500,1,7,8,5,0,1,5,0,26,+15
+January 12 2021,LAL,Anthony Davis,28:53,7,8,.875,1,1,1.000,4,4,1.000,2,8,10,2,0,5,0,1,19,+21
+January 12 2021,LAL,Dennis Schröder,25:15,6,9,.667,2,2,1.000,0,0,,1,2,3,3,1,0,3,2,14,+22
+January 12 2021,LAL,Marc Gasol,21:20,2,6,.333,1,4,.250,0,0,,0,4,4,5,2,2,2,0,5,+17
+January 12 2021,LAL,Kentavious Caldwell-Pope,20:06,5,9,.556,4,5,.800,0,0,,2,1,3,1,3,0,0,1,14,+19
+January 12 2021,LAL,Kyle Kuzma,27:25,4,6,.667,1,2,.500,2,3,.667,0,11,11,1,0,0,2,3,11,-2
+January 12 2021,LAL,Montrezl Harrell,26:40,4,8,.500,0,0,,6,8,.750,2,2,4,1,0,2,0,2,14,0
+January 12 2021,LAL,Alex Caruso,17:45,0,4,.000,0,2,.000,0,0,,1,5,6,3,3,1,2,1,0,+8
+January 12 2021,LAL,Talen Horton-Tucker,16:47,1,8,.125,0,4,.000,2,4,.500,1,1,2,4,1,0,4,5,4,-1
+January 12 2021,LAL,Markieff Morris,14:52,2,4,.500,1,2,.500,2,2,1.000,1,2,3,1,0,1,1,2,7,-1
+January 12 2021,LAL,Quinn Cook,7:31,1,2,.500,0,1,.000,1,2,.500,0,0,0,0,0,0,1,1,3,-10
+January 12 2021,LAL,Alfonzo McKinnie,4:15,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-3
+January 12 2021,LAL,Team Totals,240,42,84,.500,14,32,.438,19,27,.704,11,44,55,26,10,12,20,18,117
+January 12 2021,HOU,James Harden,30:55,5,16,.313,1,6,.167,5,5,1.000,1,6,7,6,1,0,3,2,16,-23
+January 12 2021,HOU,John Wall,29:54,4,11,.364,0,1,.000,2,3,.667,0,0,0,5,2,1,3,0,10,-18
+January 12 2021,HOU,Christian Wood,25:54,8,18,.444,2,5,.400,0,0,,2,6,8,1,0,0,2,1,18,-23
+January 12 2021,HOU,P.J. Tucker,22:53,0,1,.000,0,1,.000,0,0,,0,1,1,1,2,1,0,2,0,-19
+January 12 2021,HOU,David Nwaba,10:28,0,0,,0,0,,0,0,,0,1,1,0,0,1,0,0,0,-12
+January 12 2021,HOU,Jae'Sean Tate,25:07,4,9,.444,0,2,.000,1,1,1.000,1,2,3,0,1,1,0,4,9,+2
+January 12 2021,HOU,Eric Gordon,20:37,5,10,.500,3,8,.375,0,0,,0,0,0,2,1,1,0,1,13,-17
+January 12 2021,HOU,Sterling Brown,17:55,1,7,.143,0,3,.000,0,0,,2,0,2,1,4,0,1,2,2,-9
+January 12 2021,HOU,DeMarcus Cousins,17:51,5,9,.556,2,4,.500,1,1,1.000,3,7,10,3,1,0,1,3,13,+3
+January 12 2021,HOU,Ben McLemore,16:55,4,9,.444,3,6,.500,0,0,,0,3,3,1,1,0,3,1,11,+12
+January 12 2021,HOU,Mason Jones,12:00,1,4,.250,1,3,.333,2,4,.500,0,3,3,1,1,0,0,2,5,+9
+January 12 2021,HOU,Kenyon Martin,5:16,0,2,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,0,0,+7
+January 12 2021,HOU,Bruno Caboclo,4:15,1,1,1.000,0,0,,1,2,.500,1,3,4,0,0,0,0,1,3,+3
+January 12 2021,HOU,Team Totals,240,38,97,.392,12,40,.300,12,16,.750,10,32,42,23,14,5,13,19,100
+January 12 2021,SAS,Keldon Johnson,38:31,6,11,.545,0,2,.000,6,7,.857,2,5,7,1,2,0,0,3,18,+1
+January 12 2021,SAS,Lonnie Walker,35:35,7,15,.467,3,7,.429,7,7,1.000,0,3,3,2,0,1,1,4,24,-1
+January 12 2021,SAS,LaMarcus Aldridge,31:34,6,16,.375,1,4,.250,0,0,,2,8,10,6,1,2,2,3,13,0
+January 12 2021,SAS,Dejounte Murray,31:23,6,13,.462,0,1,.000,4,4,1.000,0,5,5,7,0,0,1,1,16,+4
+January 12 2021,SAS,Trey Lyles,18:18,2,6,.333,1,3,.333,1,2,.500,0,4,4,0,0,0,0,2,6,-12
+January 12 2021,SAS,Patty Mills,25:22,7,15,.467,3,10,.300,0,0,,0,1,1,5,0,0,0,2,17,+12
+January 12 2021,SAS,Devin Vassell,21:38,0,5,.000,0,2,.000,2,2,1.000,2,5,7,2,1,0,0,1,2,+20
+January 12 2021,SAS,Rudy Gay,21:13,5,11,.455,2,6,.333,0,0,,0,6,6,2,3,0,0,3,12,+16
+January 12 2021,SAS,Jakob Poeltl,16:26,2,3,.667,0,0,,0,0,,1,2,3,1,1,2,0,1,4,+10
+January 12 2021,SAS,Luka Šamanić,Did Not Play
+January 12 2021,SAS,DeMar DeRozan,Did Not Play
+January 12 2021,SAS,Tre Jones,Did Not Play
+January 12 2021,SAS,Team Totals,240,41,95,.432,10,35,.286,20,22,.909,7,39,46,26,8,5,4,20,112
+January 12 2021,OKC,Shai Gilgeous-Alexander,33:29,7,10,.700,0,0,,6,9,.667,2,7,9,2,0,0,2,2,20,0
+January 12 2021,OKC,Darius Bazley,32:43,4,14,.286,2,7,.286,2,2,1.000,1,5,6,2,0,1,1,2,12,-7
+January 12 2021,OKC,Al Horford,28:56,5,13,.385,0,4,.000,0,0,,0,7,7,3,0,0,0,1,10,+6
+January 12 2021,OKC,George Hill,28:01,3,4,.750,0,1,.000,6,6,1.000,0,5,5,5,0,0,2,2,12,+8
+January 12 2021,OKC,Luguentz Dort,27:02,4,11,.364,3,6,.500,1,2,.500,1,5,6,0,1,0,2,2,12,+1
+January 12 2021,OKC,Hamidou Diallo,21:13,5,9,.556,0,0,,6,6,1.000,0,4,4,2,0,0,0,1,16,-14
+January 12 2021,OKC,Mike Muscala,16:34,1,4,.250,1,3,.333,0,0,,0,2,2,1,0,0,0,3,3,-9
+January 12 2021,OKC,Aleksej Pokusevski,15:36,2,6,.333,0,1,.000,0,0,,1,4,5,1,0,2,2,1,4,-9
+January 12 2021,OKC,Théo Maledon,15:13,2,5,.400,0,2,.000,0,2,.000,0,2,2,1,0,0,3,3,4,-15
+January 12 2021,OKC,Isaiah Roby,13:34,1,3,.333,0,0,,2,2,1.000,2,4,6,1,0,1,0,2,4,-9
+January 12 2021,OKC,Justin Jackson,4:11,2,4,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,0,5,-1
+January 12 2021,OKC,Kenrich Williams,3:26,0,0,,0,0,,0,0,,0,0,0,0,0,1,1,1,0,-1
+January 12 2021,OKC,Darius Miller,0:02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+January 12 2021,OKC,Josh Hall,Did Not Play
+January 12 2021,OKC,Moses Brown,Did Not Play
+January 12 2021,OKC,Team Totals,240,36,83,.434,7,26,.269,23,29,.793,7,45,52,18,1,5,13,20,102
+January 12 2021,IND,Myles Turner,41:33,7,11,.636,3,5,.600,5,8,.625,2,10,12,0,2,6,1,3,22,+4
+January 12 2021,IND,Domantas Sabonis,36:36,7,15,.467,0,2,.000,4,5,.800,4,10,14,6,0,1,4,1,18,+5
+January 12 2021,IND,Malcolm Brogdon,32:57,5,18,.278,2,6,.333,1,2,.500,0,2,2,8,2,1,1,1,13,+7
+January 12 2021,IND,Edmond Sumner,30:38,6,11,.545,0,3,.000,0,1,.000,2,2,4,0,1,0,3,2,12,-4
+January 12 2021,IND,Justin Holiday,29:05,2,4,.500,1,3,.333,3,5,.600,0,2,2,0,1,0,1,3,8,-2
+January 12 2021,IND,Aaron Holiday,28:00,6,16,.375,2,5,.400,2,2,1.000,1,1,2,12,2,0,1,1,16,+19
+January 12 2021,IND,Doug McDermott,17:16,2,5,.400,1,2,.500,0,0,,0,5,5,0,0,0,2,4,5,+6
+January 12 2021,IND,JaKarr Sampson,14:22,3,5,.600,0,1,.000,0,0,,1,5,6,0,1,1,1,0,6,+13
+January 12 2021,IND,Kelan Martin,5:54,1,3,.333,0,1,.000,0,0,,0,3,3,0,0,0,0,1,2,-1
+January 12 2021,IND,Cassius Stanley,3:39,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,1,2,-2
+January 12 2021,IND,T.J. McConnell,Did Not Play
+January 12 2021,IND,Victor Oladipo,Did Not Play
+January 12 2021,IND,Team Totals,240,39,88,.443,9,28,.321,17,25,.680,10,40,50,26,9,9,14,17,104
+January 12 2021,GSW,Stephen Curry,35:53,7,17,.412,3,8,.375,3,5,.600,1,3,4,3,2,0,2,3,20,-2
+January 12 2021,GSW,Andrew Wiggins,34:58,7,17,.412,4,9,.444,4,7,.571,2,5,7,3,0,5,2,2,22,-15
+January 12 2021,GSW,Draymond Green,31:56,2,7,.286,0,2,.000,3,3,1.000,1,5,6,10,1,0,3,3,7,-3
+January 12 2021,GSW,Kelly Oubre,29:06,6,11,.545,3,7,.429,2,2,1.000,0,5,5,2,1,1,1,1,17,+6
+January 12 2021,GSW,James Wiseman,26:03,4,12,.333,0,0,,0,2,.000,4,5,9,0,0,2,2,5,8,-11
+January 12 2021,GSW,Damion Lee,26:49,5,11,.455,2,7,.286,0,0,,1,2,3,0,1,0,2,2,12,-14
+January 12 2021,GSW,Kent Bazemore,19:15,1,3,.333,0,1,.000,1,1,1.000,0,2,2,3,2,0,2,2,3,-13
+January 12 2021,GSW,Kevon Looney,15:38,1,2,.500,0,0,,1,2,.500,1,8,9,1,0,0,1,1,3,+13
+January 12 2021,GSW,Brad Wanamaker,12:07,0,6,.000,0,1,.000,0,0,,0,1,1,3,1,0,0,1,0,-7
+January 12 2021,GSW,Mychal Mulder,8:15,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,0,1,3,+1
+January 12 2021,GSW,Jordan Poole,Did Not Play
+January 12 2021,GSW,Juan Toscano-Anderson,Did Not Play
+January 12 2021,GSW,Team Totals,240,34,89,.382,13,38,.342,14,22,.636,10,36,46,25,8,8,15,21,95
+January 13 2021,DAL,Luka Dončić,34:48,14,25,.560,5,9,.556,1,2,.500,2,11,13,9,2,4,4,3,34,+14
+January 13 2021,DAL,Tim Hardaway,33:26,7,16,.438,3,10,.300,1,1,1.000,0,2,2,3,2,0,0,1,18,+8
+January 13 2021,DAL,Willie Cauley-Stein,29:46,2,2,1.000,0,0,,0,0,,3,11,14,2,1,3,2,1,4,+7
+January 13 2021,DAL,Wesley Iwundu,26:12,1,7,.143,0,3,.000,2,2,1.000,0,3,3,1,0,0,0,1,4,-10
+January 13 2021,DAL,Kristaps Porziņģis,21:03,6,16,.375,4,9,.444,0,0,,0,4,4,0,0,2,0,3,16,+1
+January 13 2021,DAL,Trey Burke,32:23,2,12,.167,2,8,.250,2,3,.667,1,1,2,4,1,0,1,2,8,+13
+January 13 2021,DAL,James Johnson,25:34,3,7,.429,1,5,.200,0,2,.000,1,4,5,2,2,3,0,0,7,+7
+January 13 2021,DAL,Josh Green,18:03,2,4,.500,0,2,.000,1,4,.250,3,2,5,1,0,0,2,3,5,+17
+January 13 2021,DAL,Boban Marjanović,15:00,3,6,.500,0,0,,2,2,1.000,3,2,5,0,0,0,0,1,8,+13
+January 13 2021,DAL,Tyler Bey,1:15,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-5
+January 13 2021,DAL,Nate Hinton,1:15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-5
+January 13 2021,DAL,Tyrell Terry,1:15,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-5
+January 13 2021,DAL,Team Totals,240,40,96,.417,15,46,.326,9,16,.563,13,41,54,22,8,12,10,15,104
+January 13 2021,CHO,Terry Rozier,36:22,8,18,.444,2,5,.400,0,0,,0,6,6,0,1,0,1,3,18,-8
+January 13 2021,CHO,Devonte' Graham,36:01,5,14,.357,2,6,.333,0,0,,0,0,0,7,3,0,1,2,12,-16
+January 13 2021,CHO,P.J. Washington,32:19,6,17,.353,2,7,.286,2,2,1.000,3,7,10,6,1,0,2,4,16,-15
+January 13 2021,CHO,Gordon Hayward,26:48,5,15,.333,3,6,.500,3,4,.750,1,3,4,1,0,1,0,0,16,-5
+January 13 2021,CHO,Bismack Biyombo,24:39,2,2,1.000,0,0,,1,4,.250,1,8,9,0,0,4,0,1,5,-3
+January 13 2021,CHO,Miles Bridges,28:44,2,9,.222,0,3,.000,0,0,,4,2,6,5,1,0,4,3,4,-14
+January 13 2021,CHO,LaMelo Ball,25:25,2,8,.250,0,4,.000,0,1,.000,0,7,7,5,0,0,2,3,4,-15
+January 13 2021,CHO,Caleb Martin,14:51,3,9,.333,0,5,.000,0,0,,1,4,5,1,1,2,1,1,6,-2
+January 13 2021,CHO,Cody Martin,11:06,4,5,.800,1,1,1.000,0,1,.000,3,1,4,1,1,0,0,0,9,+8
+January 13 2021,CHO,Vernon Carey,1:15,1,1,1.000,0,0,,1,2,.500,2,0,2,0,0,0,0,0,3,+5
+January 13 2021,CHO,Malik Monk,1:15,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,+5
+January 13 2021,CHO,Jalen McDaniels,1:15,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+5
+January 13 2021,CHO,Nick Richards,Did Not Play
+January 13 2021,CHO,Team Totals,240,38,100,.380,10,38,.263,7,14,.500,15,38,53,26,8,7,11,17,93
+January 13 2021,MIL,Jrue Holiday,36:51,8,13,.615,3,5,.600,2,3,.667,1,5,6,5,3,1,1,2,21,+5
+January 13 2021,MIL,Giannis Antetokounmpo,33:28,7,15,.467,2,5,.400,6,10,.600,2,8,10,10,2,3,5,3,22,+12
+January 13 2021,MIL,Khris Middleton,31:19,5,12,.417,1,5,.200,1,1,1.000,1,1,2,6,1,1,2,4,12,+1
+January 13 2021,MIL,Brook Lopez,29:30,3,8,.375,3,7,.429,0,0,,1,10,11,1,0,4,2,2,9,+11
+January 13 2021,MIL,Donte DiVincenzo,25:36,3,9,.333,1,5,.200,0,0,,1,9,10,3,0,0,0,1,7,+14
+January 13 2021,MIL,Bobby Portis,22:52,5,9,.556,1,4,.250,0,0,,0,5,5,0,2,0,0,4,11,-11
+January 13 2021,MIL,D.J. Augustin,20:51,2,4,.500,2,3,.667,0,0,,1,0,1,4,0,0,3,0,6,+5
+January 13 2021,MIL,Bryn Forbes,19:38,5,8,.625,3,4,.750,0,0,,0,0,0,1,0,0,1,1,13,+1
+January 13 2021,MIL,Pat Connaughton,15:43,3,7,.429,3,5,.600,0,0,,3,0,3,1,1,0,0,3,9,+6
+January 13 2021,MIL,Thanasis Antetokounmpo,4:12,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,+1
+January 13 2021,MIL,D.J. Wilson,Did Not Play
+January 13 2021,MIL,Sam Merrill,Did Not Play
+January 13 2021,MIL,Jordan Nwora,Did Not Play
+January 13 2021,MIL,Team Totals,240,41,85,.482,19,43,.442,9,14,.643,10,38,48,31,10,9,14,20,110
+January 13 2021,DET,Jerami Grant,35:22,7,19,.368,3,6,.500,5,6,.833,0,4,4,1,2,1,3,4,22,+1
+January 13 2021,DET,Delon Wright,32:24,1,10,.100,1,3,.333,0,0,,2,6,8,7,1,1,0,1,3,+2
+January 13 2021,DET,Blake Griffin,32:08,4,9,.444,3,6,.500,1,2,.500,0,7,7,6,1,0,4,3,12,-6
+January 13 2021,DET,Mason Plumlee,21:46,3,11,.273,0,1,.000,1,2,.500,6,7,13,5,2,0,2,2,7,+1
+January 13 2021,DET,Wayne Ellington,14:24,2,6,.333,1,4,.250,0,0,,1,0,1,1,0,0,1,1,5,-5
+January 13 2021,DET,Josh Jackson,24:30,4,8,.500,2,3,.667,1,2,.500,0,1,1,3,1,0,3,2,11,+11
+January 13 2021,DET,Saddiq Bey,19:36,3,8,.375,2,6,.333,2,3,.667,0,2,2,0,0,0,2,1,10,-16
+January 13 2021,DET,Sviatoslav Mykhailiuk,18:00,6,9,.667,2,4,.500,4,5,.800,0,1,1,0,0,0,0,1,18,-12
+January 13 2021,DET,Isaiah Stewart,17:10,4,7,.571,0,1,.000,1,2,.500,4,3,7,1,0,1,0,1,9,-1
+January 13 2021,DET,Saben Lee,13:06,2,4,.500,0,0,,0,0,,0,0,0,0,1,0,0,1,4,-6
+January 13 2021,DET,Jahlil Okafor,9:04,0,0,,0,0,,0,0,,0,3,3,0,0,0,0,0,0,-9
+January 13 2021,DET,Frank Jackson,2:30,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,2,0,-5
+January 13 2021,DET,Rodney McGruder,Did Not Play
+January 13 2021,DET,Deividas Sirvydis,Did Not Play
+January 13 2021,DET,Sekou Doumbouya,Did Not Play
+January 13 2021,DET,Team Totals,240,36,92,.391,14,35,.400,15,22,.682,13,34,47,25,8,3,16,19,101
+January 13 2021,BRK,Jeff Green,32:14,4,6,.667,3,4,.750,0,0,,0,4,4,2,1,0,0,1,11,+13
+January 13 2021,BRK,Kevin Durant,30:21,10,18,.556,3,5,.600,3,4,.750,0,3,3,6,0,2,1,1,26,+12
+January 13 2021,BRK,Bruce Brown,30:02,6,13,.462,0,2,.000,3,4,.750,6,8,14,2,0,0,2,2,15,-9
+January 13 2021,BRK,DeAndre Jordan,28:30,4,4,1.000,0,0,,1,1,1.000,3,9,12,2,0,2,0,1,9,+11
+January 13 2021,BRK,Joe Harris,25:59,6,13,.462,3,8,.375,0,0,,0,2,2,3,0,0,0,1,15,+14
+January 13 2021,BRK,Timothé Luwawu-Cabarrot,24:14,5,13,.385,2,8,.250,1,1,1.000,1,1,2,2,0,0,1,3,13,-7
+January 13 2021,BRK,Chris Chiozza,23:35,1,8,.125,1,4,.250,0,0,,0,3,3,7,2,1,1,1,3,+7
+January 13 2021,BRK,Landry Shamet,23:23,3,9,.333,3,7,.429,4,5,.800,0,1,1,5,0,0,1,1,13,+1
+January 13 2021,BRK,Reggie Perry,21:42,5,7,.714,1,2,.500,0,2,.000,2,3,5,0,0,0,0,1,11,-7
+January 13 2021,BRK,Tyler Johnson,Did Not Play
+January 13 2021,BRK,Nicolas Claxton,Did Not Dress
+January 13 2021,BRK,Spencer Dinwiddie,Not With Team
+January 13 2021,BRK,Team Totals,240,44,91,.484,16,40,.400,12,17,.706,12,34,46,29,3,5,6,12,116
+January 13 2021,NYK,Julius Randle,40:15,13,25,.520,2,7,.286,2,2,1.000,0,7,7,5,2,0,2,3,30,+1
+January 13 2021,NYK,RJ Barrett,38:06,7,15,.467,1,4,.250,5,6,.833,1,4,5,3,0,0,0,2,20,-2
+January 13 2021,NYK,Austin Rivers,33:50,3,10,.300,2,5,.400,0,0,,1,5,6,4,0,0,1,3,8,+5
+January 13 2021,NYK,Mitchell Robinson,33:11,5,9,.556,0,0,,0,0,,8,4,12,2,0,2,1,2,10,+5
+January 13 2021,NYK,Elfrid Payton,32:30,3,11,.273,1,3,.333,0,0,,1,5,6,4,0,0,2,1,7,-13
+January 13 2021,NYK,Kevin Knox,24:04,5,6,.833,2,3,.667,1,1,1.000,0,2,2,0,0,0,1,2,13,-7
+January 13 2021,NYK,Immanuel Quickley,22:18,7,15,.467,3,6,.500,2,3,.667,0,2,2,3,1,0,1,2,19,-10
+January 13 2021,NYK,Nerlens Noel,14:49,1,1,1.000,0,0,,0,0,,1,2,3,1,1,1,1,1,2,-12
+January 13 2021,NYK,Obi Toppin,0:57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2
+January 13 2021,NYK,Dennis Smith,Did Not Play
+January 13 2021,NYK,Ignas Brazdeikis,Did Not Play
+January 13 2021,NYK,Jared Harper,Did Not Play
+January 13 2021,NYK,Theo Pinson,Did Not Play
+January 13 2021,NYK,Taj Gibson,Did Not Play
+January 13 2021,NYK,Team Totals,240,44,92,.478,11,28,.393,10,12,.833,12,31,43,22,4,3,9,16,109
+January 13 2021,MEM,Brandon Clarke,33:49,9,15,.600,0,1,.000,1,2,.500,3,6,9,3,3,0,0,1,19,-1
+January 13 2021,MEM,Jonas Valančiūnas,30:13,11,19,.579,0,1,.000,2,2,1.000,8,8,16,1,0,2,1,5,24,+4
+January 13 2021,MEM,Dillon Brooks,27:37,4,15,.267,1,5,.200,0,0,,0,2,2,6,0,0,3,4,9,+3
+January 13 2021,MEM,Tyus Jones,27:31,4,12,.333,1,5,.200,0,0,,1,2,3,7,1,0,1,0,9,-1
+January 13 2021,MEM,Kyle Anderson,23:38,2,8,.250,2,2,1.000,1,2,.500,0,7,7,5,0,0,0,2,7,+3
+January 13 2021,MEM,Grayson Allen,26:28,6,10,.600,3,5,.600,5,5,1.000,0,0,0,2,2,2,1,2,20,+16
+January 13 2021,MEM,De'Anthony Melton,24:46,7,12,.583,1,4,.250,0,0,,0,1,1,4,2,1,1,1,15,+7
+January 13 2021,MEM,Xavier Tillman,17:47,6,8,.750,0,0,,0,0,,3,2,5,3,2,0,0,4,12,+7
+January 13 2021,MEM,Desmond Bane,16:34,1,4,.250,0,1,.000,1,2,.500,0,3,3,0,0,0,0,2,3,+3
+January 13 2021,MEM,Tim Frazier,11:37,0,3,.000,0,1,.000,0,0,,0,1,1,2,1,0,0,3,0,+14
+January 13 2021,MEM,Gorgui Dieng,Did Not Play
+January 13 2021,MEM,John Konchar,Did Not Play
+January 13 2021,MEM,Sean McDermott,Did Not Play
+January 13 2021,MEM,Team Totals,240,50,106,.472,8,25,.320,10,13,.769,15,32,47,33,11,5,7,24,118
+January 13 2021,MIN,D'Angelo Russell,36:06,10,21,.476,2,8,.250,3,4,.750,1,2,3,8,2,0,5,1,25,-11
+January 13 2021,MIN,Karl-Anthony Towns,34:25,8,17,.471,1,4,.250,8,8,1.000,4,10,14,3,0,2,1,2,25,+5
+January 13 2021,MIN,Malik Beasley,33:56,11,23,.478,4,11,.364,2,3,.667,2,4,6,5,1,1,1,0,28,-1
+January 13 2021,MIN,Juan Hernangómez,28:57,2,7,.286,1,6,.167,0,0,,0,8,8,0,0,0,0,0,5,+7
+January 13 2021,MIN,Josh Okogie,26:59,1,2,.500,0,0,,1,1,1.000,1,2,3,4,0,3,0,5,3,0
+January 13 2021,MIN,Ricky Rubio,24:29,1,5,.200,0,2,.000,4,4,1.000,0,2,2,6,0,0,3,0,6,-16
+January 13 2021,MIN,Anthony Edwards,16:51,1,6,.167,0,2,.000,0,0,,2,1,3,1,0,0,0,1,2,-3
+January 13 2021,MIN,Jarred Vanderbilt,14:37,1,1,1.000,0,0,,0,0,,0,4,4,0,0,0,0,5,2,-14
+January 13 2021,MIN,Naz Reid,13:35,3,6,.500,1,3,.333,2,2,1.000,1,2,3,0,0,0,2,2,9,-16
+January 13 2021,MIN,Jarrett Culver,10:05,1,2,.500,0,1,.000,0,2,.000,0,2,2,0,0,0,0,2,2,-6
+January 13 2021,MIN,Jaylen Nowell,Did Not Play
+January 13 2021,MIN,Jaden McDaniels,Did Not Play
+January 13 2021,MIN,Ed Davis,Did Not Play
+January 13 2021,MIN,Team Totals,240,39,90,.433,9,37,.243,20,24,.833,11,37,48,27,3,6,12,18,107
+January 13 2021,LAL,Dennis Schröder,31:57,4,12,.333,1,3,.333,5,6,.833,1,4,5,5,1,0,1,4,14,+22
+January 13 2021,LAL,LeBron James,27:29,9,20,.450,5,8,.625,3,4,.750,0,6,6,7,0,0,2,2,26,+14
+January 13 2021,LAL,Anthony Davis,24:37,8,13,.615,0,1,.000,2,2,1.000,3,4,7,1,0,0,0,0,18,+16
+January 13 2021,LAL,Marc Gasol,23:01,1,2,.500,1,1,1.000,0,0,,1,4,5,1,2,4,1,4,3,+16
+January 13 2021,LAL,Kentavious Caldwell-Pope,19:54,4,6,.667,2,4,.500,0,0,,0,3,3,1,1,0,0,2,10,+24
+January 13 2021,LAL,Montrezl Harrell,24:55,8,12,.667,0,1,.000,5,8,.625,2,4,6,0,0,1,1,2,21,+13
+January 13 2021,LAL,Markieff Morris,23:27,4,9,.444,3,8,.375,0,0,,0,7,7,2,0,0,0,0,11,+13
+January 13 2021,LAL,Alex Caruso,22:07,2,2,1.000,2,2,1.000,0,0,,0,1,1,2,0,0,2,1,6,-2
+January 13 2021,LAL,Kyle Kuzma,18:00,3,8,.375,1,4,.250,0,0,,3,3,6,2,1,1,1,0,7,+8
+January 13 2021,LAL,Talen Horton-Tucker,13:24,1,5,.200,0,3,.000,2,2,1.000,1,1,2,4,0,0,1,1,4,+10
+January 13 2021,LAL,Quinn Cook,5:59,1,3,.333,1,1,1.000,0,0,,0,1,1,1,1,0,0,0,3,+7
+January 13 2021,LAL,Alfonzo McKinnie,5:10,2,3,.667,1,1,1.000,0,0,,1,0,1,0,0,0,0,0,5,+4
+January 13 2021,LAL,Team Totals,240,47,95,.495,17,37,.459,17,22,.773,12,38,50,26,6,6,9,16,128
+January 13 2021,OKC,Shai Gilgeous-Alexander,27:16,5,12,.417,1,3,.333,6,7,.857,0,2,2,1,0,0,2,1,17,-22
+January 13 2021,OKC,Luguentz Dort,24:39,3,8,.375,3,6,.500,0,0,,0,1,1,1,0,0,1,2,9,-29
+January 13 2021,OKC,Darius Bazley,24:35,1,5,.200,0,3,.000,1,2,.500,1,4,5,0,1,0,1,2,3,-19
+January 13 2021,OKC,Isaiah Roby,24:09,4,7,.571,0,0,,3,4,.750,2,7,9,4,0,0,2,2,11,-9
+January 13 2021,OKC,George Hill,21:35,4,8,.500,0,1,.000,2,2,1.000,0,2,2,2,2,0,0,0,10,-21
+January 13 2021,OKC,Théo Maledon,25:47,3,9,.333,1,2,.500,0,0,,2,0,2,4,0,0,1,1,7,-8
+January 13 2021,OKC,Aleksej Pokusevski,20:44,4,9,.444,2,4,.500,0,0,,1,3,4,2,0,3,0,2,10,-7
+January 13 2021,OKC,Hamidou Diallo,20:17,4,6,.667,1,1,1.000,0,0,,0,5,5,1,0,1,3,4,9,-7
+January 13 2021,OKC,Mike Muscala,18:04,3,9,.333,1,6,.167,0,0,,1,3,4,1,0,0,1,3,7,-15
+January 13 2021,OKC,Kenrich Williams,14:36,4,5,.800,1,2,.500,0,0,,1,4,5,4,1,1,0,2,9,+6
+January 13 2021,OKC,Josh Hall,7:09,0,3,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,0,0,-3
+January 13 2021,OKC,Moses Brown,5:59,2,3,.667,0,0,,2,2,1.000,1,2,3,1,0,1,0,2,6,-7
+January 13 2021,OKC,Justin Jackson,5:10,0,2,.000,0,2,.000,1,2,.500,0,0,0,0,0,0,0,0,1,-4
+January 13 2021,OKC,Darius Miller,Did Not Play
+January 13 2021,OKC,Team Totals,240,37,86,.430,10,31,.323,15,19,.789,9,33,42,23,4,6,11,21,99
+January 13 2021,NOP,Brandon Ingram,38:21,8,19,.421,0,2,.000,6,6,1.000,2,4,6,3,0,2,4,4,22,-1
+January 13 2021,NOP,Josh Hart,38:17,3,9,.333,0,4,.000,0,2,.000,1,6,7,3,0,0,1,2,6,-10
+January 13 2021,NOP,Nickeil Alexander-Walker,33:14,15,23,.652,5,8,.625,2,2,1.000,0,8,8,1,1,0,1,2,37,-4
+January 13 2021,NOP,Steven Adams,28:59,6,7,.857,0,0,,0,2,.000,3,3,6,5,0,1,1,3,12,-2
+January 13 2021,NOP,Sindarius Thornwell,19:04,0,3,.000,0,0,,0,0,,0,1,1,0,1,0,0,2,0,-5
+January 13 2021,NOP,J.J. Redick,28:08,4,11,.364,2,7,.286,2,2,1.000,0,5,5,3,1,0,1,1,12,+5
+January 13 2021,NOP,Nicolò Melli,19:22,1,4,.250,1,4,.250,0,0,,1,2,3,1,1,0,0,2,3,+1
+January 13 2021,NOP,Jaxson Hayes,19:01,2,6,.333,0,0,,0,0,,5,5,10,2,0,0,0,1,4,-3
+January 13 2021,NOP,Kira Lewis,15:34,3,6,.500,2,3,.667,2,2,1.000,0,2,2,0,0,1,1,2,10,-6
+January 13 2021,NOP,Willy Hernangómez,Did Not Play
+January 13 2021,NOP,Will Magnay,Did Not Play
+January 13 2021,NOP,Wenyen Gabriel,Did Not Play
+January 13 2021,NOP,Naji Marshall,Did Not Play
+January 13 2021,NOP,Team Totals,240,42,88,.477,10,28,.357,12,16,.750,12,36,48,18,4,4,9,19,106
+January 13 2021,LAC,Kawhi Leonard,38:51,8,18,.444,2,4,.500,10,11,.909,1,5,6,9,2,0,2,1,28,+10
+January 13 2021,LAC,Paul George,38:22,8,16,.500,5,9,.556,6,7,.857,0,6,6,6,0,1,3,0,27,-4
+January 13 2021,LAC,Patrick Beverley,36:38,3,8,.375,3,7,.429,1,2,.500,1,5,6,2,2,2,1,3,10,-4
+January 13 2021,LAC,Nicolas Batum,27:30,3,7,.429,3,7,.429,0,0,,0,2,2,4,0,0,0,5,9,+3
+January 13 2021,LAC,Serge Ibaka,26:12,5,8,.625,1,2,.500,1,1,1.000,0,3,3,2,0,2,2,2,12,+2
+January 13 2021,LAC,Ivica Zubac,21:48,3,3,1.000,0,0,,3,4,.750,1,6,7,1,0,0,1,3,9,+3
+January 13 2021,LAC,Luke Kennard,20:55,2,3,.667,2,3,.667,0,0,,0,1,1,1,0,1,0,0,6,+9
+January 13 2021,LAC,Marcus Morris,20:30,3,8,.375,2,4,.500,0,0,,0,3,3,0,0,0,1,2,8,+2
+January 13 2021,LAC,Lou Williams,9:14,0,3,.000,0,1,.000,2,2,1.000,0,2,2,1,0,0,0,0,2,+4
+January 13 2021,LAC,Mfiondu Kabengele,Did Not Play
+January 13 2021,LAC,Reggie Jackson,Did Not Play
+January 13 2021,LAC,Daniel Oturu,Did Not Play
+January 13 2021,LAC,Terance Mann,Did Not Play
+January 13 2021,LAC,Patrick Patterson,Did Not Play
+January 13 2021,LAC,Team Totals,240,35,74,.473,18,37,.486,23,27,.852,3,33,36,26,4,6,10,16,111
+January 13 2021,POR,CJ McCollum,42:33,10,23,.435,6,16,.375,2,4,.500,2,5,7,10,0,0,1,3,28,+8
+January 13 2021,POR,Damian Lillard,41:58,11,23,.478,6,15,.400,12,12,1.000,0,1,1,13,3,0,0,2,40,+9
+January 13 2021,POR,Robert Covington,31:22,4,12,.333,4,7,.571,0,0,,2,4,6,0,0,0,2,4,12,0
+January 13 2021,POR,Jusuf Nurkić,30:17,6,8,.750,0,0,,6,9,.667,4,8,12,0,2,3,3,5,18,+1
+January 13 2021,POR,Derrick Jones,22:16,3,5,.600,1,3,.333,1,2,.500,2,2,4,0,0,0,0,4,8,+3
+January 13 2021,POR,Gary Trent,23:27,6,8,.750,4,5,.800,0,0,,1,0,1,4,2,0,0,1,16,+12
+January 13 2021,POR,Carmelo Anthony,20:22,2,4,.500,2,2,1.000,0,0,,0,2,2,1,1,1,1,2,6,0
+January 13 2021,POR,Enes Kanter,17:35,2,5,.400,0,0,,0,0,,1,4,5,0,1,3,1,1,4,+2
+January 13 2021,POR,Rodney Hood,10:10,0,2,.000,0,0,,0,0,,0,0,0,0,0,1,0,2,0,-5
+January 13 2021,POR,Nassir Little,Did Not Play
+January 13 2021,POR,CJ Elleby,Did Not Play
+January 13 2021,POR,Harry Giles,Did Not Play
+January 13 2021,POR,Anfernee Simons,Did Not Play
+January 13 2021,POR,Team Totals,240,44,90,.489,23,48,.479,21,27,.778,12,26,38,28,9,8,8,24,132
+January 13 2021,SAC,Buddy Hield,38:16,9,21,.429,8,18,.444,0,0,,0,6,6,5,1,0,0,5,26,+3
+January 13 2021,SAC,De'Aaron Fox,36:23,9,18,.500,5,8,.625,6,8,.750,2,4,6,6,1,0,2,1,29,0
+January 13 2021,SAC,Harrison Barnes,35:12,3,9,.333,0,2,.000,5,6,.833,1,5,6,3,1,0,4,1,11,-3
+January 13 2021,SAC,Richaun Holmes,34:41,6,6,1.000,0,0,,5,6,.833,2,7,9,6,0,1,0,4,17,+4
+January 13 2021,SAC,Marvin Bagley,19:08,4,5,.800,1,2,.500,2,4,.500,0,6,6,1,0,0,0,3,11,+3
+January 13 2021,SAC,Tyrese Haliburton,31:12,7,10,.700,3,4,.750,0,0,,1,4,5,9,1,0,4,1,17,-14
+January 13 2021,SAC,Cory Joseph,17:14,1,5,.200,1,3,.333,0,0,,1,1,2,2,0,0,1,1,3,-12
+January 13 2021,SAC,Glenn Robinson,14:43,1,3,.333,1,1,1.000,0,0,,0,0,0,2,0,0,0,1,3,-4
+January 13 2021,SAC,Hassan Whiteside,9:42,3,6,.500,0,0,,1,2,.500,1,1,2,1,0,1,1,0,7,-1
+January 13 2021,SAC,Chimezie Metu,3:29,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,1,2,-6
+January 13 2021,SAC,Nemanja Bjelica,Did Not Play
+January 13 2021,SAC,Justin James,Did Not Play
+January 13 2021,SAC,Jabari Parker,Did Not Play
+January 13 2021,SAC,Robert Woodard,Did Not Play
+January 13 2021,SAC,Jahmi'us Ramsey,Did Not Play
+January 13 2021,SAC,Team Totals,240,44,84,.524,19,38,.500,19,26,.731,8,34,42,35,4,2,13,18,126

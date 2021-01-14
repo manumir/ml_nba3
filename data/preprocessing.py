@@ -88,21 +88,14 @@ for x in range(len(df)):
 	df_2=df_2.tail(40)
 
 	if len(df_2) > 0:
-		for col in cols:
-			y=0
-			for value in df_2[col]:
-				y=y+float(value)
-			avg=y/len(df_2)
-			df.at[x,col]=avg
 		
 		count=0
-		df_2=df_2.tail(40)
 		for j in range(len(df_2)):
 			if df_2.iloc[j]['result'] == 1 and df_2.iloc[j]['location'] == 1:
 				count=count+1
 			elif df.iloc[j]['result'] == 0 and df_2.iloc[j]['location'] == 0:
 				count=count+1
-		df.at[x,'wr40']=count/5
+		df.at[x,'wr40']=count/40
 
 		# winrate here
 		count=0
@@ -112,7 +105,7 @@ for x in range(len(df)):
 				count=count+1
 			elif df.iloc[j]['result'] == 0 and df_2.iloc[j]['location'] == 0:
 				count=count+1
-		df.at[x,'wr20']=count/5
+		df.at[x,'wr20']=count/20
 		
 		count=0
 		df_2=df_2.tail(10)
@@ -121,7 +114,15 @@ for x in range(len(df)):
 				count=count+1
 			elif df.iloc[j]['result'] == 0 and df_2.iloc[j]['location'] == 0:
 				count=count+1
-		df.at[x,'wr10']=count/5
+		df.at[x,'wr10']=count/10
+	
+		for col in cols:
+			y=0
+			for value in df_2[col]:
+				y=y+float(value)
+			avg=y/len(df_2)
+			df.at[x,col]=avg
+		
 
 	if x % 2048 == 0:
 		print(x)

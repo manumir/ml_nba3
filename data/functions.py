@@ -22,7 +22,7 @@ def name2acro2(arg):
 	elif arg == 'Indiana Pacers':
 		arg1 = 'IND'
 	elif arg == 'Brooklyn Nets':
-		arg1 = 'BKN'
+		arg1 = 'BRK'
 	elif arg == 'Atlanta Hawks':
 		arg1 = 'ATL'
 	elif arg in ['Portland Trail Blazers','Trail Blazers']:
@@ -46,9 +46,9 @@ def name2acro2(arg):
 	elif arg in ['Golden State Warriors','GS Warriors']:
 		arg1 = 'GSW'
 	elif arg == 'Phoenix Suns':
-		arg1 = 'PHX'
+		arg1 = 'PHO'
 	elif arg in ['Charlotte Hornets','Charlotte Bobcats','Charl. Hornets']:
-		arg1 = 'CHA'
+		arg1 = 'CHO'
 	elif arg == 'New Orleans Hornets':
 		arg1 = 'NOH'
 	elif arg == 'New Jersey Nets':
