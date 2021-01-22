@@ -67,75 +67,62 @@ for x in range(len(plac)):
 plac['pred']=new
 
 
-models=['model_linear20.csv','model_linear60.csv','model_nn20.csv','nn60.csv']
-mode=int(input('which model: | 0:linear20 | 1:linear60 | 2:nn20 | 3:nn60 |: '))
+models=['model_linear20.csv','model_linear60.csv','model_nn20.csv','nn60.csv','xgb20.csv','nn40wr.csv']
+mode=int(input('which model: | 0:linear20 | 1:linear60 | 2:nn20 | 3:nn60 | 4: xgb20 |: '))
 
 lin=pd.read_csv(models[mode])
-print('--------- USING',models[mode],'---------------')
 
 coef=0.2 #input('coef: ')
 count,beted=0,0
-dates,profits=[],[]
-for x in range(len(lin)):
-	date=lin.iloc[x]['date']
-	home=lin.iloc[x]['home']
-	away=lin.iloc[x]['away']
-	lpred=lin.iloc[x]['pred']
+dates,profits=[0],[0]
+dates=sorted(list(set(lin['date'])))
+for date in dates:
+	dategames=lin.loc[lin['date']==date]
+	for x in range(len(dategames)):
+		home=dategames.iloc[x]['home']
+		away=dategames.iloc[x]['away']
+		lpred=dategames.iloc[x]['pred']
 
-	game=plac.loc[plac['date']==date]
-	game=game.loc[game['home']==home]
-	game=game.reset_index(drop=True)
-
-	if len(sys.argv) == 2 and len(game)>0:
-		if date == int(sys.argv[1]):
-
-			myodd=round(1/lpred,2)
-			myodd=myodd+myodd*coef
-			if myodd < game['plac_A'].values[0]:
-				print(date,home,away,'bet on',away)
-
-			myodd=round(1/(1-lpred),2)
-			myodd=myodd+myodd*coef
-			if myodd < game['plac_H'].values[0]:
-				print(date,home,away,'bet on',home)
-	if len(game)==0:
-		print("can't calculate/use the",home,'vs',away,'game')
-		print("either a game's odds are missing or the command argument is missing")
-
-	game_stats=df.loc[df['date']==date]
-	if len(game_stats) > 0:
+		game=plac.loc[plac['date']==date]
+		game=game.loc[game['home']==home]
 		try:
-			result=game_stats.loc[game_stats['team']==home]['result'].values[0]	
+			A_odd=game['plac_A'].values[0]
+			H_odd=game['plac_H'].values[0]
+
+			A_myodd=round(1/lpred,2)*(coef+1)
+			H_myodd=round(1/(1-lpred),2)*(coef+1)
+
+			if len(sys.argv) == 2 and date == int(sys.argv[1]):
+				if A_myodd < A_odd:
+					print(date,home,away,'bet on',away)
+				if H_myodd < H_odd:
+					print(date,home,away,'bet on',home)
+
+			game_stats=df.loc[df['date']==date]
+			if len(game_stats) > 0:
+				result=game_stats.loc[game_stats['team']==home]['result'].values[0]	
+				OVERTIME=game_stats.loc[game_stats['team']==home]['MP'].values[0]	
+
+				if A_myodd < A_odd:
+					if result == 1 and OVERTIME == '240':
+						count=count+A_odd
+					beted=beted+1
+				if H_myodd < H_odd:
+					if result == 0 and OVERTIME == '240':
+						count=count+H_odd
+					beted=beted+1
 		except:
-			print(home)
-		OVERTIME=game_stats.loc[game_stats['team']==home]['MP'].values[0]	
+			print("can't calculate the",home,'vs',away,'on',date,'game')
+			print('check if theres the game odds')
+	
+	profits.append(count-beted)
 
-		myodd=round(1/lpred,2)
-		myodd=myodd+myodd*coef
 
-		if myodd < game['plac_A'].values[0]:
-			if result == 1 and OVERTIME == '240':
-				count=count+float(game['plac_A'].values[0])
-			beted=beted+1
-			#print(game,'my odd:',1/lpred,1,'result:',result)
+print('############## RESULTS ##########\nwon:',round(count,2),'| spent:',beted,'| profit:',round(count-beted,2),'|',round((count-beted)/beted* 100,2),'%')
 
-		myodd=round(1/(1-lpred),2)
-		myodd=myodd+myodd*coef
-		if myodd < game['plac_H'].values[0]:
-			if result == 0 and OVERTIME == '240':
-				count=count+float(game['plac_H'].values[0])
-			beted=beted+1
-			#print(game,lpred,result)
-		#print(game,lpred)
-	#dates.append(date)
-	try:
-		profits.append(round((count-beted)/(count) *100,2))
-	except:
-		profits.append(round((count-beted)/(count+1) *100,2))
-print('############## RESULTS ##########\nwon:',round(count,2),'| spent:',beted,'| profit:',round(count-beted,2),'|',round((count-beted)/count * 100,2),'%')
-
-plt.xlabel('games')
-plt.ylabel('return in percentage')
+plt.xlabel('day')
+plt.ylabel('profit €')
 plt.plot(profits)
-plt.savefig("mygraph.png")
-print('saved graph to mygraph.png')
+plt.show()
+#plt.savefig("mygraph.png")
+#print('saved graph to mygraph.png')

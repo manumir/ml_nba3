@@ -5,6 +5,7 @@ import glob
 mode=input('last 2 seasons ? y or n')
 if mode == 'n':
 	files=glob.glob('data*.txt')
+	files=sorted(files)
 elif mode == 'y':
 	files=['data19-20.txt','data20-21.txt']
 
@@ -16,7 +17,7 @@ for file in files:
 		all_lines=all_lines+lines[1:]
 
 if mode == 'n':
-	with open('all_data.txt','w') as f:
+	with open(input('name of file to output to '),'w') as f:
 		f.write(lines[0])
 		for line in all_lines:
 			f.write(line)

@@ -7,8 +7,6 @@ from sklearn.linear_model import LinearRegression
 import joblib
 import torch
 
-mode=input('linear regression or torch neural net? "1" or "2" ')
-
 df=pd.read_csv('../data/season_start.txt')
 
 df=df.loc[df['player']=='Team Totals']
@@ -109,25 +107,24 @@ games=games.reset_index(drop=True)
 ## columns to average
 cols=['MP','FG','FGA','FG%','3P','3PA','3P%','FT','FTA','FT%','ORB','DRB','TRB','AST','TOV','STL','BLK','PF','PTS','+/-']
 
-models=['model_linear20','model_linear60','model_nn20','nn60']
-choose_model=input('0:model_linear20   1:model_linear60  2:model_nn20   3:nn60  |:')
+models=['model_linear20','model_linear60','model_nn20','nn60','xgb20']
+choose_model=input('0:model_linear20| 1:model_linear60| 2:model_nn20| 3:nn60| 4:xgb20 |:')
 MODEL=models[int(choose_model)]
 
 WRITE=input('write to logs? y or n: ') 
 
-if WRITE=='y':
+if WRITE in ['y','']:
 	logs=open('../logs/'+MODEL+'.csv','a')
 
 og=df.copy()
 for x in range(len(games)):
 	home=games.at[x,'home']
-
 	df_2=og.loc[og['team'] == home]
 	df_2=df_2.reset_index(drop=True)
 	df_2=df_2.loc[df_2['date'] < int(games_date)]
 	df_2.reset_index(drop=True,inplace=True)
 	
-	if MODEL == 'model_linear60' or MODEL=='nn60':
+	if MODEL in ['model_linear60','nn60']:
 		df_2=df_2.tail(60)
 	else:
 		df_2=df_2.tail(20)
@@ -142,13 +139,12 @@ for x in range(len(games)):
 			rowH.append(avg)
 	
 	away=games.at[x,'away']
-	
 	df_2=og.loc[og['team'] == away]
 	df_2=df_2.reset_index(drop=True)
 	df_2=df_2.loc[df_2['date'] < int(games_date)]
 	df_2.reset_index(drop=True,inplace=True)
 	
-	if MODEL == 'model_linear60' or MODEL == 'nn60':
+	if MODEL in ['model_linear60','nn60']:
 		df_2=df_2.tail(60)
 	else:
 		df_2=df_2.tail(20)
@@ -164,17 +160,17 @@ for x in range(len(games)):
 
 	x=np.array(rowH)-np.array(rowA)
 	x=x.reshape(1,-1)
-
-	if mode == '1':
+	
+	if MODEL in ['model_linear20','model_linear60','xgb20']:
 		clf=joblib.load(MODEL)
 		print(games_date,home,away,str(clf.predict(x))[1:-1])
-		if WRITE == 'y':
+		if WRITE in ['y','']:
 			logs.write(str(games_date+','+home+','+away+','+str(clf.predict(x))[1:-1]+'\n'))
-	elif mode == '2':
+	elif MODEL in ['nn60','model_nn20']:
 		model=torch.load(MODEL)
 		x=torch.Tensor(x)
 		print(games_date,home,away,float(model(x)))
-		if WRITE == 'y':
+		if WRITE in ['y','']:
 			logs.write(str(games_date+','+home+','+away+','+str(float(model(x)))+'\n'))
 
 logs.close()

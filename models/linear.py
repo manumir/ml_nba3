@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 import joblib
 
-train_name='../data/train20.csv'
+train_name='../data/train60.csv'
 #train_name='../data/data10wr.csv'
 train=pd.read_csv(train_name)
 print('using '+train_name)
@@ -22,7 +22,7 @@ X=train
 clf=LinearRegression(n_jobs=-1)
 
 x_train,x_test,y_train,y_test = train_test_split(X, Y, test_size=0.2, random_state=1)
-clf.fit(x_train,y_train)
+clf.fit(X,Y)
 
 # split data into train and test sets
 accs=[]

@@ -5,9 +5,9 @@ from sklearn.linear_model import LinearRegression
 import joblib
 import torch
 
-df=pd.read_csv('../data/train.csv')
-
 """
+df=pd.read_csv('../data/train_players.csv')
+
 columns2avg=['MP','FG','FGA','FG%','3P','3PA','3P%','FT','FTA','FT%','ORB','DRB','TRB','AST','STL','BLK','TOV','PF','PTS','+/-']
 
 for x in range(len(df)):
@@ -24,7 +24,8 @@ for i in set(df['gameid']):
 	for team in teams:
 		df2=df1.loc[df1['team']==team]
 		df2=df2.reset_index(drop=True)
-		df2=df2.head(7)
+		df2=df2.sort_values(by=['MP'],ascending=False)
+		df2=df2.head(8)
 
 		for column in list(columns2avg):
 			train.at[j,column]=sum(df2[column])
@@ -34,12 +35,14 @@ for i in set(df['gameid']):
 	if i % 1000 == 0:
 		print(i)
 
-train=train.drop(['gameid','date','team','player'],1)
-train=train.reset_index(drop=True)
-train.to_csv('train_summed_7_players.csv',index=False)
+train.to_csv('train_players8.csv',index=False)
 """
 
-train=pd.read_csv('train_summed_7_players.csv')
+train=pd.read_csv('train_players8.csv')
+
+train=train.drop(['gameid','date','team','player'],1)
+train=train.reset_index(drop=True)
+
 #train.pop('MP') # when scaled this is needed
 
 home1,away1=[],[]
@@ -56,23 +59,21 @@ home=home.reset_index(drop=True)
 
 train=away.subtract(home)
 train['Result']=away['Result']
-#train=away.join(home,rsuffix='_home')
-#train.pop('Result_home')
 
 train=train.astype(float)
-#print(train.corr()['Result'])
+print(train.corr()['Result'])
 
 Y=train.pop('Result')
 X=train
 
 clf=LinearRegression(n_jobs=-1)
 
+clf.fit(X,Y)
+
 # split data into train and test sets
 accs=[]
 for rs in range(100):
 	x_train,x_test,y_train,y_test = train_test_split(X, Y, test_size=0.2, random_state=rs)
-
-	clf.fit(x_train,y_train)
 
 	preds=list(clf.predict(x_test))
 	#print(preds[:5])
@@ -82,7 +83,6 @@ for rs in range(100):
 print(sum(accs)/len(accs))
 #joblib.dump(clf,'sum_subtract')
 
-"""
 x_train = torch.Tensor(x_train.values)
 x_test = torch.Tensor(x_test.values)
 
@@ -93,18 +93,28 @@ y_train=y_train.unsqueeze(1)
 model = torch.nn.Sequential(
     torch.nn.Linear(len(train.columns), len(train.columns)),
     torch.nn.Sigmoid(),
+    torch.nn.Linear(len(train.columns), len(train.columns)),
+    torch.nn.Sigmoid(),
     torch.nn.Linear(len(train.columns),1),
 )
 loss_fn = torch.nn.MSELoss()
 
-learning_rate = 1e-4
+learning_rate = 4e-4
 optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
 
-for t in range(20000):
+max=0
+for t in range(1000):
 	y_pred = model(x_train)
 	loss = loss_fn(y_pred, y_train)
 	preds = model(x_test)
-	print(t, loss.item())
+	acc=f.myacc(preds,y_test)
+	if acc > max:
+		print('saved',acc)
+		torch.save(model,'players_model68')
+		max=acc
+	if t % 30 == 0:
+		print(t, loss.item(), f.myacc(y_pred,y_train))
+	#f.myacc(y_pred,y_train))
 
 	optimizer.zero_grad()
 
@@ -115,7 +125,4 @@ for t in range(20000):
 print('train:',f.myacc(model(x_train),y_train),'test:',f.myacc(preds,y_test))
 #torch.save(model,'./123')
 
-#x_train,y_train = X[:-895],Y[:-895] # uncomment to
-#x_test,y_test = X[-895:],Y[-895:] # test against model1 logs
-#print(train[train.isnull().T.any().T])
-"""
+

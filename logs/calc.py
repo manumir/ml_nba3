@@ -82,6 +82,9 @@ for x in range(len(plac)):
 #print('count:',count,'total:',total,'plac accuracy',count/total) # this is the accuracy on all
 print('count:',count-2,'total:',total-9,'plac accuracy',(count-2)/(total-9)) # this is to compare in the same games as the models
 
+placcount=count
+plactotal=total
+
 lin=pd.read_csv('model_linear20.csv')
 count,total=0,0
 for x in range(len(lin)):
@@ -156,3 +159,46 @@ for x in range(len(lin)):
 		total=total+1
 
 print('count:',count,'total:',total,'nn60 acc:',count/total)
+
+lin=pd.read_csv('xgb20.csv')
+count,total=0,0
+for x in range(len(lin)):
+	date=lin.iloc[x]['date']
+	home=lin.iloc[x]['home']
+	away=lin.iloc[x]['away']
+	
+	game=df.loc[df['date']==date]
+	game=game.loc[game['team']==home]
+	game=game.reset_index(drop=True)
+	#print(home,away,game.iloc[0]['result'],round(lin.at[x,'pred']))
+
+	if len(game) > 0:
+		if game.iloc[0]['result']==round(lin.at[x,'pred']):
+			count=count+1
+		total=total+1
+
+placcount=placcount-2
+plactotal=plactotal-9
+print('count:',count,'total:',total,'xgb20 acc:',count/total,'vs',placcount-(placcount-18),plactotal-(plactotal-28))
+
+
+lin=pd.read_csv('nn40wr.csv')
+count,total=0,0
+for x in range(len(lin)):
+	date=lin.iloc[x]['date']
+	home=lin.iloc[x]['home']
+	away=lin.iloc[x]['away']
+	
+	game=df.loc[df['date']==date]
+	game=game.loc[game['team']==home]
+	game=game.reset_index(drop=True)
+	#print(home,away,game.iloc[0]['result'],round(lin.at[x,'pred']))
+
+	if len(game) > 0:
+		if game.iloc[0]['result']==round(lin.at[x,'pred']):
+			count=count+1
+		total=total+1
+
+print('count:',count,'total:',total,'nn40wr acc:',count/total)
+
+

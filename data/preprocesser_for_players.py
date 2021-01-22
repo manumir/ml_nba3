@@ -5,7 +5,6 @@ import time
 
 start=time.time()
 df=pd.read_csv('all_data.txt')
-#df=pd.read_csv('data19-20.txt')
 
 #df.pop('drop_this')
 
@@ -134,14 +133,12 @@ for x in range(len(df)):
 
 	df_2=og.loc[og['player'] == player]
 	df_2.reset_index(drop=True,inplace=True)
-
 	df_2=df_2.loc[df_2['date'] < date]
 	df_2.reset_index(drop=True,inplace=True)
-
 	df_2=df_2.loc[df_2['team'] == team]
 	df_2.reset_index(drop=True,inplace=True)
 
-	df_2=df_2.tail(15)
+	df_2=df_2.tail(20)
 
 	if len(df_2) > 0:
 		for col in cols:
