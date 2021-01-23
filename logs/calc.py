@@ -177,9 +177,7 @@ for x in range(len(lin)):
 			count=count+1
 		total=total+1
 
-placcount=placcount-2
-plactotal=plactotal-9
-print('count:',count,'total:',total,'xgb20 acc:',count/total,'vs',placcount-(placcount-18),plactotal-(plactotal-28))
+print('count:',count,'total:',total,'xgb20 acc:',count/total)
 
 
 lin=pd.read_csv('nn40wr.csv')

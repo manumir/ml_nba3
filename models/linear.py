@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 import joblib
 
-train_name='../data/train60.csv'
+train_name='../data/train20.csv'
 #train_name='../data/data10wr.csv'
 train=pd.read_csv(train_name)
 print('using '+train_name)

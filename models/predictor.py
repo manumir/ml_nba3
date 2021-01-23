@@ -108,70 +108,73 @@ games=games.reset_index(drop=True)
 cols=['MP','FG','FGA','FG%','3P','3PA','3P%','FT','FTA','FT%','ORB','DRB','TRB','AST','TOV','STL','BLK','PF','PTS','+/-']
 
 models=['model_linear20','model_linear60','model_nn20','nn60','xgb20']
-choose_model=input('0:model_linear20| 1:model_linear60| 2:model_nn20| 3:nn60| 4:xgb20 |:')
-MODEL=models[int(choose_model)]
+#choose_model=input('0:model_linear20| 1:model_linear60| 2:model_nn20| 3:nn60| 4:xgb20 |:')
+#MODEL=models[int(choose_model)]
 
 WRITE=input('write to logs? y or n: ') 
+for MODEL in models:
+	print(MODEL)
 
-if WRITE in ['y','']:
-	logs=open('../logs/'+MODEL+'.csv','a')
+	if WRITE == 'y':
+		logs=open('../logs/'+MODEL+'.csv','a')
 
-og=df.copy()
-for x in range(len(games)):
-	home=games.at[x,'home']
-	df_2=og.loc[og['team'] == home]
-	df_2=df_2.reset_index(drop=True)
-	df_2=df_2.loc[df_2['date'] < int(games_date)]
-	df_2.reset_index(drop=True,inplace=True)
-	
-	if MODEL in ['model_linear60','nn60']:
-		df_2=df_2.tail(60)
-	else:
-		df_2=df_2.tail(20)
+	og=df.copy()
+	for x in range(len(games)):
+		home=games.at[x,'home']
+		df_2=og.loc[og['team'] == home]
+		df_2=df_2.reset_index(drop=True)
+		df_2=df_2.loc[df_2['date'] < int(games_date)]
+		df_2.reset_index(drop=True,inplace=True)
+		
+		if MODEL in ['model_linear60','nn60']:
+			df_2=df_2.tail(60)
+		else:
+			df_2=df_2.tail(20)
 
-	rowH=[]
-	if len(df_2) > 0:
-		for col in cols:
-			y=0
-			for value in df_2[col]:
-				y=y+float(value)
-			avg=y/len(df_2)
-			rowH.append(avg)
-	
-	away=games.at[x,'away']
-	df_2=og.loc[og['team'] == away]
-	df_2=df_2.reset_index(drop=True)
-	df_2=df_2.loc[df_2['date'] < int(games_date)]
-	df_2.reset_index(drop=True,inplace=True)
-	
-	if MODEL in ['model_linear60','nn60']:
-		df_2=df_2.tail(60)
-	else:
-		df_2=df_2.tail(20)
+		rowH=[]
+		if len(df_2) > 0:
+			for col in cols:
+				y=0
+				for value in df_2[col]:
+					y=y+float(value)
+				avg=y/len(df_2)
+				rowH.append(avg)
+		
+		away=games.at[x,'away']
+		df_2=og.loc[og['team'] == away]
+		df_2=df_2.reset_index(drop=True)
+		df_2=df_2.loc[df_2['date'] < int(games_date)]
+		df_2.reset_index(drop=True,inplace=True)
+		
+		if MODEL in ['model_linear60','nn60']:
+			df_2=df_2.tail(60)
+		else:
+			df_2=df_2.tail(20)
 
-	rowA=[]
-	if len(df_2) > 0:
-		for col in cols:
-			y=0
-			for value in df_2[col]:
-				y=y+float(value)
-			avg=y/len(df_2)
-			rowA.append(avg)
+		rowA=[]
+		if len(df_2) > 0:
+			for col in cols:
+				y=0
+				for value in df_2[col]:
+					y=y+float(value)
+				avg=y/len(df_2)
+				rowA.append(avg)
 
-	x=np.array(rowH)-np.array(rowA)
-	x=x.reshape(1,-1)
-	
-	if MODEL in ['model_linear20','model_linear60','xgb20']:
-		clf=joblib.load(MODEL)
-		print(games_date,home,away,str(clf.predict(x))[1:-1])
-		if WRITE in ['y','']:
-			logs.write(str(games_date+','+home+','+away+','+str(clf.predict(x))[1:-1]+'\n'))
-	elif MODEL in ['nn60','model_nn20']:
-		model=torch.load(MODEL)
-		x=torch.Tensor(x)
-		print(games_date,home,away,float(model(x)))
-		if WRITE in ['y','']:
-			logs.write(str(games_date+','+home+','+away+','+str(float(model(x)))+'\n'))
+		x=np.array(rowH)-np.array(rowA)
+		x=x.reshape(1,-1)
+		
+		if MODEL in ['model_linear20','model_linear60','xgb20']:
+			clf=joblib.load(MODEL)
+			print(games_date,home,away,str(clf.predict(x))[1:-1])
+			if WRITE == 'y':
+				logs.write(str(games_date+','+home+','+away+','+str(clf.predict(x))[1:-1]+'\n'))
+		elif MODEL in ['nn60','model_nn20']:
+			model=torch.load(MODEL)
+			x=torch.Tensor(x)
+			print(games_date,home,away,float(model(x)))
+			if WRITE == 'y':
+				logs.write(str(games_date+','+home+','+away+','+str(float(model(x)))+'\n'))
 
-logs.close()
+	if WRITE in ['y','']:
+		logs.close()
 
