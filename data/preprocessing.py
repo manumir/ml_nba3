@@ -85,27 +85,18 @@ for x in range(len(df)):
 	df_2=df_2.reset_index(drop=True)
 	df_2=df_2.loc[df_2['date'] < date]
 	df_2.reset_index(drop=True,inplace=True)
-	df_2=df_2.tail(40)
+	df_2=df_2.tail(25)
 
 	if len(df_2) > 0:
-		
-		count=0
-		for j in range(len(df_2)):
-			if df_2.iloc[j]['result'] == 1 and df_2.iloc[j]['location'] == 1:
-				count=count+1
-			elif df.iloc[j]['result'] == 0 and df_2.iloc[j]['location'] == 0:
-				count=count+1
-		df.at[x,'wr40']=count/40
-
 		# winrate here
 		count=0
-		df_2=df_2.tail(20)
+		df_2=df_2.tail(25)
 		for j in range(len(df_2)):
 			if df_2.iloc[j]['result'] == 1 and df_2.iloc[j]['location'] == 1:
 				count=count+1
 			elif df.iloc[j]['result'] == 0 and df_2.iloc[j]['location'] == 0:
 				count=count+1
-		df.at[x,'wr20']=count/20
+		df.at[x,'wr25']=count/25
 		
 		count=0
 		df_2=df_2.tail(10)
@@ -115,6 +106,15 @@ for x in range(len(df)):
 			elif df.iloc[j]['result'] == 0 and df_2.iloc[j]['location'] == 0:
 				count=count+1
 		df.at[x,'wr10']=count/10
+		
+		count=0
+		df_2=df_2.tail(5)
+		for j in range(len(df_2)):
+			if df_2.iloc[j]['result'] == 1 and df_2.iloc[j]['location'] == 1:
+				count=count+1
+			elif df.iloc[j]['result'] == 0 and df_2.iloc[j]['location'] == 0:
+				count=count+1
+		df.at[x,'wr5']=count/5
 	
 		for col in cols:
 			y=0
@@ -148,10 +148,12 @@ home=home.drop(['date','team'],1)
 away=away.drop(['date','team'],1)
 res=home['result']
 df=home.subtract(away)
-df['result']=res
 df['home']=homes
 df['away']=aways
 df['date']=dates
+df['result']=res
+df=df.sort_values(by=['date'],ascending=True)
+
 
 #print(df.corr()['result'])
 

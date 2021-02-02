@@ -85,39 +85,42 @@ for date in set(list(lin['date'])):
 
 		game=plac.loc[plac['date']==date]
 		game=game.loc[game['home']==home]
-		A_odd=game['plac_A'].values[0]
-		H_odd=game['plac_H'].values[0]
+		try:
+			A_odd=game['plac_A'].values[0]
+			H_odd=game['plac_H'].values[0]
 
-		if len(sys.argv)==2 and date == int(sys.argv[1]):
-			fc= round((lpred - ((1-lpred)/(A_odd-1))) * 5)
-			if fc > 0:
-				print(date,home,away,'bet on',away,'fc',fc,'2win',fc*A_odd)
-			if fc < 0:
-				print(date,home,away,'bet on',home,'fc',-fc,'2win',-fc*H_odd)
+			if len(sys.argv)==2 and date == int(sys.argv[1]):
+				fc= round((lpred - ((1-lpred)/(A_odd-1))) * 5)
+				if fc > 0:
+					print(date,home,away,'bet on',away,'fc',fc,'2win',fc*A_odd)
+				if fc < 0:
+					print(date,home,away,'bet on',home,'fc',-fc,'2win',-fc*H_odd)
 
-		game_stats=df.loc[df['date']==date]
-		if len(game_stats) > 0:
-			try:
-				result=game_stats.loc[game_stats['team']==home]['result'].values[0]	
-				OVERTIME=game_stats.loc[game_stats['team']==home]['MP'].values[0]	
-			except:
-				print("can't calculate/use the",home,'vs',away,'game','date:',date)
-				#print("either a game's odds are missing or the command argument is missing")
+			game_stats=df.loc[df['date']==date]
+			if len(game_stats) > 0:
+				try:
+					result=game_stats.loc[game_stats['team']==home]['result'].values[0]	
+					OVERTIME=game_stats.loc[game_stats['team']==home]['MP'].values[0]	
+				except:
+					print("can't calculate/use the",home,'vs',away,'game','date:',date)
+					#print("either a game's odds are missing or the command argument is missing")
 
-			fc= round((lpred - ((1-lpred)/(A_odd-1))) * 5)
-			if fc > 0:# and A_myodd < A_odd:
-				#print(fc, game['away'].values)
-				if result == 1 and OVERTIME == '240':
-					count=count+A_odd*fc ############# this is the problem
+				fc= round((lpred - ((1-lpred)/(A_odd-1))) * 5)
+				if fc > 0:# and A_myodd < A_odd:
 					#print(fc, game['away'].values)
-				spent=spent+fc
+					if result == 1 and OVERTIME == '240':
+						count=count+A_odd*fc ############# this is the problem
+						#print(fc, game['away'].values)
+					spent=spent+fc
 
-			if fc < 0:# and H_myodd < H_odd:
-				#print(-fc, game['home'].values)
-				if result == 0 and OVERTIME == '240':
-					count=count+H_odd*-fc
-					#print(-fc, game['away'].values)
-				spent=spent-fc
+				if fc < 0:# and H_myodd < H_odd:
+					#print(-fc, game['home'].values)
+					if result == 0 and OVERTIME == '240':
+						count=count+H_odd*-fc
+						#print(-fc, game['away'].values)
+					spent=spent-fc
+		except:
+			continue
 
 	profits.append(bank+count-spent)
 

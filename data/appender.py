@@ -4,10 +4,10 @@ import glob
 
 mode=input('last 2 seasons ? y or n')
 if mode == 'n':
-	files=glob.glob('data*.txt')
+	files=glob.glob('./seasons/data*.txt')
 	files=sorted(files)
 elif mode == 'y':
-	files=['data19-20.txt','data20-21.txt']
+	files=['./seasons/data19-20.txt','./seasons/data20-21.txt']
 
 all_lines=[]
 for file in files:

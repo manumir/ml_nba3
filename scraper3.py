@@ -14,7 +14,7 @@ if int(season[-2:]) > 0:
 else:
 	last_year_of_season='19'+season[-2:]
 
-with open('./data/data'+season+'.txt','w') as file:
+with open('./data/seasons/data'+season+'.txt','w') as file:
 	file.write('date,team,player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-\n')
 
 	x = requests.get('https://www.basketball-reference.com/leagues/NBA_'+last_year_of_season+'_games.html')
