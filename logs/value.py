@@ -1,6 +1,15 @@
+import argparse
 import sys
 import pandas as pd
 import matplotlib.pyplot as plt
+
+parser = argparse.ArgumentParser()
+parser.add_argument("-p","--plot", help="plot graph about returns")
+parser.add_argument("-d","--day", help="date to see bets")
+#parser.add_argument("-b","--both", help="prints stats about betting on homes and aways")
+parser.add_argument("--home", help="prints stats about betting on homes only")
+parser.add_argument("--away", help="prints stats about betting on aways only")
+args = parser.parse_args()
 
 df=pd.read_csv('../data/season_start.txt')
 
@@ -72,17 +81,19 @@ for model in models:
 	lin=pd.read_csv(model)
 
 	#coefs=[0,0.05,0.1,0.15,0.2,0.25,0.3,0.35,0.4,0.45,0.5] #input('coef: ')
-	coefs=[0.2,0.25]
+	coefs=[0.1,0.2]
 	for coef in coefs:
 		count,beted=0,0
+		right=0
 		dates,profits=[0],[0]
-		dates=sorted(list(set(lin['date'])))
-		for date in dates:
+		for date in sorted(list(set(lin['date']))):
 			dategames=lin.loc[lin['date']==date]
 			for x in range(len(dategames)):
 				home=dategames.iloc[x]['home']
 				away=dategames.iloc[x]['away']
 				lpred=dategames.iloc[x]['pred']
+				if lpred < 0:
+					lpred=0.01
 
 				game=plac.loc[plac['date']==date]
 				game=game.loc[game['home']==home]
@@ -93,38 +104,49 @@ for model in models:
 					A_myodd=round(1/lpred,2)*(coef+1)
 					H_myodd=round(1/(1-lpred),2)*(coef+1)
 
-					if len(sys.argv) == 2 and date == int(sys.argv[1]):
-						if A_myodd < A_odd:
-							print(date,home,away,'bet on',away,A_myodd)
-						#if H_myodd < H_odd:
-							#print(date,home,away,'bet on',home,H_myodd)
-
 					game_stats=df.loc[df['date']==date]
 					if len(game_stats) > 0:
 						result=game_stats.loc[game_stats['team']==home]['result'].values[0]	
 						OVERTIME=game_stats.loc[game_stats['team']==home]['MP'].values[0]	
 
-						if A_myodd < A_odd:
-							if result == 1 and OVERTIME == '240':
-								count=count+A_odd
-							beted=beted+1
-						"""
-						if H_myodd < H_odd:
-							if result == 0 and OVERTIME == '240':
-								count=count+H_odd
-							beted=beted+1
-						"""
-				except:
-					print("can't calculate the",home,'vs',away,'on',date,'game')
-					print('check if theres the game odds')
+						if args.away or not args.home:
+							if A_myodd < A_odd and A_odd > 2: # higher return on investement in percentage if i take odds > 2
+								if result == 1 and OVERTIME == '240':
+									count=count+A_odd
+									right=right+1
+								beted=beted+1
+						# home
+						if args.home or not args.away:
+							if H_myodd < H_odd and H_odd > 2: # higher return on investement in percentage if i take odds > 2
+								if result == 0 and OVERTIME == '240':
+									count=count+H_odd
+									right=right+1
+								beted=beted+1
+
+					if count - beted > 0 and beted > 50:
+						if args.day and date == int(args.day):
+							if args.away or not args.home:
+								if A_myodd < A_odd and A_odd > 2:
+									print(date,home,away,'bet on',away,A_myodd)
+							if args.home or not args.away:
+								if H_myodd < H_odd and H_odd > 2:
+									print(date,home,away,'bet on',home,H_myodd)
+
+				except Exception as e:
+					print(e)
+					print("can't calculate the",home,'vs',away,'on',date,'game check if we have the odds')
 			
-			profits.append(count-beted)
+			#profits.append((count-beted)/beted) # to see if return has stabilized
+			profits.append(round(count-beted,2)) # to see profit over time
 
-		print(model,'| coef',coef,'| won:',round(count,2),'| spent:',beted,'| profit:',round(count-beted,2),'|',round((count-beted)/beted* 100,2),'%')
+		print(''+model,'|coef',coef,'|spent:',beted,'|profit:',round(count-beted,2),'|','\033[91m'+str(round((count-beted)/beted* 100,2))+'%\033[0m |',str(round(right/beted,2))+' got right')
+		print(profits[len(profits)-2]-profits[-9],'\n')
 
-		plt.xlabel('day')
-		plt.ylabel('profit €')
-		plt.plot(profits)
-		#plt.show()
-#plt.savefig("mygraph.png")
-#print('saved graph to mygraph.png')
+		if args.plot:
+			plt.xlabel('day')
+			plt.ylabel('profit €')
+			plt.plot(profits)
+			plt.show()
+			#plt.savefig("mygraph.png")
+			#print('saved graph to mygraph.png')
+

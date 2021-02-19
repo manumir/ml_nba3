@@ -1,6 +1,14 @@
+import argparse
 import sys
 import pandas as pd
 import matplotlib.pyplot as plt
+
+parser = argparse.ArgumentParser()
+parser.add_argument("-p","--plot", help="plot graph about returns")
+parser.add_argument("-d","--day", help="date to see bets")
+parser.add_argument("--home", help="prints stats about betting on homes only")
+parser.add_argument("--away", help="prints stats about betting on aways only")
+args = parser.parse_args()
 
 df=pd.read_csv('../data/season_start.txt')
 
@@ -67,19 +75,22 @@ for x in range(len(plac)):
 plac['pred']=new
 
 
-models=['model_linear20.csv','model_linear60.csv','model_nn20.csv','nn60.csv','xgb20.csv']
+models=['model_linear20.csv','model_linear60.csv','model_nn20.csv','nn60.csv','xgb20.csv','nn40wr.csv']
 for model in models:
 	lin=pd.read_csv(model)
 
+	ngames=0
 	count,spent=0,0
 	bank=10
 	dates,profits=[0],[0]
-	for date in set(list(lin['date'])):
+	for date in sorted(set(list(lin['date']))):
 		games=lin.loc[lin['date']==date]
 		for x in range(len(games)):
 			home=games.iloc[x]['home']
 			away=games.iloc[x]['away']
 			lpred=games.iloc[x]['pred']
+			if lpred < 0:
+				lpred=0.01
 
 			game=plac.loc[plac['date']==date]
 			game=game.loc[game['home']==home]
@@ -87,13 +98,15 @@ for model in models:
 				A_odd=game['plac_A'].values[0]
 				H_odd=game['plac_H'].values[0]
 
-				if len(sys.argv) == 2 and  date == int(sys.argv[1]):
-					fc= round((lpred - ((1-lpred)/(A_odd-1))) * bank)
-					if fc > 0:
-						print(date,home,away,'bet on',away,'fc',fc,'2win',fc*A_odd)
+				if args.day and int(args.day) == date:
+					if args.away or not args.home:
+						fc= round((lpred - ((1-lpred)/(A_odd-1))) * bank)
+						if fc > 0 and A_odd > 2:
+							print(date,home,away,'bet on',away,'fc',fc,'2win',fc*A_odd)
 					# this is home
-					#if fc < 0:
-						#print(date,home,away,'bet on',home,'fc',-fc,'2win',-fc*H_odd)
+					if args.home or not args.away:
+						if fc < 0 and H_odd > 2:
+							print(date,home,away,'bet on',home,'fc',-fc,'2win',-fc*H_odd)
 
 				game_stats=df.loc[df['date']==date]
 				if len(game_stats) > 0:
@@ -105,43 +118,33 @@ for model in models:
 						#print("either a game's odds are missing or the command argument is missing")
 
 					fc= round((lpred - ((1-lpred)/(A_odd-1))) * bank)
-					if fc > 0:
-						spent=spent+fc
-						if result == 1 and OVERTIME == '240':
-							count=count+A_odd*fc 
+					if args.away or not args.home:
+						if fc > 0 and A_odd > 2:
+							ngames=ngames+1
+							spent=spent+fc
+							if result == 1 and OVERTIME == '240':
+								count=count+A_odd*fc 
 
-					"""
 					# if we take bet only on aways we have higher profit in %
-					if fc < 0:
-						spent=spent-fc
-						if result == 0 and OVERTIME == '240':
-							count=count+H_odd*-fc
-					"""
+					if args.home or not args.away:
+						if fc < 0 and H_odd > 2:
+							ngames=ngames+1
+							spent=spent-fc
+							if result == 0 and OVERTIME == '240':
+								count=count+H_odd*-fc
 
 			except Exception as e:
 				print(e)
-				continue
+		profits.append(round(count-spent,2))
 
-		profits.append(count-spent)
-		"""
-				if A_myodd < A_odd:
-					if result == 1 and OVERTIME == '240':
-						count=count+A_odd
-					beted=beted+1
+	print(model,'| profit:',round(count-spent,2),'| won:',round(count,2),'| spent:',spent,'| \033[91m',str(round(((count-spent)/spent) * 100,2))+'%\033[0m on '+str(ngames)+' games')
+	print(profits[len(profits)-2]-profits[-9],'\n')
 
-				if H_myodd < H_odd:
-					if result == 0 and OVERTIME == '240':
-						count=count+H_odd
-				beted=beted+1
-		"""
-
-	#print('############## RESULTS ##########\nwon:',round(count,2),'| spent:',beted,'| profit:',round(count-beted,2),'|',round((count-beted)/count * 100,2),'%')
-	print('model',model,'| profit',count-spent,'| won',count,'| spent',spent,round(((count-spent)/spent) * 100,2),'%')
-
-	plt.xlabel('days')
-	plt.ylabel('profit in €')
-	plt.plot(profits)
-	#plt.show()
+	if args.plot:
+		plt.xlabel('days')
+		plt.ylabel('profit in €')
+		plt.plot(profits)
+		plt.show()
 #plt.savefig("mygraph.png")
 #print('saved graph to mygraph.png')
 

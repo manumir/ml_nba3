@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 
 df=pd.read_csv('../data/season_start.txt')
 
@@ -79,11 +80,7 @@ for x in range(len(plac)):
 		if plac.iloc[x]['pred']==game.iloc[0]['result']:
 			count=count+1
 		total=total+1
-#print('count:',count,'total:',total,'plac accuracy',count/total) # this is the accuracy on all
-print('count:',count-2,'total:',total-9,'plac accuracy',(count-2)/(total-9)) # this is to compare in the same games as the models
-
-placcount=count
-plactotal=total
+print('count:',count,'total:',total,'plac accuracy',count/total)
 
 lin=pd.read_csv('model_linear20.csv')
 count,total=0,0
@@ -120,7 +117,6 @@ for x in range(len(nn)):
 			count=count+1
 		total=total+1
 print('count:',count,'total:',total,'model_nn20 acc',count/total)
-
 
 lin=pd.read_csv('model_linear60.csv')
 count,total=0,0
