@@ -10,7 +10,7 @@ parser.add_argument("--home", help="prints stats about betting on homes only")
 parser.add_argument("--away", help="prints stats about betting on aways only")
 args = parser.parse_args()
 
-df=pd.read_csv('../data/season_start.txt')
+df=pd.read_csv('../data/season_start.csv.gz')
 
 df=df.loc[df['player']=='Team Totals']
 df.pop('player')
@@ -138,7 +138,7 @@ for model in models:
 		profits.append(round(count-spent,2))
 
 	print(model,'| profit:',round(count-spent,2),'| won:',round(count,2),'| spent:',spent,'| \033[91m',str(round(((count-spent)/spent) * 100,2))+'%\033[0m on '+str(ngames)+' games')
-	print(profits[len(profits)-2]-profits[-9],'\n')
+	print('last 7 days',round(profits[len(profits)-2]-profits[-9],2),'\n')
 
 	if args.plot:
 		plt.xlabel('days')

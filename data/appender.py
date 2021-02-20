@@ -4,7 +4,7 @@ import glob
 
 mode=input('last 2 seasons ? y or n')
 if mode == 'n':
-	files=glob.glob('./seasons/data*.txt')
+	files=glob.glob('./seasons/data*.txt.gz')
 	files=sorted(files)
 elif mode == 'y':
 	files=['./seasons/data19-20.txt','./seasons/data20-21.txt']
@@ -22,7 +22,7 @@ if mode == 'n':
 		for line in all_lines:
 			f.write(line)
 elif mode == 'y':
-	with open('season_start.txt','w') as f:
+	with open('season_start.csv','w') as f:
 		f.write(lines[0])
 		for line in all_lines:
 			f.write(line)

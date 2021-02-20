@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 import joblib
 import torch
 
-df=pd.read_csv('../data/season_start.txt')
+df=pd.read_csv('../data/season_start.csv')
 
 df=df.loc[df['player']=='Team Totals']
 df.pop('player')
