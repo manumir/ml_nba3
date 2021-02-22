@@ -142,12 +142,19 @@ for model in models:
 		print(''+model,'|coef',coef,'|spent:',beted,'|profit:',round(count-beted,2),'|','\033[91m'+str(round((count-beted)/beted* 100,2))+'%\033[0m |',str(round(right/beted,2))+' got right')
 		lastday=round(profits[len(profits)-2]-profits[-3],2)
 		last7days=round(profits[len(profits)-2]-profits[-9],2)
-		print('last 7 days',last7days,'| lastday(yesterday)',lastday,'\n')
+		print('last 7 days',last7days,'| lastday (yesterday)',lastday,'\n')
 
 		if args.plot:
-			plt.xlabel('day')
-			plt.ylabel('profit €')
-			plt.plot(profits)
+			figure, axis = plt.subplots(1, 2) 
+			axis[0].set_xlabel('day')
+			axis[0].set_ylabel('profit €')
+			axis[1].set_title('all time')
+			axis[0].plot(profits)
+
+			axis[1].set_xlabel('day')
+			axis[1].set_ylabel('profit €')
+			axis[1].set_title('last 7 days')
+			axis[1].plot(profits[-9:])
 			plt.show()
 			#plt.savefig("mygraph.png")
 			#print('saved graph to mygraph.png')

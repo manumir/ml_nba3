@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df=pd.read_csv('../data/season_start.txt')
+df=pd.read_csv('../data/season_start.csv')
 
 df=df.loc[df['player']=='Team Totals']
 df.pop('player')
