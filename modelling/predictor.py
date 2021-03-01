@@ -167,14 +167,15 @@ for MODEL in models:
 			print(games_date,home,away,str(clf.predict(x))[1:-1])
 			if WRITE == 'y':
 				logs.write(str(games_date+','+home+','+away+','+str(clf.predict(x))[1:-1]+'\n'))
+				print('wrote to logs')
 		elif MODEL in ['nn60','model_nn20']:
 			model=torch.load('./models/'+MODEL)
 			x=torch.Tensor(x)
 			print(games_date,home,away,float(model(x)))
 			if WRITE == 'y':
 				logs.write(str(games_date+','+home+','+away+','+str(float(model(x)))+'\n'))
+				print('wrote to logs')
 
 	if WRITE == 'y':
 		logs.close()
-		print('wrote to logs')
 

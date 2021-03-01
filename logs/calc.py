@@ -66,6 +66,8 @@ for x in range(len(plac)):
 plac['pred']=new
 
 count,total=0,0
+profits=0
+profits1=[]
 for x in range(len(plac)):
 	date=plac.iloc[x]['date']
 	home=plac.iloc[x]['home']
@@ -76,10 +78,24 @@ for x in range(len(plac)):
 	game=game.reset_index(drop=True)
 	
 	if len(game) > 0:
+		result=game.iloc[0]['result']
 		#print(date,home,away,plac.iloc[x]['pred'],'result',game.iloc[0]['result'])
-		if plac.iloc[x]['pred']==game.iloc[0]['result']:
+		if plac.iloc[x]['pred']==result:
 			count=count+1
 		total=total+1
+		if plac.iloc[x]['pred'] == 1:
+			profits=profits-1
+			if result == 0:
+				profits=profits+plac.iloc[x]['plac_H']
+		if plac.iloc[x]['pred'] == 0:
+			profits=profits-1
+			if result == 1:
+				profits=profits+plac.iloc[x]['plac_A']
+
+	profits1.append(profits)
+print('betting only on underdogs gives:{} at {}% roi'.format(profits,round(profits/len(plac),3)))
+plt.plot(profits1[::5])
+#plt.show() # uncomment to show plot of underdogs
 print('count:',count,'total:',total,'plac accuracy',count/total)
 
 lin=pd.read_csv('model_linear20.csv')
