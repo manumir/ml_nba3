@@ -16,6 +16,7 @@ import sys
 from selenium import webdriver
 from bs4 import BeautifulSoup as bs4
 import re 
+import functions as f
 
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -78,7 +79,7 @@ print("scraped in %s seconds" % (time.time() - start_time))
 
 import pandas as pd
 
-df=pd.read_csv(name)
+df=pd.read_csv(file_name)
 df.pop('Unnamed: 24')
 
 new=[]
@@ -176,10 +177,15 @@ for x in range(len(df)):
 	new.append('Team Totals')
 df['player']=new
 
+new=[]
+for x in df['team']:
+	new.append(f.name2acro(x))
+df['team']=new
+
 df=df[['date','team','player','MP','FG','FGA','FG%','3P','3PA','3P%','FT','FTA','FT%','ORB','DRB','TRB','AST','STL','BLK','TOV','PF','PTS','+/-']]
 
 print(df)
-#df.to_csv(file_name,index=False)
+df.to_csv(file_name,index=False)
 
 
 

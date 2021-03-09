@@ -117,9 +117,9 @@ def name2acro(arg):
 		arg1 = 'DEN'
 	elif arg in ['Golden State Warriors','GS Warriors']:
 		arg1 = 'GSW'
-	elif arg == 'Phoenix Suns':
+	elif arg in ['Phoenix Suns','PHX']:
 		arg1 = 'PHO'
-	elif arg in ['Charlotte Hornets','Charlotte Bobcats','Charl. Hornets']:
+	elif arg in ['Charlotte Hornets','Charlotte Bobcats','Charl. Hornets','CHA']:
 		arg1 = 'CHO'
 	elif arg == 'New Orleans Hornets':
 		arg1 = 'NOH'
