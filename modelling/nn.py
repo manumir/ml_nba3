@@ -4,24 +4,29 @@ from sklearn.model_selection import train_test_split
 import torch
 
 train_name='../data/train60.csv'
-train_name='../data/data40wr.csv'
+train_name='../data/data40wr.csv.gz'
 train=pd.read_csv(train_name)
 print('using',train_name)
+train=train.drop(['FGA','FT','FTA','FT%','ORB','STL','PF','MP'],1)
 
+test=train.loc[train['date'] > 20180000]
+train=train.drop(test.index)
 train=train.drop(['home','away','date'],1)
+test=test.drop(['home','away','date'],1)
 print(train.corr()['result'])
 
 nans=(train[train.isnull().T.any().T].index)
 train=train.drop(nans)
 print(nans)
 
-Y=train.pop('result')
-X=train
+#Y=train.pop('result')
+#X=train
+#x_train,x_test,y_train,y_test = train_test_split(X, Y, test_size=0.2, random_state=1)
 
-x_train,x_test,y_train,y_test = train_test_split(X, Y, test_size=0.2, random_state=1)
-
-x_train = torch.Tensor(x_train.values)
-x_test = torch.Tensor(x_test.values)
+y_train=train.pop('result')
+x_train=torch.Tensor(train.values)
+y_test=test.pop('result')
+x_test=torch.Tensor(test.values)
 
 y_train = torch.Tensor(y_train.values)
 y_test= torch.Tensor(y_test.values)
@@ -30,13 +35,15 @@ y_train=y_train.unsqueeze(1)
 model = torch.nn.Sequential(
     torch.nn.Linear(len(train.columns), len(train.columns)),
     torch.nn.Sigmoid(),
+    torch.nn.Linear(len(train.columns), len(train.columns)),
+    torch.nn.Sigmoid(),
     torch.nn.Linear(len(train.columns),1),
 )
 loss_fn = torch.nn.MSELoss()
 
-learning_rate = 1e-3
+learning_rate = 2e-4
 optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
-model_name2save=input('name of file to save model')
+model_name2save=input('name of file to save model: ')
 max=0
 for t in range(2000):
 	y_pred = model(x_train)

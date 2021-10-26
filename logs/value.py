@@ -123,14 +123,13 @@ for model in models:
 									right=right+1
 								beted=beted+1
 
-					if count - beted > 0 and beted > 50:
-						if args.day and date == int(args.day):
-							if args.away or not args.home:
-								if A_myodd < A_odd and A_odd > 2:
-									print(date,home,away,'bet on',away,A_myodd)
-							if args.home or not args.away:
-								if H_myodd < H_odd and H_odd > 2:
-									print(date,home,away,'bet on',home,H_myodd)
+					if args.day and date == int(args.day):
+						if args.away or not args.home:
+							if A_myodd < A_odd and A_odd > 2:
+								print(date,home,away,'bet on',away,A_myodd)
+						if args.home or not args.away:
+							if H_myodd < H_odd and H_odd > 2:
+								print(date,home,away,'bet on',home,H_myodd)
 
 				except Exception as e:
 					print(e)

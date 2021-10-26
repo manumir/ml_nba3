@@ -95,7 +95,7 @@ for x in range(len(plac)):
 	profits1.append(profits)
 print('betting only on underdogs gives:{} at {}% roi'.format(profits,round(profits/len(plac),3)))
 plt.plot(profits1[::5])
-#plt.show() # uncomment to show plot of underdogs
+plt.show() # uncomment to show plot of underdogs
 print('count:',count,'total:',total,'plac accuracy',count/total)
 
 lin=pd.read_csv('model_linear20.csv')

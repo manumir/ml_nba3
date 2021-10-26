@@ -10,8 +10,7 @@ train_name='../data/train20.csv'
 train=pd.read_csv(train_name)
 print('using '+train_name)
 
-test=train.loc[train['date'] < 20200000]
-test=test.loc[train['date'] > 20180000]
+test=train.loc[train['date'] > 20180000]
 train=train.drop(test.index)
 train=train.drop(['home','away','date'],1)
 test=test.drop(['home','away','date'],1)
@@ -22,7 +21,6 @@ print(nans.index)
 
 y_train=train.pop('result')
 x_train=train.values
-
 y_test=test.pop('result')
 x_test=test.values
 

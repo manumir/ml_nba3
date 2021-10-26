@@ -5,8 +5,7 @@ import re
 import sys
 
 # usage
-# python3 scraper3.py 10-11 
-# scrapes 10-11 season
+# python3 update.py "day to get data from in YEARMONTHDAY format"
 
 season=sys.argv[1]
 if int(season[-2:]) > 0:

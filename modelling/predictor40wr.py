@@ -77,6 +77,7 @@ df=df.sort_values(by=['date'])
 
 ##### open games to predict
 games=pd.read_csv('../schedule.csv')
+games=games[['date','home','away']]
 
 ### turn date column to int for compairson
 months=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
@@ -114,6 +115,8 @@ games=games.reset_index(drop=True)
 cols=['MP','FG','FGA','FG%','3P','3PA','3P%','FT','FTA','FT%','ORB','DRB','TRB','AST','TOV','STL','BLK','PF','PTS','+/-']
 
 MODEL='nn40wr'
+
+print(games)
 
 WRITE=input('write to logs? y or n: ') 
 
