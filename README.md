@@ -29,4 +29,4 @@ The goal was to predict the outcomes of NBA games using machine learning techniq
 - **pytorch**: For the neural network models.
 
 ## Results
-Most models were ~3-6% worse than a betting company at predicting the winner of a NBA match.
+Over more than 800 games, most models were ~3-6% worse than a betting company at predicting the winner of a NBA match.
